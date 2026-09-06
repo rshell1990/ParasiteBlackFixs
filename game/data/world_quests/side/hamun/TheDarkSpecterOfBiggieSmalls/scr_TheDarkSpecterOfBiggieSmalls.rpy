@@ -269,7 +269,6 @@ label qst_TheDarkSpecterOfBiggieSmalls_garen4:
     $ GoalComplete(QstTheDarkSpecterOfBiggieSmalls, 4)
     $ QstTheDarkSpecterOfBiggieSmalls().rewardClaimed = True
     $ QstTheDarkSpecterOfBiggieSmalls().GarenRewardClaimed = True
-    $ QstComplete(QstTheDarkSpecterOfBiggieSmalls)
     $ LocSet("hamun_hookah_bar")
     $ LocEnter()
 label qst_TheDarkSpecterOfBiggieSmalls_garen_postquest:

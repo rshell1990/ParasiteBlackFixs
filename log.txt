@@ -1,36 +1,35 @@
-2026-09-06 17:35:43 UTC
+2026-09-06 18:31:53 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 484 ms
-Loading error handling took 2418 ms
+Early init took 437 ms
+Loading error handling took 2335 ms
 10846 script files skipped.
-Loading script took 2040 ms
-Loading save slot metadata took 49 ms
-Loading persistent took 0 ms
+Loading script took 1950 ms
+Loading save slot metadata took 52 ms
+Loading persistent took 1 ms
 Initialized steam.
-Running init code took 536 ms
-Loading analysis data took 20 ms
+Running init code took 509 ms
+Loading analysis data took 17 ms
 Analyze and compile ATL took 31 ms
-Reloading save slot metadata took 10 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlackFixs':
-Dump and make backups took 144 ms
+Reloading save slot metadata took 9 ms
+Dump and make backups took 122 ms
 Cleaning cache took 0 ms
-Making clean stores took 2 ms
-Initial gc took 193 ms
+Making clean stores took 0 ms
+Initial gc took 136 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 5 ms
-Init translation took 9 ms
+Init translation took 11 ms
 Cleaning stores took 0 ms
-Load screen analysis took 0 ms
-Analyze screens took 28 ms
-Save screen analysis took 41 ms
+Load screen analysis took 70 ms
+Analyze screens took 5 ms
+Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
-Save bytecode took 125 ms
-Running _start took 1 ms
-Interface start took 763 ms
+Save bytecode took 0 ms
+Running _start took 2 ms
+Interface start took 1049 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -40,7 +39,10 @@ Vendor: 'ATI Technologies Inc.'
 Renderer: 'Radeon RX550/550 Series'
 Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
 Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1474, 829) drawable=(1474, 829)
+Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
 INFO:renpy_warp_service:connected to renpy warp socket server on :40111
+INFO:renpy_warp_service:closing websocket connection :40111
+INFO:renpy_warp_service:connection replaced, service exiting
+INFO:renpy_warp_service:service closed
