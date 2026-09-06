@@ -1,47 +1,89 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 46, in script
-    call screen battle_setup()
-  File "game/devtools/battle_setup.rpy", line 87, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 87, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 95, in execute
-    default selected_battle_map = renpy.random.choice(battle_setup_battle_maps)
-  File "game/devtools/battle_setup.rpy", line 95, in <module>
-    default selected_battle_map = renpy.random.choice(battle_setup_battle_maps)
-                                  ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
-IndexError: Cannot choose from an empty sequence
+  File "game/engine/battle/vars.rpy", line 5, in execute_default
+    default Playthrough_FoughtEnemyTeams = []       # a list of ["brute", "scout"], ["scout", "scout"], if you encounter same combo another time, you dont get xp
+Exception: store.Playthrough_FoughtEnemyTeams is being given a default a second time.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "game/engine/save_load/quick_save_load.rpy", line 2, in execute
+    screen QuickSaveLoadCaller():
+  File "game/engine/save_load/quick_save_load.rpy", line 2, in execute
+    screen QuickSaveLoadCaller():
+  File "game/engine/save_load/quick_save_load.rpy", line 3, in execute
+    if not main_menu:
+  File "game/engine/save_load/quick_save_load.rpy", line 4, in execute
+    if not IsPlayerInBattle():
+  File "game/engine/save_load/quick_save_load.rpy", line 5, in execute
+    if not IsPlayerInBaratiGame():
+  File "game/engine/save_load/quick_save_load.rpy", line 6, in execute
+    if not IsPlayerInGalleryScene():
+  File "game/engine/save_load/quick_save_load.rpy", line 6, in <module>
+    if not IsPlayerInGalleryScene():
+           ~~~~~~~~~~~~~~~~~~~~~~^^ 
+  File "game/engine/gallery/gallery_functions.rpy", line 103, in IsPlayerInGalleryScene
+    if (store.PlayerInGallery == True) or (_in_replay == None):
+        ^^^^^^^^^^^^^^^^^^^^^                                  
+AttributeError: 'StoreModule' object has no attribute 'PlayerInGallery'
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 46, in script
-    call screen battle_setup()
-  File "renpy/ast.py", line 2251, in execute
-    self.call("execute")
-    ~~~~~~~~~^^^^^^^^^^^
-  File "renpy/ast.py", line 2205, in call
-    return renpy.statements.call(method, parsed, *args, **kwargs)
-           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/statements.py", line 381, in call
-    return method(parsed, *args, **kwargs)
-           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/common/000statements.rpy", line 698, in execute_call_screen
-    store._return = renpy.call_screen(name, *args, **kwargs)
-                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/exports/statementexports.py", line 341, in call_screen
-    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
-         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00start.rpy", line 210, in script
+    python:
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00start.rpy", line 211, in <module>
+    renpy.execute_default_statement(True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "renpy/exports/statementexports.py", line 368, in execute_default_statement
+    i.execute_default(start)
+    ~~~~~~~~~~~~~~~~~^^^^^^^
+  File "game/engine/battle/vars.rpy", line 5, in execute_default
+    default Playthrough_FoughtEnemyTeams = []       # a list of ["brute", "scout"], ["scout", "scout"], if you encounter same combo another time, you dont get xp
+Exception: store.Playthrough_FoughtEnemyTeams is being given a default a second time.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "renpy/bootstrap.py", line 401, in bootstrap
+    renpy.main.main()
+    ~~~~~~~~~~~~~~~^^
+  File "renpy/main.py", line 596, in main
+    run(restart)
+    ~~~^^^^^^^^^
+  File "renpy/main.py", line 137, in run
+    renpy.execution.run_context(True)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "renpy/execution.py", line 1050, in run_context
+    context.run()
+    ~~~~~~~~~~~^^
+  File "renpy/common/00start.rpy", line 210, in script
+    python:
+  File "renpy/common/00start.rpy", line 210, in script
+    python:
+  File "renpy/display/error.py", line 135, in report_exception
+    renpy.game.invoke_in_new_context(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        call_exception_screen,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        ignore_action=ignore_action,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "renpy/game.py", line 285, in invoke_in_new_context
+    return callable(*args, **kwargs)
+           ~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "renpy/display/error.py", line 44, in call_exception_screen
+    return renpy.ui.interact(mouse="screen", type="screen", suppress_overlay=True, suppress_underlay=True)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "renpy/ui.py", line 306, in interact
     rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -79,25 +121,33 @@ Traceback (most recent call last):
   File "renpy/display/screen.py", line 715, in update
     self.screen.function(**self.scope)
     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "game/devtools/battle_setup.rpy", line 87, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 87, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 95, in execute
-    default selected_battle_map = renpy.random.choice(battle_setup_battle_maps)
+  File "game/engine/save_load/quick_save_load.rpy", line 2, in execute
+    screen QuickSaveLoadCaller():
+  File "game/engine/save_load/quick_save_load.rpy", line 2, in execute
+    screen QuickSaveLoadCaller():
+  File "game/engine/save_load/quick_save_load.rpy", line 3, in execute
+    if not main_menu:
+  File "game/engine/save_load/quick_save_load.rpy", line 4, in execute
+    if not IsPlayerInBattle():
+  File "game/engine/save_load/quick_save_load.rpy", line 5, in execute
+    if not IsPlayerInBaratiGame():
+  File "game/engine/save_load/quick_save_load.rpy", line 6, in execute
+    if not IsPlayerInGalleryScene():
   File "renpy/python.py", line 1308, in py_eval
     return py_eval_bytecode(code, globals, locals)
            ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
   File "renpy/python.py", line 1301, in py_eval_bytecode
     return eval(bytecode, globals, locals)
            ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/devtools/battle_setup.rpy", line 95, in <module>
-    default selected_battle_map = renpy.random.choice(battle_setup_battle_maps)
-                                  ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "lib/python3.12/random.py", line 347, in choice
-IndexError: Cannot choose from an empty sequence
+  File "game/engine/save_load/quick_save_load.rpy", line 6, in <module>
+    if not IsPlayerInGalleryScene():
+           ~~~~~~~~~~~~~~~~~~~~~~^^ 
+  File "game/engine/gallery/gallery_functions.rpy", line 103, in IsPlayerInGalleryScene
+    if (store.PlayerInGallery == True) or (_in_replay == None):
+        ^^^^^^^^^^^^^^^^^^^^^                                  
+AttributeError: 'StoreModule' object has no attribute 'PlayerInGallery'
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Sun Sep  6 04:21:14 2026
+Sun Sep  6 12:34:46 2026

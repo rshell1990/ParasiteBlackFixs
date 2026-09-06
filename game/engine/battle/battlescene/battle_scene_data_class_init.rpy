@@ -1,3 +1,5 @@
+define TargetBattleScene = None
+
 init python:
     class BattleData:
         def __init__(self,  BackgroundImage = None,

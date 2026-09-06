@@ -4,6 +4,8 @@ define BattleChar_ScreenPositions = {0: {0: (720, 730), 1: (560, 440), 2: (340, 
 default BattleChar_ScreenPositions_Offset = {0: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}, 1: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}}
 default BattleChar_ScreenPositions_Offset_Anim = {0: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}, 1: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}}
 default BattleChar_ScreenPositions_Offset_Anim_Active = {0: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}, 1: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}}
+default BattleScene_ActiveChar = None
+default BattleScene_ActiveChar_Anim = None
 
 init python:
     # the function you start a battle with, from script. needs a valid BattleData object, full of various stuff. for examples, search

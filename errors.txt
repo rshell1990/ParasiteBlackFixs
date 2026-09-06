@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/data/battle_skills_actions/SkillsNecromancer/Off/Summon.rpy", line 9: invalid syntax
-    ValidTargets = .ANY_EmptyParty
-                       ^
+File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 4: expected '=' not found.
+    define TargetBattleScene() = None
+                            ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Sun Sep  6 03:58:43 2026
+Sun Sep  6 12:32:15 2026

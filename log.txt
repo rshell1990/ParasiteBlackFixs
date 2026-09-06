@@ -1,36 +1,36 @@
-2026-09-06 17:10:42 UTC
+2026-09-06 17:35:43 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 470 ms
-Loading error handling took 2354 ms
+Early init took 484 ms
+Loading error handling took 2418 ms
 10846 script files skipped.
-Loading script took 10202 ms
-Loading save slot metadata took 144 ms
+Loading script took 2040 ms
+Loading save slot metadata took 49 ms
 Loading persistent took 0 ms
 Initialized steam.
- - Init at game/publisher_launcher/satyrlauncher.rpy:15 took 557 ms.
-Running init code took 1237 ms
-Loading analysis data took 25 ms
-Analyze and compile ATL took 35 ms
-Reloading save slot metadata took 98 ms
-Dump and make backups took 101 ms
+Running init code took 536 ms
+Loading analysis data took 20 ms
+Analyze and compile ATL took 31 ms
+Reloading save slot metadata took 10 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlackFixs':
+Dump and make backups took 144 ms
 Cleaning cache took 0 ms
-Making clean stores took 1 ms
-Initial gc took 101 ms
+Making clean stores took 2 ms
+Initial gc took 193 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 5 ms
 Init translation took 9 ms
 Cleaning stores took 0 ms
-Load screen analysis took 5 ms
-Analyze screens took 25 ms
-Save screen analysis took 37 ms
+Load screen analysis took 0 ms
+Analyze screens took 28 ms
+Save screen analysis took 41 ms
 Save pyanalysis took 0 ms
-Save bytecode took 0 ms
+Save bytecode took 125 ms
 Running _start took 1 ms
-Interface start took 733 ms
+Interface start took 763 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -44,4 +44,3 @@ Screen sizes: virtual=(1920, 1080) physical=(1474, 829) drawable=(1474, 829)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
 INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-INFO:renpy_warp_service:socket service on :40111 exited
