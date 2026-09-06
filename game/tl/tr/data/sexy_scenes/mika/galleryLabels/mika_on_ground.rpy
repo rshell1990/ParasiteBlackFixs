@@ -1,0 +1,146 @@
+﻿# TODO: Translation updated at 2026-06-09 21:50
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:9
+translate tr gallery_mika_on_ground_5048bdf6:
+
+    # "Mika's whole face seemed to turn bright red at the suggestion."
+    "Mika'nın tüm yüzü öneriyle parlak kırmızıya dönmüş gibiydi."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:10
+translate tr gallery_mika_on_ground_31f47ca9:
+
+    # MIKA @ shock "M-My butt?"
+    MIKA @ shock "K-Kalçam mı?"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:11
+translate tr gallery_mika_on_ground_d20c1052:
+
+    # MIKA @ shock "B-But-!"
+    MIKA @ shock "A-Ama-!"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:12
+translate tr gallery_mika_on_ground_bf538560:
+
+    # MC @ smile "Why wouldn't I want to look at your ass?"
+    MC @ smile "Neden kalçana bakmak istemeyeyim ki?"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:13
+translate tr gallery_mika_on_ground_245047eb:
+
+    # MIKA @ shock "I-"
+    MIKA @ shock "Ben-"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:14
+translate tr gallery_mika_on_ground_554f98b3:
+
+    # MIKA @ sad "Do you really want that?"
+    MIKA @ sad "Gerçekten bunu istiyor musun?"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:15
+translate tr gallery_mika_on_ground_d3b413d1:
+
+    # MIKA @ sad "I mean, you'll see my..."
+    MIKA @ sad "Yani, benim... göreceksin"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:16
+translate tr gallery_mika_on_ground_df3ecf68:
+
+    # "Mika paused, staring into my expectant eyes."
+    "Mika duraksadı, beklentili gözlerime baktı."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:17
+translate tr gallery_mika_on_ground_2b655829:
+
+    # MIKA @ sad "No... I trust you."
+    MIKA @ sad "Hayır... Sana güveniyorum."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:18
+translate tr gallery_mika_on_ground_b04e78ee:
+
+    # "Letting out a nervous sigh, Mika turned around, gripping the sides of her mage dress."
+    "Gergin bir iç çekiş çıkararak, Mika arkasını döndü, büyücü elbisesinin kenarlarını kavradı."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:19
+translate tr gallery_mika_on_ground_379a3263:
+
+    # MIKA @ sad "A-Alright, here I go..."
+    MIKA @ sad "P-Pekala, işte başlıyorum..."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:25
+translate tr gallery_mika_on_ground_9eabf45f:
+
+    # "Closing her eyes, Mika crunched her face as though awaiting some terrible, cruel rejection."
+    "Gözlerini kapatarak, Mika yüzünü buruşturdu, sanki korkunç, zalim bir reddi bekliyormuş gibi."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:26
+translate tr gallery_mika_on_ground_0fdbb50b:
+
+    # "She rolled up the dress and bent forward, presenting me her cute, round ass."
+    "Elbiseyi yukarı kaldırdı ve öne eğildi, bana sevimli, yuvarlak kalçasını sundu."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:27
+translate tr gallery_mika_on_ground_adb26b2b:
+
+    # MC @ surprised "Well, {i}I hope I have a chance to see that more often.{/i}"
+    MC @ surprised "Pekala, {i}umarım bunu daha sık görme şansım olur.{/i}"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:28
+translate tr gallery_mika_on_ground_4af997c4:
+
+    # "My comment made Mika open her eyes as she looked back over her shoulder towards me in surprise."
+    "Yorumum Mika'nın gözlerini açmasına neden oldu, şaşkınlıkla omzunun üzerinden bana geri baktı."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:29
+translate tr gallery_mika_on_ground_12a39584:
+
+    # MIKA "Y-You really like it?"
+    MIKA "G-Gerçekten beğendin mi?"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:30
+translate tr gallery_mika_on_ground_49497b90:
+
+    # MC @ smile "I do."
+    MC @ smile "Beğendim."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:31
+translate tr gallery_mika_on_ground_99582b24:
+
+    # MC @ smile "{i}But those panties are in the way.{/i}"
+    MC @ smile "{i}Ama o külot arada.{/i}"
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:32
+translate tr gallery_mika_on_ground_a6f220e4:
+
+    # "Mika's cheeks once again flushed red, and with slightly shaking hands, she hooked her fingers into her panties and ever so slowly pulled them down."
+    "Mika'nın yanakları bir kez daha kıpkırmızı kesildi ve hafifçe titreyen ellerle, parmaklarını küloduna taktı ve son derece yavaşça aşağı çekti."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:33
+translate tr gallery_mika_on_ground_30f438af:
+
+    # "As her panties dropped down to her ankles, she spread her legs slightly, giving me a clear view of both her tight, womanly holes and the dangling cock between her legs."
+    "Külodu ayak bileklerine düşerken, bacaklarını hafifçe araladı, bana hem dar, kadınsı deliklerinin hem de bacaklarının arasındaki sallanan aletin net bir görüntüsünü verdi."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:37
+translate tr gallery_mika_on_ground_dbd0be0b:
+
+    # MIKA "H-Here you go."
+    MIKA "İ-İşte buyur."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:38
+translate tr gallery_mika_on_ground_ae11a5db:
+
+    # "Flustered, Mika continued to watch and stare in a mix of curiosity and excitement as she felt my eyes carry across her most intimate parts."
+    "Telaşlı, Mika, gözlerimin en mahrem parçalarında dolaştığını hissederken merak ve heyecan karışımıyla izlemeye ve bakmaya devam etti."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:39
+translate tr gallery_mika_on_ground_f552c2bb:
+
+    # "After a few moments, she slowly pulled her panties back up and turned to face me once more."
+    "Birkaç dakika sonra, yavaşça külodunu tekrar yukarı çekti ve bir kez daha bana döndü."
+
+# game/data/sexy_scenes/mika/galleryLabels/mika_on_ground.rpy:45
+translate tr gallery_mika_on_ground_ad816ebf:
+
+    # MIKA @ blush "There, you've um... {i}Seen me{/i} now."
+    MIKA @ blush "İşte, şey yaptın... {i}Beni gördün{/i} şimdi."
+

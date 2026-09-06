@@ -1,0 +1,13 @@
+{
+  "extensions": [
+    ".rpyc",
+    ".rpyb",
+    ".bak",
+    ".rpymc",
+    ".pyo",
+    ".save",
+    "persistent"
+  ],
+  "delete empty folders": true,
+  "jump one directory upwards": true
+}

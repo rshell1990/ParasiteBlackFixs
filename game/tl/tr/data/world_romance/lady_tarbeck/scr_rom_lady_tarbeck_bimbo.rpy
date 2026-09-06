@@ -1,0 +1,3856 @@
+﻿# TODO: Translation updated at 2026-08-18 18:26
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:61
+translate tr rom_tarbeck_bimbo_meet_coupledays_837e21d6:
+
+    # "As the great doors swung open, Lady Tarbeck approached me timidly,"
+    "Büyük kapılar açıldığında, Leydi Tarbeck çekingen bir şekilde bana yaklaştı,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:62
+translate tr rom_tarbeck_bimbo_meet_coupledays_37eaee0c:
+
+    # "her hands nervously clasped together."
+    "elleri gergin bir şekilde birbirine kenetlenmişti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:63
+translate tr rom_tarbeck_bimbo_meet_coupledays_cef772ff:
+
+    # LADY_TARBECK @ sad "A-Ah... You're back."
+    LADY_TARBECK @ sad "A-Ah... Döndün."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:64
+translate tr rom_tarbeck_bimbo_meet_coupledays_ccd0e3c9:
+
+    # LADY_TARBECK @ blush2 "I wanted to discuss... {i}your proposal.{/i}"
+    LADY_TARBECK @ blush2 "Görüşmek istediğim şey... {i}senin teklifin.{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:65
+translate tr rom_tarbeck_bimbo_meet_coupledays_7c7922b7:
+
+    # MC @ sad "My lady, it was just one idea. There are other options we can-"
+    MC @ sad "Leydim, bu sadece bir fikirdi. Başka seçeneklerimiz de var-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:66
+translate tr rom_tarbeck_bimbo_meet_coupledays_f1ef4610:
+
+    # LADY_TARBECK @ talk "I want to do it."
+    LADY_TARBECK @ talk "Bunu yapmak istiyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:67
+translate tr rom_tarbeck_bimbo_meet_coupledays_a2f561bc:
+
+    # MC @ shock "What?"
+    MC @ shock "Ne?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:68
+translate tr rom_tarbeck_bimbo_meet_coupledays_6ca1df18:
+
+    # LADY_TARBECK @ blush2 "I want... to stop thinking so much."
+    LADY_TARBECK @ blush2 "Ben... bu kadar çok düşünmeyi bırakmak istiyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:69
+translate tr rom_tarbeck_bimbo_meet_coupledays_8a9c86a1:
+
+    # LADY_TARBECK @ think "I've already secured this house's future, or at least done more than my share."
+    LADY_TARBECK @ think "Bu hanenin geleceğini çoktan güvence altına aldım, ya da en azından payıma düşenden fazlasını yaptım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:70
+translate tr rom_tarbeck_bimbo_meet_coupledays_d88f893c:
+
+    # LADY_TARBECK @ sad "I was thinking... W-With all the years my husband has spent enjoying himself..."
+    LADY_TARBECK @ sad "Düşünüyordum da... K-Kocamın kendini eğlendirerek geçirdiği tüm o yıllarla..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:71
+translate tr rom_tarbeck_bimbo_meet_coupledays_f144f5c9:
+
+    # LADY_TARBECK @ sad "{i}When do I get my turn?{/i}"
+    LADY_TARBECK @ sad "{i}Benim sıram ne zaman gelecek?{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:72
+translate tr rom_tarbeck_bimbo_meet_coupledays_607f4479:
+
+    # LADY_TARBECK @ sad "Or will I spend the rest of my life dealing with petty politics and-"
+    LADY_TARBECK @ sad "Yoksa hayatımın geri kalanını sıradan siyasetle ve-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:73
+translate tr rom_tarbeck_bimbo_meet_coupledays_bacf304b:
+
+    # "Lady Tarbeck let out a sigh just at the thought of it all."
+    "Leydi Tarbeck sırf bunları düşününce bir iç çekti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:74
+translate tr rom_tarbeck_bimbo_meet_coupledays_388c582f:
+
+    # MC @ think "These changes... They're permanent, you understand that?"
+    MC @ think "Bu değişiklikler... Kalıcılar, bunu anlıyorsun değil mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:75
+translate tr rom_tarbeck_bimbo_meet_coupledays_6dcffa30:
+
+    # "Lady Tarbeck nodded."
+    "Leydi Tarbeck başını salladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:76
+translate tr rom_tarbeck_bimbo_meet_coupledays_cc71f4ea:
+
+    # LADY_TARBECK @ sad "I... I understand."
+    LADY_TARBECK @ sad "Ben... Anlıyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:77
+translate tr rom_tarbeck_bimbo_meet_coupledays_a0934e58:
+
+    # LADY_TARBECK @ talk "...Now, tell me how we do it?"
+    LADY_TARBECK @ talk "...Şimdi, nasıl yapacağımızı söyle bana?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:78
+translate tr rom_tarbeck_bimbo_meet_coupledays_fbcd35c2:
+
+    # SHYAHTAN "(We must eat.)"
+    SHYAHTAN "(Yemek yememiz gerek.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:79
+translate tr rom_tarbeck_bimbo_meet_coupledays_7f5471da:
+
+    # MC "(What?)"
+    MC "(Ne?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:80
+translate tr rom_tarbeck_bimbo_meet_coupledays_53d2cabe:
+
+    # SHYAHTAN "(Tell her to give us a few days.)"
+    SHYAHTAN "(Ona bize birkaç gün vermesini söyle.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:81
+translate tr rom_tarbeck_bimbo_meet_coupledays_472553cb:
+
+    # MC @ talk "Uhh, I'll need to get back to you."
+    MC @ talk "Şey, sana dönmem gerekecek."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:82
+translate tr rom_tarbeck_bimbo_meet_coupledays_8a8f1df8:
+
+    # LADY_TARBECK @ think "Oh, uh... alright?"
+    LADY_TARBECK @ think "Ah, şey... tamam mı?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:83
+translate tr rom_tarbeck_bimbo_meet_coupledays_4434e642:
+
+    # LADY_TARBECK @ talk "I guess... return when you're ready?"
+    LADY_TARBECK @ talk "Sanırım... hazır olduğunda geri dön?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:89
+translate tr rom_tarbeck_bimbo_meet_coupledays_3570030a:
+
+    # MC @ think "(What was that about?)"
+    MC @ think "(O neydi öyle?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:90
+translate tr rom_tarbeck_bimbo_meet_coupledays_a60026ba:
+
+    # SHYAHTAN "(We must hunt.)"
+    SHYAHTAN "(Avlanmamız gerek.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:91
+translate tr rom_tarbeck_bimbo_meet_coupledays_13c7eede:
+
+    # SHYAHTAN "(Without sustenance, we will lack the excess genetic material required to modify her body.)"
+    SHYAHTAN "(Besin olmadan, bedenini değiştirmek için gereken fazla genetik materyalden yoksun kalırız.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:92
+translate tr rom_tarbeck_bimbo_meet_coupledays_6535350d:
+
+    # MC "(Then... What do we propose?)"
+    MC "(O zaman... Ne öneriyoruz?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:93
+translate tr rom_tarbeck_bimbo_meet_coupledays_6f72eeed:
+
+    # SHYAHTAN "(This city will hardly miss a few bandits...)"
+    SHYAHTAN "(Bu şehir birkaç haydudun eksikliğini pek hissetmez...)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:94
+translate tr rom_tarbeck_bimbo_meet_coupledays_b63aaebc:
+
+    # MC @ talk "(Well... Macabre, but... I agree.)"
+    MC @ talk "(Peki... Ürkütücü, ama... Kabul ediyorum.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:95
+translate tr rom_tarbeck_bimbo_meet_coupledays_be0ada8d:
+
+    # SHYAHTAN "(Once we have slain them and consumed their flesh, we can return to our soon-to-be mate.)"
+    SHYAHTAN "(Onları öldürüp etlerini tükettiğimizde, yakında eşimiz olacak kişiye dönebiliriz.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:110
+translate tr rom_tarbeck_bimbo_hunt_bandits_btn_59bf4004:
+
+    # MC "(I can scout the streets to try and find some bandits.)"
+    MC "(Birkaç haydut bulmak için sokakları tarayabilirim.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:136
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_5f9a9edd:
+
+    # "I wandered around aimlessly, finding nothing of note."
+    "Amaçsızca dolaştım, kayda değer hiçbir şey bulamadım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:140
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_85c5e2ef:
+
+    # MC "(No luck this time, it seems.)"
+    MC "(Bu sefer şansımız yok gibi.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:144
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_73cc9655:
+
+    # "While wandering through the darkened alleyways of Hamun at night,"
+    "Geceleri Hamun'un karanlık sokaklarında dolaşırken,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:145
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_90eb55b2:
+
+    # "a group of men circled and approached us."
+    "bir grup adam etrafımızı sarıp bize yaklaştı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:153
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_fef83fe4:
+
+    # BANDIT "Looks like someone made a wrong turn..."
+    BANDIT "Görünüşe göre biri yanlış yöne sapmış..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:154
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_edf9a2a3:
+
+    # BANDIT "Hand over everything you've got... Including the women."
+    BANDIT "Sahip olduğun her şeyi ver... Kadınlar dahil."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:155
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_cc6a41f7:
+
+    # SHYAHTAN "(Wonderful. Fresh meat.)"
+    SHYAHTAN "(Harika. Taze et.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:186
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_58f3a692:
+
+    # SHYAHTAN "(Enough... We have procured enough sustenance.)"
+    SHYAHTAN "(Yeter... Yeterince besin elde ettik.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:187
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_2e0979b8:
+
+    # MC @ think "(Now what?)"
+    MC @ think "(Şimdi ne olacak?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:188
+translate tr rom_tarbeck_bimbo_hunt_bandits_try_59e87a61:
+
+    # SHYAHTAN "(Let us return to Lady Tarbeck and begin her transformation.)"
+    SHYAHTAN "(Leydi Tarbeck'e dönüp dönüşümüne başlayalım.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:204
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_f6c6655a:
+
+    # "Lady Tarbeck hurried towards me anxiously."
+    "Leydi Tarbeck endişeyle bana doğru koştu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:205
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_4199349a:
+
+    # LADY_TARBECK @ think "Is... Is it time?"
+    LADY_TARBECK @ think "Zamanı... Zamanı geldi mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:206
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_36f018b6:
+
+    # MC @ talk "Yes, it's time."
+    MC @ talk "Evet, zamanı geldi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:207
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_1adc154d:
+
+    # LADY_TARBECK @ talk "Oh... That's wonderful, ummm..."
+    LADY_TARBECK @ talk "Ah... Bu harika, şeyyy..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:208
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_7e2a4796:
+
+    # "She paused awkwardly."
+    "Garip bir şekilde duraksadı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:209
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_83af6e43:
+
+    # LADY_TARBECK @ think "So, what now exactly?"
+    LADY_TARBECK @ think "Peki, tam olarak şimdi ne olacak?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:210
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_0b5477fc:
+
+    # SHYAHTAN "(Take her to her quarters... We will need to put her to sleep for what comes.)"
+    SHYAHTAN "(Onu odasına götür... Olacaklar için onu uyutmamız gerekecek.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:211
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_3c93bca9:
+
+    # MC @ talk "Let's go to your chambers, Lady Tarbeck."
+    MC @ talk "Odana gidelim, Leydi Tarbeck."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:214
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_ef2a21c0:
+
+    # "She nodded, leading us to her private quarters."
+    "Başını salladı, bizi özel odasına götürdü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:219
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_6ea43eb2:
+
+    # LADY_TARBECK @ talk "Well... What now?"
+    LADY_TARBECK @ talk "Peki... Şimdi ne olacak?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:220
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_b64327e9:
+
+    # LADY_TARBECK @ think "We should hurry before my husband returns from one of his trips."
+    LADY_TARBECK @ think "Kocam gezilerinden birinden dönmeden acele etmeliyiz."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:221
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_571de876:
+
+    # LADY_TARBECK @ sad "He may... try to intervene."
+    LADY_TARBECK @ sad "O... müdahale etmeye çalışabilir."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:222
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_02db7a1f:
+
+    # MC @ talk "Of course..."
+    MC @ talk "Tabii ki..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:223
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_0d6b6793:
+
+    # SHYAHTAN "(Lay her on the bed.)"
+    SHYAHTAN "(Onu yatağa yatır.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:224
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_7e536a5d:
+
+    # "I carefully guided Lady Tarbeck towards the bed, and as she lay down, she asked innocently,"
+    "Leydi Tarbeck'i dikkatlice yatağa yönlendirdim ve o uzanırken masumca sordu,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:227
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_1c6fbd3e:
+
+    # LADY_TARBECK "W-What happens-"
+    LADY_TARBECK "N-Ne olacak-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:228
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_3c5afa2a:
+
+    # "Suddenly, Lady Tarbeck's eyes grew heavy as she struggled to stay awake."
+    "Birden, Leydi Tarbeck'in gözleri ağırlaştı, uyanık kalmak için çabalıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:229
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_97baac12:
+
+    # LADY_TARBECK "What is... What is happening to-"
+    LADY_TARBECK "Ne... Bana ne oluyor-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:230
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_de523d11:
+
+    # "And just like that, Lady Tarbeck was blissfully asleep."
+    "Ve işte öylece, Leydi Tarbeck mutlu bir uykuya daldı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:231
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_8b19e61e:
+
+    # MC "(What happened? Why did she just-)"
+    MC "(Ne oldu? Neden öylece-)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:232
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_98a63510:
+
+    # SHYAHTAN "(I released a sedative to put her into a slumber.)"
+    SHYAHTAN "(Onu uykuya daldırmak için bir sakinleştirici saldım.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:233
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_6735ad8d:
+
+    # SHYAHTAN "(It will make the process easier for her... Now...)"
+    SHYAHTAN "(Bu, süreci onun için kolaylaştıracak... Şimdi...)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:234
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_e3fd0034:
+
+    # SHYAHTAN "(Place our hand on her chest.)"
+    SHYAHTAN "(Elimizi göğsüne koy.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:235
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_92ef9e7b:
+
+    # "My hand reached out, carefully resting on her chest."
+    "Elim uzandı, dikkatlice göğsüne yerleşti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:237
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_ff6b3f7d:
+
+    # "As it did, the veins on my hand seemed to bulge as I felt something slither through it."
+    "Bunu yaparken, elimdeki damarlar şişmiş gibi göründü; içinden bir şeyin kıvrılarak geçtiğini hissettim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:238
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_fccc3918:
+
+    # "For the briefest moment, Lady Tarbeck winced as whatever left my hand buried itself inside her."
+    "En kısa bir an, elimden çıkan şey içine gömülürken Leydi Tarbeck yüzünü buruşturdu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:239
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_186f60dc:
+
+    # MC "(Is she... going to be alright?)"
+    MC "(O... iyi olacak mı?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:240
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_18452df2:
+
+    # SHYAHTAN "(She will be fine.)"
+    SHYAHTAN "(İyi olacak.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:241
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_0b36b91d:
+
+    # MC "(... What happens now?)"
+    MC "(... Şimdi ne olacak?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:242
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_4de8f42c:
+
+    # SHYAHTAN "(... We return tomorrow.)"
+    SHYAHTAN "(... Yarın geri dönüyoruz.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:243
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_3af22c23:
+
+    # MC "(What?! What will she eat? What will-)"
+    MC "(Ne?! Ne yiyecek? Ne-)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:244
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_3515ffcc:
+
+    # SHYAHTAN "(She will be fine. {i}It{/i} will keep her alive.)"
+    SHYAHTAN "(İyi olacak. {i}O{/i} onu hayatta tutacak.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:245
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_5d748364:
+
+    # MC "(What is {i}it?{/i})"
+    MC "(Nedir {i}o?{/i})"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:246
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_1214e208:
+
+    # SHYAHTAN "(It is a subspecies we can create. It will modify her body mass and neurological-)"
+    SHYAHTAN "(Yaratabileceğimiz bir alt tür. Beden kütlesini ve nörolojik- değiştirecek.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:247
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_8e0ed9e5:
+
+    # "Shyahtan paused."
+    "Shyahtan duraksadı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:248
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_6bbefd1b:
+
+    # SHYAHTAN "(... She will be safe. That is what matters.)"
+    SHYAHTAN "(... Güvende olacak. Önemli olan bu.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:249
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_5283b346:
+
+    # MC "A-Alright..."
+    MC "T-Tamam..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:250
+translate tr rom_tarbeck_bimbo_meet_after_bandits_slain_82f01e04:
+
+    # MC "I guess I'll come back tomorrow."
+    MC "Sanırım yarın geri geleceğim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:270
+translate tr rom_tarbeck_bimbo_return_after_rest_a0dc2fee:
+
+    # TARBECK @ angry "WHAT IN THE WORLD HAVE YOU DONE?!"
+    TARBECK @ angry "DÜNYA AŞKINA NE YAPTIN SEN?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:271
+translate tr rom_tarbeck_bimbo_return_after_rest_bde6c2b6:
+
+    # MC @ think "What?"
+    MC @ think "Ne?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:272
+translate tr rom_tarbeck_bimbo_return_after_rest_35d6562b:
+
+    # TARBECK @ angry "MY WIFE! SHE'S..."
+    TARBECK @ angry "KARIM! O..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:273
+translate tr rom_tarbeck_bimbo_return_after_rest_b4efe9d7:
+
+    # TARBECK @ angry "...C-COCOONED!"
+    TARBECK @ angry "...K-KOZALANMIŞ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:274
+translate tr rom_tarbeck_bimbo_return_after_rest_c17ef64b:
+
+    # MC @ think "...What?"
+    MC @ think "...Ne?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:277
+translate tr rom_tarbeck_bimbo_return_after_rest_c748920f:
+
+    # "Lord Tarbeck stormed off, saying nothing, but clearly expecting me to follow."
+    "Lord Tarbeck hiçbir şey söylemeden fırtına gibi çıktı, ama açıkça beni takip etmemi bekliyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:279
+translate tr rom_tarbeck_bimbo_return_after_rest_a13f633c:
+
+    # "Heading towards Lady Tarbeck's room, I found she was no longer sleeping peacefully in her bed."
+    "Leydi Tarbeck'in odasına yönelirken, artık yatağında huzurla uyumadığını gördüm."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:280
+translate tr rom_tarbeck_bimbo_return_after_rest_3d8b7cf3:
+
+    # "She was suspended inside a cocoon-like substance, a floating mass with tendrils attached to her body as she drifted peacefully within."
+    "Koza benzeri bir maddenin içinde asılıydı; bedenine bağlı dokunaçları olan yüzen bir kütle, içinde huzurla süzülüyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:281
+translate tr rom_tarbeck_bimbo_return_after_rest_069dbad6:
+
+    # "The room itself had transformed from a dignified noblewoman's bedroom into something more akin to a hive, dripping with slime and strange substances."
+    "Odanın kendisi de asil bir soylu kadının yatak odasından, sümük ve garip maddeler damlayan bir kovana benzer bir şeye dönüşmüştü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:286
+translate tr rom_tarbeck_bimbo_return_after_rest_a06781dc:
+
+    # TARBECK @ angry "What have you done to her?!"
+    TARBECK @ angry "Ona ne yaptın sen?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:287
+translate tr rom_tarbeck_bimbo_return_after_rest_704353ae:
+
+    # TARBECK @ angry "What is this thing?!"
+    TARBECK @ angry "Bu şey de ne?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:288
+translate tr rom_tarbeck_bimbo_return_after_rest_7843daa6:
+
+    # MC @ serious "Nothing she did not ask me to do."
+    MC @ serious "Benden istemediği hiçbir şey yapmadım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:289
+translate tr rom_tarbeck_bimbo_return_after_rest_58cf19e7:
+
+    # TARBECK @ sad "I... What are you doing?"
+    TARBECK @ sad "Ben... Ne yapıyorsun?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:290
+translate tr rom_tarbeck_bimbo_return_after_rest_8f98b82e:
+
+    # MC @ talk "She wanted to change her body. When... {i}this{/i} is done with whatever it's doing..."
+    MC @ talk "Bedenini değiştirmek istedi. Ne zaman ki... {i}bu{/i} yaptığı şeyi bitirirse..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:291
+translate tr rom_tarbeck_bimbo_return_after_rest_084fcd96:
+
+    # MC @ talk "She will be different, like she wanted."
+    MC @ talk "İstediği gibi, farklı olacak."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:292
+translate tr rom_tarbeck_bimbo_return_after_rest_910b56f8:
+
+    # TARBECK @ sad "She..."
+    TARBECK @ sad "O..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:293
+translate tr rom_tarbeck_bimbo_return_after_rest_a3d01bbc:
+
+    # TARBECK @ angry "Why did neither of you consult me?!"
+    TARBECK @ angry "Neden ikiniz de bana danışmadınız?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:294
+translate tr rom_tarbeck_bimbo_return_after_rest_dff7a5ff:
+
+    # MC @ talk "She felt you might try to stop her."
+    MC @ talk "Onu durdurmaya çalışabileceğini hissetti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:295
+translate tr rom_tarbeck_bimbo_return_after_rest_c0659a08:
+
+    # TARBECK @ sad "Of course I damn well would have!"
+    TARBECK @ sad "Tabii ki kahrolasıca durdururdum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:296
+translate tr rom_tarbeck_bimbo_return_after_rest_79fe0516:
+
+    # TARBECK @ angry "I tried to have the servants get her out! But the moment I tried, she seemed..."
+    TARBECK @ angry "Hizmetkarlara onu çıkarmalarını söyledim! Ama denediğim anda, o..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:297
+translate tr rom_tarbeck_bimbo_return_after_rest_c0e69420:
+
+    # TARBECK @ sad "In pain."
+    TARBECK @ sad "Acı çekiyor gibiydi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:298
+translate tr rom_tarbeck_bimbo_return_after_rest_fbad3ab8:
+
+    # "Lord Tarbeck paused, his anger fading as he gazed towards his wife, then back at me."
+    "Lord Tarbeck duraksadı, öfkesi karısına, sonra bana bakarken sönüyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:299
+translate tr rom_tarbeck_bimbo_return_after_rest_3bb19f1b:
+
+    # SHYAHTAN "(ENSURE HE DOES NOT INTERFERE WITH THE PROCESS, OR I WILL DEAL WITH HIM MYSELF.)"
+    SHYAHTAN "(SÜRECE MÜDAHALE ETMEMESİNİ SAĞLA, YOKSA ONUNLA KENDİM İLGİLENİRİM.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:300
+translate tr rom_tarbeck_bimbo_return_after_rest_fd913c94:
+
+    # MC @ talk "It's dangerous for her if you touch her."
+    MC @ talk "Ona dokunursan onun için tehlikeli."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:301
+translate tr rom_tarbeck_bimbo_return_after_rest_f3531189:
+
+    # MC @ talk "She needs to stay in there until she's done."
+    MC @ talk "İşi bitene kadar orada kalması gerekiyor."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:302
+translate tr rom_tarbeck_bimbo_return_after_rest_03bbb74d:
+
+    # TARBECK @ sad "...She will be alright, yes?"
+    TARBECK @ sad "...İyi olacak, değil mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:303
+translate tr rom_tarbeck_bimbo_return_after_rest_ead25a14:
+
+    # SHYAHTAN "(Yes.)"
+    SHYAHTAN "(Evet.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:304
+translate tr rom_tarbeck_bimbo_return_after_rest_ec863f7f:
+
+    # MC @ talk "Yes."
+    MC @ talk "Evet."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:305
+translate tr rom_tarbeck_bimbo_return_after_rest_31739049:
+
+    # TARBECK @ angry "Because if she is not... I swear upon the old gods and the new, I will-"
+    TARBECK @ angry "Çünkü eğer iyi olmazsa... Eski ve yeni tanrılar adına yemin ederim ki, seni-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:306
+translate tr rom_tarbeck_bimbo_return_after_rest_7d7627a3:
+
+    # MC @ talk "A few more days, and she will be ready."
+    MC @ talk "Birkaç gün daha, ve hazır olacak."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:307
+translate tr rom_tarbeck_bimbo_return_after_rest_302925aa:
+
+    # TARBECK @ sad "...Fine, I..."
+    TARBECK @ sad "...Pekâlâ, ben..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:308
+translate tr rom_tarbeck_bimbo_return_after_rest_e8431bba:
+
+    # TARBECK @ angry "...Go. Leave us alone for now."
+    TARBECK @ angry "...Git. Şimdilik bizi yalnız bırak."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:309
+translate tr rom_tarbeck_bimbo_return_after_rest_260ef994:
+
+    # TARBECK @ sad "You've done enough."
+    TARBECK @ sad "Yeterince şey yaptın."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:315
+translate tr rom_tarbeck_bimbo_return_after_rest_4ad224be:
+
+    # MC @ talk "That could have gone better."
+    MC @ talk "Bu daha iyi gidebilirdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:316
+translate tr rom_tarbeck_bimbo_return_after_rest_ac0b64f1:
+
+    # SHYAHTAN "(Now that she is cocooned, she will be ready in a few days.)"
+    SHYAHTAN "(Artık kozalandığına göre, birkaç gün içinde hazır olacak.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:317
+translate tr rom_tarbeck_bimbo_return_after_rest_ea02e8e7:
+
+    # SHYAHTAN "(Return then.)"
+    SHYAHTAN "(O zaman geri dön.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:333
+translate tr rom_tarbeck_bimbo_return_tf_again_0a9b28f6:
+
+    # TARBECK @ shock "Come quickly! COME!"
+    TARBECK @ shock "Çabuk gel! GEL!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:334
+translate tr rom_tarbeck_bimbo_return_tf_again_b40f0a9a:
+
+    # MC @ shock "...!"
+    MC @ shock "...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:343
+translate tr rom_tarbeck_bimbo_return_tf_again_46d6ffb9:
+
+    # "Following Lord Tarbeck with no time to explain, I almost tripped as I rushed into Lady Tarbeck's bedroom."
+    "Açıklamaya zaman kalmadan Lord Tarbeck'i takip ederken, Leydi Tarbeck'in yatak odasına koşarken neredeyse tökezliyordum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:344
+translate tr rom_tarbeck_bimbo_return_tf_again_dce6831b:
+
+    # "There, floating in the cocoon, was not Lady Tarbeck, but a beautiful, voluptuous blonde."
+    "Orada, kozanın içinde süzülen Leydi Tarbeck değil, güzel, dolgun bir sarışındı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:345
+translate tr rom_tarbeck_bimbo_return_tf_again_bddf52d5:
+
+    # TARBECK "She... She's been moving!"
+    TARBECK "O... Hareket ediyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:347
+translate tr rom_tarbeck_bimbo_return_tf_again_e86bbcc7:
+
+    # "As we watched and waited, indeed, she did move, her eyes opening wide as she reached towards the walls of the cocoon and began to pull them down with ease."
+    "İzleyip beklerken, gerçekten de hareket etti; gözleri kocaman açıldı, kozanın duvarlarına uzandı ve onları kolayca indirmeye başladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:357
+translate tr rom_tarbeck_bimbo_return_tf_again_00710846:
+
+    # LADY_TARBECK @ sad "Uhhh..."
+    LADY_TARBECK @ sad "Uhhh..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:358
+translate tr rom_tarbeck_bimbo_return_tf_again_817cecf2:
+
+    # TARBECK @ shock "M-My love..."
+    TARBECK @ shock "A-Aşkım..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:359
+translate tr rom_tarbeck_bimbo_return_tf_again_b914779a:
+
+    # TARBECK @ shock "Are you alright?"
+    TARBECK @ shock "İyi misin?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:360
+translate tr rom_tarbeck_bimbo_return_tf_again_b0e4447a:
+
+    # "Lady Tarbeck shook her head, pushing her huge tits forward as she yawned."
+    "Leydi Tarbeck esnerken koca memelerini öne iterek başını salladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:361
+translate tr rom_tarbeck_bimbo_return_tf_again_c8df276c:
+
+    # LADY_TARBECK @ smile "That was like, a REALLYYYYY crazy nap!"
+    LADY_TARBECK @ smile "Bu şey gibi, GERÇEKTEN çılgın bir uykuydu!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:362
+translate tr rom_tarbeck_bimbo_return_tf_again_8539ca10:
+
+    # "She giggled as she looked down to inspect her body."
+    "Bedenini incelemek için aşağı bakarken kıkırdadı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:363
+translate tr rom_tarbeck_bimbo_return_tf_again_6d1094f2:
+
+    # LADY_TARBECK @ smile "OH WOW!"
+    LADY_TARBECK @ smile "OH VAY!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:364
+translate tr rom_tarbeck_bimbo_return_tf_again_e5547ab1:
+
+    # LADY_TARBECK @ smile "My boobs are like, HUGE!"
+    LADY_TARBECK @ smile "Memelerim şey, KOCAMAN!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:365
+translate tr rom_tarbeck_bimbo_return_tf_again_2586bbd8:
+
+    # LADY_TARBECK @ smile "And my butt is so big and nice too!"
+    LADY_TARBECK @ smile "Ve kıçım da çok büyük ve güzel!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:366
+translate tr rom_tarbeck_bimbo_return_tf_again_921991e3:
+
+    # TARBECK @ think "U-Uhh... Dear."
+    TARBECK @ think "Ş-Şey... Sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:367
+translate tr rom_tarbeck_bimbo_return_tf_again_ffb6b51d:
+
+    # TARBECK @ think "You don't quite sound like yourself, perhaps you should lie down and-"
+    TARBECK @ think "Kendin gibi konuşmuyorsun, belki uzanmalısın ve-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:368
+translate tr rom_tarbeck_bimbo_return_tf_again_fc918dd6:
+
+    # LADY_TARBECK @ smile "NU-UH!"
+    LADY_TARBECK @ smile "HAYIR!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:369
+translate tr rom_tarbeck_bimbo_return_tf_again_a4ba4ad8:
+
+    # LADY_TARBECK @ smile "I feel AMAZING!"
+    LADY_TARBECK @ smile "MUHTEŞEM hissediyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:370
+translate tr rom_tarbeck_bimbo_return_tf_again_386b8f29:
+
+    # "As her eyes wandered over towards me, she squeezed at her breasts instinctively whilst licking her pillowy lips."
+    "Gözleri bana doğru kayarken, yastık gibi dudaklarını yalayarak içgüdüsel olarak memelerini sıktı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:371
+translate tr rom_tarbeck_bimbo_return_tf_again_02fc5960:
+
+    # "My eyes wandered over the piercings and other ornaments hanging from her."
+    "Gözlerim üzerindeki piercinglerde ve diğer süslerde gezinmeye başladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:372
+translate tr rom_tarbeck_bimbo_return_tf_again_ee604fc5:
+
+    # MC "(How did-)"
+    MC "(Nasıl oldu-)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:373
+translate tr rom_tarbeck_bimbo_return_tf_again_fe2e4b32:
+
+    # SHYAHTAN "(It is organic.)"
+    SHYAHTAN "(Bu organik.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:374
+translate tr rom_tarbeck_bimbo_return_tf_again_e5ec7c9f:
+
+    # MC "(Organic?)"
+    MC "(Organik mi?)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:375
+translate tr rom_tarbeck_bimbo_return_tf_again_505c3c73:
+
+    # SHYAHTAN "(The creature replicated an image of herself deep within her mind... Those rings may appear gold, but they are bone.)"
+    SHYAHTAN "(Yaratık, zihninin derinliklerinde kendisinin bir imgesini kopyaladı... O halkalar altın görünebilir, ama kemikten.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:376
+translate tr rom_tarbeck_bimbo_return_tf_again_b9f6405f:
+
+    # LADY_TARBECK @ blush "Wanna try 'em out? Hehe!"
+    LADY_TARBECK @ blush "Bunları denemek ister misin? Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:377
+translate tr rom_tarbeck_bimbo_return_tf_again_562a7067:
+
+    # "Lord Tarbeck froze, unsure of what to say."
+    "Lord Tarbeck ne diyeceğini bilemeyerek donakaldı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:378
+translate tr rom_tarbeck_bimbo_return_tf_again_a3bfc7d2:
+
+    # LADY_TARBECK @ blush2 "But like, can you turn into the monster thingy? I like, wanna feel that MONSTER COCK while umm, you do all your crazy tentacle stuff!"
+    LADY_TARBECK @ blush2 "Ama şey, canavar şeyine dönüşebilir misin? Ben, şey, sen tüm o çılgın dokunaç şeylerini yaparken o CANAVAR SİKİNİ hissetmek istiyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:379
+translate tr rom_tarbeck_bimbo_return_tf_again_b39cb52a:
+
+    # TARBECK @ think "Umm..."
+    TARBECK @ think "Şey..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:380
+translate tr rom_tarbeck_bimbo_return_tf_again_ab43644a:
+
+    # "Lord Tarbeck turned to me, taken aback and overwhelmed by what his wife had become."
+    "Lord Tarbeck karısının ne hale geldiği karşısında şaşkına dönmüş ve bunalırken bana döndü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:381
+translate tr rom_tarbeck_bimbo_return_tf_again_6fb1890b:
+
+    # TARBECK @ think "... C-Continue?"
+    TARBECK @ think "... D-Devam mı?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:382
+translate tr rom_tarbeck_bimbo_return_tf_again_723ab8b0:
+
+    # LADY_TARBECK @ smile "YAYY! And don't worry dear! I like, umm, REALLY love you still and stuff!"
+    LADY_TARBECK @ smile "YAYY! Ve endişelenme sevgilim! Ben, şey, seni hâlâ GERÇEKTEN seviyorum falan!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:383
+translate tr rom_tarbeck_bimbo_return_tf_again_5769a4f5:
+
+    # LADY_TARBECK @ smile "I'm just MUCH happier now I'm more silly and stuff!"
+    LADY_TARBECK @ smile "Sadece artık daha aptal falan olduğum için ÇOK daha mutluyum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:384
+translate tr rom_tarbeck_bimbo_return_tf_again_c0dd3afa:
+
+    # TARBECK @ think "I... see."
+    TARBECK @ think "Anlı... yorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:385
+translate tr rom_tarbeck_bimbo_return_tf_again_67ef5b20:
+
+    # "Something in Lord Tarbeck's voice seemed more unsure than ever."
+    "Lord Tarbeck'in sesindeki bir şey her zamankinden daha kararsız görünüyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:388
+translate tr rom_tarbeck_bimbo_return_tf_again_08d59ca5:
+
+    # "{i}Ten minutes later...{/i}"
+    "{i}On dakika sonra...{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:405
+translate tr replay_tarbeck_bimbo_tj_921caeef:
+
+    # "Lady Tarbeck giggled as I held her up by her feet."
+    "Onu ayaklarından tutup kaldırırken Leydi Tarbeck kıkırdadı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:406
+translate tr replay_tarbeck_bimbo_tj_4ddfc880:
+
+    # "My huge cock prodding against the soft flesh of her new, heavy tits."
+    "Kocaman sikim, yeni, ağır memelerinin yumuşak etine dürterek dayanıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:407
+translate tr replay_tarbeck_bimbo_tj_d0b62a95:
+
+    # LADY_TARBECK "Ahhhh...! {i}*Giggles*{/i}"
+    LADY_TARBECK "Ahhhh...! {i}*Giggles*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:408
+translate tr replay_tarbeck_bimbo_tj_7434ada8:
+
+    # LADY_TARBECK "Are you like, umm, watching, honey?"
+    LADY_TARBECK "Şey, izliyor musun, tatlım?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:409
+translate tr replay_tarbeck_bimbo_tj_ba5455ef:
+
+    # LADY_TARBECK "HE'S SO STRONG!"
+    LADY_TARBECK "O ÇOK GÜÇLÜ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:410
+translate tr replay_tarbeck_bimbo_tj_8277664d:
+
+    # "She giggled once again, her eyes firmly locked onto the huge cock in front of her."
+    "Bir kez daha kıkırdadı, gözleri önündeki koca sike sımsıkı kilitlenmişti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:411
+translate tr replay_tarbeck_bimbo_tj_4f87f371:
+
+    # LADY_TARBECK "AND SO BIGGG!"
+    LADY_TARBECK "VE ÇOK BÜYÜKKK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:412
+translate tr replay_tarbeck_bimbo_tj_d042592a:
+
+    # TARBECK "Y-Yes... I am watching, dear."
+    TARBECK "E-Evet... İzliyorum, sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:413
+translate tr replay_tarbeck_bimbo_tj_5f321294:
+
+    # TARBECK "... Continue."
+    TARBECK "... Devam et."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:415
+translate tr replay_tarbeck_bimbo_tj_a8401d40:
+
+    # "Lady Tarbeck squirmed once again as I lifted her up by her feet."
+    "Onu ayaklarından kaldırırken Leydi Tarbeck bir kez daha kıpırdandı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:416
+translate tr replay_tarbeck_bimbo_tj_8c5f3c2a:
+
+    # LADY_TARBECK "Weeeeeeeeeeeeee!"
+    LADY_TARBECK "Viiiiiiiiiiiii!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:417
+translate tr replay_tarbeck_bimbo_tj_3a79ac58:
+
+    # LADY_TARBECK "My head is all funny being held up like this!"
+    LADY_TARBECK "Böyle tutulunca başım çok garip oluyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:418
+translate tr replay_tarbeck_bimbo_tj_495e6481:
+
+    # LADY_TARBECK "Like, wanna watch me suck his cock, honey?!"
+    LADY_TARBECK "Şey, onun sikini emmemi izlemek ister misin, tatlım?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:419
+translate tr replay_tarbeck_bimbo_tj_726d1243:
+
+    # "Lord Tarbeck smiled and watched, bemused, from the corner."
+    "Lord Tarbeck gülümsedi ve köşeden şaşkın bir ifadeyle izledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:420
+translate tr replay_tarbeck_bimbo_tj_11b60152:
+
+    # TARBECK "Do as you please, my little degenerate."
+    TARBECK "Gönlünce yap, benim küçük yozlaşmışım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:421
+translate tr replay_tarbeck_bimbo_tj_8b6f4ee2:
+
+    # LADY_TARBECK "LIKE, I AM THE LUCKIEST GIRL EVER FOR HAVING THE BEST GUYS EVER!"
+    LADY_TARBECK "ŞEY, GELMİŞ GEÇMİŞ EN İYİ ADAMLARA SAHİP OLDUĞUM İÇİN GELMİŞ GEÇMİŞ EN ŞANSLI KIZIM!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:432
+translate tr replay_tarbeck_bimbo_tj_c92f07b0:
+
+    # "With my cock shoved between her two globes, as the end prodded against her pillow-like lips, she instinctively opened her mouth to suckle on the head."
+    "Sikim iki küresi arasına sıkıştırılmışken, ucu yastık gibi dudaklarına dürttükçe, başını emmek için içgüdüsel olarak ağzını açtı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:433
+translate tr replay_tarbeck_bimbo_tj_632208d9:
+
+    # LADY_TARBECK "{i}*Slurp!*{/i} Lhokkkhh dhearrhhh! {i}*Slurp!*{/i}"
+    LADY_TARBECK "{i}*Slurp!*{/i} Bhaakktatlımmh! {i}*Slurp!*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:434
+translate tr replay_tarbeck_bimbo_tj_09b9df3a:
+
+    # LADY_TARBECK "{i}*Slurp!* *Slurp!*{/i} Ih chanhh openhh mhyhhh mhouthhh shooo whidee! {i}*Slurp!*{/i}"
+    LADY_TARBECK "{i}*Slurp!* *Slurp!*{/i} Ağzımıhh çoookk genişhh açabilirimhh! {i}*Slurp!*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:435
+translate tr replay_tarbeck_bimbo_tj_25beacb9:
+
+    # TARBECK "Y-Yes... {i}*Huff*{/i} You can."
+    TARBECK "E-Evet... {i}*Huff*{/i} Açabilirsin."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:436
+translate tr replay_tarbeck_bimbo_tj_a0a95c9c:
+
+    # "Lord Tarbeck sat mesmerised as he watched what had become of his wife greedily giving a generous titfuck as she sucked on the end of a monstrous cock."
+    "Lord Tarbeck, karısının ne hale geldiğini, cömert bir meme sikişi yaparken canavarca bir sikin ucunu emmesini büyülenmiş gibi izledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:437
+translate tr replay_tarbeck_bimbo_tj_c8273d70:
+
+    # MC "{i}*Low rumble*{/i}"
+    MC "{i}*Low rumble*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:438
+translate tr replay_tarbeck_bimbo_tj_ae96c132:
+
+    # LADY_TARBECK "Mhhfghh! Heehh lhikeshh mheee! Mmfghh!"
+    LADY_TARBECK "Mhhfghh! O benimmhh hoşunaaagidiyorhh! Mmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:439
+translate tr replay_tarbeck_bimbo_tj_54a2b536:
+
+    # TARBECK "... K-Keep going, my love."
+    TARBECK "... D-Devam et, aşkım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:440
+translate tr replay_tarbeck_bimbo_tj_df303b99:
+
+    # TARBECK "I want to see what you can do with this new body."
+    TARBECK "Bu yeni bedenle neler yapabileceğini görmek istiyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:441
+translate tr replay_tarbeck_bimbo_tj_72ab9275:
+
+    # LADY_TARBECK "Mhokayhhh!"
+    LADY_TARBECK "Tahmamhhh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:443
+translate tr replay_tarbeck_bimbo_tj_916e4e72:
+
+    # "Shoving my cock between her pillow-like tits, Lady Tarbeck giggled as she once again stretched her lips over the head of my cock."
+    "Sikimi yastık gibi memelerinin arasına iterken, Leydi Tarbeck dudaklarını sikimin başının üzerine bir kez daha gererek kıkırdadı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:444
+translate tr replay_tarbeck_bimbo_tj_117c4e0c:
+
+    # "I thrust forward, fucking the silly little wife's huge tits as her tongue twisted and teased the head of my cock."
+    "Öne ittim, aptal küçük kadının koca memelerini sikiyordum; dili kıvrılıp sikimin başını kışkırtıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:445
+translate tr replay_tarbeck_bimbo_tj_1823b69d:
+
+    # LADY_TARBECK "{i}*Slurp!* *Slurp!*{/i} Itshh lhikeee shooo yhummyhh! {i}*Slurp!*{/i}"
+    LADY_TARBECK "{i}*Slurp!* *Slurp!*{/i} Çoookk lezzetlihhh gibi! {i}*Slurp!*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:446
+translate tr replay_tarbeck_bimbo_tj_88a9af02:
+
+    # LADY_TARBECK "{i}*Slurp!*{/i} Amhhh Ihhdhoinghhh ghooodhhh?"
+    LADY_TARBECK "{i}*Slurp!*{/i} İyihhmiyapıyorumhh?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:447
+translate tr replay_tarbeck_bimbo_tj_ba401201:
+
+    # "I let out a low rumble in approval as Lord Tarbeck watched mesmerised."
+    "Lord Tarbeck büyülenmiş gibi izlerken onaylarcasına alçak bir hırlama çıkardım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:448
+translate tr replay_tarbeck_bimbo_tj_2383d97f:
+
+    # TARBECK "Yes dear, you're doing very good."
+    TARBECK "Evet sevgilim, çok iyi yapıyorsun."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:449
+translate tr replay_tarbeck_bimbo_tj_17612d39:
+
+    # TARBECK "... Now show me what you can really do!"
+    TARBECK "... Şimdi bana gerçekten neler yapabileceğini göster!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:459
+translate tr replay_tarbeck_bimbo_tj_3dbd90c0:
+
+    # LADY_TARBECK "{i}*Slurp!*{/i} Whatdhuyhuuthinkkhh!? {i}*Slurp!*{/i}"
+    LADY_TARBECK "{i}*Slurp!*{/i} Neddüşünüyorsunnh?! {i}*Slurp!*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:460
+translate tr replay_tarbeck_bimbo_tj_d1d9d399:
+
+    # "I began to move faster, using her tits as nothing more than two soft toys for my amusement as her mouth sucked furiously."
+    "Daha hızlı hareket etmeye başladım, ağzı öfkeyle emerken memelerini eğlencem için iki yumuşak oyuncaktan başka bir şey olarak kullanıyordum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:461
+translate tr replay_tarbeck_bimbo_tj_d998e10f:
+
+    # "She seemed to instinctively fuck like a veteran, her eyes wide with a vacant, doe-eyed look."
+    "İçgüdüsel olarak bir veteran gibi sikişiyor gibiydi; gözleri boş, ceylan gibi bir bakışla kocaman açılmıştı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:462
+translate tr replay_tarbeck_bimbo_tj_5b4bc664:
+
+    # TARBECK "... Gods."
+    TARBECK "... Tanrılar."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:463
+translate tr replay_tarbeck_bimbo_tj_c9e25473:
+
+    # TARBECK "You look so good, my love."
+    TARBECK "Çok iyi görünüyorsun, aşkım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:464
+translate tr replay_tarbeck_bimbo_tj_f49b6547:
+
+    # LADY_TARBECK "{i}*Slurp!*{/i} Thankhhh yhuuu!"
+    LADY_TARBECK "{i}*Slurp!*{/i} Teşekkürhhh ederimmm!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:465
+translate tr replay_tarbeck_bimbo_tj_927f4282:
+
+    # LADY_TARBECK "Mhoreee! Ghivehhh mheee mhoreee!"
+    LADY_TARBECK "Dahhaaa! Bana dahhaaa ver!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:466
+translate tr replay_tarbeck_bimbo_tj_b2ee94ce:
+
+    # "As her soft, delicate mouth continued to please me, I began to feel a growing need to paint the little slut white."
+    "Yumuşak, narin ağzı beni memnun etmeye devam ederken, küçük orospuyu beyaza boyamak için büyüyen bir ihtiyaç hissetmeye başladım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:467
+translate tr replay_tarbeck_bimbo_tj_5ab628b0:
+
+    # "As she sensed my climax drawing near, it only seemed to encourage her more."
+    "Doruk noktamın yaklaştığını hissettikçe, bu onu sadece daha da cesaretlendirdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:469
+translate tr replay_tarbeck_bimbo_tj_063c5bc4:
+
+    # LADY_TARBECK "{i}*Slurp!*{/i} Mokayhhh! Mmfghh!"
+    LADY_TARBECK "{i}*Slurp!*{/i} Tahmamhhh! Mmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:470
+translate tr replay_tarbeck_bimbo_tj_bb55c620:
+
+    # "Lady Tarbeck's lips sucked furiously on the end of my cock as I fucked her huge, soft tits and warm mouth."
+    "Koca, yumuşak memelerini ve sıcak ağzını sikerken Leydi Tarbeck'in dudakları sikimin ucunu öfkeyle emdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:471
+translate tr replay_tarbeck_bimbo_tj_ba3a9ab9:
+
+    # "Any timidness was long gone by now. Lady Tarbeck was a woman with only one thing on her mind."
+    "Çekingenlik çoktan gitmişti. Leydi Tarbeck'in aklında tek bir şey olan bir kadındı artık."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:472
+translate tr replay_tarbeck_bimbo_tj_abd2a990:
+
+    # "Pleasure."
+    "Zevk."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:473
+translate tr replay_tarbeck_bimbo_tj_e83e0827:
+
+    # "Cock."
+    "Sik."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:474
+translate tr replay_tarbeck_bimbo_tj_4f61d17d:
+
+    # "Sex."
+    "Seks."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:475
+translate tr replay_tarbeck_bimbo_tj_d980ef06:
+
+    # "Lady Tarbeck giggled and sucked like a veteran whore. Whatever change she had undergone... Well..."
+    "Leydi Tarbeck kıkırdadı ve bir veteran fahişe gibi emdi. Geçirdiği değişim her ne idiyse... Şey..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:476
+translate tr replay_tarbeck_bimbo_tj_69fd774c:
+
+    # "There was certainly no timidness anymore."
+    "Kesinlikle hiç çekingenlik kalmamıştı artık."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:477
+translate tr replay_tarbeck_bimbo_tj_dd31c051:
+
+    # LADY_TARBECK "{i}*Slurp!* *Slurp!*{/i} Dhooo Ihh lhookhh ghoodhhh?"
+    LADY_TARBECK "{i}*Slurp!* *Slurp!*{/i} İyihhmigörünüyorumhh?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:478
+translate tr replay_tarbeck_bimbo_tj_fb532c64:
+
+    # TARBECK "Yes dear, {i}You look incredible.{/i}"
+    TARBECK "Evet sevgilim, {i}İnanılmaz görünüyorsun.{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:479
+translate tr replay_tarbeck_bimbo_tj_c4158bbe:
+
+    # "As Lady Tarbeck continued, I felt the burning need to stuff her mouth with my heavy load, and watching her swallow became more and more overwhelming."
+    "Leydi Tarbeck devam ederken, ağzını ağır yükümle doldurmak için yanıp tutuşan bir ihtiyaç hissettim ve onun yutmasını izlemek giderek daha da karşı konulmaz hale geldi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:480
+translate tr replay_tarbeck_bimbo_tj_dcd5deb0:
+
+    # "Until..."
+    "Ta ki..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:500
+translate tr replay_tarbeck_bimbo_tj_804c3d74:
+
+    # "I let out a low rumble as I stuffed Lady Tarbeck's mouth with my load."
+    "Leydi Tarbeck'in ağzını yükümle doldururken alçak bir hırlama çıkardım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:501
+translate tr replay_tarbeck_bimbo_tj_08a01ca8:
+
+    # "Her eyes widened as she juggled between giggling playfully and doing her best to swallow the load."
+    "Oynakça kıkırdamak ile yükü yutmak için elinden geleni yapmak arasında gidip gelirken gözleri büyüdü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:502
+translate tr replay_tarbeck_bimbo_tj_934202b3:
+
+    # LADY_TARBECK "Mmfghhh?!"
+    LADY_TARBECK "Mmfghhh?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:503
+translate tr replay_tarbeck_bimbo_tj_efb9d8ba:
+
+    # TARBECK "... Gods, it's like watching a horse."
+    TARBECK "... Tanrılar, bir atı izlemek gibi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:504
+translate tr replay_tarbeck_bimbo_tj_ad3677b6:
+
+    # "After pouring my load into her, I slowly pulled my cock out and gently lowered her back onto her feet."
+    "Yükümü içine boşalttıktan sonra, sikimi yavaşça çıkardım ve onu nazikçe yeniden ayaklarının üzerine indirdim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:506
+translate tr replay_tarbeck_bimbo_tj_cbffe4a1:
+
+    # "I grunted in approval, slamming my cock between her tits as I pumped her mouth full of my cum."
+    "Onaylarcasına homurdandım, ağzını dölümle doldururken sikimi memelerinin arasına çaktım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:507
+translate tr replay_tarbeck_bimbo_tj_883718ea:
+
+    # "Her eyes widened as her cheeks puffed out, and she did her best to swallow it down while squealing."
+    "Yanakları şişerken gözleri büyüdü ve ciyaklarken onu yutmak için elinden geleni yaptı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:508
+translate tr replay_tarbeck_bimbo_tj_f2f1fcc3:
+
+    # LADY_TARBECK "Mmmfghh!! Shoo mhuchh!!"
+    LADY_TARBECK "Mmmfghh!! Çoookk fazla!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:509
+translate tr replay_tarbeck_bimbo_tj_f08594ce:
+
+    # TARBECK "That's it dear, remember what we talked about!"
+    TARBECK "İşte bu sevgilim, konuştuğumuz şeyi hatırla!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:510
+translate tr replay_tarbeck_bimbo_tj_eb6a6046:
+
+    # TARBECK "Good girls always swallow!"
+    TARBECK "İyi kızlar her zaman yutar!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:511
+translate tr replay_tarbeck_bimbo_tj_beb11050:
+
+    # "Slowly, after making sure she had suckled out every last drop, I withdrew my cock from her mouth."
+    "Son damlayı da emdiğinden emin olduktan sonra, sikimi yavaşça ağzından çektim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:512
+translate tr replay_tarbeck_bimbo_tj_4433c12a:
+
+    # LADY_TARBECK @ smile "Phew!"
+    LADY_TARBECK @ smile "Vay be!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:513
+translate tr replay_tarbeck_bimbo_tj_3af74399:
+
+    # LADY_TARBECK @ smile "Like, that was AMAZING!"
+    LADY_TARBECK @ smile "Şey, bu MUHTEŞEMDİ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:516
+translate tr replay_tarbeck_bimbo_tj_992bec7c:
+
+    # LADY_TARBECK @ smile "Did I do good?! Did I? DID I?"
+    LADY_TARBECK @ smile "İyi miydim?! İyi miydim? İYİ MİYDİM?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:517
+translate tr replay_tarbeck_bimbo_tj_7ecb6151:
+
+    # TARBECK @ blush "Y-Yes... You did very well."
+    TARBECK @ blush "E-Evet... Çok iyiydin."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:518
+translate tr replay_tarbeck_bimbo_tj_0e7e0c06:
+
+    # TARBECK @ talk "Umm, perhaps you could give me and my wife some time to talk, [player_name]."
+    TARBECK @ talk "Şey, belki bana ve karıma biraz konuşma zamanı verebilirsin, [player_name]."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:519
+translate tr replay_tarbeck_bimbo_tj_4278a2d8:
+
+    # TARBECK @ talk "I'm sure we have much to discuss..."
+    TARBECK @ talk "Eminim konuşacak çok şeyimiz var..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:545
+translate tr rom_tarbeck_bimbo_return_after_tf_ae91e93e:
+
+    # TARBECK @ talk "Ahh, you've arrived."
+    TARBECK @ talk "Ahh, gelmişsin."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:546
+translate tr rom_tarbeck_bimbo_return_after_tf_89d16414:
+
+    # LADY_TARBECK @ smile "What do you think of my clothes?!"
+    LADY_TARBECK @ smile "Kıyafetlerim hakkında ne düşünüyorsun?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:547
+translate tr rom_tarbeck_bimbo_return_after_tf_1b3a796b:
+
+    # LADY_TARBECK @ blush "I picked them myself, you know!"
+    LADY_TARBECK @ blush "Onları kendim seçtim, biliyorsun!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:548
+translate tr rom_tarbeck_bimbo_return_after_tf_8f3b55f1:
+
+    # MC @ shock "Very... {i}You.{/i}"
+    MC @ shock "Çok... {i}Sen.{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:549
+translate tr rom_tarbeck_bimbo_return_after_tf_cb95b36c:
+
+    # LADY_TARBECK @ blush2 "Teehee!"
+    LADY_TARBECK @ blush2 "Teehee!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:550
+translate tr rom_tarbeck_bimbo_return_after_tf_2c5c578a:
+
+    # TARBECK @ smile "Ahem... My wife and I have been talking and-"
+    TARBECK @ smile "Öhöm... Karım ve ben konuşuyorduk ve-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:551
+translate tr rom_tarbeck_bimbo_return_after_tf_cf42ef1d:
+
+    # TARBECK @ think "I must admit, this isn't quite what I was expecting."
+    TARBECK @ think "İtiraf etmeliyim ki, bu tam olarak beklediğim şey değil."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:552
+translate tr rom_tarbeck_bimbo_return_after_tf_a49f548e:
+
+    # TARBECK @ talk "But I cannot deny that she is happier."
+    TARBECK @ talk "Ama onun daha mutlu olduğunu inkar edemem."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:553
+translate tr rom_tarbeck_bimbo_return_after_tf_033acb5f:
+
+    # LADY_TARBECK @ smile "UHUH! I'm like, REALLY happy!"
+    LADY_TARBECK @ smile "AHIH! Ben, şey, GERÇEKTEN mutluyum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:554
+translate tr rom_tarbeck_bimbo_return_after_tf_0b86546b:
+
+    # TARBECK @ talk "Thus, I was going to suggest the two of you-"
+    TARBECK @ talk "Bu yüzden, ikinize şunu önerecektim-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:555
+translate tr rom_tarbeck_bimbo_return_after_tf_4416bf70:
+
+    # LADY_TARBECK @ blush "Like, this is a lot of talking."
+    LADY_TARBECK @ blush "Şey, bu çok fazla konuşma."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:556
+translate tr rom_tarbeck_bimbo_return_after_tf_942887c6:
+
+    # LADY_TARBECK @ blush "Can I go upstairs and fuck [player_name] now, please?"
+    LADY_TARBECK @ blush "Yukarı çıkıp [player_name]'i şimdi sikebilir miyim, lütfen?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:557
+translate tr rom_tarbeck_bimbo_return_after_tf_a6b0863b:
+
+    # TARBECK @ shock "...!"
+    TARBECK @ shock "...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:558
+translate tr rom_tarbeck_bimbo_return_after_tf_b69c624d:
+
+    # TARBECK @ smile "Yes dear, you can go upstairs and fuck him."
+    TARBECK @ smile "Evet sevgilim, yukarı çıkıp onu sikebilirsin."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:559
+translate tr rom_tarbeck_bimbo_return_after_tf_a4bde6fe:
+
+    # LADY_TARBECK @ smile "YAYYY!"
+    LADY_TARBECK @ smile "YAYYY!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:560
+translate tr rom_tarbeck_bimbo_return_after_tf_6e2d155e:
+
+    # LADY_TARBECK @ smile "Like, I've wanted to do like, this since we first met!"
+    LADY_TARBECK @ smile "Şey, ilk tanıştığımızdan beri, şey, bunu yapmak istiyordum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:561
+translate tr rom_tarbeck_bimbo_return_after_tf_2080ef28:
+
+    # LADY_TARBECK @ blush "Not that the silly old me would have ever admitted it! Hehe!"
+    LADY_TARBECK @ blush "Eski aptal ben bunu asla itiraf etmezdi gerçi! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:562
+translate tr rom_tarbeck_bimbo_return_after_tf_1811c594:
+
+    # MC @ smile "Is that so?"
+    MC @ smile "Öyle mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:564
+translate tr rom_tarbeck_bimbo_return_after_tf_f2b31f38:
+
+    # "Lady Tarbeck reached out to take my hand, practically dragging me to the bedroom as Lord Tarbeck followed, bemused."
+    "Leydi Tarbeck elimi tutmak için uzandı, Lord Tarbeck şaşkın bir ifadeyle takip ederken beni adeta yatak odasına sürükledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:566
+translate tr rom_tarbeck_bimbo_return_after_tf_f3e94c57:
+
+    # "{i}... Not even ten minutes later.{/i}"
+    "{i}... Daha on dakika bile geçmeden.{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:584
+translate tr replay_tarbeck_bimbo_miss_18dee4a5:
+
+    # LADY_TARBECK "Darling... Are you watching?"
+    LADY_TARBECK "Sevgilim... İzliyor musun?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:585
+translate tr replay_tarbeck_bimbo_miss_7000e21d:
+
+    # LADY_TARBECK "This is like, so exciting and ROMANTIC!"
+    LADY_TARBECK "Bu, şey, çok heyecan verici ve ROMANTİK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:586
+translate tr replay_tarbeck_bimbo_miss_9048c0b3:
+
+    # LADY_TARBECK "Having you both here like this! Hehe!"
+    LADY_TARBECK "İkinizin de burada böyle olması! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:587
+translate tr replay_tarbeck_bimbo_miss_8734d1db:
+
+    # TARBECK "Yes, dear, I'm watching..."
+    TARBECK "Evet, sevgilim, izliyorum..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:588
+translate tr replay_tarbeck_bimbo_miss_112b6a22:
+
+    # "Lady Tarbeck's new body glistened in the light as I gently rubbed my cock against her body."
+    "Sikimi nazikçe bedenine sürtürken Leydi Tarbeck'in yeni bedeni ışıkta parlıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:589
+translate tr replay_tarbeck_bimbo_miss_43b7808e:
+
+    # "Her inviting, wet, tight pussy waited in anticipation of what was to come as she waited with her legs spread."
+    "Bacaklarını açmış beklerken, davetkar, ıslak, dar amı olacakları bekliyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:591
+translate tr replay_tarbeck_bimbo_miss_4bfd0b84:
+
+    # LADY_TARBECK "Mhmm... Like, can we go shopping after this?"
+    LADY_TARBECK "Mhmm... Şey, bundan sonra alışverişe gidebilir miyiz?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:592
+translate tr replay_tarbeck_bimbo_miss_69839a75:
+
+    # TARBECK "Whatever you want, my dear."
+    TARBECK "Ne istersen, sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:593
+translate tr replay_tarbeck_bimbo_miss_6eda9878:
+
+    # "Lady Tarbeck's womanhood glistened excitedly as I rubbed my cock back and forth over her body."
+    "Sikimi bedeninde ileri geri sürtürken Leydi Tarbeck'in kadınlığı heyecanla parlıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:594
+translate tr replay_tarbeck_bimbo_miss_e2213b9e:
+
+    # LADY_TARBECK "Ahh... I can't wait for him to stuff me with that thing again, hehe."
+    LADY_TARBECK "Ahh... Onun beni o şeyle yeniden doldurmasını bekleyemiyorum, hehe."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:595
+translate tr replay_tarbeck_bimbo_miss_5df468f4:
+
+    # LADY_TARBECK "...Oooh! Later, can I like, umm, watch you fuck some of the maids?"
+    LADY_TARBECK "...Oooh! Sonra, şey, bazı hizmetçileri sikmeni izleyebilir miyim?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:596
+translate tr replay_tarbeck_bimbo_miss_b2d2a3db:
+
+    # TARBECK "Whatever your heart desires, my love."
+    TARBECK "Gönlün ne istiyorsa, aşkım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:597
+translate tr replay_tarbeck_bimbo_miss_3697c5eb:
+
+    # LADY_TARBECK "Thank youuuuu..."
+    LADY_TARBECK "Teşekkür ederimmmm..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:598
+translate tr replay_tarbeck_bimbo_miss_0bfee5a6:
+
+    # LADY_TARBECK "Now watch me get stuffed good!"
+    LADY_TARBECK "Şimdi beni güzelce dolduruşunu izle!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:609
+translate tr replay_tarbeck_bimbo_miss_ad6fc1b4:
+
+    # "Lady Tarbeck's womanhood squeezed so tightly around me as I slowly slid my member into her; I thought I might have finished there and then."
+    "Organımı yavaşça içine kaydırırken Leydi Tarbeck'in kadınlığı etrafımda o kadar sıkı sıkıldı ki; oracıkta boşalabileceğimi düşündüm."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:610
+translate tr replay_tarbeck_bimbo_miss_5b1f9387:
+
+    # "Her pussy was almost {i}inhumanly{/i} tight as she let out a gasp."
+    "Bir nefes koyverirken amı neredeyse {i}insanlık dışı{/i} derecede dardı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:611
+translate tr replay_tarbeck_bimbo_miss_f8a45edb:
+
+    # LADY_TARBECK "Ahhh...!"
+    LADY_TARBECK "Ahhh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:612
+translate tr replay_tarbeck_bimbo_miss_e8436244:
+
+    # LADY_TARBECK "He feels so good in me! Mmfghh..."
+    LADY_TARBECK "İçimde çok iyi hissettiriyor! Mmfghh..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:613
+translate tr replay_tarbeck_bimbo_miss_5a2b14be:
+
+    # LADY_TARBECK "It's like my little hole was made just for him, hehe!"
+    LADY_TARBECK "Sanki küçük deliğim sadece onun için yapılmış, hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:614
+translate tr replay_tarbeck_bimbo_miss_26fcc3a8:
+
+    # "Lord Tarbeck said nothing. He continued to watch, transfixed, as the huge member slowly entered into his wife."
+    "Lord Tarbeck hiçbir şey söylemedi. Koca organ yavaşça karısına girerken büyülenmiş halde izlemeye devam etti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:615
+translate tr replay_tarbeck_bimbo_miss_76b7fced:
+
+    # MC "Ahh... Gods, you feel incredible!"
+    MC "Ahh... Tanrılar, inanılmaz hissettiriyorsun!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:616
+translate tr replay_tarbeck_bimbo_miss_bf37e634:
+
+    # LADY_TARBECK "Like duhhh!"
+    LADY_TARBECK "Şey, tabii ki!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:617
+translate tr replay_tarbeck_bimbo_miss_f78710f1:
+
+    # LADY_TARBECK "I'm your little fuck toy!"
+    LADY_TARBECK "Ben senin küçük sik oyuncağınım!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:618
+translate tr replay_tarbeck_bimbo_miss_c8d56cc8:
+
+    # LADY_TARBECK "What kind of toy would I be if I wasn't fun to play with, silly?"
+    LADY_TARBECK "Oynaması eğlenceli olmasaydım nasıl bir oyuncak olurdum ki, aptal?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:620
+translate tr replay_tarbeck_bimbo_miss_2d1994d8:
+
+    # LADY_TARBECK "MMmfmghhh...!"
+    LADY_TARBECK "MMmfmghhh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:621
+translate tr replay_tarbeck_bimbo_miss_e4385553:
+
+    # LADY_TARBECK "That feels soooo good!"
+    LADY_TARBECK "Bu çoooook iyi hissettiriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:622
+translate tr replay_tarbeck_bimbo_miss_5b675549:
+
+    # "As my cock sank into Lady Tarbeck's pussy, it was as unbelievably tight as ever."
+    "Sikim Leydi Tarbeck'in amına gömülürken, her zamanki gibi inanılmaz derecede dardı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:623
+translate tr replay_tarbeck_bimbo_miss_f2270877:
+
+    # "She giggled, watching the member disappear inside of her as her stomach lightly bulged with every thrust."
+    "Kıkırdadı, her itişle karnı hafifçe kabarırken organın içinde kayboluşunu izledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:624
+translate tr replay_tarbeck_bimbo_miss_bbe0a01e:
+
+    # LADY_TARBECK "AHH! Mess up my insides!"
+    LADY_TARBECK "AHH! İçimi altüst et!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:625
+translate tr replay_tarbeck_bimbo_miss_010adad4:
+
+    # LADY_TARBECK "Look! Isn't that SOOO fun to watch?!"
+    LADY_TARBECK "Bak! Bunu izlemek ÇOOOK eğlenceli değil mi?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:626
+translate tr replay_tarbeck_bimbo_miss_da6710b9:
+
+    # TARBECK "Y-Yes, dear."
+    TARBECK "E-Evet, sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:627
+translate tr replay_tarbeck_bimbo_miss_de4d6a3b:
+
+    # LADY_TARBECK "Ahhh! Stop being so gentle!"
+    LADY_TARBECK "Ahhh! Bu kadar nazik olmayı bırak!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:628
+translate tr replay_tarbeck_bimbo_miss_f882bdfa:
+
+    # LADY_TARBECK "Fuck me harder! Stuff my pussy with your huge cock!"
+    LADY_TARBECK "Beni daha sert sik! Amımı koca sikinle doldur!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:639
+translate tr replay_tarbeck_bimbo_miss_144df1fc:
+
+    # "Possessed, I thrust faster into Lady Tarbeck as her moans grew louder."
+    "Cin çarpmış gibi, iniltileri yükseldikçe Leydi Tarbeck'e daha hızlı girip çıktım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:640
+translate tr replay_tarbeck_bimbo_miss_bc69b1df:
+
+    # "Her womanhood still clung and squeezed around me as though her life depended on it."
+    "Kadınlığı hâlâ, sanki hayatı buna bağlıymış gibi etrafıma yapışıp sıkılıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:641
+translate tr replay_tarbeck_bimbo_miss_34d1480f:
+
+    # "And I found myself losing control as I fucked her senseless."
+    "Ve onu kendinden geçene dek sikerken kontrolümü kaybettiğimi fark ettim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:642
+translate tr replay_tarbeck_bimbo_miss_76c903af:
+
+    # LADY_TARBECK "Yes! That's it!"
+    LADY_TARBECK "Evet! İşte bu!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:643
+translate tr replay_tarbeck_bimbo_miss_c27414c7:
+
+    # LADY_TARBECK "Harder! FUCK ME HARDER!"
+    LADY_TARBECK "Daha sert! BENİ DAHA SERT SİK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:644
+translate tr replay_tarbeck_bimbo_miss_b567d219:
+
+    # MC "(Gods, what is going on?!)"
+    MC "(Tanrılar, neler oluyor?!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:645
+translate tr replay_tarbeck_bimbo_miss_d1249cec:
+
+    # MC "(It's like a drug fucking her!)"
+    MC "(Onu sikmek bir uyuşturucu gibi!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:646
+translate tr replay_tarbeck_bimbo_miss_c8625bf5:
+
+    # SHYAHTAN "(Species previously experiencing fertility issues or a genetic resistance to our pheromones we artificially altered on some worlds.)"
+    SHYAHTAN "(Daha önce doğurganlık sorunu yaşayan ya da feromonlarımıza genetik direnci olan türleri bazı dünyalarda yapay olarak değiştirdik.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:647
+translate tr replay_tarbeck_bimbo_miss_4aaf4844:
+
+    # SHYAHTAN "(She is now built to breed... {i}with us.{/i})"
+    SHYAHTAN "(Artık... {i}bizimle{/i} üremek için yaratılmış durumda.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:648
+translate tr replay_tarbeck_bimbo_miss_57ba13b0:
+
+    # SHYAHTAN "(Thus you may find the experience more... intense than usual.)"
+    SHYAHTAN "(Bu yüzden deneyimi normalden daha... yoğun bulabilirsin.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:649
+translate tr replay_tarbeck_bimbo_miss_146c9cac:
+
+    # MC "(YOU CAN SAY THAT AGAIN!)"
+    MC "(BUNU BİR DAHA SÖYLE!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:650
+translate tr replay_tarbeck_bimbo_miss_d0200b1f:
+
+    # LADY_TARBECK "Hehe! I love the way your face strains!"
+    LADY_TARBECK "Hehe! Yüzünün gerilme şeklini seviyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:651
+translate tr replay_tarbeck_bimbo_miss_272143fa:
+
+    # LADY_TARBECK "I can just tell you're ready to like, fill me up!"
+    LADY_TARBECK "Beni, şey, doldurmaya hazır olduğunu anlayabiliyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:652
+translate tr replay_tarbeck_bimbo_miss_2dc113f6:
+
+    # LADY_TARBECK "Come on! Don't stop!"
+    LADY_TARBECK "Hadi! Durma!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:653
+translate tr replay_tarbeck_bimbo_miss_4f75cef3:
+
+    # LADY_TARBECK "Fucking breed your little slut!"
+    LADY_TARBECK "Küçük orospunu dölle, siktir!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:654
+translate tr replay_tarbeck_bimbo_miss_65ccef13:
+
+    # MC "F-Fuckk!"
+    MC "S-Siktirr!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:656
+translate tr replay_tarbeck_bimbo_miss_c5794325:
+
+    # "Lady Tarbeck moaned hotly as my cock thrust faster into her."
+    "Sikim içine daha hızlı girerken Leydi Tarbeck ateşli bir şekilde inledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:657
+translate tr replay_tarbeck_bimbo_miss_33208e03:
+
+    # "Pounding away at her little pussy, increasingly lewd words came tumbling out of her mouth."
+    "Küçük amını döverken, ağzından giderek daha müstehcen sözler dökülüyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:658
+translate tr replay_tarbeck_bimbo_miss_743cce7b:
+
+    # LADY_TARBECK "Ahh! That's it!"
+    LADY_TARBECK "Ahh! İşte bu!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:659
+translate tr replay_tarbeck_bimbo_miss_49a484f0:
+
+    # LADY_TARBECK "Pound that little pussy! Fill my cunt up!"
+    LADY_TARBECK "Döv o küçük amı! Amımı doldur!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:660
+translate tr replay_tarbeck_bimbo_miss_b0919374:
+
+    # LADY_TARBECK "Ahh! Ahh! FUCK!!"
+    LADY_TARBECK "Ahh! Ahh! SİKTİR!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:661
+translate tr replay_tarbeck_bimbo_miss_a6c59b1c:
+
+    # LADY_TARBECK "I love it so muchh!!"
+    LADY_TARBECK "Bunu çook seviyorum!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:662
+translate tr replay_tarbeck_bimbo_miss_2709ae09:
+
+    # LADY_TARBECK "I love being your little whore!"
+    LADY_TARBECK "Senin küçük orospun olmayı seviyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:663
+translate tr replay_tarbeck_bimbo_miss_4ab348dd:
+
+    # LADY_TARBECK "Your little breeding sow!"
+    LADY_TARBECK "Senin küçük damızlık domuzun!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:664
+translate tr replay_tarbeck_bimbo_miss_62f0a6d9:
+
+    # LADY_TARBECK "Are you watching, honey?"
+    LADY_TARBECK "İzliyor musun, tatlım?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:665
+translate tr replay_tarbeck_bimbo_miss_038edfc1:
+
+    # LADY_TARBECK "Are you watching him fill me up with his huge cock!"
+    LADY_TARBECK "Onun beni koca sikiyle dolduruşunu izliyor musun!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:666
+translate tr replay_tarbeck_bimbo_miss_c1036950:
+
+    # MC "F...Fuck...!"
+    MC "S...Siktir...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:667
+translate tr replay_tarbeck_bimbo_miss_07265070:
+
+    # MC "(I'm hanging on for dear life here!)"
+    MC "(Burada can havliyle dayanıyorum!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:668
+translate tr replay_tarbeck_bimbo_miss_5e671a55:
+
+    # MC "(Her pussy is incredible!)"
+    MC "(Amı inanılmaz!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:669
+translate tr replay_tarbeck_bimbo_miss_cb0e2190:
+
+    # TARBECK "Haha, yes, dear... I'm watching."
+    TARBECK "Haha, evet, sevgilim... İzliyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:670
+translate tr replay_tarbeck_bimbo_miss_e42968a3:
+
+    # "Suddenly, by some miracle, Lady Tarbeck's pussy tightened even further as she muttered sweetly, loud enough for us both to hear."
+    "Birden, bir mucizeyle, Leydi Tarbeck'in amı daha da sıkıldı, ikimizin de duyabileceği kadar yüksek sesle tatlı tatlı mırıldandı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:671
+translate tr replay_tarbeck_bimbo_miss_7125218e:
+
+    # LADY_TARBECK "Give me all your kittens!"
+    LADY_TARBECK "Bana tüm kediciklerini ver!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:672
+translate tr replay_tarbeck_bimbo_miss_c9e78710:
+
+    # LADY_TARBECK "Meowww!"
+    LADY_TARBECK "Miyavvv!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:673
+translate tr replay_tarbeck_bimbo_miss_1f91d350:
+
+    # "I didn't know whether to laugh or not, but before I could make the choice, my cock decided for me."
+    "Gülmeli miyim değil miyim bilmiyordum, ama seçimi yapamadan sikim benim için karar verdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:692
+translate tr replay_tarbeck_bimbo_miss_51568674:
+
+    # MC "HRGHHH...!"
+    MC "HRGHHH...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:693
+translate tr replay_tarbeck_bimbo_miss_909f2537:
+
+    # "Every muscle tightened in my body as I buried my cock into Lady Tarbeck and flooded her womb with my seed."
+    "Sikimi Leydi Tarbeck'e gömüp rahmini tohumumla doldururken bedenimdeki her kas gerildi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:694
+translate tr replay_tarbeck_bimbo_miss_4a6fffb2:
+
+    # "Her mouth opened as a breathless gasp escaped her parted lips."
+    "Ayrık dudaklarından nefessiz bir iç çekiş kaçarken ağzı açıldı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:695
+translate tr replay_tarbeck_bimbo_miss_462c8b08:
+
+    # "And I felt her tighten around me too."
+    "Ve onun da etrafımda sıkılaştığını hissettim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:696
+translate tr replay_tarbeck_bimbo_miss_c0f1e230:
+
+    # LADY_TARBECK "Oooooh...!"
+    LADY_TARBECK "Oooooh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:697
+translate tr replay_tarbeck_bimbo_miss_3459fe6a:
+
+    # LADY_TARBECK "Mhmm... Phew!"
+    LADY_TARBECK "Mhmm... Vay be!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:698
+translate tr replay_tarbeck_bimbo_miss_897c2e3a:
+
+    # LADY_TARBECK "Now I'm all stuffed! Haha!"
+    LADY_TARBECK "Artık tamamen doldum! Haha!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:699
+translate tr replay_tarbeck_bimbo_miss_3a33973d:
+
+    # LADY_TARBECK "Thanks for the cum!"
+    LADY_TARBECK "Döl için teşekkürler!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:703
+translate tr replay_tarbeck_bimbo_miss_d588a754:
+
+    # "Slowly, I rose back to my feet. For the first time,"
+    "Yavaşça yeniden ayağa kalktım. İlk kez,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:704
+translate tr replay_tarbeck_bimbo_miss_ccb78098:
+
+    # "I thought {i}my{/i} legs would give out as Lady Tarbeck sprang back to her feet."
+    "Leydi Tarbeck yeniden ayağa fırlarken {i}benim{/i} bacaklarımın çökeceğini düşündüm."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:710
+translate tr replay_tarbeck_bimbo_miss_0da58890:
+
+    # LADY_TARBECK @ smile "That was AMAZING!"
+    LADY_TARBECK @ smile "Bu MUHTEŞEMDİ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:711
+translate tr replay_tarbeck_bimbo_miss_0b7babd3:
+
+    # LADY_TARBECK @ blush "You should, umm, come back, like, real soon!"
+    LADY_TARBECK @ blush "Sen, şey, gerçekten çok yakında, şey, geri gelmelisin!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:712
+translate tr replay_tarbeck_bimbo_miss_b7c10859:
+
+    # LADY_TARBECK @ smile "Why don't you just join us for breakfast tomorrow?"
+    LADY_TARBECK @ smile "Neden yarın kahvaltıda bize katılmıyorsun?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:713
+translate tr replay_tarbeck_bimbo_miss_e0796d6c:
+
+    # MC @ smile "My lady, it would depend on the time. I'm normally quite busy."
+    MC @ smile "Leydim, saate bağlı. Normalde oldukça meşgulüm."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:714
+translate tr replay_tarbeck_bimbo_miss_ff7b9a5a:
+
+    # LADY_TARBECK @ sad "Booooo!"
+    LADY_TARBECK @ sad "Buuuu!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:715
+translate tr replay_tarbeck_bimbo_miss_f63d81b0:
+
+    # LADY_TARBECK @ blush "I pwomiseee I'll make it worth your timeee..."
+    LADY_TARBECK @ blush "Söööz veriyorummm zamanına değecek..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:716
+translate tr replay_tarbeck_bimbo_miss_717886f7:
+
+    # "Lord Tarbeck raised a brow as he smirked."
+    "Lord Tarbeck sırıtırken bir kaşını kaldırdı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:717
+translate tr replay_tarbeck_bimbo_miss_42be7914:
+
+    # TARBECK @ smile "You are welcome to join us, of course, but please, don't rush on account of my wife's... {i}eagerness.{/i}"
+    TARBECK @ smile "Tabii ki bize katılabilirsin, ama lütfen karımın... {i}hevesi{/i} yüzünden acele etme."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:718
+translate tr replay_tarbeck_bimbo_miss_f7338f0d:
+
+    # LADY_TARBECK @ smile "Hehe, see you soon, [player_name]."
+    LADY_TARBECK @ smile "Hehe, yakında görüşürüz, [player_name]."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:727
+translate tr replay_tarbeck_bimbo_miss_1d698d79:
+
+    # LADY_TARBECK "Hehe, he's feeding my kitty downstairs so much milk!"
+    LADY_TARBECK "Hehe, aşağıdaki kediciğime o kadar çok süt veriyor ki!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:728
+translate tr replay_tarbeck_bimbo_miss_b2d2ab27:
+
+    # LADY_TARBECK "Give me every drop!"
+    LADY_TARBECK "Her damlayı ver bana!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:729
+translate tr replay_tarbeck_bimbo_miss_cb827013:
+
+    # "My body tightened up as I grunted, pouring my thick load into Lady Tarbeck as she moaned hotly."
+    "O ateşli bir şekilde inlerken, kalın yükümü Leydi Tarbeck'e boşaltırken bedenim kasıldı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:730
+translate tr replay_tarbeck_bimbo_miss_0dee20bd:
+
+    # "I felt her body tighten and tremble instinctively around me as her lips parted."
+    "Dudakları aralanırken bedeninin içgüdüsel olarak etrafımda sıkılaşıp titrediğini hissettim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:731
+translate tr replay_tarbeck_bimbo_miss_e10084a9:
+
+    # LADY_TARBECK "Ooooh... That's it... Mhmm... Fill me up, hehe."
+    LADY_TARBECK "Ooooh... İşte bu... Mhmm... Doldur beni, hehe."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:732
+translate tr replay_tarbeck_bimbo_miss_27726a09:
+
+    # MC "(Gods, she really was built to drain me!)"
+    MC "(Tanrılar, gerçekten beni boşaltmak için yaratılmış!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:736
+translate tr replay_tarbeck_bimbo_miss_e8949df1:
+
+    # LADY_TARBECK "Can we, umm, go shopping now?"
+    LADY_TARBECK "Şimdi, şey, alışverişe gidebilir miyiz?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:737
+translate tr replay_tarbeck_bimbo_miss_8ac19d2c:
+
+    # TARBECK "Of course, dear."
+    TARBECK "Tabii ki, sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:738
+translate tr replay_tarbeck_bimbo_miss_fad47f71:
+
+    # LADY_TARBECK "Yayy!"
+    LADY_TARBECK "Yayy!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:739
+translate tr replay_tarbeck_bimbo_miss_9ce87d39:
+
+    # LADY_TARBECK "You just stay here and recover, hehe."
+    LADY_TARBECK "Sen burada kal ve toparlan, hehe."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:740
+translate tr replay_tarbeck_bimbo_miss_d0e1ecd6:
+
+    # LADY_TARBECK "But be warned... If you're still here when I get back, I'm draining you again!"
+    LADY_TARBECK "Ama uyarayım... Döndüğümde hâlâ buradaysan, seni yine boşaltırım!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:741
+translate tr replay_tarbeck_bimbo_miss_69d0ee0f:
+
+    # MC "(Gods have mercy upon me.)"
+    MC "(Tanrılar bana merhamet etsin.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:753
+translate tr rom_tarbeck_bimbo_join_breakfast_55221c9f:
+
+    # "As I entered the dining hall, an ecstatic Lady Tarbeck rose from her seat and practically flung herself into my arms."
+    "Yemek salonuna girdiğimde, coşkulu Leydi Tarbeck koltuğundan kalktı ve adeta kendini kollarıma attı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:754
+translate tr rom_tarbeck_bimbo_join_breakfast_d3831c32:
+
+    # LADY_TARBECK @ smile "YOU CAME! YOU CAME!"
+    LADY_TARBECK @ smile "GELDİN! GELDİN!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:756
+translate tr rom_tarbeck_bimbo_join_breakfast_987c9a20:
+
+    # TARBECK @ smile "Good morning, I'll have some fruit and bread brought out for you if you're joining us."
+    TARBECK @ smile "Günaydın, bize katılıyorsan sana biraz meyve ve ekmek getirtirim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:757
+translate tr rom_tarbeck_bimbo_join_breakfast_5965239c:
+
+    # MC @ smile "Thank you."
+    MC @ smile "Teşekkürler."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:759
+translate tr rom_tarbeck_bimbo_join_breakfast_08cfb9e1:
+
+    # "For the next twenty minutes, I ate the exotic fruit and food brought out to me as Lady Tarbeck laughed and rubbed at my thigh."
+    "Sonraki yirmi dakika boyunca, Leydi Tarbeck gülüp bacağımı ovuştururken bana getirilen egzotik meyve ve yiyecekleri yedim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:760
+translate tr rom_tarbeck_bimbo_join_breakfast_61d05ec1:
+
+    # "It was strange, things seemed almost... normal?"
+    "Garipti, her şey neredeyse... normal mi görünüyordu?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:768
+translate tr rom_tarbeck_bimbo_join_breakfast_f9fd1b09:
+
+    # LADY_TARBECK @ smile "So then, we had two of the maids present themselves to the monster thingy downstairs, and it was SOOOO fun to watch!"
+    LADY_TARBECK @ smile "Sonra, aşağıdaki canavar şeyine iki hizmetçiyi sundurduk ve izlemesi ÇOOOK eğlenceliydi!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:769
+translate tr rom_tarbeck_bimbo_join_breakfast_f2b9c512:
+
+    # TARBECK @ smile "Yes, yes, it was most enjoyable."
+    TARBECK @ smile "Evet, evet, gayet keyifliydi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:770
+translate tr rom_tarbeck_bimbo_join_breakfast_d97c45e8:
+
+    # TARBECK @ smile "My wife has developed appetites that could rival even mine, it seems."
+    TARBECK @ smile "Görünüşe göre karım, benimkilerle bile yarışabilecek iştahlar geliştirdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:771
+translate tr rom_tarbeck_bimbo_join_breakfast_3160569a:
+
+    # LADY_TARBECK @ blush "Uhuh, and speaking of 'appetites' and stuff."
+    LADY_TARBECK @ blush "Ahıh, ve 'iştah' falan demişken."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:772
+translate tr rom_tarbeck_bimbo_join_breakfast_079e73af:
+
+    # "Lady Tarbeck's hand reached over to grab at my cock through the fabric."
+    "Leydi Tarbeck'in eli uzandı ve kumaşın üzerinden sikimi kavradı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:773
+translate tr rom_tarbeck_bimbo_join_breakfast_2369fa74:
+
+    # LADY_TARBECK @ blush "Come give me some dessert."
+    LADY_TARBECK @ blush "Gel bana biraz tatlı ver."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:774
+translate tr rom_tarbeck_bimbo_join_breakfast_c6124936:
+
+    # TARBECK @ smile "This horny already in the morning?"
+    TARBECK @ smile "Sabah sabah bu kadar azgın mısın?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:775
+translate tr rom_tarbeck_bimbo_join_breakfast_c9d61b03:
+
+    # LADY_TARBECK @ blush "Uhuh, and I can feel how hard you are."
+    LADY_TARBECK @ blush "Ahıh, ve ne kadar sert olduğunu hissedebiliyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:776
+translate tr rom_tarbeck_bimbo_join_breakfast_8698ad61:
+
+    # LADY_TARBECK @ blush "Come on, don't keep me waiting."
+    LADY_TARBECK @ blush "Hadi, beni bekletme."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:777
+translate tr rom_tarbeck_bimbo_join_breakfast_a0e7eb27:
+
+    # MC @ smile "Alright, let's head up to your room and-"
+    MC @ smile "Pekâlâ, yukarı odana gidelim ve-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:778
+translate tr rom_tarbeck_bimbo_join_breakfast_3c8f73ed:
+
+    # LADY_TARBECK @ angry "No chance!"
+    LADY_TARBECK @ angry "Asla!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:779
+translate tr rom_tarbeck_bimbo_join_breakfast_a5548551:
+
+    # LADY_TARBECK @ blush "Not when we have a perfectly good table to fuck on!"
+    LADY_TARBECK @ blush "Sikişmek için gayet uygun bir masamız varken değil!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:780
+translate tr rom_tarbeck_bimbo_join_breakfast_6613bab0:
+
+    # MC @ shock "... Oh!"
+    MC @ shock "... Ah!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:798
+translate tr replay_tarbeck_bimbo_breakfast_743cce7b:
+
+    # LADY_TARBECK "Ahh! That's it!"
+    LADY_TARBECK "Ahh! İşte bu!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:799
+translate tr replay_tarbeck_bimbo_breakfast_0d95ac2c:
+
+    # LADY_TARBECK "Rub that huge cock on my fat ass!"
+    LADY_TARBECK "O koca siki şişman kıçıma sürt!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:800
+translate tr replay_tarbeck_bimbo_breakfast_c7ce2332:
+
+    # "Lady Tarbeck laughed as I slapped my cock on her round, juicy ass, gliding it back and forth as she wiggled her butt enticingly."
+    "Sikimi yuvarlak, sulu kıçına şaplatırken Leydi Tarbeck güldü; kıçını cezbedici bir şekilde sallarken onu ileri geri kaydırıyordum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:801
+translate tr replay_tarbeck_bimbo_breakfast_e56ddfb2:
+
+    # LADY_TARBECK "Haha! That feels amazing! Mmfghh..."
+    LADY_TARBECK "Haha! Bu harika hissettiriyor! Mmfghh..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:802
+translate tr replay_tarbeck_bimbo_breakfast_7099d2e1:
+
+    # LADY_TARBECK "You should just like, stay here ALL THE TIME and we could like, FUCK every day!"
+    LADY_TARBECK "Sen şey, HER ZAMAN burada kalmalısın ve biz, şey, her gün SİKİŞEBİLİRİZ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:803
+translate tr replay_tarbeck_bimbo_breakfast_a495d22a:
+
+    # TARBECK "Dear... We discussed this, he's with the Adventurers' Guild, he can't just-"
+    TARBECK "Sevgilim... Bunu konuştuk, o Maceracılar Loncası'nda, öylece-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:804
+translate tr replay_tarbeck_bimbo_breakfast_8053bfab:
+
+    # LADY_TARBECK "NU UH!"
+    LADY_TARBECK "HAYIR!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:805
+translate tr replay_tarbeck_bimbo_breakfast_5856f1b4:
+
+    # LADY_TARBECK "Like urghh, forget all these dumb rules and just fuck me already!"
+    LADY_TARBECK "Şey, öf, tüm bu aptal kuralları unut ve artık beni sik!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:807
+translate tr replay_tarbeck_bimbo_breakfast_9f3e8e6a:
+
+    # LADY_TARBECK "Teehee! I knew you like, wouldn't stay away for long!"
+    LADY_TARBECK "Teehee! Şey, uzun süre uzak kalamayacağını biliyordum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:808
+translate tr replay_tarbeck_bimbo_breakfast_15611028:
+
+    # LADY_TARBECK "Who has time to be a big, dumb adventurer when I have a perfectly fat ass needing fucked?"
+    LADY_TARBECK "Sikilmeye ihtiyacı olan gayet şişman bir kıçım varken kimin koca, aptal bir maceracı olmaya zamanı olur?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:809
+translate tr replay_tarbeck_bimbo_breakfast_4966a59b:
+
+    # MC "You have such a way with words..."
+    MC "Kelimelerle aran çok iyi..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:810
+translate tr replay_tarbeck_bimbo_breakfast_d7f21185:
+
+    # LADY_TARBECK "Like, thanks!"
+    LADY_TARBECK "Şey, teşekkürler!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:811
+translate tr replay_tarbeck_bimbo_breakfast_d4f39831:
+
+    # "With my cock slapped on her soft, bubbly ass, she wiggled it playfully as I gently rubbed against her."
+    "Sikim yumuşak, balon gibi kıçına şaplatılmışken, ben nazikçe ona sürtünürken o kıçını oynakça salladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:812
+translate tr replay_tarbeck_bimbo_breakfast_810db7be:
+
+    # LADY_TARBECK "Come on, come onnnn!"
+    LADY_TARBECK "Hadi, hadiii!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:813
+translate tr replay_tarbeck_bimbo_breakfast_96264c7d:
+
+    # LADY_TARBECK "Stop teasing and put it in already!"
+    LADY_TARBECK "Cilveyi bırak ve artık içeri sok!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:824
+translate tr replay_tarbeck_bimbo_breakfast_ff50ea60:
+
+    # "Lady Tarbeck moaned as she felt the member sink into her."
+    "Leydi Tarbeck organın içine gömüldüğünü hissederken inledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:825
+translate tr replay_tarbeck_bimbo_breakfast_c0f1e230:
+
+    # LADY_TARBECK "Oooooh...!"
+    LADY_TARBECK "Oooooh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:826
+translate tr replay_tarbeck_bimbo_breakfast_8c34cfe7:
+
+    # LADY_TARBECK "It's like, soooo biggg!"
+    LADY_TARBECK "Şey, çoooook büyükkk!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:827
+translate tr replay_tarbeck_bimbo_breakfast_912ab232:
+
+    # LADY_TARBECK "Mmffghh! Now THIS is the kind of breakfast I want to wake up to!"
+    LADY_TARBECK "Mmffghh! İşte uyanmak istediğim kahvaltı türü BU!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:828
+translate tr replay_tarbeck_bimbo_breakfast_138e3a33:
+
+    # TARBECK "Don't make too much of a mess, dear."
+    TARBECK "Çok fazla ortalığı batırma, sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:829
+translate tr replay_tarbeck_bimbo_breakfast_ac38f7bc:
+
+    # TARBECK "We have an event to go to later."
+    TARBECK "Sonra katılmamız gereken bir etkinlik var."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:830
+translate tr replay_tarbeck_bimbo_breakfast_3825743d:
+
+    # "Lady Tarbeck wiggled her ass playfully, doing her best to bounce her round butt and match my rhythm."
+    "Leydi Tarbeck kıçını oynakça salladı, yuvarlak poposunu zıplatıp ritmime ayak uydurmak için elinden geleni yaptı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:831
+translate tr replay_tarbeck_bimbo_breakfast_4221a1a7:
+
+    # LADY_TARBECK "Yes dear, Mmmfghh!"
+    LADY_TARBECK "Evet sevgilim, Mmmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:832
+translate tr replay_tarbeck_bimbo_breakfast_de1699bd:
+
+    # LADY_TARBECK "Ahh! Fuck me! FUCK ME HARDER!"
+    LADY_TARBECK "Ahh! Sik beni! BENİ DAHA SERT SİK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:834
+translate tr replay_tarbeck_bimbo_breakfast_55df03ba:
+
+    # "Lady Tarbeck wiggled her butt back onto my cock as she felt my member sink into her womanhood."
+    "Organımın kadınlığına gömüldüğünü hissederken Leydi Tarbeck kıçını geriye, sikime doğru salladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:835
+translate tr replay_tarbeck_bimbo_breakfast_f8a45edb:
+
+    # LADY_TARBECK "Ahhh...!"
+    LADY_TARBECK "Ahhh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:836
+translate tr replay_tarbeck_bimbo_breakfast_b4de188b:
+
+    # LADY_TARBECK "N-Nice and snug stuffed in me! Hehe!"
+    LADY_TARBECK "İçimde güzelce ve sıkıca dolu! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:837
+translate tr replay_tarbeck_bimbo_breakfast_46b10b64:
+
+    # "As I began to fuck her, her tits swayed back and forth as her tight pussy squeezed around me."
+    "Onu sikmeye başladığımda, dar amı etrafımda sıkılırken memeleri ileri geri sallandı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:838
+translate tr replay_tarbeck_bimbo_breakfast_9e5fd766:
+
+    # LADY_TARBECK "Teehee! He's so naughty with me!"
+    LADY_TARBECK "Teehee! Bana karşı çok yaramaz!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:839
+translate tr replay_tarbeck_bimbo_breakfast_0734d928:
+
+    # LADY_TARBECK "He just can't keep away!"
+    LADY_TARBECK "Uzak duramıyor işte!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:840
+translate tr replay_tarbeck_bimbo_breakfast_9bb9e1d0:
+
+    # TARBECK "Who could resist, my love?"
+    TARBECK "Kim karşı koyabilir ki, aşkım?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:841
+translate tr replay_tarbeck_bimbo_breakfast_d12a44d0:
+
+    # LADY_TARBECK "Nawww! That's so SWEET!"
+    LADY_TARBECK "Ayyy! Bu çok TATLI!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:842
+translate tr replay_tarbeck_bimbo_breakfast_17ccb982:
+
+    # LADY_TARBECK "Isn't he like, really sweet, [player_name]?"
+    LADY_TARBECK "O, şey, gerçekten tatlı değil mi, [player_name]?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:843
+translate tr replay_tarbeck_bimbo_breakfast_6e9483aa:
+
+    # MC "{i}*Huff*{/i} I couldn't care less right now!"
+    MC "{i}*Huff*{/i} Şu an hiç umurumda değil!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:844
+translate tr replay_tarbeck_bimbo_breakfast_5ce54766:
+
+    # LADY_TARBECK "Mmmfghh... Of course!"
+    LADY_TARBECK "Mmmfghh... Tabii ki!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:845
+translate tr replay_tarbeck_bimbo_breakfast_c3a05a63:
+
+    # LADY_TARBECK "Go on, fuck me! FUCK ME SILLY WITH YOUR HUGE COCK!"
+    LADY_TARBECK "Devam et, sik beni! KOCA SİKİNLE BENİ APTALA ÇEVİR!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:856
+translate tr replay_tarbeck_bimbo_breakfast_c633bfd6:
+
+    # "Grabbing her hair, I began to slam into Lady Tarbeck from behind as her moans increased."
+    "Saçını kavrayıp, iniltileri artarken Leydi Tarbeck'e arkadan çakmaya başladım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:857
+translate tr replay_tarbeck_bimbo_breakfast_eaaf9167:
+
+    # "It seemed even she was now struggling to control herself as she squirmed in my grasp."
+    "Kucağımda kıvranırken, artık onun bile kendini kontrol etmekte zorlandığı görülüyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:858
+translate tr replay_tarbeck_bimbo_breakfast_9b97c23c:
+
+    # LADY_TARBECK "Ah! Ah! THAT'S IT!"
+    LADY_TARBECK "Ah! Ah! İŞTE BU!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:859
+translate tr replay_tarbeck_bimbo_breakfast_ed6ef30c:
+
+    # LADY_TARBECK "OH FUCK! HE'S POUNDING ME SO GOOD!"
+    LADY_TARBECK "AH SİKTİR! BENİ ÇOK İYİ DÖVÜYOR!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:860
+translate tr replay_tarbeck_bimbo_breakfast_ffce8805:
+
+    # LADY_TARBECK "Are you watching, honey?!"
+    LADY_TARBECK "İzliyor musun, tatlım?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:861
+translate tr replay_tarbeck_bimbo_breakfast_6d86565b:
+
+    # LADY_TARBECK "He's going to ruin my poor little pussy! Hehe!"
+    LADY_TARBECK "Zavallı küçük amımı mahvedecek! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:862
+translate tr replay_tarbeck_bimbo_breakfast_e62f1809:
+
+    # "Her tight cunt squeezed desperately around me as her ass bounced with every movement."
+    "Kıçı her hareketle zıplarken dar amı çaresizce etrafımda sıkıldı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:863
+translate tr replay_tarbeck_bimbo_breakfast_aadff74b:
+
+    # "Lord Tarbeck sat and watched curiously as his wife's huge tits swayed with every thrust."
+    "Lord Tarbeck oturup, karısının koca memelerinin her itişte sallanmasını merakla izledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:864
+translate tr replay_tarbeck_bimbo_breakfast_e8b6a657:
+
+    # MC "Hrghh...! I'm getting close!"
+    MC "Hrghh...! Yaklaşıyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:865
+translate tr replay_tarbeck_bimbo_breakfast_e2e85e77:
+
+    # LADY_TARBECK "Like, me toooo!"
+    LADY_TARBECK "Şey, ben deee!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:866
+translate tr replay_tarbeck_bimbo_breakfast_ce170fda:
+
+    # LADY_TARBECK "ME TOOO!!"
+    LADY_TARBECK "BEN DEEE!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:867
+translate tr replay_tarbeck_bimbo_breakfast_2b1d1bbf:
+
+    # LADY_TARBECK "Ahh!! Do it! Slam that big cock in me!"
+    LADY_TARBECK "Ahh!! Yap! O koca siki içime çak!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:868
+translate tr replay_tarbeck_bimbo_breakfast_0e382406:
+
+    # LADY_TARBECK "Don't stop until you fill my little pussy up!"
+    LADY_TARBECK "Küçük amımı doldurana dek durma!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:869
+translate tr replay_tarbeck_bimbo_breakfast_5b0b3351:
+
+    # LADY_TARBECK "I want it! I want it so-"
+    LADY_TARBECK "İstiyorum! Onu o kadar çok istiyorum ki-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:871
+translate tr replay_tarbeck_bimbo_breakfast_90031e53:
+
+    # "Once more grabbing a fistful of her hair, I pounded Lady Tarbeck's round, fat rear from behind."
+    "Bir kez daha bir avuç saçını kavrayıp, Leydi Tarbeck'in yuvarlak, şişman arkasını arkadan dövdüm."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:872
+translate tr replay_tarbeck_bimbo_breakfast_543bd43d:
+
+    # "Her moans became louder as I watched the fat of her ass push and jiggle with every thrust,"
+    "Her itişte kıçının yağının itilip sallanmasını izlerken iniltileri yükseldi,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:873
+translate tr replay_tarbeck_bimbo_breakfast_1c2b9f0e:
+
+    # "the lewd sounds of {i}*Phap!* *Phap!* *Phap!*{/i} filling the dining hall."
+    "{i}*Phap!* *Phap!* *Phap!*{/i} müstehcen sesleri yemek salonunu dolduruyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:874
+translate tr replay_tarbeck_bimbo_breakfast_389ed085:
+
+    # LADY_TARBECK "F-FUCK YESS!"
+    LADY_TARBECK "S-SİKTİR EVETT!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:875
+translate tr replay_tarbeck_bimbo_breakfast_cf0bd886:
+
+    # LADY_TARBECK "Pound my pussy! FUCK ME HARDER PLEASE!"
+    LADY_TARBECK "Döv amımı! LÜTFEN BENİ DAHA SERT SİK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:876
+translate tr replay_tarbeck_bimbo_breakfast_bfb7ca19:
+
+    # "Her huge tits swung back and forth, the jewelry on the ends of her tits lightly jingling as she moaned."
+    "İnlerken koca memeleri ileri geri savruluyor, meme uçlarındaki takılar hafifçe şıngırdıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:877
+translate tr replay_tarbeck_bimbo_breakfast_169e1fb2:
+
+    # LADY_TARBECK "C-Come on...! Mmfghh!"
+    LADY_TARBECK "H-Hadi...! Mmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:878
+translate tr replay_tarbeck_bimbo_breakfast_d2e1887c:
+
+    # LADY_TARBECK "I c-can feel you throbbing in me!"
+    LADY_TARBECK "İçimde zonkladığını h-hissedebiliyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:879
+translate tr replay_tarbeck_bimbo_breakfast_8330727d:
+
+    # LADY_TARBECK "Give it to me!"
+    LADY_TARBECK "Ver onu bana!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:880
+translate tr replay_tarbeck_bimbo_breakfast_c92a3b82:
+
+    # "Her tight cunt gripped me with desperation."
+    "Dar amı beni çaresizlikle kavradı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:881
+translate tr replay_tarbeck_bimbo_breakfast_bcb5820e:
+
+    # LADY_TARBECK "Fill me up! MAKE ME CARRY YOUR BABIES!"
+    LADY_TARBECK "Doldur beni! BENİ BEBEKLERİNİ TAŞITMAYA ZORLA!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:901
+translate tr replay_tarbeck_bimbo_breakfast_a404f071:
+
+    # "I grunted, pulling Lady Tarbeck's head back as I buried my cock deep, flooding her welcoming, needy hole with enough cum to leave her satisfied."
+    "Homurdandım, Leydi Tarbeck'in başını geri çekerken sikimi derine gömdüm, kabul eden, muhtaç deliğini onu tatmin edecek kadar dölle doldurdum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:902
+translate tr replay_tarbeck_bimbo_breakfast_5bf2739f:
+
+    # MC "Grghhh... Fuck!"
+    MC "Grghhh... Siktir!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:903
+translate tr replay_tarbeck_bimbo_breakfast_8ae7579e:
+
+    # LADY_TARBECK "Oooooooooooooooooh...!"
+    LADY_TARBECK "Oooooooooooooooooh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:904
+translate tr replay_tarbeck_bimbo_breakfast_dedf8838:
+
+    # LADY_TARBECK "It feelssss shooooo ghooodhhh!"
+    LADY_TARBECK "Çoooookkk iyihhh hissettiriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:905
+translate tr replay_tarbeck_bimbo_breakfast_3d6acebe:
+
+    # LADY_TARBECK "Mmfghhh... I'm a little cum addict for you! Haha!"
+    LADY_TARBECK "Mmfghhh... Senin için küçük bir döl bağımlısıyım! Haha!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:906
+translate tr replay_tarbeck_bimbo_breakfast_2e71dc9d:
+
+    # "After making sure I had given her my fill, I slowly and carefully began to pull my cock out from her still desperately tight hole."
+    "Ona payıma düşeni verdiğimden emin olduktan sonra, sikimi hâlâ çaresizce dar olan deliğinden yavaş ve dikkatli bir şekilde çıkarmaya başladım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:911
+translate tr replay_tarbeck_bimbo_breakfast_9a9f421b:
+
+    # "{i}*POP!*{/i}"
+    "{i}*POP!*{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:912
+translate tr replay_tarbeck_bimbo_breakfast_db3fc3bf:
+
+    # LADY_TARBECK "Nooooo... Put it back! PUT IT BACK RIGHT WHERE IT BELONGS!"
+    LADY_TARBECK "Hayırrr... Geri sok! ONU AİT OLDUĞU YERE GERİ SOK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:913
+translate tr replay_tarbeck_bimbo_breakfast_b5baeffb:
+
+    # TARBECK "Dear... Perhaps you should not spend {i}all{/i} day fucking?"
+    TARBECK "Sevgilim... Belki de {i}tüm{/i} günü sikişerek geçirmemelisin?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:914
+translate tr replay_tarbeck_bimbo_breakfast_084c6ad7:
+
+    # LADY_TARBECK "Hmphh!"
+    LADY_TARBECK "Hıh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:921
+translate tr replay_tarbeck_bimbo_breakfast_4433c12a:
+
+    # LADY_TARBECK @ smile "Phew!"
+    LADY_TARBECK @ smile "Vay be!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:922
+translate tr replay_tarbeck_bimbo_breakfast_2e796d8e:
+
+    # LADY_TARBECK @ smile "That felt great!"
+    LADY_TARBECK @ smile "Harika hissettirdi!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:923
+translate tr replay_tarbeck_bimbo_breakfast_04e965f1:
+
+    # LADY_TARBECK @ talk "Oh, we're throwing a little party tonight."
+    LADY_TARBECK @ talk "Ah, bu gece küçük bir parti veriyoruz."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:924
+translate tr replay_tarbeck_bimbo_breakfast_967cf621:
+
+    # LADY_TARBECK @ talk "It's like, REALLY important and stuff!"
+    LADY_TARBECK @ talk "Bu, şey, GERÇEKTEN önemli falan!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:925
+translate tr replay_tarbeck_bimbo_breakfast_6a4f2459:
+
+    # MC @ think "Is it?"
+    MC @ think "Öyle mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:926
+translate tr replay_tarbeck_bimbo_breakfast_9d116f28:
+
+    # LADY_TARBECK @ smile "Mhmm! Like, we're going to show off my new body and stuff!"
+    LADY_TARBECK @ smile "Mhmm! Şey, yeni bedenimi falan sergileyeceğiz!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:927
+translate tr replay_tarbeck_bimbo_breakfast_9a834b61:
+
+    # LADY_TARBECK @ blush "I'd really, {i}really{/i} like you to come so we can fuck!"
+    LADY_TARBECK @ blush "Gelmeni gerçekten, {i}gerçekten{/i} çok isterim ki sikişebilelim!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:928
+translate tr replay_tarbeck_bimbo_breakfast_a3315b1d:
+
+    # LADY_TARBECK @ smile "It'll be like, a really fun way to let everyone know things are different around here now!"
+    LADY_TARBECK @ smile "Bu, şey, herkese artık burada işlerin farklı olduğunu bildirmenin gerçekten eğlenceli bir yolu olacak!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:929
+translate tr replay_tarbeck_bimbo_breakfast_dbe6efc0:
+
+    # TARBECK @ talk "Yes, do feel free to come."
+    TARBECK @ talk "Evet, gelmekten çekinme."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:930
+translate tr replay_tarbeck_bimbo_breakfast_7075627e:
+
+    # TARBECK @ smile "But as that... other, monster form you take."
+    TARBECK @ smile "Ama girdiğin o... diğer, canavar formuyla."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:931
+translate tr replay_tarbeck_bimbo_breakfast_66aa682c:
+
+    # TARBECK @ smile "My guests love a spectacle, as you know."
+    TARBECK @ smile "Bildiğin gibi, misafirlerim bir gösteriye bayılır."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:932
+translate tr replay_tarbeck_bimbo_breakfast_76895ca0:
+
+    # MC @ smile "I will see what I can do..."
+    MC @ smile "Ne yapabileceğime bakacağım..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:934
+translate tr replay_tarbeck_bimbo_breakfast_656025d7:
+
+    # LADY_TARBECK @ smile "HOORAY!"
+    LADY_TARBECK @ smile "YAŞASIN!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:935
+translate tr replay_tarbeck_bimbo_breakfast_5587027a:
+
+    # LADY_TARBECK @ smile "See you later!"
+    LADY_TARBECK @ smile "Sonra görüşürüz!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:941
+translate tr replay_tarbeck_bimbo_breakfast_974c6744:
+
+    # "Lady Tarbeck gasped as she felt the splash of hot seed once again pour into her welcoming womb."
+    "Leydi Tarbeck sıcak tohumun kabul eden rahmine bir kez daha dolduğunu hissederken nefesi kesildi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:942
+translate tr replay_tarbeck_bimbo_breakfast_cc1d1a15:
+
+    # MC "GRGHHH!!"
+    MC "GRGHHH!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:943
+translate tr replay_tarbeck_bimbo_breakfast_c7037c0a:
+
+    # LADY_TARBECK "Mmmmfghhhhhhh...!!"
+    LADY_TARBECK "Mmmmfghhhhhhh...!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:944
+translate tr replay_tarbeck_bimbo_breakfast_7c68e190:
+
+    # LADY_TARBECK "I can feel all your cum splashing about inside of me!"
+    LADY_TARBECK "Tüm dölünün içimde çalkalandığını hissedebiliyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:945
+translate tr replay_tarbeck_bimbo_breakfast_107f280b:
+
+    # LADY_TARBECK "Honey! Did you see? He's filled me up SOOO MUCH!!"
+    LADY_TARBECK "Tatlım! Gördün mü? Beni O KADAR ÇOK doldurdu!!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:946
+translate tr replay_tarbeck_bimbo_breakfast_7de7da3d:
+
+    # TARBECK "Very good, dear, now clean up before we leave."
+    TARBECK "Çok güzel, sevgilim, şimdi ayrılmadan önce temizlen."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:947
+translate tr replay_tarbeck_bimbo_breakfast_db90f193:
+
+    # TARBECK "You know I can't have cum seeping out of you during meetings."
+    TARBECK "Toplantılar sırasında senden döl sızmasına izin veremeyeceğimi biliyorsun."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:948
+translate tr replay_tarbeck_bimbo_breakfast_92170567:
+
+    # LADY_TARBECK "Hehe, yes darling."
+    LADY_TARBECK "Hehe, evet sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:972
+translate tr rom_tarbeck_bimbo_party_0b141a87:
+
+    # LADY_TARBECK @ smile "Yayyy! You made it!"
+    LADY_TARBECK @ smile "Yayyy! Gelebildin!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:973
+translate tr rom_tarbeck_bimbo_party_3e433b89:
+
+    # MC @ smile "Lady Tarbeck."
+    MC @ smile "Leydi Tarbeck."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:974
+translate tr rom_tarbeck_bimbo_party_7437fdac:
+
+    # LADY_TARBECK @ blush "I'm so glad you're here!"
+    LADY_TARBECK @ blush "Burada olduğuna çok sevindim!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:975
+translate tr rom_tarbeck_bimbo_party_81a06a36:
+
+    # LADY_TARBECK @ blush2 "Like, it's time for us to put on a show and stuff!"
+    LADY_TARBECK @ blush2 "Şey, artık bir gösteri yapma falan zamanımız geldi!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:976
+translate tr rom_tarbeck_bimbo_party_747801b3:
+
+    # MC @ think "Uhh... What did you have in mind?"
+    MC @ think "Şey... Aklında ne vardı?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:977
+translate tr rom_tarbeck_bimbo_party_359a722f:
+
+    # "Lady Tarbeck reached out and grabbed my hand."
+    "Leydi Tarbeck uzandı ve elimi kavradı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:978
+translate tr rom_tarbeck_bimbo_party_3762feb9:
+
+    # LADY_TARBECK @ smile "Come with me! Lord Tarbeck is already tied up!"
+    LADY_TARBECK @ smile "Benimle gel! Lord Tarbeck çoktan bağlandı!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:982
+translate tr rom_tarbeck_bimbo_party_e0be8fcc:
+
+    # MC "Wait! What do you have planned exactly?!"
+    MC "Dur! Tam olarak ne planlıyorsun?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:984
+translate tr rom_tarbeck_bimbo_party_aef351c1:
+
+    # "{i}Twenty frantic minutes later and a lot of lipstick.{/i}"
+    "{i}Yirmi telaşlı dakika ve bir sürü ruj sonra.{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:988
+translate tr rom_tarbeck_bimbo_party_32a7ecba:
+
+    # LADY_TARBECK @ smile "OOOH! You came!"
+    LADY_TARBECK @ smile "OOOH! Geldin!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:989
+translate tr rom_tarbeck_bimbo_party_52d4d77f:
+
+    # LADY_TARBECK @ smile "Come on! I want you to fuck me silly in front of everyone again!"
+    LADY_TARBECK @ smile "Hadi! Beni yine herkesin önünde aptala çevirmeni istiyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:990
+translate tr rom_tarbeck_bimbo_party_ac706f95:
+
+    # "Lady Tarbeck grabbed my hand as she dragged me away."
+    "Leydi Tarbeck beni sürüklerken elimi kavradı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:994
+translate tr rom_tarbeck_bimbo_party_1f8d3642:
+
+    # LADY_TARBECK "Honey! We're tying you up again! Hehe!"
+    LADY_TARBECK "Tatlım! Seni yine bağlıyoruz! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:996
+translate tr rom_tarbeck_bimbo_party_cc9d3e81:
+
+    # TARBECK "{i}*Sigh*{/i} Of course, you little tease..."
+    TARBECK "{i}*Sigh*{/i} Tabii ki, seni küçük cilveli..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:997
+translate tr rom_tarbeck_bimbo_party_96465804:
+
+    # "{i}... Fifteen minutes later.{/i}"
+    "{i}... On beş dakika sonra.{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1011
+translate tr replay_tarbeck_bimbo_party_b605fa29:
+
+    # "The crowd gasped and watched as the once pious and pure Lady Tarbeck,"
+    "Kalabalık nefesini tutup izledi; bir zamanların dindar ve saf Leydi Tarbeck,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1012
+translate tr replay_tarbeck_bimbo_party_1679229a:
+
+    # "now stacked with the body of the most delectable of whores, rubbed her fat ass against the cock of a monster,"
+    "artık en lezzetli fahişelerin bedenine sahip, şişman kıçını bir canavarın sikine sürtüyordu,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1013
+translate tr replay_tarbeck_bimbo_party_02de3ad6:
+
+    # "the fabled {i}saviour of Hamun,{/i} giggling as she'd covered herself with increasingly lewd markings over her body."
+    "efsanevi {i}Hamun'un kurtarıcısı,{/i} bedenini giderek daha müstehcen işaretlerle kaplarken kıkırdıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1014
+translate tr replay_tarbeck_bimbo_party_7e4dc3be:
+
+    # GUEST "Is that Lady Tarbeck?!"
+    GUEST "Bu Leydi Tarbeck mi?!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1015
+translate tr replay_tarbeck_bimbo_party_55ff1ffd:
+
+    # GUEST_2 "Oh my... I never knew she had it in her!"
+    GUEST_2 "Aman tanrım... İçinde bunun olduğunu hiç bilmiyordum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1016
+translate tr replay_tarbeck_bimbo_party_84ec6e7c:
+
+    # LADY_TARBECK "Welcome everyone!"
+    LADY_TARBECK "Herkese hoş geldiniz!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1017
+translate tr replay_tarbeck_bimbo_party_f4ddd065:
+
+    # LADY_TARBECK "As you can see! My husband is a little tied up tonight!"
+    LADY_TARBECK "Gördüğünüz gibi! Kocam bu gece biraz bağlı!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1018
+translate tr replay_tarbeck_bimbo_party_abd0226a:
+
+    # LADY_TARBECK "And while he's used to fucking most of you, tonight, he's gonna be a little cuck for me! Hehe!"
+    LADY_TARBECK "Ve o çoğunuzla sikişmeye alışkınken, bu gece benim için küçük bir boynuzlu olacak! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1019
+translate tr replay_tarbeck_bimbo_party_cb79f29d:
+
+    # "The crowd giggled and murmured. After all, this was Lord Tarbeck."
+    "Kalabalık kıkırdayıp mırıldandı. Ne de olsa bu Lord Tarbeck'ti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1020
+translate tr replay_tarbeck_bimbo_party_39914869:
+
+    # LADY_TARBECK "ANYWAY! As you can see from his big, huge cock rubbing against my pussy,"
+    LADY_TARBECK "NEYSE! Koca, dev sikinin amıma sürtünmesinden görebileceğiniz gibi,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1021
+translate tr replay_tarbeck_bimbo_party_7c440133:
+
+    # LADY_TARBECK "I'm gonna do my bestest to take his cock and have ALLL his babies from now on!"
+    LADY_TARBECK "Bundan sonra onun sikini almak ve TÜM bebeklerine sahip olmak için elimden geleni yapacağım!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1022
+translate tr replay_tarbeck_bimbo_party_c1017e27:
+
+    # "You could almost hear a pin drop. The crowd was used to debauchery, to spectacle, but this..."
+    "Neredeyse bir iğnenin düştüğünü duyabilirdiniz. Kalabalık ahlaksızlığa, gösteriye alışkındı, ama bu..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1023
+translate tr replay_tarbeck_bimbo_party_16b760e3:
+
+    # "And Lady Tarbeck no less!"
+    "Üstelik Leydi Tarbeck!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1024
+translate tr replay_tarbeck_bimbo_party_3dedbd34:
+
+    # LADY_TARBECK "Anyway! Like, your job is to all fuck like crazy!"
+    LADY_TARBECK "Neyse! Şey, sizin işiniz hepinizin çılgınca sikişmesi!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1025
+translate tr replay_tarbeck_bimbo_party_55c4f1ea:
+
+    # LADY_TARBECK "Because what's an orgy without friends!"
+    LADY_TARBECK "Çünkü arkadaşsız bir orji neye yarar!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1027
+translate tr replay_tarbeck_bimbo_party_db2fd78a:
+
+    # LADY_TARBECK "Welcome back everyone!"
+    LADY_TARBECK "Tekrar hoş geldiniz millet!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1028
+translate tr replay_tarbeck_bimbo_party_1d18674a:
+
+    # "The crowd clapped and cheered as I rubbed my cock against her wet, inviting hole."
+    "Sikimi onun ıslak, davetkar deliğine sürtünürken kalabalık alkışlayıp tezahürat etti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1029
+translate tr replay_tarbeck_bimbo_party_483a127b:
+
+    # LADY_TARBECK "Mmmfghh... Given how umm, successful and stuff the last party was,"
+    LADY_TARBECK "Mmmfghh... Son partinin ne kadar, şey, başarılı falan olduğu düşünülürse,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1030
+translate tr replay_tarbeck_bimbo_party_4d71e7ce:
+
+    # LADY_TARBECK "We decided now was a good time for a repeat!"
+    LADY_TARBECK "Şimdi bir tekrar için iyi bir zaman olduğuna karar verdik!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1031
+translate tr replay_tarbeck_bimbo_party_3122b063:
+
+    # LADY_TARBECK "So like, while I fuck Mr. Monster Cock here! Have fun everyone!"
+    LADY_TARBECK "Yani, şey, ben burada Bay Canavar Sik'le sikişirken! Herkes eğlensin!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1032
+translate tr replay_tarbeck_bimbo_party_2828164c:
+
+    # "The crowd laughed as Lord Tarbeck struggled weakly against his restraints."
+    "Lord Tarbeck kelepçelerine karşı zayıfça debelenirken kalabalık güldü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1033
+translate tr replay_tarbeck_bimbo_party_58bf5ef4:
+
+    # TARBECK "Someone take the blindfold off so I can see, damn it!"
+    TARBECK "Biri göz bandını çıkarsın da görebileyim, kahretsin!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1034
+translate tr replay_tarbeck_bimbo_party_1424e01b:
+
+    # LADY_TARBECK "NU-UH, you just get to listen, dear! Hehe!"
+    LADY_TARBECK "HAYIR, sen sadece dinleyeceksin, sevgilim! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1045
+translate tr replay_tarbeck_bimbo_party_7239d83e:
+
+    # "My cock pushed into her soaking pussy with ease."
+    "Sikim onun sırılsıklam amına kolayca girdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1046
+translate tr replay_tarbeck_bimbo_party_d2f70795:
+
+    # LADY_TARBECK "Oh FUCK!"
+    LADY_TARBECK "Ah SİKTİR!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1047
+translate tr replay_tarbeck_bimbo_party_bf7af376:
+
+    # LADY_TARBECK "Ahh! He's in me! Oooh!"
+    LADY_TARBECK "Ahh! İçimde! Oooh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1048
+translate tr replay_tarbeck_bimbo_party_c7bbec2b:
+
+    # LADY_TARBECK "He's so big stretching my little pussy!"
+    LADY_TARBECK "O kadar büyük ki küçük amımı geriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1049
+translate tr replay_tarbeck_bimbo_party_49f399c3:
+
+    # "The crowd watched excitedly, and slowly the room began to descend into a full-blown orgy right there on the floor."
+    "Kalabalık heyecanla izledi ve oda yavaşça tam da orada, yerde tam bir orjiye dönüşmeye başladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1050
+translate tr replay_tarbeck_bimbo_party_31188b92:
+
+    # "The men fondled the women who sipped at their wine, watching in a mixture of awe and excitement as the principled Lady Tarbeck now literally let a monster ravage her willingly."
+    "Erkekler şaraplarını yudumlayan kadınları okşadı; ilkeli Leydi Tarbeck'in artık isteyerek bir canavarın onu mahvetmesine izin vermesini hayranlık ve heyecan karışımıyla izlediler."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1051
+translate tr replay_tarbeck_bimbo_party_c9a231aa:
+
+    # "Soon, women were on their knees, sucking cock, or even lifting their skirts as eager, excited couples began to fuck then and there."
+    "Çok geçmeden kadınlar dizlerinin üzerinde sik emiyor, hatta eteklerini kaldırıyordu; hevesli, heyecanlı çiftler tam o anda orada sikişmeye başladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1052
+translate tr replay_tarbeck_bimbo_party_ca9d5541:
+
+    # LADY_TARBECK "Ahhh! Isn't this wonderful, dear?"
+    LADY_TARBECK "Ahhh! Bu harika değil mi, sevgilim?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1053
+translate tr replay_tarbeck_bimbo_party_10b892fd:
+
+    # LADY_TARBECK "Everyone is getting on so well!"
+    LADY_TARBECK "Herkes çok iyi anlaşıyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1054
+translate tr replay_tarbeck_bimbo_party_ebe355b0:
+
+    # TARBECK "T-That's wonderful, dear! Umm..."
+    TARBECK "B-Bu harika, sevgilim! Şey..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1055
+translate tr replay_tarbeck_bimbo_party_8725641f:
+
+    # TARBECK "Could you remove the blindfold so I might see some of the entertainment?"
+    TARBECK "Göz bandını çıkarır mısın ki eğlencenin bir kısmını görebileyim?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1056
+translate tr replay_tarbeck_bimbo_party_09b051db:
+
+    # TARBECK "... Darling?"
+    TARBECK "... Sevgilim?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1057
+translate tr replay_tarbeck_bimbo_party_fef9d85a:
+
+    # TARBECK "Are you still there?"
+    TARBECK "Hâlâ orada mısın?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1059
+translate tr replay_tarbeck_bimbo_party_e345e23a:
+
+    # "Lady Tarbeck moaned as my cock pushed into her willing meat hole once more."
+    "Sikim istekli et deliğine bir kez daha girerken Leydi Tarbeck inledi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1060
+translate tr replay_tarbeck_bimbo_party_ac7dfb47:
+
+    # LADY_TARBECK "Mmmfghh!"
+    LADY_TARBECK "Mmmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1061
+translate tr replay_tarbeck_bimbo_party_aebaf364:
+
+    # LADY_TARBECK "Ahh! You ladies should like- Mmfghh! Fuck him too sometime!"
+    LADY_TARBECK "Ahh! Siz hanımlar da şey- Mmfghh! Bir ara onu da sikmelisiniz!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1062
+translate tr replay_tarbeck_bimbo_party_0f7844c0:
+
+    # LADY_TARBECK "Like, his cock feels like it could re-arrange my insides every time!"
+    LADY_TARBECK "Şey, onun siki her seferinde içimi yeniden düzenleyebilecekmiş gibi hissettiriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1063
+translate tr replay_tarbeck_bimbo_party_d66760ac:
+
+    # "The crowd by now was already familiar with the routine,"
+    "Kalabalık artık rutine çoktan alışmıştı,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1064
+translate tr replay_tarbeck_bimbo_party_ac4ae939:
+
+    # "fondling between eager couples soon turned into a full-blown orgy right there."
+    "hevesli çiftler arasındaki okşamalar çok geçmeden tam da orada tam bir orjiye dönüştü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1065
+translate tr replay_tarbeck_bimbo_party_494f4762:
+
+    # LADY_TARBECK "Ahh! Harder, [player_name]!"
+    LADY_TARBECK "Ahh! Daha sert, [player_name]!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1066
+translate tr replay_tarbeck_bimbo_party_4bca1f2b:
+
+    # LADY_TARBECK "I want them all to know I'm the luckiest girl in the room!"
+    LADY_TARBECK "Hepsine bu odadaki en şanslı kız olduğumu bildirmek istiyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1067
+translate tr replay_tarbeck_bimbo_party_5d7496ec:
+
+    # LADY_TARBECK "Give it to your little bitch harder!"
+    LADY_TARBECK "Küçük orospuna daha sert ver!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1077
+translate tr replay_tarbeck_bimbo_party_8156cb48:
+
+    # LADY_TARBECK "Ahh! Harder! HARDER!"
+    LADY_TARBECK "Ahh! Daha sert! DAHA SERT!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1078
+translate tr replay_tarbeck_bimbo_party_49a1b846:
+
+    # LADY_TARBECK "Show everyone why I'm your little breeding sow!"
+    LADY_TARBECK "Herkese neden senin küçük damızlık domuzun olduğumu göster!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1079
+translate tr replay_tarbeck_bimbo_party_83867104:
+
+    # "By now, few people were hardly even paying attention to us,"
+    "Artık neredeyse hiç kimse bize dikkat etmiyordu,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1080
+translate tr replay_tarbeck_bimbo_party_2d967765:
+
+    # "we were just another pair of participants, fucking intensely in the grand hall."
+    "büyük salonda yoğun bir şekilde sikişen bir çift katılımcıdan başkası değildik."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1081
+translate tr replay_tarbeck_bimbo_party_316e4aea:
+
+    # "Her tight cunt squeezed excitedly around me as I slammed my cock deep,"
+    "Sikimi derine çaktıkça dar amı heyecanla etrafımda sıkıldı,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1082
+translate tr replay_tarbeck_bimbo_party_db2536c1:
+
+    # "{i}she enjoyed having an audience...{/i}"
+    "{i}bir seyirci kitlesine sahip olmaktan hoşlanıyordu...{/i}"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1083
+translate tr replay_tarbeck_bimbo_party_2b0b6a55:
+
+    # TARBECK "C-Come on! Someone release me!"
+    TARBECK "H-Hadi ama! Biri beni çözsün!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1084
+translate tr replay_tarbeck_bimbo_party_82013424:
+
+    # TARBECK "I CAN SMELL ALL THE PUSSY FROM HERE!"
+    TARBECK "TÜM AM KOKUSUNU BURADAN ALABİLİYORUM!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1085
+translate tr replay_tarbeck_bimbo_party_94378ea3:
+
+    # TARBECK "D-Darling! Let me out so I can have some fun too!"
+    TARBECK "S-Sevgilim! Bırak beni de çıkayım, ben de eğleneyim!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1086
+translate tr replay_tarbeck_bimbo_party_972e2d3a:
+
+    # LADY_TARBECK "Ahh! You have enough wenches most nights!"
+    LADY_TARBECK "Ahh! Çoğu gece yeterince fahişen var!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1087
+translate tr replay_tarbeck_bimbo_party_0621e1c9:
+
+    # LADY_TARBECK "This is- Mmfghh! MY NIGHT!"
+    LADY_TARBECK "Bu- Mmfghh! BENİM GECEM!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1088
+translate tr replay_tarbeck_bimbo_party_ed679937:
+
+    # "As I continued to pound away at her hole relentlessly,"
+    "Deliğini acımasızca dövmeye devam ederken,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1089
+translate tr replay_tarbeck_bimbo_party_18ea3d0f:
+
+    # "she dug her nails into me as tightly as possible as her eyes rolled back."
+    "gözleri geriye dönerken tırnaklarını olabildiğince sıkı bana geçirdi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1090
+translate tr replay_tarbeck_bimbo_party_2c687dea:
+
+    # LADY_TARBECK "Cum in me! CUM IN ME! CUM IN-"
+    LADY_TARBECK "İçime boşal! İÇİME BOŞAL! İÇİME-"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1092
+translate tr replay_tarbeck_bimbo_party_22843370:
+
+    # LADY_TARBECK "AHHHH!"
+    LADY_TARBECK "AHHHH!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1093
+translate tr replay_tarbeck_bimbo_party_de2163be:
+
+    # LADY_TARBECK "I'M SORRY DEAR! I CAN'T FOCUS RIGHT NOW!"
+    LADY_TARBECK "ÜZGÜNÜM SEVGİLİM! ŞU AN ODAKLANAMIYORUM!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1094
+translate tr replay_tarbeck_bimbo_party_52ee3747:
+
+    # LADY_TARBECK "HE'S FUCKING ME SO HARD! Mnmmfghh!"
+    LADY_TARBECK "BENİ ÇOK SERT SİKİYOR! Mnmmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1095
+translate tr replay_tarbeck_bimbo_party_66d2b55a:
+
+    # "I continued to slam away at Lady Tarbeck's tight, wonderful cunt as the party continued to devolve into full-blown debauchery."
+    "Parti tam bir ahlaksızlığa dönüşmeye devam ederken, Leydi Tarbeck'in dar, harika amını çakmaya devam ettim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1096
+translate tr replay_tarbeck_bimbo_party_ef07813a:
+
+    # MC "You like it, don't you?"
+    MC "Hoşuna gidiyor, değil mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1097
+translate tr replay_tarbeck_bimbo_party_adcf9c77:
+
+    # MC "Letting them see me take you like this."
+    MC "Seni böyle almamı görmelerine izin vermek."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1098
+translate tr replay_tarbeck_bimbo_party_824bd7db:
+
+    # LADY_TARBECK "It's shoooo ghoodhhhh! Mmfghh!"
+    LADY_TARBECK "Çoooookk iyihhh! Mmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1099
+translate tr replay_tarbeck_bimbo_party_2792fb64:
+
+    # LADY_TARBECK "I love it! I want everyone to see you fuck me all the time!"
+    LADY_TARBECK "Bayılıyorum! Herkesin beni her zaman siktiğini görmesini istiyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1100
+translate tr replay_tarbeck_bimbo_party_ed393f9c:
+
+    # LADY_TARBECK "You should just be able to rip my dress off and fuck me in the street in front of everyone whenever you want!"
+    LADY_TARBECK "Ne zaman istersen elbisemi yırtıp beni sokakta herkesin önünde sikebilmelisin!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1101
+translate tr replay_tarbeck_bimbo_party_455ba0ea:
+
+    # MC "Hrghh! Gods willing, girl, I will!"
+    MC "Hrghh! Tanrılar izin verirse, kızım, yaparım!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1102
+translate tr replay_tarbeck_bimbo_party_c4b23178:
+
+    # LADY_TARBECK "I can f-feel your big heavy balls slam up against my little pussy!"
+    LADY_TARBECK "Koca ağır taşaklarının küçük amıma çarpışını h-hissedebiliyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1103
+translate tr replay_tarbeck_bimbo_party_894ff24d:
+
+    # LADY_TARBECK "It's incredible! Please... AHH!"
+    LADY_TARBECK "İnanılmaz! Lütfen... AHH!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1104
+translate tr replay_tarbeck_bimbo_party_06f9d1b4:
+
+    # LADY_TARBECK "C-Cum in me! Don't stop till you fill me up!"
+    LADY_TARBECK "İ-İçime boşal! Beni doldurana dek durma!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1105
+translate tr replay_tarbeck_bimbo_party_4c3b085b:
+
+    # "Her nails dug as tightly as they could into me as she trembled, her eyes rolling up as she squirmed."
+    "Titrerken tırnakları olabildiğince sıkı bana saplandı, kıvranırken gözleri yukarı döndü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1106
+translate tr replay_tarbeck_bimbo_party_659c6c73:
+
+    # LADY_TARBECK "BREED MEEEE!"
+    LADY_TARBECK "DÖLLE BENİİİ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1125
+translate tr replay_tarbeck_bimbo_party_36b3f965:
+
+    # "As she felt the splash of thick warmth entering her,"
+    "İçine giren kalın sıcaklığın sıçramasını hissederken,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1126
+translate tr replay_tarbeck_bimbo_party_91287b68:
+
+    # "Lady Tarbeck's pussy tightened around me as I felt her climax,"
+    "Onun doruğunu hissederken Leydi Tarbeck'in amı etrafımda sıkıldı,"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1127
+translate tr replay_tarbeck_bimbo_party_150ce95c:
+
+    # "her legs and body squeezing as she whimpered weakly."
+    "zayıfça inlerken bacakları ve bedeni kasılıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1128
+translate tr replay_tarbeck_bimbo_party_44de527f:
+
+    # LADY_TARBECK "Mmmfghh...!"
+    LADY_TARBECK "Mmmfghh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1129
+translate tr replay_tarbeck_bimbo_party_d7959af3:
+
+    # "I held her up for a few moments, letting the intense wave pass before lowering her carefully to the floor."
+    "Yoğun dalganın geçmesine izin vererek onu birkaç an tuttum, sonra dikkatlice yere indirdim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1130
+translate tr replay_tarbeck_bimbo_party_cfa412d6:
+
+    # "Her legs shook as my cum seeped down from her."
+    "Dölüm ondan aşağı süzülürken bacakları titredi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1138
+translate tr replay_tarbeck_bimbo_party_13ebcfad:
+
+    # LADY_TARBECK @ smile "That was incredibleeee!"
+    LADY_TARBECK @ smile "Bu inanılmazdıııı!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1139
+translate tr replay_tarbeck_bimbo_party_291ff0a7:
+
+    # MC @ talk "I'm glad you enjoyed yourself, my lady."
+    MC @ talk "Keyif aldığına sevindim, leydim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1140
+translate tr replay_tarbeck_bimbo_party_b96d9b8f:
+
+    # LADY_TARBECK @ smile "I'm going to go lay down in my room for a bit, my legs are all shaky after that!"
+    LADY_TARBECK @ smile "Biraz odama uzanmaya gideceğim, ondan sonra bacaklarım titriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1141
+translate tr replay_tarbeck_bimbo_party_54d90afa:
+
+    # MC @ smile "Do you need me to escort you?"
+    MC @ smile "Sana eşlik etmemi ister misin?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1142
+translate tr replay_tarbeck_bimbo_party_616bfc7d:
+
+    # LADY_TARBECK @ blush "Mmm, tempting... But I'm all stuffed!"
+    LADY_TARBECK @ blush "Mmm, cazip... Ama tamamen doluyum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1143
+translate tr replay_tarbeck_bimbo_party_e479e74a:
+
+    # LADY_TARBECK @ blush2 "... T-Thank you for helping me do all this."
+    LADY_TARBECK @ blush2 "... T- Bütün bunları yapmama yardım ettiğin için teşekkürler."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1144
+translate tr replay_tarbeck_bimbo_party_6313abcd:
+
+    # LADY_TARBECK @ blush "I've never been happier."
+    LADY_TARBECK @ blush "Hiç bu kadar mutlu olmamıştım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1145
+translate tr replay_tarbeck_bimbo_party_545dfb88:
+
+    # MC @ smile "That's wonderful to hear."
+    MC @ smile "Bunu duymak harika."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1146
+translate tr replay_tarbeck_bimbo_party_9a92ebd3:
+
+    # "Lady Tarbeck reached out to take my hand."
+    "Leydi Tarbeck elimi tutmak için uzandı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1147
+translate tr replay_tarbeck_bimbo_party_2eb74118:
+
+    # LADY_TARBECK @ smile "I want you to come see me whenever you want."
+    LADY_TARBECK @ smile "Ne zaman istersen beni görmeye gelmeni istiyorum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1148
+translate tr replay_tarbeck_bimbo_party_0b6159ef:
+
+    # LADY_TARBECK @ blush2 "And... I want you to know, I might be Lord Tarbeck's wife."
+    LADY_TARBECK @ blush2 "Ve... bilmeni isterim ki, Lord Tarbeck'in karısı olabilirim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1149
+translate tr replay_tarbeck_bimbo_party_c585f2c3:
+
+    # LADY_TARBECK @ blush2 "But I'm definitely your girl, alright?"
+    LADY_TARBECK @ blush2 "Ama kesinlikle senin kızınım, tamam mı?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1150
+translate tr replay_tarbeck_bimbo_party_5615aaf3:
+
+    # LADY_TARBECK @ blush "Like, I really, really love you..."
+    LADY_TARBECK @ blush "Şey, seni gerçekten, gerçekten seviyorum..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1151
+translate tr replay_tarbeck_bimbo_party_158ca033:
+
+    # MC @ shock "... Lady Tarbeck."
+    MC @ shock "... Leydi Tarbeck."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1152
+translate tr replay_tarbeck_bimbo_party_dd4e4da7:
+
+    # LADY_TARBECK @ blush "And not just because of that delicious, massive thing dangling between your thighs."
+    LADY_TARBECK @ blush "Ve sırf bacaklarının arasında sarkan o lezzetli, dev şey yüzünden değil."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1153
+translate tr replay_tarbeck_bimbo_party_5b68d69a:
+
+    # MC @ smile "Ah."
+    MC @ smile "Ah."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1154
+translate tr replay_tarbeck_bimbo_party_a8e3ff49:
+
+    # LADY_TARBECK @ smile "Well, I'm gonna go get some rest."
+    LADY_TARBECK @ smile "Peki, biraz dinlenmeye gideceğim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1155
+translate tr replay_tarbeck_bimbo_party_473beb0c:
+
+    # LADY_TARBECK @ smile "Goodnight, handsome!"
+    LADY_TARBECK @ smile "İyi geceler, yakışıklı!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1156
+translate tr replay_tarbeck_bimbo_party_46c7f237:
+
+    # MC @ smile "Goodnight, Lady Tarbeck."
+    MC @ smile "İyi geceler, Leydi Tarbeck."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1158
+translate tr replay_tarbeck_bimbo_party_d11c7bb8:
+
+    # "I watched Lady Tarbeck's fat ass, still dripping with my seed, sway back and forth as she ascended the stairs towards her private quarters."
+    "Leydi Tarbeck'in hâlâ dölüm damlayan şişman kıçının, özel odasına çıkan merdivenleri tırmanırken ileri geri sallanmasını izledim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1160
+translate tr replay_tarbeck_bimbo_party_2a2ab4f0:
+
+    # MC "(I suppose now would be a good time to take my own leave.)"
+    MC "(Sanırım şimdi kendi iznimi almak için iyi bir zaman.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1165
+translate tr replay_tarbeck_bimbo_party_e6b7cb16:
+
+    # TARBECK "... Umm, hello?"
+    TARBECK "... Şey, merhaba?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1166
+translate tr replay_tarbeck_bimbo_party_1bd040f6:
+
+    # TARBECK "Could someone at least take the blindfold off?"
+    TARBECK "Biri en azından göz bandını çıkarabilir mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1167
+translate tr replay_tarbeck_bimbo_party_4542bec3:
+
+    # TARBECK "...Hellooooo?"
+    TARBECK "...Merhabaaaa?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1172
+translate tr replay_tarbeck_bimbo_party_2c6257a1:
+
+    # "I held onto Lady Tarbeck as tightly as I could, pouring my thick load into her welcoming, tight hole."
+    "Kalın yükümü onun kabul eden, dar deliğine boşaltırken Leydi Tarbeck'e olabildiğince sıkı tutundum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1173
+translate tr replay_tarbeck_bimbo_party_4e690065:
+
+    # "She gasped, trembling softly as she felt the splash of seed now fill up her womb."
+    "Tohum sıçramasının rahmini doldurduğunu hissederken nefesi kesildi, yumuşakça titredi."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1174
+translate tr replay_tarbeck_bimbo_party_84e51420:
+
+    # LADY_TARBECK "Mmmmfghh! G-Godsss...!"
+    LADY_TARBECK "Mmmmfghh! T-Tanrılar...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1175
+translate tr replay_tarbeck_bimbo_party_a5f2610e:
+
+    # "I held onto her tightly as her legs began to buckle beneath her, letting the wave of pleasure pass."
+    "Zevk dalgasının geçmesine izin verirken, bacakları altında bükülmeye başlayınca ona sıkıca tutundum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1176
+translate tr replay_tarbeck_bimbo_party_e7c758c7:
+
+    # LADY_TARBECK "{i}*Huff*{/i} I love you... I love you, I love you, I LOVE YOU!"
+    LADY_TARBECK "{i}*Huff*{/i} Seni seviyorum... Seni seviyorum, seni seviyorum, SENİ SEVİYORUM!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1183
+translate tr replay_tarbeck_bimbo_party_3c659400:
+
+    # MC "My lady, what should I do now?"
+    MC "Leydim, şimdi ne yapmalıyım?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1184
+translate tr replay_tarbeck_bimbo_party_09ea3394:
+
+    # LADY_TARBECK "Mmmfghh... Carry me to my bed, I need some sleepy time after that."
+    LADY_TARBECK "Mmmfghh... Beni yatağıma taşı, ondan sonra biraz uyku zamanına ihtiyacım var."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1185
+translate tr replay_tarbeck_bimbo_party_30663ca1:
+
+    # MC "And your husband?"
+    MC "Peki ya kocan?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1186
+translate tr replay_tarbeck_bimbo_party_c6bdcf5e:
+
+    # LADY_TARBECK "I'll rescue him in the morning... Hehe."
+    LADY_TARBECK "Onu sabah kurtarırım... Hehe."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1190
+translate tr replay_tarbeck_bimbo_party_04053a7d:
+
+    # "I did as Lady Tarbeck asked, placing the cute, curvy ditz down onto her bed as she drifted off to sleep, snoring almost immediately."
+    "Leydi Tarbeck'in istediğini yaptım, tatlı, kıvrımlı aptalı yatağına yatırdım; uykuya dalıp neredeyse hemen horlamaya başladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1193
+translate tr replay_tarbeck_bimbo_party_7ffeffd1:
+
+    # MC "(... Cute.)"
+    MC "(... Tatlı.)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1195
+translate tr replay_tarbeck_bimbo_party_cc4df719:
+
+    # "And with that, I left the manor as the orgy continued around me obliviously."
+    "Ve bununla, orji etrafımda habersizce devam ederken malikaneden ayrıldım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1196
+translate tr replay_tarbeck_bimbo_party_11dddf2a:
+
+    # TARBECK "... Umm? Hello? Is there anyone going to let me down?"
+    TARBECK "... Şey? Merhaba? Beni indirecek kimse yok mu?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1197
+translate tr replay_tarbeck_bimbo_party_37fd1a80:
+
+    # TARBECK "Hellooooo!"
+    TARBECK "Merhabaaaa!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1215
+translate tr rom_tarbeck_bimbo_breakfast_anal_9940afba:
+
+    # "Lady Tarbeck, once more bent over the table, wiggled her butt enticingly towards me."
+    "Bir kez daha masanın üzerine eğilen Leydi Tarbeck, kıçını cezbedici bir şekilde bana doğru salladı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1216
+translate tr rom_tarbeck_bimbo_breakfast_anal_e90576f6:
+
+    # "With my cock wedged between her fat ass cheeks, she giggled playfully as I began to slide it back and forth teasingly."
+    "Sikim şişman kıç yanaklarının arasına sıkışmışken, ben onu alaycı bir şekilde ileri geri kaydırmaya başladığımda oynakça kıkırdadı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1217
+translate tr rom_tarbeck_bimbo_breakfast_anal_fffa1438:
+
+    # "Her asshole, still tight but glistening from whatever lube she had applied, winked at me."
+    "Hâlâ dar ama uyguladığı kayganlaştırıcıyla parlayan göt deliği bana göz kırptı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1218
+translate tr rom_tarbeck_bimbo_breakfast_anal_c87ef956:
+
+    # LADY_TARBECK "Are you ready?"
+    LADY_TARBECK "Hazır mısın?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1219
+translate tr rom_tarbeck_bimbo_breakfast_anal_4c182b78:
+
+    # LADY_TARBECK "Ready to fuck my tight, fat ass?"
+    LADY_TARBECK "Dar, şişman kıçımı sikmeye hazır mısın?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1220
+translate tr rom_tarbeck_bimbo_breakfast_anal_853526cf:
+
+    # MC "As my cock brushed up against her sphincter, it sent a wave of pleasure through me as I stared at the little brown hole in anticipation."
+    MC "Sikim büzgenine sürtünürken, beklentiyle küçük kahverengi deliğe bakarken içimden bir zevk dalgası geçti."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1221
+translate tr rom_tarbeck_bimbo_breakfast_anal_4ea37a1b:
+
+    # LADY_TARBECK "Mhmm, are you watching, dear?"
+    LADY_TARBECK "Mhmm, izliyor musun, sevgilim?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1222
+translate tr rom_tarbeck_bimbo_breakfast_anal_9b91d110:
+
+    # LADY_TARBECK "I'm finally ready to take things up the butt, just like you always wanted!"
+    LADY_TARBECK "Sonunda, senin her zaman istediğin gibi, arkadan almaya hazırım!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1223
+translate tr rom_tarbeck_bimbo_breakfast_anal_0339d42a:
+
+    # TARBECK "Well, yes, but I always did think it would be my-"
+    TARBECK "Peki, evet, ama hep benim- olacağını düşünürdüm."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1233
+translate tr rom_tarbeck_bimbo_breakfast_anal_72f7c142:
+
+    # "As my cock pushed up against her sphincter, her tight little hole spread as it forced an inch inside of her, and then another, until..."
+    "Sikim büzgenine dayanırken, dar küçük deliği açıldı; bir karış içeri, sonra bir karış daha, ta ki..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1234
+translate tr rom_tarbeck_bimbo_breakfast_anal_3f35eda5:
+
+    # LADY_TARBECK "OOOOOOOOH...!"
+    LADY_TARBECK "OOOOOOOOH...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1235
+translate tr rom_tarbeck_bimbo_breakfast_anal_d97cacaa:
+
+    # LADY_TARBECK "He's in my butt! Mmfghh!"
+    LADY_TARBECK "Kıçımda! Mmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1236
+translate tr rom_tarbeck_bimbo_breakfast_anal_5da70e9f:
+
+    # LADY_TARBECK "G-Gods! It feels SOOOOOOO good to have him stuff me back there! Hehe!"
+    LADY_TARBECK "T-Tanrılar! Onun beni oradan doldurması ÇOOOOOK iyi hissettiriyor! Hehe!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1237
+translate tr rom_tarbeck_bimbo_breakfast_anal_35960df4:
+
+    # "Her ass was incredibly tight, gripping around my cock as I began to push up against her soft, plump rear."
+    "Yumuşak, dolgun arkasına dayanmaya başlarken kıçı inanılmaz dardı, sikimi kavrıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1238
+translate tr rom_tarbeck_bimbo_breakfast_anal_88186260:
+
+    # "The fat jiggled slightly with every thrust as I buried my member deep inside her."
+    "Organımı içine derinlemesine gömerken yağ her itişle hafifçe sallandı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1239
+translate tr rom_tarbeck_bimbo_breakfast_anal_d115496c:
+
+    # LADY_TARBECK "Ahhh...! Do you like my butt?"
+    LADY_TARBECK "Ahhh...! Kıçımı beğendin mi?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1240
+translate tr rom_tarbeck_bimbo_breakfast_anal_f99b23c3:
+
+    # LADY_TARBECK "I can feel how h-hard you are back there!"
+    LADY_TARBECK "Orada ne kadar s-sert olduğunu hissedebiliyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1241
+translate tr rom_tarbeck_bimbo_breakfast_anal_babb5ede:
+
+    # MC "Your ass feels incredible!"
+    MC "Kıçın inanılmaz hissettiriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1242
+translate tr rom_tarbeck_bimbo_breakfast_anal_480113c6:
+
+    # LADY_TARBECK "Mmm, this butt belongs to you!"
+    LADY_TARBECK "Mmm, bu kıç sana ait!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1243
+translate tr rom_tarbeck_bimbo_breakfast_anal_41a5006a:
+
+    # LADY_TARBECK "Ahh! I LOVE IT!"
+    LADY_TARBECK "Ahh! BAYILIYORUM!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1244
+translate tr rom_tarbeck_bimbo_breakfast_anal_b7521c72:
+
+    # LADY_TARBECK "It feels SOOOO good!"
+    LADY_TARBECK "ÇOOOO iyi hissettiriyor!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1245
+translate tr rom_tarbeck_bimbo_breakfast_anal_33ca2e0f:
+
+    # MC "(Most women usually need breaking in back here!)"
+    MC "(Çoğu kadının burada genellikle alıştırılması gerekir!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1246
+translate tr rom_tarbeck_bimbo_breakfast_anal_1573899c:
+
+    # MC "(There are lifelong courtesans who struggle more than this!)"
+    MC "(Bundan daha çok zorlanan ömürlük fahişeler var!)"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1247
+translate tr rom_tarbeck_bimbo_breakfast_anal_b704e3c6:
+
+    # LADY_TARBECK "Fuck my ass! PULL MY HAIR AND FUCK MY ASS HARDER!"
+    LADY_TARBECK "Sik kıçımı! SAÇIMI ÇEK VE KIÇIMI DAHA SERT SİK!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1257
+translate tr rom_tarbeck_bimbo_breakfast_anal_aef8ff35:
+
+    # "Grabbing hold of her hair, I began to slam my cock into her tight ass from behind as she moaned hotly."
+    "Saçını kavrayıp, o ateşli bir şekilde inlerken sikimi dar kıçına arkadan çakmaya başladım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1258
+translate tr rom_tarbeck_bimbo_breakfast_anal_29408498:
+
+    # "The table banged with every thrust as the room filled with the sounds of Lady Tarbeck's ass bouncing against me as I buried my cock to the hilt."
+    "Sikimi kabzasına kadar gömerken, oda Leydi Tarbeck'in kıçının bana çarpmasının sesleriyle doldu, masa her itişte sarsıldı."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1259
+translate tr rom_tarbeck_bimbo_breakfast_anal_e5110b3d:
+
+    # LADY_TARBECK "OH FUCK YES!"
+    LADY_TARBECK "AH SİKTİR EVET!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1260
+translate tr rom_tarbeck_bimbo_breakfast_anal_3cdbce32:
+
+    # LADY_TARBECK "THAT'S IT! MMFGHH!"
+    LADY_TARBECK "İŞTE BU! MMFGHH!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1261
+translate tr rom_tarbeck_bimbo_breakfast_anal_38aaf5d7:
+
+    # LADY_TARBECK "MY ASS WAS MEANT TO TAKE YOUR COCK!"
+    LADY_TARBECK "KIÇIM SENİN SİKİNİ ALMAK İÇİN YARATILMIŞ!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1262
+translate tr rom_tarbeck_bimbo_breakfast_anal_378855a1:
+
+    # "I grunted like an animal, her skin glistening in the light as I continued to have my way with her."
+    "Bir hayvan gibi homurdandım, onunla gönlümce işimi görmeye devam ederken teni ışıkta parlıyordu."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1263
+translate tr rom_tarbeck_bimbo_breakfast_anal_4182141d:
+
+    # "Her tight ass indeed was built to take my cock..."
+    "Dar kıçı gerçekten de sikimi almak için yaratılmıştı..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1264
+translate tr rom_tarbeck_bimbo_breakfast_anal_cd53c54a:
+
+    # "And I was going to ensure her tight little rear drained my cock dry as I filled her bowels."
+    "Ve bağırsaklarını doldururken dar küçük arkasının sikimi son damlasına kadar boşaltmasını sağlayacaktım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1265
+translate tr rom_tarbeck_bimbo_breakfast_anal_2d789250:
+
+    # LADY_TARBECK "Oooooooh!"
+    LADY_TARBECK "Oooooooh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1266
+translate tr rom_tarbeck_bimbo_breakfast_anal_830e82dd:
+
+    # LADY_TARBECK "I love it! I love feeling your huge cock mess up my poor little ass!"
+    LADY_TARBECK "Bayılıyorum! Koca sikin zavallı küçük kıçımı mahvederken hissetmeyi seviyorum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1267
+translate tr rom_tarbeck_bimbo_breakfast_anal_008c74e1:
+
+    # LADY_TARBECK "A-Ahh..! I'm such a little anal slut!"
+    LADY_TARBECK "A-Ahh..! Ben tam bir küçük anal orospusuyum!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1268
+translate tr rom_tarbeck_bimbo_breakfast_anal_0a76f0c0:
+
+    # MC "Grghh! Are you ready?"
+    MC "Grghh! Hazır mısın?"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1269
+translate tr rom_tarbeck_bimbo_breakfast_anal_60601a71:
+
+    # MC "I'm g-getting close! Hrghh!"
+    MC "Y-Yaklaşıyorum! Hrghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1270
+translate tr rom_tarbeck_bimbo_breakfast_anal_18f5029e:
+
+    # LADY_TARBECK "Do it! Do it! DO IT!"
+    LADY_TARBECK "Yap! Yap! YAP!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1287
+translate tr rom_tarbeck_bimbo_breakfast_anal_1bc5cdcb:
+
+    # "As my balls slapped against her clit, I buried my cock deep into her ass and squeezed one of her ass cheeks tightly."
+    "Taşaklarım klitorisine çarparken, sikimi kıçının derinliklerine gömdüm ve kıç yanaklarından birini sıkıca sıktım."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1288
+translate tr rom_tarbeck_bimbo_breakfast_anal_8e615955:
+
+    # "I grunted with gritted teeth, flooding her rear as Lady Tarbeck let out a loud moan."
+    "Dişlerimi sıkarak homurdandım, Leydi Tarbeck yüksek bir inilti koyverirken arkasını doldurdum."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1289
+translate tr rom_tarbeck_bimbo_breakfast_anal_6c9c3291:
+
+    # LADY_TARBECK "OOOOOOOH! SHOO MHUCHHH!! Mfghhhh...!"
+    LADY_TARBECK "OOOOOOOH! ÇOOKK FAZLAAA!! Mfghhhh...!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1290
+translate tr rom_tarbeck_bimbo_breakfast_anal_4f8d01c4:
+
+    # "As I filled her ass with cum, Lady Tarbeck trembled, her legs slightly buckling as she laughed."
+    "Kıçını dölle doldururken Leydi Tarbeck titredi, gülerken bacakları hafifçe büküldü."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1291
+translate tr rom_tarbeck_bimbo_breakfast_anal_b435af22:
+
+    # LADY_TARBECK "Ha-ha! It feels so creamy back there now! Mmfghh!"
+    LADY_TARBECK "Ha-ha! Orada artık çok kremamsı hissettiriyor! Mmfghh!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1292
+translate tr rom_tarbeck_bimbo_breakfast_anal_0480a873:
+
+    # LADY_TARBECK "I'm like, not gonna be able to sit down properly for a while!"
+    LADY_TARBECK "Bir süre, şey, doğru düzgün oturamayacağım!"
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1293
+translate tr rom_tarbeck_bimbo_breakfast_anal_69d3877a:
+
+    # TARBECK "I'll be sure to order some extra cushions to your quarters, dear."
+    TARBECK "Odana fazladan yastık söyleteceğim, sevgilim."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1294
+translate tr rom_tarbeck_bimbo_breakfast_anal_591944c4:
+
+    # LADY_TARBECK "Thank youuu..."
+    LADY_TARBECK "Teşekkür ederimmm..."
+
+# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:1295
+translate tr rom_tarbeck_bimbo_breakfast_anal_d3c4acbe:
+
+    # LADY_TARBECK "My poor little stretched butt will need them! Hehe!"
+    LADY_TARBECK "Zavallı küçük gerilmiş kıçımın onlara ihtiyacı olacak! Hehe!"
+
+translate tr strings:
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:15
+    old "Seek trouble"
+    new "Bela ara"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:22
+    old "Meet Lady Tarbeck in a couple days"
+    new "Birkaç gün içinde Leydi Tarbeck'le buluş"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:22
+    old "Lady Tarbeck asked for some time to mull things over... I should give her a day or two."
+    new "Leydi Tarbeck bazı şeyleri düşünmek için zaman istedi... Ona bir iki gün vermeliyim."
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:26
+    old "Hunt bandits in the docks"
+    new "Rıhtımlarda haydut avla"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:26
+    old "Shyahtan insists that, if we are to alter Lady Tarbeck's body, we need to consume some bandits... I should probably hang around the docks at night."
+    new "Shyahtan, Leydi Tarbeck'in bedenini değiştireceksek bazı haydutları tüketmemiz gerektiğinde ısrar ediyor... Geceleri muhtemelen rıhtımlarda takılmalıyım."
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:30
+    old "It's time to head back to Lady Tarbeck to begin her... {i}transformation.{/i}"
+    new "Onun... {i}dönüşümüne{/i} başlamak için Leydi Tarbeck'e geri dönme zamanı."
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:34
+    old "Return to Lady Tarbeck tomorrow"
+    new "Yarın Leydi Tarbeck'e geri dön"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:34
+    old "Shyahtan says I need to let Lady Tarbeck rest until tomorrow... I hope she will be alright."
+    new "Shyahtan, yarına kadar Leydi Tarbeck'i dinlendirmem gerektiğini söylüyor... Umarım iyi olacak."
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:38
+    old "Return to Lady Tarbeck in a couple days"
+    new "Birkaç gün içinde Leydi Tarbeck'e geri dön"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:38
+    old "I should check in on Lady Tarbeck in a few more days..."
+    new "Birkaç gün daha sonra Leydi Tarbeck'i kontrol etmeliyim..."
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:42
+    old "Lord Tarbeck asked for some time alone with Lady Tarbeck after her 'transformation'... I should come back in a day or so."
+    new "Lord Tarbeck, karısının 'dönüşümünden' sonra onunla yalnız kalmak için zaman istedi... Bir gün kadar sonra geri gelmeliyim."
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:46
+    old "Join Lady Tarbeck for breakfast tomorrow"
+    new "Yarın kahvaltıda Leydi Tarbeck'e katıl"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:46
+    old "Lady Tarbeck has invited me to join her for breakfast, at the mansion's dining hall... Maybe I should take her up on the offer?"
+    new "Leydi Tarbeck beni malikanenin yemek salonunda kahvaltıya davet etti... Belki teklifini kabul etmeliyim?"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:50
+    old "Join Lady Tarbeck at the party"
+    new "Partide Leydi Tarbeck'e katıl"
+
+    # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_bimbo.rpy:50
+    old "Lady Tarbeck has invited me to join her for a party at the manor tonight. Maybe I should take her up on the offer?"
+    new "Leydi Tarbeck beni bu gece malikanedeki bir partiye davet etti. Belki teklifini kabul etmeliyim?"
+

@@ -1,0 +1,1 @@
+image hirrah = "images/characters/hirrah/normal.webp"

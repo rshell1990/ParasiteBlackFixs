@@ -1,0 +1,413 @@
+﻿
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:4
+translate es gallery_shani_doggy_2937b9b3:
+
+    # "Was the encounter..."
+    "¿Fue el encuentro?..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:18
+translate es gallery_shani_doggy_vag_2c20955f:
+
+    # "Shani led me around some back alley away from prying eyes, quickly hiking up her skirt to reveal her bare ass as she pressed her hands against the cold stone wall."
+    "Shani me guió por un callejón apartado de miradas indiscretas, subiéndose rápidamente la falda para revelar su trasero desnudo mientras presionaba sus manos contra la fría pared de piedra."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:19
+translate es gallery_shani_doggy_vag_a2f0a7b0:
+
+    # SHANI "Well don’t keep me waiting, be quick lover~"
+    SHANI "No me hagas esperar, sé rápido amor~"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:20
+translate es gallery_shani_doggy_vag_99bb0ee6:
+
+    # "Wasting no time, I unbuckled my clothes and pressed my hard-on against her tight, warm hole."
+    "Sin perder tiempo, me desabroché la ropa y presioné mi erección contra su estrecho y cálido agujero."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:21
+translate es gallery_shani_doggy_vag_163d3b45:
+
+    # SHANI "Alright, now just-"
+    SHANI "Bien, ahora solo-"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:25
+translate es gallery_shani_doggy_vag_fdc98c2a:
+
+    # "I forced my cock deeply into her and she gasped in shock, her tight warm body squeezing effortless around me."
+    "Forcé mi polla profundamente dentro de ella y ella jadeó en estado de shock, su cuerpo cálido y apretado se apretó sin esfuerzo a mi alrededor."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:26
+translate es gallery_shani_doggy_vag_1ba1a31f:
+
+    # SHANI "FUCK!"
+    SHANI "¡JODER!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:27
+translate es gallery_shani_doggy_vag_3f10469b:
+
+    # SHANI "*Huff* T-There’s a lot of you!"
+    SHANI "*Uff* ¡H-Hay mucho de ti!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:28
+translate es gallery_shani_doggy_vag_1c9430ec:
+
+    # MC @ talk "Everything okay?"
+    MC @ talk "¿Todo bien?"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:29
+translate es gallery_shani_doggy_vag_e8d59104:
+
+    # SHANI "Just, start slow, okay love?"
+    SHANI "Solo, empieza lento, vale amor?"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:30
+translate es gallery_shani_doggy_vag_73f08031:
+
+    # SHANI "F-Fuck, it’s like being screwed by a horse...!"
+    SHANI "¡J-Joder, es como si te follara un caballo...!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:31
+translate es gallery_shani_doggy_vag_0817e8f4:
+
+    # "I begin to glide my cock in and out of her tight body, and with each thrust, she let out a hot moan or grunt as my cock pushed its way into her."
+    "Comienzo a deslizar mi polla dentro y fuera de su cuerpo apretado, y con cada embestida, ella deja escapar un gemido o gruñido caliente mientras mi polla se abre paso dentro de ella."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:32
+translate es gallery_shani_doggy_vag_1f51a13c:
+
+    # "She was tight, her pussy squeezing and gripping around me as I thrust into her wet hole."
+    "Ella estaba apretada, su coño apretándose y agarrándose a mi alrededor mientras yo empujaba dentro de su agujero húmedo."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:33
+translate es gallery_shani_doggy_vag_8452c126:
+
+    # SHANI "Oh fuck... *Huff* G-Gods! How much longer can you last? I’m not gonna be able to walk after this!"
+    SHANI "Oh joder... *Uff* ¡D-Dioses! ¿Cuánto más podrás aguantar? ¡No podré caminar después de esto!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:34
+translate es gallery_shani_doggy_vag_daaf30f7:
+
+    # "Shani’s legs began to tremble as I had to hold up her hips while I thrust into her."
+    "Las piernas de Shani comenzaron a temblar mientras tenía que sostener sus caderas mientras la penetraba."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:35
+translate es gallery_shani_doggy_vag_5ace9269:
+
+    # "I felt her body tighten in waves as she closed her eyes, mouth hung open as she quivered in place."
+    "Sentí que su cuerpo se tensaba en oleadas mientras cerraba los ojos y se quedaba con la boca abierta mientras temblaba en el mismo sitio."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:36
+translate es gallery_shani_doggy_vag_2692b2ba:
+
+    # SHANI "Ah! Ah! Mmmfgh!"
+    SHANI "¡Ah! ¡Ah! ¡Mmmfgh!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:37
+translate es gallery_shani_doggy_vag_f89771aa:
+
+    # SHANI "Fuckkk!"
+    SHANI "¡Joderrr!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:38
+translate es gallery_shani_doggy_vag_ec54c8a4:
+
+    # SHANI "F-Finish! Finish please! I can’t take it any longer!"
+    SHANI "¡T-Termina! ¡Termina, por favor! ¡No puedo soportarlo más!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:39
+translate es gallery_shani_doggy_vag_b79ddffa:
+
+    # "Unable to hold back any longer, feeling my own pleasure reach its peak, I dug my hands into her soft ass as I thrust forward, grunting as I released deep inside of Shani."
+    "Incapaz de contenerme por más tiempo, sintiendo que mi propio placer alcanzaba su punto máximo, hundí mis manos en su suave trasero mientras empujaba hacia adelante, gruñendo mientras me liberaba profundamente dentro de Shani."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:43
+translate es gallery_shani_doggy_vag_06d2b18b:
+
+    # SHANI "{i}F-Fuck! There’s so much of it! I’m gonna walk around looking pregnant at this rate!{/i}"
+    SHANI "{i}J-Joder! ¡Hay tanto! ¡A este ritmo voy a andar por ahí pareciendo embarazada!{/i}"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:44
+translate es gallery_shani_doggy_vag_465b4e12:
+
+    # SHANI "{i}It’s so... hot, oh gods, my body just feels so alive!{/i}"
+    SHANI "{i}Está tan... caliente, oh dioses, ¡mi cuerpo se siente tan vivo!{/i}"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:45
+translate es gallery_shani_doggy_vag_3db72ace:
+
+    # "Finally finished, I sighed with relief and unsheathed my cock from Shani, watching as some of my seed poured out from her onto the ground as she shakily got back to her feet."
+    "Finalmente terminé, suspiré aliviado y desenvainé mi polla de Shani, observando como parte de mi semilla se derramaba de ella al suelo mientras ella se ponía de pie temblorosamente."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:46
+translate es gallery_shani_doggy_vag_cf6f5de2:
+
+    # SHANI "That was..."
+    SHANI "Eso fue..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:47
+translate es gallery_shani_doggy_vag_bea9ce48:
+
+    # SHANI "You really know how to show a girl a good time, don’t you?"
+    SHANI "Realmente sabes cómo hacer pasar un buen rato a una chica, ¿verdad?"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:48
+translate es gallery_shani_doggy_vag_7e5e4386:
+
+    # SHANI "Come on, let’s get back before someone sees us down here."
+    SHANI "Vamos, volvamos antes de que alguien nos vea aquí."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:49
+translate es gallery_shani_doggy_vag_cc60e25e:
+
+    # SHANI "...And before my legs give out."
+    SHANI "...Y antes de que mis piernas cedan."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:59
+translate es gallery_shani_doggy_anal_150741a5:
+
+    # "Shani took a deep breath..."
+    "Shani respiró profundamente..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:60
+translate es gallery_shani_doggy_anal_1af05047:
+
+    # SHANI "...Three hundred and fifty coins."
+    SHANI "...Trescientas cincuenta monedas."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:61
+translate es gallery_shani_doggy_anal_f1c0c01c:
+
+    # MC @ surprised "You want three hundred coins for anal?"
+    MC @ surprised "¿Quieres trescientas monedas para el anal?"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:62
+translate es gallery_shani_doggy_anal_ada0ee91:
+
+    # MC @ surprised "Are you serious?"
+    MC @ surprised "¿Hablas en serio?"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:63
+translate es gallery_shani_doggy_anal_a3f4ce33:
+
+    # SHANI "Listen love, I’ve seen that thing dangling between your legs."
+    SHANI "Escucha amor, he visto esa cosa colgando entre tus piernas."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:64
+translate es gallery_shani_doggy_anal_b6efe945:
+
+    # SHANI "If you smash in my backdoors with that, I am probably going to need to take the rest of the night off."
+    SHANI "Si me destrozas la puerta trasera con eso, probablemente tendré que tomarme el resto de la noche libre."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:65
+translate es gallery_shani_doggy_anal_0c2ea773:
+
+    # SHANI "So, what will it be?"
+    SHANI "Entonces, ¿qué será?"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:66
+translate es gallery_shani_doggy_anal_6fb6d3e6:
+
+    # MC "Alright, here's your money."
+    MC "Muy bien, aquí está tu dinero."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:69
+translate es gallery_shani_doggy_anal_9107de0d:
+
+    # SHANI "A-Alright, come this way..."
+    SHANI "E-está bien, ven por aquí..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:70
+translate es gallery_shani_doggy_anal_cc8f1661:
+
+    # "Shani led me down a quiet, darkened black alley, where she nervously hiked up her dress and bent forward against the wall, her tight darkened asshole winking at me."
+    "Shani me condujo por un callejón oscuro, tranquilo y silencioso, donde nerviosamente se subió el vestido y se inclinó hacia delante contra la pared, guiñándome el ojo con su apretado y oscuro culo."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:71
+translate es gallery_shani_doggy_anal_367e05d6:
+
+    # SHANI "I uh, p-put some lube there so..."
+    SHANI "Yo, uh, me p-puse un poco de lubricante allí..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:72
+translate es gallery_shani_doggy_anal_78e92b4f:
+
+    # "Wasting little time, I moved behind Shani and pressed the head of my cock against her tight backdoor."
+    "Sin perder tiempo, me moví detrás de Shani y presioné la cabeza de mi polla contra su apretada puerta trasera."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:76
+translate es gallery_shani_doggy_anal_40b06eae:
+
+    # "Shani winced slightly as she felt my push against her rosebud, and after some initial resistance, her asshole spread around my cock and I managed to push my member forward deep into her ass."
+    "Shani hizo una mueca de dolor al sentir mi empuje contra su capullo de rosa, y después de cierta resistencia inicial, su culo se extendió alrededor de mi polla y logré empujar mi miembro hacia adelante profundamente en su culo."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:77
+translate es gallery_shani_doggy_anal_275cfa1a:
+
+    # SHANI "F-Fuckkkk!"
+    SHANI "¡J-Joderrrr!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:78
+translate es gallery_shani_doggy_anal_606c9057:
+
+    # SHANI "Fuck! It burns!"
+    SHANI "¡Joder! ¡Quema!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:79
+translate es gallery_shani_doggy_anal_1e99ead4:
+
+    # SHANI "S-Start slow! Gods! My poor fucking ass!"
+    SHANI "¡E-Empieza despacio! ¡Dioses! ¡Mi pobre culo!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:80
+translate es gallery_shani_doggy_anal_9b65cd79:
+
+    # "Uh, could use some help here."
+    "Uh, podría necesitar algo de ayuda aquí."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:81
+translate es gallery_shani_doggy_anal_36fe42ba:
+
+    # BLACK "Releasing pheromones."
+    BLACK "Liberando feromonas."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:82
+translate es gallery_shani_doggy_anal_25fe8faa:
+
+    # "After a minute or two, I suddenly began to notice Shani slowly pushing herself to slide back and forth onto my cock, and despite spluttering with some discomfort, she shakily began to slowly build up speed."
+    "Después de un minuto o dos, de repente comencé a notar que Shani se empujaba lentamente para deslizarse hacia adelante y hacia atrás sobre mi polla, y a pesar de balbucear con cierta incomodidad, comenzó a ganar velocidad lentamente y temblorosamente."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:83
+translate es gallery_shani_doggy_anal_27c13c79:
+
+    # SHANI "T-Things are starting to feel a little b-better."
+    SHANI "L-Las cosas empiezan a sentirse un poquito m-mejor."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:84
+translate es gallery_shani_doggy_anal_941cdd8d:
+
+    # SHANI "It’s - Ah... Starting to feel kinda nice~"
+    SHANI "Esta - Ah... Empezando a sentirse un poco bien~"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:85
+translate es gallery_shani_doggy_anal_d885bc5a:
+
+    # BLACK "Her body is adapting well, now to push the dopamine."
+    BLACK "Su cuerpo se está adaptando bien, ahora hay que empujar la dopamina."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:86
+translate es gallery_shani_doggy_anal_b564bd8c:
+
+    # SHANI "Oh fuck! Ah! Mmmfgh!"
+    SHANI "¡Oh joder! ¡Ah! ¡Mmmfgh!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:87
+translate es gallery_shani_doggy_anal_d6944421:
+
+    # SHANI "M-Move faster, this is - Oooh!"
+    SHANI "M-Muévete más rápido, esto es - ¡Oooh!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:88
+translate es gallery_shani_doggy_anal_8c96b2fe:
+
+    # SHANI "F-Fuck! It still burns but... But it’s starting to feel... amazing!"
+    SHANI "¡J-Joder! Todavía arde, pero... ¡Pero empieza a sentirse... increíble!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:89
+translate es gallery_shani_doggy_anal_73c2bb00:
+
+    # "Wasting no time, I began to thrust deeply into Shani tight ass, listening to her grunt and moan in pleasure as she threw her soft round butt back onto me."
+    "Sin perder tiempo, comencé a empujar profundamente dentro del apretado culo de Shani, escuchándola gruñir y gemir de placer mientras ella arrojaba su suave y redondo trasero hacia mí."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:90
+translate es gallery_shani_doggy_anal_c8e615db:
+
+    # "As I dug my hands into the soft flesh of her ass, she cried out in pleasure, moaning while I took her more and more like a wild animal."
+    "Mientras hundía mis manos en la suave carne de su trasero, ella gritaba de placer, gimiendo mientras la tomaba cada vez más como un animal salvaje."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:91
+translate es gallery_shani_doggy_anal_5d14753c:
+
+    # BLACK "Good... Feel me coursing through you."
+    BLACK "Bien... Siénteme corriendo por ti."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:92
+translate es gallery_shani_doggy_anal_28fee001:
+
+    # SHANI "Fuck me! Fuck my ass like a slut!"
+    SHANI "¡Fóllame! ¡Fóllame el culo como a una puta!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:93
+translate es gallery_shani_doggy_anal_307059cd:
+
+    # SHANI "I fucking love it!"
+    SHANI "¡Me encanta, joder!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:94
+translate es gallery_shani_doggy_anal_e446cb82:
+
+    # "Shani’s body felt like it was burning up and so did mine, as she shivered and tightened around my cock, I lost track of the orgasms I had given her."
+    "El cuerpo de Shani se sentía como si estuviera ardiendo y el mío también, mientras ella temblaba y se apretaba alrededor de mi polla, perdí la noción de los orgasmos que le había dado."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:95
+translate es gallery_shani_doggy_anal_d6a0a4ad:
+
+    # SHANI "F-Finish in my ass! I want to feel you fill up my ass!"
+    SHANI "¡T-termina en mi culo! ¡Quiero sentir cómo me llenas el culo!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:96
+translate es gallery_shani_doggy_anal_827af321:
+
+    # "Hearing Shani's depraved words, I could hold back no longer, and pulling her to the hilt of my cock I held her there while I gritted my teeth and flooded her bowels with my hot seed."
+    "Al escuchar las depravadas palabras de Shani, no pude contenerme más y, atrayéndola hacia la empuñadura de mi polla, la sostuve allí mientras apretaba los dientes e inundaba sus entrañas con mi semilla caliente."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:100
+translate es gallery_shani_doggy_anal_77ad3cbb:
+
+    # MC @ talk "A-Ahh! Fuck!"
+    MC @ talk "¡A-Ahh! ¡Joder!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:101
+translate es gallery_shani_doggy_anal_0292c732:
+
+    # SHANI "So hot... So much of it... Gods..."
+    SHANI "Tan caliente... Hay tanto... Dioses..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:102
+translate es gallery_shani_doggy_anal_40aa9f30:
+
+    # SHANI "My head feels like it’s spinning!"
+    SHANI "¡Siento como si mi cabeza estuviera dando vueltas!"
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:103
+translate es gallery_shani_doggy_anal_37da49ab:
+
+    # "As Shani's legs began to buckle, I had to catch from falling as she tried to stand back up and compose herself."
+    "Cuando las piernas de Shani comenzaron a doblarse, tuve que sujetarla para que no se cayera mientras intentaba levantarse y recomponerse."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:104
+translate es gallery_shani_doggy_anal_e42dea44:
+
+    # SHANI "I haven’t been fucked like that in years..."
+    SHANI "Hacía años que no me follaban así..."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:105
+translate es gallery_shani_doggy_anal_45ba3c03:
+
+    # SHANI "Phew... Come on, we need to get back before *huff* someone sees us."
+    SHANI "Uf... Vamos, tenemos que volver antes de que *Uff* alguien nos vea."
+
+# game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:106
+translate es gallery_shani_doggy_anal_aea44916:
+
+    # SHANI "...Or I collapse."
+    SHANI "...O me desplome."
+
+translate es strings:
+
+    # game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:5
+    old "Vaginal?"
+    new "¿Vaginal?"
+
+    # game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:5
+    old "Or anal?"
+    new "¿O anal?"

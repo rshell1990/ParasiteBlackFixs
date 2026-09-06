@@ -1,0 +1,26 @@
+﻿# TODO: Translation updated at 2026-07-07 02:02
+
+# game/data/characters/helena/dialogue.rpy:23
+translate ptPT nov_helena_obj_talk_902b571f:
+
+    # HELENA @ talk "Hello again, [player_name!t]."
+    HELENA @ talk "Olá novamente, [player_name!t]."
+
+translate ptPT strings:
+
+    # game/data/characters/helena/dialogue.rpy:8
+    old "Talk to Helena"
+    new "Falar com Helena"
+
+    # game/data/characters/helena/dialogue.rpy:17
+    old "What services do you offer Helena?"
+    new "Que serviços você oferece, Helena?"
+
+    # game/data/characters/helena/dialogue.rpy:18
+    old "Can you tell me a bit about yourself?"
+    new "Você pode me contar um pouco sobre você?"
+
+    # game/data/characters/helena/dialogue.rpy:19
+    old "That is all, thank you."
+    new "Isso é tudo, obrigado."
+

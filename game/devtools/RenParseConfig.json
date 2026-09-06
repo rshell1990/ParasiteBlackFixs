@@ -1,0 +1,21 @@
+{
+  "skip comments": true,
+  "jump one directory upwards": true,
+  "extensions to check": {
+    "image extensions": [
+      ".jpg",
+      ".png",
+      ".webp"
+    ],
+    "misc extensions": [
+      ".ogg",
+      ".webm"
+    ]
+  },
+  "strings to skip": [
+    "[prefix_]",
+    "%",
+    "{",
+    "**"
+  ]
+}

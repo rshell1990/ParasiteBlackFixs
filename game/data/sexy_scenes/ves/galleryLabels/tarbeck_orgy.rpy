@@ -1,0 +1,112 @@
+label gallery_ves_tarbeck_orgy:
+    $ PlayMusicRandom("mus_sex")
+    $ PlaySexFx("audio/sex_sounds/moans_muffled_suckey.ogg", 1)
+    scene mc_tarbeck_orgy_1 with dissolve
+    $ Pause()
+    "In the wall of writhing bodies, a group beckoned me closer."
+    "Before I could even greet them, a dark-skinned woman moaned around her partner's cock, pushing her plump ass back against me."
+    "My cock sprang to life immediately, sliding into her wet, eager hole as she groaned happily, slamming her hips back to meet me."
+    scene mc_tarbeck_orgy_1 with dissolve
+    $ Pause()
+    "Warm breasts pressed into my back from behind, soft lips trailing kisses up my neck before that body lowered between my legs…"
+    "Time melted away. Minutes? An hour? More? Only heat… bodies… moans…"
+    "My balls ached. My cock throbbed. Every part of me gripped, stroked, squeezed… worshipped… consumed."
+    $ PlaySexFx("audio/sex_sounds/ves69_finish.ogg")
+    scene mc_tarbeck_orgy_finish with flash
+    $ Pause()
+    "At last, gripping the ass wrapped tight around me, I thrust deep and held, growling like an animal as I spilled my load inside her."
+    "...and then I moved on to the next."
+    $ PlaySexFx("audio/sex_sounds/adara_hj_loop.ogg", 1)
+    scene ves_tarbeck_orgy_1 with dissolve
+    $ Pause()
+    "...A short while later, a small group of men had gathered in a circle around Ves, their eyes wide with fascination."
+    PARTY_GUEST "Look at this! I heard a greenskin came tonight, but I didn't believe it!"
+    VES "Grrr…"
+    PARTY_GUEST_PERVY "Gods… I heard orcs were hideous… but she's beautiful."
+    PARTY_GUEST_PERVY "If they're all like this, maybe I need to visit Skarshire."
+    PARTY_GUEST_PERVY "Careful boys, don't scare her off."
+    "Ves' ears twitched slightly."
+    VES "Y-You… really think I'm beautiful?"
+    "The men exchanged a knowing grin."
+    PARTY_GUEST "Of course."
+    PARTY_GUEST_PERVY "We've never seen one of your kind before."
+    PARTY_GUEST_PERVY "Are all orc women like you?"
+    "Ves' cheeks burned red."
+    VES "I… no one has ever called orcs beautiful before."
+    VES "...A-Aren't you supposed to… stroke yourselves to me?"
+    "The men chuckled."
+    PARTY_GUEST "Of course."
+    PARTY_GUEST "But maybe you could give us some… encouragement?"
+    VES "E-Encouragement?"
+    PARTY_GUEST "Just a few words to… spice things up."    
+    $ PlaySexFx("audio/sex_sounds/adara_hj_loop_x2.ogg", 1)
+    scene ves_tarbeck_orgy_2 with dissolve
+    $ Pause()
+    "Ves gulped… then froze as the men stroked their cocks faster while staring at her."
+    VES "...!"
+    PARTY_GUEST_PERVY "So… how big do you think they are?"
+    VES "T-They seem… large…"
+    VES "I only have one other human to compare them to and he's…"
+    "She paused, biting her lip."
+    VES "…very large."
+    PARTY_GUEST "And do you *like* big human cocks?"
+    VES "I…"
+    VES "An orc wouldn't degrade herself preferring—"
+    PARTY_GUEST_PERVY "Who said anything about preferring?"
+    PARTY_GUEST_PERVY "Just answer honestly."
+    "Ves panted, flustered, eyes darting hungrily between them."
+    VES "M-Maybe…"
+    PARTY_GUEST "Touch yourself."
+    VES "WHAT?!"
+    PARTY_GUEST "We can't touch you."
+    PARTY_GUEST_PERVY "But that doesn't mean you can't touch yourself."
+    "Ves swallowed hard."
+    VES "…Would that help?"
+    PARTY_GUEST_PERVY "It'll… speed things up."
+    PARTY_GUEST_PERVY "And it's not breaking the rules."
+    "Ves hesitated… then nodded."
+    "With trembling hands, Ves groped one breast, her other hand slipping between her legs as she rubbed her wet slit."
+    VES "*Huff* F-Fuck…"
+    VES "This is…"
+    VES "Mmmfgh…"
+    PARTY_GUEST "So… do you like big human cocks?"
+    VES "*Huff* I like {i}his{/i} cock."
+    PARTY_GUEST "Describe it."
+    VES "*Huff* Thick…"
+    VES "H-His B-Big… almost too big…"
+    VES "It smells… musky…"
+    PARTY_GUEST "And do you like that?"
+    VES "Y-Yes…!"
+    VES "Ahh—what are you doing to me?!"
+    PARTY_GUEST "Tell us."
+    PARTY_GUEST "Do you dream about his cock?"
+    VES "N-No—!"
+    VES "…I mean… yes… sometimes…"
+    VES "There's no harm in dreaming… r-right?"
+    "They stroked faster."
+    PARTY_GUEST "And in those dreams?"
+    VES "It's too embarrassing to say!"
+    PARTY_GUEST "It's just a dream!"
+    PARTY_GUEST_PERVY "Yeah! Just a dream!"
+    PARTY_GUEST_PERVY "You can tell us."
+    VES "... Ummm."
+    VES "H-He's stronger than me."
+    VES "He and his big… perfect cock…"
+    VES "I'm his {i}*huff*{/i} good little orc… his pet…"
+    VES "And I drain his balls Every. Single. Night!"
+    "The men groaned, reaching their peak."
+    PARTY_GUEST "Then take it!"
+    PARTY_GUEST_PERVY "Cumming!"
+    PARTY_GUEST_PERVY "Same!"
+    PARTY_GUEST_PERVY "Get painted, greenskin slut!"
+    $ PlaySexFx("audio/sex_sounds/adara_hj_finish.ogg")
+    scene ves_tarbeck_orgy_finish with flash
+    $ Pause()
+    "Hot ropes of cum splashed across Ves' face… her chest… her tits… covering her in thick, sticky white."
+    "Panting breathlessly, she stared up at them, dazed… flustered… strangely radiant."
+    PARTY_GUEST "Ahh… good job, boys."
+    PARTY_GUEST_PERVY "If Skarshire women look like THIS, I'm visiting."
+    PARTY_GUEST_PERVY "Come on lads, Jonas' wife is waiting."
+    "They wandered off arguing about it."
+    scene black with dissolve
+    return

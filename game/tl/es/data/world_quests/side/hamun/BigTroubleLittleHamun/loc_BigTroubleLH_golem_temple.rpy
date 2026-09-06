@@ -1,0 +1,63 @@
+﻿
+
+translate es strings:
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:4
+    old "The Temple of Arakan"
+    new "El templo de Arakan"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:13
+    old "The bridge"
+    new "El puente"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:14
+    old "Go left"
+    new "Ir a la izquierda"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:15
+    old "Go right"
+    new "Ir a la derecha"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:29
+    old "The Temple of Arakan, sacrificial chamber"
+    new "El templo de Arakan, cámara de sacrificios"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:38
+    old "To bridge"
+    new "Al puente"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:39
+    old "An altar"
+    new "Un altar"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:41
+    old "Jester shrine"
+    new "Santuario del Bufón"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:42
+    old "Crowned shrine"
+    new "Santuario coronado"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:43
+    old "Weeping shrine"
+    new "Santuario del llanto"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:44
+    old "Sleeping shrine"
+    new "Santuario dormido"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:45
+    old "Sea shrine"
+    new "Santuario marino"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:46
+    old "Wolf shrine"
+    new "Santuario del lobo"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:67
+    old "The Temple of Arakan, obelisk room"
+    new "El templo de Arakan, sala del obelisco"
+
+    # game/data/world_quests/side/hamun/BigTroubleLittleHamun/loc_BigTroubleLH_golem_temple.rpy:77
+    old "A strange obelisk"
+    new "Un obelisco extraño"

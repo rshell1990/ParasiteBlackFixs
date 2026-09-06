@@ -1,0 +1,131 @@
+init -1 python:
+    class BattleSkill:
+        Owner_PBCharID      = None
+        Owner_BattleChar    = None
+
+        Level = 1
+        Level_Max = 1
+
+        DisplayName = ""
+        Icon = "images/battle_skill_icons/no_icon.webp"
+
+        SpendTurn = True
+        AutoSelectNextInPartyOnExecute = True
+        ValidTargets = BATTLE_TARGETS.ANY_ENEMY
+
+        Cost_Energy = 0
+        Cost_Mana = 0
+        Cost_Infection = 0         # mc only
+        Cost_PercHealthCurr = 0.0  # % of current hp, 0.5 == 50%
+        Cost_PercHealthMax = 0.0   # % of max hp
+
+        OncePerTurn = True
+        UsedThisTurn = False
+
+        AITags = set()
+        AIBaseWeight = 1.0
+
+        ShowHitChance = True       # for 100% hit stuff, disable this
+
+        def __init__(self, Owner_BattleChar = None, Owner_PBCharID = None, ToLevel = 1):
+            Assert(Owner_BattleChar != None or Owner_PBCharID != None, "Skill  must have either pbchar or battle char owner")
+            self.Owner_PBCharID = Owner_PBCharID
+            self.Owner_BattleChar = Owner_BattleChar
+            self.Level = ToLevel
+            return
+
+        def OwnerCharCanPaySkillCost(self):
+            # energy cost
+            if self.Cost_Energy > 0:
+                if self.Owner_BattleChar.Energy < self.Cost_Energy:
+                    return False
+
+            # mana cost
+            if self.Cost_Mana > 0:
+                if self.Owner_BattleChar.Mana < self.Cost_Mana:
+                    return False
+
+            # current hp % cost
+            if self.Cost_PercHealthCurr:
+                if self.Owner_BattleChar.Health <= 1:
+                    return False
+
+            # max hp % cost
+            if self.Cost_PercHealthMax:
+                IntHpCostValue = int(self.Owner_BattleChar.HealthMax * self.Cost_PercHealthMax)
+                if (self.Owner_BattleChar.Health + 1) < IntHpCostValue:
+                    return False
+
+            # infection cost
+            if self.Cost_Infection > 0:
+                # only test for player-controlled mc
+                if self.Owner_BattleChar.BattleSide == 0:
+                    if (InfectionModule().MaxValue - InfectionModule().CurrentValue) <= self.Cost_Infection:
+                        return False
+
+            return True
+
+        # extra test to check if skill can be executed
+        def CanExecute(self):
+            if self.OncePerTurn and self.UsedThisTurn:
+                return False
+            return True
+
+        # fires right before execution to drain resources
+        def DrainCosts(self):
+            if self.Cost_Energy > 0:
+                self.Owner_BattleChar.Energy -= self.Cost_Energy
+            if self.Cost_Mana > 0:
+                self.Owner_BattleChar.Mana -= self.Cost_Mana
+            if self.Cost_Infection > 0:
+                if self.Owner_BattleChar.BattleSide == 0:
+                    InfectionModule().CurrentValue += self.Cost_Infection
+            if self.Cost_PercHealthCurr > 0.0:
+                self.Owner_BattleChar.Health = ClampValue(int(self.Owner_BattleChar.Health * (1.0 - self.Cost_PercHealthCurr)), 1, self.Owner_BattleChar.HealthMax)
+            if self.Cost_PercHealthMax > 0.0:
+                self.Owner_BattleChar.Health = ClampValue(self.Owner_BattleChar.Health - int(self.Owner_BattleChar.HealthMax * self.Cost_PercHealthMax), 1, self.Owner_BattleChar.HealthMax)
+            return
+
+        # actual logic
+        def Execute(self, Target):
+            return
+
+        # description text
+        def GetDesc(self, DescLevel = 1):
+            return "No desc"
+
+    # for ui
+    def Battle_GetUnmetCostAsString(SkillObj):
+        ResultStrings = []
+        # energy cost
+        if SkillObj.Cost_Energy > 0:
+            if SkillObj.Owner_BattleChar.Energy < SkillObj.Cost_Energy:
+                ResultStrings.append(tra(_("Not enough energy!")))
+
+        # mana cost
+        if SkillObj.Cost_Mana > 0:
+            if SkillObj.Owner_BattleChar.Mana < SkillObj.Cost_Mana:
+                ResultStrings.append(tra(_("Not enough mana!")))
+
+        # current hp % cost
+        if SkillObj.Cost_PercHealthCurr:
+            if SkillObj.Owner_BattleChar.Health <= 1:
+                ResultStrings.append(tra(_("Not enough health!")))
+
+        # max hp % cost
+        if SkillObj.Cost_PercHealthMax:
+            IntHpCostValue = int(SkillObj.Owner_BattleChar.HealthMax * SkillObj.Cost_PercHealthMax)
+            if (SkillObj.Owner_BattleChar.Health + 1) < IntHpCostValue:
+                ResultStrings.append(tra(_("Not enough health!")))
+
+        # infection cost
+        if SkillObj.Cost_Infection > 0:
+            # only test for player-controlled mc
+            if SkillObj.Owner_BattleChar.BattleSide == 0:
+                if (InfectionModule().MaxValue - InfectionModule().CurrentValue) <= SkillObj.Cost_Infection:
+                    ResultStrings.append(tra(_("Cannot afford the infection hit!")))
+
+        for Index, String in enumerate(ResultStrings):
+            ResultStrings[Index] = "{size=+6}{color=[BATTLE_COLORS.REQ_MISSING]}" + String + "{/color}{/size}\n"
+
+        return "".join(ResultStrings)

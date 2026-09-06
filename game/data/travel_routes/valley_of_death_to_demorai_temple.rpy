@@ -1,0 +1,50 @@
+init python:
+    TravelRoutes["valley_temple"] = {
+        "biome_type":"desert",
+        "connects_locations":["valley_of_death", "demorai_temple"],
+
+        "image_loc_bg":"pbat_desert",
+        "image_battle_bg":"pbat_desert",
+        "image_camp":"bg_camp_desert",
+        "image_map":"travel_map_valley_temple",
+        
+        "travel_nodes":{
+            0:{"position":(160, 115), "draw_order":0, "type":"exit", "exit_location_tag":"valley_of_death",},
+            1:{"position":(404, 324), "draw_order":3, "type":"random",},
+            2:{"position":(435, 126), "draw_order":1, "type":"random",},
+            3:{"position":(637, 228), "draw_order":2, "type":"random",},
+            4:{"position":(654, 528), "draw_order":6, "type":"random",},
+            5:{"position":(900, 391), "draw_order":4, "type":"random",},
+            6:{"position":(1286, 652), "draw_order":7, "type":"random",},
+            7:{"position":(1179, 452), "draw_order":5, "type":"exit", "exit_location_tag":"demorai_temple",},
+        },
+        "travel_paths":{
+            (0, 1):[(166, 290), (329, 340)],
+            (0, 2):[],
+            (2, 3):[],
+            (1, 3):[],
+            (3, 5):[(777, 270)],
+            (1, 5):[],
+            (1, 4):[],
+            (4, 5):[(788, 472)],
+            (4, 6):[(780, 677), (1138, 729), (1250, 744)],
+            (5, 6):[(1039, 433)],
+            (5, 7):[(1039, 433)],
+        },
+        "path_costs_in_hours":{
+            (0, 1):15,
+            (0, 2):10,
+            (2, 3):8,
+            (1, 3):9,
+            (3, 5):12,
+            (1, 5):18,
+            (1, 4):12,
+            (4, 5):10,
+            (4, 6):28,
+            (5, 6):17,
+            (5, 7):10,
+        },
+        
+        "world_map_sprite":"path_valley_temple",
+        "world_map_sprite_pos":(1391, 1175),
+    }

@@ -1,0 +1,2181 @@
+﻿
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:7
+translate ru qst_jackpot_black_diamond_winward_cd1bd79a:
+
+    # MR_WINWARD @ happy "Ahh! You've made it, lad!"
+    MR_WINWARD @ happy "Ах! Ты добрался, парень!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:9
+translate ru qst_jackpot_black_diamond_winward_ae419554:
+
+    # "DEV-ONLY: Autocomplete nijah quest?"
+    "DEV-ONLY: Автозавершение квеста Ниджи?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:13
+translate ru qst_jackpot_black_diamond_winward_2f89ad83:
+
+    # "DEV-ONLY: What happened during nijah quest?"
+    "DEV-ONLY: Что произошло во время квеста Ниджи?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:31
+translate ru qst_jackpot_black_diamond_winward_99b5fa81:
+
+    # MC @ angry "What are you doing here?"
+    MC @ angry "Что ты здесь делаешь?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:32
+translate ru qst_jackpot_black_diamond_winward_82ddc5e9:
+
+    # MR_WINWARD @ think "Remember that high stakes game I talked about?"
+    MR_WINWARD @ think "Помнишь ту игру с высокими ставками, о которой я говорил?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:33
+translate ru qst_jackpot_black_diamond_winward_6741ef58:
+
+    # MR_WINWARD @ happy "We're having it here!"
+    MR_WINWARD @ happy "Мы проводим её здесь!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:34
+translate ru qst_jackpot_black_diamond_winward_3ddf0223:
+
+    # MC @ angry "Are you insane? The Black Diamond is-"
+    MC @ angry "Ты с ума сошёл? Чёрный Алмаз же-"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:37
+translate ru qst_jackpot_black_diamond_winward_879f2eeb:
+
+    # BANDIT "Is this your friend?"
+    BANDIT "Это твой друг?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:38
+translate ru qst_jackpot_black_diamond_winward_b8e50d2d:
+
+    # "The shady-looking guard strolled over towards us."
+    "Подозрительно выглядящий охранник направился к нам."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:39
+translate ru qst_jackpot_black_diamond_winward_e9acfb03:
+
+    # MR_WINWARD @ happy "Ahh! Yes! This gentleman right here is my friend!"
+    MR_WINWARD @ happy "Ах! Да! Этот джентльмен как раз мой друг!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:56
+translate ru qst_jackpot_black_diamond_damzel_vulshan_a6ee6c54:
+
+    # VULSHAN_GUARD "...Ahh! Good to see you again, friend!"
+    VULSHAN_GUARD "...Ах! Рад снова тебя видеть, друг!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:57
+translate ru qst_jackpot_black_diamond_damzel_vulshan_f0ded1b3:
+
+    # VULSHAN_GUARD "A friend of the Vulshan is always welcome here!"
+    VULSHAN_GUARD "Друг Вулшанов всегда желанный гость здесь!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:58
+translate ru qst_jackpot_black_diamond_damzel_vulshan_2eb09dce:
+
+    # MR_WINWARD @ think "You uhh, know these fellows?"
+    MR_WINWARD @ think "Ты, э-э-э, знаешь этих ребят?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:59
+translate ru qst_jackpot_black_diamond_damzel_vulshan_acea8bfa:
+
+    # VULSHAN_GUARD "Haha... We owe a good debt to your friend here, Mr Winward."
+    VULSHAN_GUARD "Ха-ха... Мы в большом долгу перед твоим другом, Мистер Уинвард."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:60
+translate ru qst_jackpot_black_diamond_damzel_vulshan_770dde05:
+
+    # MR_WINWARD @ happy "WELL THEN! How about we go play some cards, and you boys-"
+    MR_WINWARD @ happy "НУ ЧТО Ж! Как насчёт того, чтобы пойти поиграть в карты, а вы, парни..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:61
+translate ru qst_jackpot_black_diamond_damzel_vulshan_a7c1ddf9:
+
+    # MC "Go order a drink at the bar and wait, Mr Winward."
+    MC "Иди закажи выпивку у бара и подожди меня, Мистер Уинвард."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:62
+translate ru qst_jackpot_black_diamond_damzel_vulshan_ef489156:
+
+    # MR_WINWARD @ shock "Ehh?"
+    MR_WINWARD @ shock "Э-э-э?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:63
+translate ru qst_jackpot_black_diamond_damzel_vulshan_717ad832:
+
+    # MC @ serious "Just do it."
+    MC @ serious "Просто сделай это."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:64
+translate ru qst_jackpot_black_diamond_damzel_vulshan_cc8040bd:
+
+    # MR_WINWARD @ angry "Bah! Fine Fine! No need to yell!"
+    MR_WINWARD @ angry "Бах! Ладно, ладно! Не нужно кричать!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:66
+translate ru qst_jackpot_black_diamond_damzel_vulshan_fcb6bc70:
+
+    # "Mr Winward briefly slumped off to grab a drink, leaving me alone to chat to the Vulshan guard briefly."
+    "Мистер Уинвард ненадолго поплёлся за выпивкой, оставив меня наедине поболтать со стражем Вулшанов."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:69
+translate ru qst_jackpot_black_diamond_damzel_vulshan_0f2cb9ee:
+
+    # MC "What are the stakes?"
+    MC "Какие ставки?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:70
+translate ru qst_jackpot_black_diamond_damzel_vulshan_893546ca:
+
+    # VULSHAN_GUARD "Hm? The high roller game? Five thousand coins iz the minimum buy-in."
+    VULSHAN_GUARD "Хм? Игра для крупных игроков? Минимальный вход — пять тысяч монет."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:71
+translate ru qst_jackpot_black_diamond_damzel_vulshan_0be1d784:
+
+    # MC "(FUCK! That idiot's going to bankrupt himself and Kionni! What the hell is he thinking playing stakes like those?!)"
+    MC "(БЛЯТЬ! Этот идиот разорит себя и Кионни! О чём он вообще думает, играя на таких высоких ставках?!)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:72
+translate ru qst_jackpot_black_diamond_damzel_vulshan_98ba018e:
+
+    # MC "I want you to stop Mr Winward playing, or at least make sure he still walks away with most of his coin."
+    MC "Я хочу чтобы ты остановил Мистера Уинварда от игры, или хотя бы убедился, что он уйдёт с большей частью своих монет."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:73
+translate ru qst_jackpot_black_diamond_damzel_vulshan_94ce3304:
+
+    # VULSHAN_GUARD "I'm sorry, friend, I cannot do that."
+    VULSHAN_GUARD "Прости, друг, я не могу этого сделать."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:74
+translate ru qst_jackpot_black_diamond_damzel_vulshan_edcbe058:
+
+    # MC @ think "Why not?"
+    MC @ think "Почему нет?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:75
+translate ru qst_jackpot_black_diamond_damzel_vulshan_8ce1718b:
+
+    # VULSHAN_GUARD "Many of the top gang bosses and merchants attend the games; once your name iz on the list, you're {i}expected{/i} to show, else there's a forfeit cost of the buy-in."
+    VULSHAN_GUARD "Многие из главных боссов банд и купцов посещают игры; как только твоё имя вносится в список, ты {i}обязан{/i} явиться, иначе штраф — стоимость входа."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:76
+translate ru qst_jackpot_black_diamond_damzel_vulshan_9ea0639d:
+
+    # VULSHAN_GUARD "For most of the big players, this coin iz nothing, but uhhh, I take it losing that kind of coin iz not an option for your friend?"
+    VULSHAN_GUARD "Для большинства крупных игроков эти монеты — ничто, но, э-э-э, я полагаю, потеря таких денег — не вариант для твоего друга?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:77
+translate ru qst_jackpot_black_diamond_damzel_vulshan_d2b5e123:
+
+    # MC @ serious "Not in the slightest."
+    MC @ serious "Ни в коем случае."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:78
+translate ru qst_jackpot_black_diamond_damzel_vulshan_a8408f22:
+
+    # VULSHAN_GUARD "Hmm... I do have an idea, friend."
+    VULSHAN_GUARD "Хм... У меня есть идея, друг."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:79
+translate ru qst_jackpot_black_diamond_damzel_vulshan_ea45acae:
+
+    # VULSHAN_GUARD "I could ply Mr Winward with some drinks and a couple of girls in one of the private rooms."
+    VULSHAN_GUARD "Я мог бы угостить Мистера Уинварда парой напитков и парой девушек в одном из приватных залов."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:80
+translate ru qst_jackpot_black_diamond_damzel_vulshan_05801224:
+
+    # VULSHAN_GUARD "Then, I could have {i}Crystal eyes{/i} play in Mr Winward's place."
+    VULSHAN_GUARD "Затем, я мог бы поставить {i}Хрустальные глаза{/i} играть вместо Мистера Уинварда."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:81
+translate ru qst_jackpot_black_diamond_damzel_vulshan_667b74a4:
+
+    # MC @ think "Crystal eyes?"
+    MC @ think "Хрустальные глаза?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:82
+translate ru qst_jackpot_black_diamond_damzel_vulshan_94368bbd:
+
+    # VULSHAN_GUARD "Old gambling shark who owes us a couple of favors."
+    VULSHAN_GUARD "Старый акула азартных игр, который должен нам пару одолжений."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:83
+translate ru qst_jackpot_black_diamond_damzel_vulshan_55a96f52:
+
+    # VULSHAN_GUARD "I could ask him to take Mr Winward's place; none of the other players will be the wiser."
+    VULSHAN_GUARD "Я мог бы попросить его занять место Мистера Уинварда; остальные игроки ничего не заподозрят."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:84
+translate ru qst_jackpot_black_diamond_damzel_vulshan_c16803cb:
+
+    # MC @ think "Will he win?"
+    MC @ think "Он выиграет?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:85
+translate ru qst_jackpot_black_diamond_damzel_vulshan_ae37f4ac:
+
+    # VULSHAN_GUARD "Heh, he could, {i}but he won't.{/i}"
+    VULSHAN_GUARD "Хех, он мог бы, {i}но не выиграет.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:86
+translate ru qst_jackpot_black_diamond_damzel_vulshan_49b93b95:
+
+    # VULSHAN_GUARD "There'll be too many questions if some newcomer just wins the big game; too many questions are bad for business."
+    VULSHAN_GUARD "Слишком много вопросов возникнет, если какой-то новичок просто выиграет большую игру; слишком много вопросов — плохо для бизнеса."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:87
+translate ru qst_jackpot_black_diamond_damzel_vulshan_6384b220:
+
+    # VULSHAN_GUARD "We'll tell Crystal Eyes to win {i}just enough{/i} so your friend Zer can walk away with some coin, but he won't walk away with the full haul."
+    VULSHAN_GUARD "Мы скажем Хрустальным Глазам выиграть {i}ровно столько{/i}, чтобы твой так называемый друг, ушёл с деньгами, но не с полным выигрышем."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:88
+translate ru qst_jackpot_black_diamond_damzel_vulshan_67a91629:
+
+    # VULSHAN_GUARD "Iz all I can think of..."
+    VULSHAN_GUARD "Это всё, что я могу придумать..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:89
+translate ru qst_jackpot_black_diamond_damzel_vulshan_e5bd6599:
+
+    # MC "(Hmm, I don't like the idea of putting my faith in someone called {i}Crystal eyes{/i} but the Vulshan vouches for him...)"
+    MC "(Хм, мне не нравится идея доверять кому-то по имени {i}Хрустальные глаза{/i}, но Вулшан ручается за него...)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:90
+translate ru qst_jackpot_black_diamond_damzel_vulshan_95489b26:
+
+    # MC @ think "(Should I really trust them though? Favor or not, {i}they are criminals.{/i})"
+    MC @ think "(Но стоит ли мне им доверять? Одолжение или нет, {i}они же преступники.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:91
+translate ru qst_jackpot_black_diamond_damzel_vulshan_b89e7266:
+
+    # VULSHAN_GUARD "Let me know your choice..."
+    VULSHAN_GUARD "Дай мне знать о своём выборе..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:93
+translate ru qst_jackpot_black_diamond_damzel_vulshan_7e6ce77b:
+
+    # "The Vulshan guard turned and left."
+    "Стражник Вулшана развернулся и ушёл."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:97
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_26e84333:
+
+    # VULSHAN_GUARD "You... You were the last one to see Tarek before he vanished!"
+    VULSHAN_GUARD "Ты... Ты был последним, кто видел Тарека перед его исчезновением!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:98
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_1aeb6084:
+
+    # MC @ serious "({i}Fuck.{/i})"
+    MC @ serious "({i}Чёрт.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:99
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_19b18c88:
+
+    # MC @ angry "I have no idea what you're talking about."
+    MC @ angry "Понятия не имею, о чём ты говоришь."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:100
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_e10cc5f0:
+
+    # VULSHAN_GUARD "Iz that so?"
+    VULSHAN_GUARD "Неужели?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:101
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_f5d045c1:
+
+    # VULSHAN_GUARD "Perhaps I should speak to the others, see if {i}they{/i} remember you."
+    VULSHAN_GUARD "Возможно, мне стоит поговорить с остальными, посмотреть, {i}помнят{/i} ли они тебя."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:102
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_09384480:
+
+    # MR_WINWARD @ think "You uhh, you two know each other?"
+    MR_WINWARD @ think "Вы эээ, вы двое знакомы?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:103
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_a7c1ddf9:
+
+    # MC "Go order a drink at the bar and wait, Mr Winward."
+    MC "Иди закажи напиток в баре и жди меня, Мистер Уинвард."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:104
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_ef489156:
+
+    # MR_WINWARD @ shock "Ehh?"
+    MR_WINWARD @ shock "Эээ?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:105
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_717ad832:
+
+    # MC @ serious "Just do it."
+    MC @ serious "Просто сделай это."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:106
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_cc8040bd:
+
+    # MR_WINWARD @ angry "Bah! Fine Fine! No need to yell!"
+    MR_WINWARD @ angry "Бах! Ладно, ладно! Не нужно кричать!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:107
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_4b298ec3:
+
+    # "Mr Winward briefly slumped off to grab a drink, leaving me alone to turn my attention back to the Vulshan guard briefly."
+    "Мистер Уинвард ненадолго ушёл за напитком, оставив меня наедине, чтобы я снова обратил внимание на охранника Вулшана."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:109
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_7dc5dafb:
+
+    # MC "What do you want?"
+    MC "Что тебе нужно?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:110
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_18878ae9:
+
+    # VULSHAN_GUARD "Give me one good reason why I should not have you and your friend cut up into small pieces and fed to a Basark?"
+    VULSHAN_GUARD "Назови одну вескую причину, почему мне не стоит разрезать тебя и твоего друга на мелкие кусочки и скормить Басарку?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:115
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_11d8ef90:
+
+    # "As I handed the bandit the bag of coin, he felt the weight with his hand and nodded."
+    "Когда я передал бандиту мешок с монетами, он ощупал его вес рукой и кивнул."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:116
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_27b89873:
+
+    # VULSHAN_GUARD "...Finish whatever business you have with your friend and leave."
+    VULSHAN_GUARD "...Закончи свои дела с другом и уходи."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:117
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_6ba65ea3:
+
+    # VULSHAN_GUARD "Do not linger, others may... {i}ask their own questions.{/i}"
+    VULSHAN_GUARD "Не задерживайся, другие могут... {i}задать свои вопросы.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:121
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_33cb0197:
+
+    # VULSHAN_GUARD "You...!"
+    VULSHAN_GUARD "Ты...!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:122
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_d998012a:
+
+    # VULSHAN_GUARD "Do whatever it iz you've come to down and then get the fuck out!"
+    VULSHAN_GUARD "Делай то за чем пришёл, и проваливай нахрен!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:123
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_6f9a7c3a:
+
+    # VULSHAN_GUARD "I - I mean it!"
+    VULSHAN_GUARD "Я - Я серьёзно!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:124
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_bd1b63fc:
+
+    # "The Vulshan guard quickly scurried away."
+    "Стражник Вулшан быстро ретировался."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:126
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_8a8b7e4e:
+
+    # MC "({i}*Sigh*{/i})"
+    MC "({i}*Вздох*{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:127
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_9608d8e2:
+
+    # MC "(That was a close one.)"
+    MC "(Это было опасно.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:130
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_406be817:
+
+    # VULSHAN_GUARD "...You lie."
+    VULSHAN_GUARD "...Ты лжёшь."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:131
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_32850255:
+
+    # MC @ serious "Do I?"
+    MC @ serious "Разве?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:132
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_430e57bc:
+
+    # MC "The Vulshan and Khazah leaderships knew he was trying to weaken them by handing over their territory."
+    MC "Лидеры Вулшана и Хазаха знали что он пытался ослабить их, передавая их территории."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:133
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_105b7106:
+
+    # VULSHAN_GUARD "Why would he do such a thing?"
+    VULSHAN_GUARD "Зачем ему было делать такое?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:134
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_ec4f8947:
+
+    # MC "To try and stabilize his control, the Vulshan and Khazah are too powerful and volatile to control easily. Smaller gang territories are easier to manage in case one steps out of line."
+    MC "Чтобы попытаться стабилизировать свой контроль, Вулшаны и Хазахи слишком могущественны и непредсказуемы, чтобы ими легко управлять. Территории мелких банд легче контролировать, если кто-то выйдет из повиновения."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:135
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_a3553fc7:
+
+    # VULSHAN_GUARD "...I see."
+    VULSHAN_GUARD "...Понятно."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:136
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_8a4f50b4:
+
+    # VULSHAN_GUARD "Tarek was good to me. If what you say is true, I and many of the others here will look the other way at your presence."
+    VULSHAN_GUARD "Тарек хорошо ко мне относился. Если то что ты говоришь правда, я и многие другие здесь закроем глаза на твоё присутствие."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:137
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_44c26503:
+
+    # VULSHAN_GUARD "But be warned, other Vulshan and Khazahs, those with more loyalty to the rest of the leadership will not take kindly to your actions here..."
+    VULSHAN_GUARD "Но будь осторожен: другие Вулшане и Хазахи, те кто более предан остальным лидерам, не одобрят твоих действий здесь..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:138
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_434f3894:
+
+    # MC "...Noted."
+    MC "...Принято."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:139
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_55105e0e:
+
+    # "The Vulshan guard turned and left without saying another word."
+    "Стражник-Вулшан развернулся и ушёл, не проронив больше ни слова."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:141
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_31130542:
+
+    # MC "(That was close...)"
+    MC "(Это было близко...)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:142
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_7eeec4a9:
+
+    # MC "(I better figure something out fast.)"
+    MC "(Мне лучше быстро что-нибудь придумать.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:148
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_11d8ef90_1:
+
+    # "As I handed the bandit the bag of coin, he felt the weight with his hand and nodded."
+    "Когда я передал бандиту мешок с монетами, он ощупал его вес рукой и кивнул."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:149
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_27b89873_1:
+
+    # VULSHAN_GUARD "...Finish whatever business you have with your friend and leave."
+    VULSHAN_GUARD "...Закончи свои дела с другом и уходи."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:150
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_6ba65ea3_1:
+
+    # VULSHAN_GUARD "Do not linger, others may... {i}ask their own questions.{/i}"
+    VULSHAN_GUARD "Не задерживайся, другие могут... {i}задать свои вопросы.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:154
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_33cb0197_1:
+
+    # VULSHAN_GUARD "You...!"
+    VULSHAN_GUARD "Ты...!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:155
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_d998012a_1:
+
+    # VULSHAN_GUARD "Do whatever it iz you've come to down and then get the fuck out!"
+    VULSHAN_GUARD "Делай то, за чем пришёл, и вали отсюда к чёрту!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:156
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_6f9a7c3a_1:
+
+    # VULSHAN_GUARD "I - I mean it!"
+    VULSHAN_GUARD "Я - Я серьёзно!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:157
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_bd1b63fc_1:
+
+    # "The Vulshan guard quickly scurried away."
+    "Стражник Вулшан быстро ретировался."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:159
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_8a8b7e4e_1:
+
+    # MC "({i}*Sigh*{/i})"
+    MC "({i}*Вздох*{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:160
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_9608d8e2_1:
+
+    # MC "(That was a close one.)"
+    MC "(Это было опасно.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:163
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_c8d482cc:
+
+    # VULSHAN_GUARD "There was no raid! This is a lie, a sham!"
+    VULSHAN_GUARD "Не было никакого рейда! Это ложь, обман!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:166
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_5d9bcd78:
+
+    # VULSHAN_GUARD "You expect me to believe zat nonsense?!"
+    VULSHAN_GUARD "Ты думаешь, я поверю в эту чушь?!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:168
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_55105e0e_1:
+
+    # "The Vulshan guard turned and left without saying another word."
+    "Стражник Вулшан развернулся и ушёл, не проронив больше ни слова."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:169
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_ad1cc37f:
+
+    # MC "(Something tells me that went badly...)"
+    MC "(Что-то подсказывает мне, что это плохо кончиться...)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:172
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_8b2f196f:
+
+    # MC @ angry "They were hunting him; once they got word he had left the city, they moved their searches elsewhere to find him."
+    MC @ angry "Они охотились на него; получив известие что он покинул город, они перенесли поиски в другие места, чтобы найти его."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:173
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_18e5d827:
+
+    # MC @ angry "Without my warning, he was a dead man walking."
+    MC @ angry "Без моего предупреждения он был ходячим мертвецом."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:174
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_f73443ba:
+
+    # VULSHAN_GUARD "...I do not know whether you tell the truth, but I shall warn you now."
+    VULSHAN_GUARD "...Я не знаю говоришь ли ты правду, но сейчас я тебя предупреждаю."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:175
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_c32ae31c:
+
+    # VULSHAN_GUARD "Tarek was good to me; if what you say is true, I and many of the others here will look the other way to your presence here."
+    VULSHAN_GUARD "Тарек хорошо ко мне относился; если то что ты говоришь правда, я и многие другие здесь закроем глаза на твое присутствие."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:176
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_44c26503_1:
+
+    # VULSHAN_GUARD "But be warned, other Vulshan and Khazahs, those with more loyalty to the rest of the leadership will not take kindly to your actions here..."
+    VULSHAN_GUARD "Но будь осторожен: другие Вулшане и Хазахи, те кто более предан остальным лидерам, не одобрят твои действия здесь..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:177
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_434f3894_1:
+
+    # MC "...Noted."
+    MC "...Принято."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:179
+translate ru qst_jackpot_black_diamond_damzel_tarek_left_55105e0e_2:
+
+    # "The Vulshan guard turned and left without saying another word."
+    "Стражник Вулшан развернулся и ушёл, не сказав больше ни слова."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:184
+translate ru qst_jackpot_black_diamond_damzel_assassinated_b58d8bbd:
+
+    # VULSHAN_GUARD "...You... You were there the night Tarek died!"
+    VULSHAN_GUARD "...Ты... Ты был там в ту ночь, когда погиб Тарек!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:185
+translate ru qst_jackpot_black_diamond_damzel_assassinated_8c023b48:
+
+    # MC "(Fuck.)"
+    MC "(Чёрт.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:186
+translate ru qst_jackpot_black_diamond_damzel_assassinated_e21b2c8a:
+
+    # MC "No idea what or who you're talking about."
+    MC "Понятия не имею, о чём или о ком ты говоришь."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:187
+translate ru qst_jackpot_black_diamond_damzel_assassinated_1c4184a0:
+
+    # VULSHAN_GUARD "I remember... I escaped amidst all zer carnage."
+    VULSHAN_GUARD "Я помню... Я сбежал посреди всей этой резни."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:188
+translate ru qst_jackpot_black_diamond_damzel_assassinated_8cb8cf01:
+
+    # MC @ think "I think you have the wrong person friend, I have no idea what you're talking about..."
+    MC @ think "Думаю, ты ошибься человеком, друг, я понятия не имею о чём ты говоришь..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:189
+translate ru qst_jackpot_black_diamond_damzel_assassinated_e10cc5f0:
+
+    # VULSHAN_GUARD "Iz that so?"
+    VULSHAN_GUARD "Разве?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:190
+translate ru qst_jackpot_black_diamond_damzel_assassinated_09384480:
+
+    # MR_WINWARD @ think "You uhh, you two know each other?"
+    MR_WINWARD @ think "Вы эм, вы двое знакомы?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:191
+translate ru qst_jackpot_black_diamond_damzel_assassinated_c7980ccc:
+
+    # MC "Go order a drink at the bar and wait there, Mr Winward."
+    MC "Иди закажи напиток в баре и жди там, Мистер Уинвард."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:192
+translate ru qst_jackpot_black_diamond_damzel_assassinated_ef489156:
+
+    # MR_WINWARD @ shock "Ehh?"
+    MR_WINWARD @ shock "Эээ?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:193
+translate ru qst_jackpot_black_diamond_damzel_assassinated_717ad832:
+
+    # MC @ serious "Just do it."
+    MC @ serious "Просто сделай это."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:194
+translate ru qst_jackpot_black_diamond_damzel_assassinated_cc8040bd:
+
+    # MR_WINWARD @ angry "Bah! Fine Fine! No need to yell!"
+    MR_WINWARD @ angry "Бах! Ладно, ладно! Не надо кричать!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:195
+translate ru qst_jackpot_black_diamond_damzel_assassinated_4b298ec3:
+
+    # "Mr Winward briefly slumped off to grab a drink, leaving me alone to turn my attention back to the Vulshan guard briefly."
+    "Мистер Уинвард ненадолго удалился, чтобы взять напиток, оставив меня наедине, чтобы я снова обратил внимание на охранника Вулшана."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:196
+translate ru qst_jackpot_black_diamond_damzel_assassinated_3236ce2d:
+
+    # MC @ serious "What do you want?"
+    MC @ serious "Чего ты хочешь?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:197
+translate ru qst_jackpot_black_diamond_damzel_assassinated_65e366ec:
+
+    # VULSHAN_GUARD "From {i}you?{/i}"
+    VULSHAN_GUARD "От {i}тебя?{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:198
+translate ru qst_jackpot_black_diamond_damzel_assassinated_88f49d4f:
+
+    # VULSHAN_GUARD "...{i}Nothing.{/i}"
+    VULSHAN_GUARD "...{i}Ничего.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:199
+translate ru qst_jackpot_black_diamond_damzel_assassinated_8825e50f:
+
+    # VULSHAN_GUARD "I hope you enjoy your evening here tonight."
+    VULSHAN_GUARD "Надеюсь, ты приятно проведёшь здесь вечер."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:200
+translate ru qst_jackpot_black_diamond_damzel_assassinated_541d55d6:
+
+    # VULSHAN_GUARD "Spend lots of coin and enjoy yourself..."
+    VULSHAN_GUARD "Трать много монет и наслаждайся..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:201
+translate ru qst_jackpot_black_diamond_damzel_assassinated_7e5ab66c:
+
+    # VULSHAN_GUARD "The Vulshan never forgets to pay back one of its..."
+    VULSHAN_GUARD "Вулшаны никогда не забывают отплатить своим..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:202
+translate ru qst_jackpot_black_diamond_damzel_assassinated_7a76dc21:
+
+    # VULSHAN_GUARD "{i}Friends.{/i}"
+    VULSHAN_GUARD "{i}Друзьям.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:203
+translate ru qst_jackpot_black_diamond_damzel_assassinated_4e2f2e9e:
+
+    # "Without saying another word, the Vulshan guard turned and left."
+    "Не сказав больше ни слова, стражник Вулшан развернулся и ушёл."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:204
+translate ru qst_jackpot_black_diamond_damzel_assassinated_32915c92:
+
+    # MC "(...Shit.)"
+    MC "(...Чёрт.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:205
+translate ru qst_jackpot_black_diamond_damzel_assassinated_f3586903:
+
+    # MC "(This is bad...)"
+    MC "(Это плохо...)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:211
+translate ru qst_jackpot_black_diamond_damzel_assault_85703ffb:
+
+    # VULSHAN_GUARD "Hello friends, the Khazah welcomes you to the Black Diamond..."
+    VULSHAN_GUARD "Привет друзья, Хазах приветствуют вас в Чёрном Алмазе..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:212
+translate ru qst_jackpot_black_diamond_damzel_assault_9cba5d21:
+
+    # MC @ think "The Khazhah? I thought this was still Vulshan territory?"
+    MC @ think "Хазах? Я думал, это всё ещё территория Вулшан?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:213
+translate ru qst_jackpot_black_diamond_damzel_assault_1e14a2a7:
+
+    # "The Khazah guard raised a curious brow."
+    "Страж Хазах с любопытством приподнял бровь."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:214
+translate ru qst_jackpot_black_diamond_damzel_assault_66de1d07:
+
+    # VULSHAN_GUARD "It iz strange one such as you knows who we are."
+    VULSHAN_GUARD "Странно, что такой как ты знает, кто мы."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:215
+translate ru qst_jackpot_black_diamond_damzel_assault_af2befd8:
+
+    # VULSHAN_GUARD "Most just assume all Ramonian families are the same."
+    VULSHAN_GUARD "Большинство просто считает, что все семьи Рамониан одинаковы."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:216
+translate ru qst_jackpot_black_diamond_damzel_assault_9bd96c8f:
+
+    # MC "I have Ramonian friends."
+    MC "У меня есть друзья Рамониане."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:217
+translate ru qst_jackpot_black_diamond_damzel_assault_fc17bf49:
+
+    # VULSHAN_GUARD "I zee..."
+    VULSHAN_GUARD "Понимаю..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:218
+translate ru qst_jackpot_black_diamond_damzel_assault_bf15b5d8:
+
+    # VULSHAN_GUARD "There was... {i}An incident.{/i}"
+    VULSHAN_GUARD "Тут был... {i}Инцидент.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:219
+translate ru qst_jackpot_black_diamond_damzel_assault_29d1df93:
+
+    # VULSHAN_GUARD "Tarek is dead, and with his death, the agreement for the Black Diamond to be uhh, as you would say, {i}neutral ground,{/i} went with him."
+    VULSHAN_GUARD "Тарек мёртв, и с его смертью соглашение о том, чтобы Чёрный Алмаз был, э-э, как вы говорите, {i}нейтральной территорией,{/i} ушло вместе с ним."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:220
+translate ru qst_jackpot_black_diamond_damzel_assault_c1170cce:
+
+    # MC "Ah..."
+    MC "Ах..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:221
+translate ru qst_jackpot_black_diamond_damzel_assault_950c3a52:
+
+    # VULSHAN_GUARD "Not to worry, Khazah will run this place better than Vulshan ever could."
+    VULSHAN_GUARD "Не беспокойтесь, Хазах будут управлять этим местом лучше, чем Вулшане когда-либо могли."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:222
+translate ru qst_jackpot_black_diamond_damzel_assault_c857963c:
+
+    # VULSHAN_GUARD "{i}*Chuckles*{/i}"
+    VULSHAN_GUARD "{i}*Усмехается*{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:223
+translate ru qst_jackpot_black_diamond_damzel_assault_790d4020:
+
+    # VULSHAN_GUARD "Your friends seat at the table iz ready."
+    VULSHAN_GUARD "Место для твоих друзей за столом готово."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:224
+translate ru qst_jackpot_black_diamond_damzel_assault_22eb3e37:
+
+    # VULSHAN_GUARD "We shall announce soon when the players are to take their seats."
+    VULSHAN_GUARD "Мы объявим вскоре, когда игрокам следует занять свои места."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:225
+translate ru qst_jackpot_black_diamond_damzel_assault_b571c3fe:
+
+    # VULSHAN_GUARD "We hope you both enjoy zer rest of your evening..."
+    VULSHAN_GUARD "Мы надеемся, вы оба насладитесь остатком вечера..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:226
+translate ru qst_jackpot_black_diamond_damzel_assault_1f9ad249:
+
+    # "The Khazah bowed gracefully before turning to leave."
+    "Хазах грациозно поклонился, прежде чем развернуться и уйти."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:231
+translate ru qst_jackpot_black_diamond_seat_ready_5f1801ad:
+
+    # VULSHAN_GUARD "Your seat at the table iz ready."
+    VULSHAN_GUARD "Ваше место за столом готово."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:232
+translate ru qst_jackpot_black_diamond_seat_ready_22eb3e37:
+
+    # VULSHAN_GUARD "We shall announce soon when the players are to take their seats."
+    VULSHAN_GUARD "Мы объявим вскоре, когда игрокам следует занять свои места."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:233
+translate ru qst_jackpot_black_diamond_seat_ready_4484a290:
+
+    # MR_WINWARD @ happy "Wonderful! Simply wonderful!"
+    MR_WINWARD @ happy "Великолепно! Просто великолепно!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:234
+translate ru qst_jackpot_black_diamond_seat_ready_bea30390:
+
+    # "The Vulshan guard turned and left without another word."
+    "Стражник Вулшан развернулся и ушёл без лишних слов."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:241
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_21ebab60:
+
+    # MC @ angry "Do you have any idea what you've gotten yourself into?"
+    MC @ angry "Ты хоть представляешь, во что ввязался?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:242
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_98f77759:
+
+    # MC @ angry "The Vulshan? Khazahs? Do you have a death wish?"
+    MC @ angry "Вулшане? Хазахи? У тебя что, тяга к смерти?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:243
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_bb75a391:
+
+    # MR_WINWARD @ angry "Of course not, boy!"
+    MR_WINWARD @ angry "Конечно нет, мальчик!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:244
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_24433824:
+
+    # MR_WINWARD @ shock "But the chance to win here could be life-changing!"
+    MR_WINWARD @ shock "Но шанс выиграть здесь может изменить жизнь!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:245
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_1ce7525a:
+
+    # MC @ angry "{i}Yes, being dead is quite the life-changing event...{/i}"
+    MC @ angry "{i}Да, смерть — это весьма меняющее жизнь событие...{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:246
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_79ebc60d:
+
+    # MR_WINWARD @ angry "I'm already dead, boy! I've been living a shell of a life for YEARS!"
+    MR_WINWARD @ angry "Я уже мертв, парень! Я годами влачил жалкое существование!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:247
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_41ae4ee1:
+
+    # MR_WINWARD @ angry "Either you are with me, boy, or you're not!"
+    MR_WINWARD @ angry "Либо ты со мной, парень, либо нет!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:248
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_b5227eb6:
+
+    # MR_WINWARD @ angry "One way or another, I'm going to sit at that table!"
+    MR_WINWARD @ angry "Так или иначе, я сяду за тот стол!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:252
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_726a5aa0:
+
+    # "As Mr Winward, in a huff, turned to grab another drink as he waited for the game to begin."
+    "Мистер Уинвард, фыркнув, повернулся чтобы взять ещё выпить, пока ждал начала игры."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:253
+translate ru qst_jackpot_black_diamond_winward_waits_for_game_7759a666:
+
+    # MC "(Fuck... What are my options here?)"
+    MC "(Чёрт... Какие у меня варианты?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:259
+translate ru qst_jackpot_black_diamond_winward_2_65e525e0:
+
+    # MR_WINWARD "Well? What is it?"
+    MR_WINWARD "Ну? Что такое?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:262
+translate ru qst_jackpot_black_diamond_winward_2_acf7d925:
+
+    # MR_WINWARD @ shock "Really?"
+    MR_WINWARD @ shock "Правда?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:263
+translate ru qst_jackpot_black_diamond_winward_2_304570c5:
+
+    # MR_WINWARD @ happy "Heheeeee! Sounds like a plan, me boy!"
+    MR_WINWARD @ happy "Хе-хе-хе! Звучит как план, дружище!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:265
+translate ru qst_jackpot_black_diamond_winward_2_61723968:
+
+    # MR_WINWARD @ happy "I'll wait here for your return."
+    MR_WINWARD @ happy "Я подожду здесь твоего возвращения."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:266
+translate ru qst_jackpot_black_diamond_winward_2_de036c74:
+
+    # MC "...Right."
+    MC "...Верно."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:267
+translate ru qst_jackpot_black_diamond_winward_2_aee96aa8:
+
+    # "After some patient waiting, a loud gong rang out, and the various players rose and gathered as two huge metal doors slowly creaked open."
+    "После некоторого терпеливого ожидания раздался громкий гонг, различные игроки поднялись и собрались, когда две огромные металлические двери медленно со скрипом открылись."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:268
+translate ru qst_jackpot_black_diamond_winward_2_f1d59334:
+
+    # MC "(Fuck... What trouble have I landed myself in now?)"
+    MC "(Чёрт... В какую же передрягу я теперь влип?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:269
+translate ru qst_jackpot_black_diamond_winward_2_51772022:
+
+    # MR_WINWARD @ laugh "Make us rich lad! Heh!"
+    MR_WINWARD @ laugh "Сделай нас богатыми, парень! Хех!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:270
+translate ru qst_jackpot_black_diamond_winward_2_bc9b5fb7:
+
+    # MR_WINWARD @ happy "Oh, and don't forget this!"
+    MR_WINWARD @ happy "Ах да, и не забудь это!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:271
+translate ru qst_jackpot_black_diamond_winward_2_78b9c4f4:
+
+    # "Mr Winward handed me over his buy-in, a large bag of coins."
+    "Мистер Уинвард передал мне свой взнос — большой мешок с монетами."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:272
+translate ru qst_jackpot_black_diamond_winward_2_818510b3:
+
+    # "Shaking my head, I headed into the private game room."
+    "Покачав головой, я направился в приватную игровую комнату."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:275
+translate ru qst_jackpot_black_diamond_winward_2_014c3ab3:
+
+    # "Inside, a few figures sat around a large, ornate table, one or two of which briefly looked up to meet my eyes before looking away once more."
+    "Внутри несколько фигур сидели вокруг большого изысканного стола, одна или две из которых ненадолго подняли взгляд, встретившись со мной глазами, прежде чем снова отвести взгляд."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:276
+translate ru qst_jackpot_black_diamond_winward_2_0ea38733:
+
+    # "I didn't recognise anyone in the room, but from the silk fabric of many of their gowns and ornate jewelry they wore, they were either rich merchants or possibly some may have even been low lords."
+    "Я никого в комнате не узнал, но по шелковой ткани многих их платьев и изысканным украшениям, которые они носили, они были либо богатыми купцами, либо возможно, некоторые могли быть даже мелкими лордами."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:277
+translate ru qst_jackpot_black_diamond_winward_2_efeeb221:
+
+    # "The same, scantily clad women served and poured their drinks, and around the room, silent, but ever present, the guards waited and watched."
+    "Те же самые, скудно одетые женщины обслуживали их и разливали напитки, а по комнате, молчаливые, но всегда присутствующие стражи ждали и наблюдали."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:278
+translate ru qst_jackpot_black_diamond_winward_2_90546219:
+
+    # "One of the guards approached, his dialect unusually crisp clear Alderian for a Ramonian."
+    "Один из стражников приблизился, его диалект был необычно четким, и ясным Алдереанским как для Рамонца."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:279
+translate ru qst_jackpot_black_diamond_winward_2_86baaf28:
+
+    # VULSHAN_GUARD "Gentlemen ... The game for today is..."
+    VULSHAN_GUARD "Господа... Игра на сегодня..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:280
+translate ru qst_jackpot_black_diamond_winward_2_599ed3ef:
+
+    # VULSHAN_GUARD "{i}Barati.{/i}"
+    VULSHAN_GUARD "{i}Барати.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:281
+translate ru qst_jackpot_black_diamond_winward_2_924a8ff2:
+
+    # VULSHAN_GUARD "If you are not already seated, please, take your designated seat."
+    VULSHAN_GUARD "Если вы еще не присели, пожалуйста, займите свои предназначенные места."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:283
+translate ru qst_jackpot_black_diamond_winward_2_8dee82c6:
+
+    # "(Barati game is under construction!)"
+    "(Игра Барати находится в разработке!)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:284
+translate ru qst_jackpot_black_diamond_winward_2_87072b1e:
+
+    # MC "(Well, that's one good thing at least.)"
+    MC "(Что ж, это хотя бы одна хорошая новость.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:285
+translate ru qst_jackpot_black_diamond_winward_2_3e77ad45:
+
+    # MC "(...Can {i}you{/i} help me out once more here?)"
+    MC "(...Можешь {i}ты{/i} снова помочь мне здесь?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:286
+translate ru qst_jackpot_black_diamond_winward_2_a5cf64a2:
+
+    # BLACK "({i}Yes... Though the players here are much calmer, it shall be more difficult to predict when one is lying.{/i})"
+    BLACK "({i}Да... Хотя игроки здесь гораздо спокойнее, будет сложнее предсказать, когда кто-то лжёт.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:287
+translate ru qst_jackpot_black_diamond_winward_2_700da48c:
+
+    # MC "(I guess it's better than nothing.)"
+    MC "(Полагаю, это лучше, чем ничего.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:288
+translate ru qst_jackpot_black_diamond_winward_2_785dca81:
+
+    # "Taking a seat at the table, each of the members placed their buy-ins onto silver trays that were taken away."
+    "Заняв места за столом, каждый из участников положил свои вступительные взносы на серебряные подносы, которые были унесены."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:289
+translate ru qst_jackpot_black_diamond_winward_2_48579845:
+
+    # "After a brief, quick period of the coin being counted, there was a nod from one guard to the next."
+    "После короткого, быстрого подсчёта монет, один из охранников кивнул другому."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:290
+translate ru qst_jackpot_black_diamond_winward_2_2284d9b0:
+
+    # VULSHAN_GUARD "Now that everyone's initial bet is in, The first hand shall be dealt."
+    VULSHAN_GUARD "Теперь, когда все начальные ставки сделаны, будет раздана первая рука."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:291
+translate ru qst_jackpot_black_diamond_winward_2_85b9f42d:
+
+    # VULSHAN_GUARD "Remember, you {i}*Must*{/i} match the buy-in of your opponent for each round."
+    VULSHAN_GUARD "Помните, вы {i}*обязаны*{/i} уравнивать вступительную ставку вашего оппонента в каждом раунде."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:292
+translate ru qst_jackpot_black_diamond_winward_2_5aa48a93:
+
+    # VULSHAN_GUARD "Should your funds run low, you may agree to increase your buy-in to keep playing."
+    VULSHAN_GUARD "Если ваши средства на исходе, вы можете договориться об увеличении вступительного взноса, чтобы продолжить игру."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:293
+translate ru qst_jackpot_black_diamond_winward_2_d84dfa1c:
+
+    # VULSHAN_GUARD "The game only ends with the ringing of the gong once more or if a player cannot replenish his funds."
+    VULSHAN_GUARD "Игра заканчивается только с повторным ударом в гонг или если игрок не может пополнить свои средства."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:294
+translate ru qst_jackpot_black_diamond_winward_2_e2f51a87:
+
+    # VULSHAN_GUARD "Good luck, may the gods smile fortune upon you..."
+    VULSHAN_GUARD "Удачи, пусть боги улыбнутся вам с фортуной..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:295
+translate ru qst_jackpot_black_diamond_winward_2_bff7ac97:
+
+    # "As the guard stepped back, we each announced our buy-in and the cards were dealt onto the table in front of each of us."
+    "Когда стражник отошёл, каждый из нас объявил свою ставку, и карты были разложены на столе перед каждым."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:299
+translate ru qst_jackpot_black_diamond_winward_2_7594c8d5:
+
+    # MR_WINWARD @ sad "{i}*Sigh*{/i}"
+    MR_WINWARD @ sad "{i}*Вздох*{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:300
+translate ru qst_jackpot_black_diamond_winward_2_7cfe4621:
+
+    # MR_WINWARD @ sad "You just don't get it lad, do you?"
+    MR_WINWARD @ sad "Ты просто не понимаешь, парень, правда?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:301
+translate ru qst_jackpot_black_diamond_winward_2_3568ae25:
+
+    # MR_WINWARD "Do you have any idea what it's like to have everything and feel it slip between your fingers?"
+    MR_WINWARD "Ты хоть представляешь, каково это — иметь всё и чувствовать, как оно ускользает сквозь пальцы?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:302
+translate ru qst_jackpot_black_diamond_winward_2_a1a5cf3e:
+
+    # MR_WINWARD "To see those who you always gave to readily, always supported in their time of need... Betray and abandon you like the flip of a coin?"
+    MR_WINWARD "Видеть, как те, кому ты всегда охотно помогал, всегда поддерживал в трудную минуту... Предают и бросают тебя, будто подброшенную монету?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:303
+translate ru qst_jackpot_black_diamond_winward_2_f1bbbaea:
+
+    # MR_WINWARD "We used to trade our goods as far as Skarshire and Synmaria."
+    MR_WINWARD "Раньше мы торговали своими товарами аж до Скаршира и Синмарии."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:304
+translate ru qst_jackpot_black_diamond_winward_2_195d0eb6:
+
+    # MR_WINWARD "Now... Now we have nothing, and all of our {i}friends{/i} are either dead or have turned their backs on us."
+    MR_WINWARD "А теперь... Теперь у нас ничего нет, и все наши {i}друзья{/i} либо мертвы, либо отвернулись от нас."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:305
+translate ru qst_jackpot_black_diamond_winward_2_31ccd9f4:
+
+    # MR_WINWARD "We were once invited to the finest banquets at the behest of great lords, invited to craft boots as a gift for overseas lords on their hunting trips."
+    MR_WINWARD "Нас когда-то приглашали на лучшие пиры по приглашению великих лордов, заливали сапоги в подарок заморским господам для их охотничьих выездов."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:306
+translate ru qst_jackpot_black_diamond_winward_2_f6362185:
+
+    # MR_WINWARD @ angry "We can afford bread, soup, and the roof over our heads."
+    MR_WINWARD @ angry "Мы можем позволить себе хлеб, похлёбку и крышу над головой."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:307
+translate ru qst_jackpot_black_diamond_winward_2_4e6599ae:
+
+    # MR_WINWARD @ angry "Perhaps my wife is happy to settle, live and accept it's all gone."
+    MR_WINWARD @ angry "Возможно, моя жена счастлива смириться, жить и принять, что всё пропало."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:308
+translate ru qst_jackpot_black_diamond_winward_2_aa59fa72:
+
+    # MR_WINWARD @ angry "But not me! I've worked too hard for it to end like this!"
+    MR_WINWARD @ angry "Но не я! Я слишком много работал, чтобы всё закончилось вот так!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:309
+translate ru qst_jackpot_black_diamond_winward_2_76468f9d:
+
+    # MR_WINWARD @ angry "{i}I must{/i} keep going till the end!"
+    MR_WINWARD @ angry "{i}Я должен{/i} продолжать до самого конца!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:310
+translate ru qst_jackpot_black_diamond_winward_2_2c4f91fe:
+
+    # MC "(There's no talking him out of this... Damn.)"
+    MC "(Его не переубедить... Чёрт.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:314
+translate ru qst_jackpot_black_diamond_winward_2_f9f74572:
+
+    # MR_WINWARD @ angry "The solution is to WIN boy!"
+    MR_WINWARD @ angry "Решение — ПОБЕДИТЬ, мальчик!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:315
+translate ru qst_jackpot_black_diamond_winward_2_afc6b280:
+
+    # MR_WINWARD "Bahh! I'm gonna grab another drink! You can dither as much as you like!"
+    MR_WINWARD "Ба! Пойду возьму ещё выпить! Можешь сомневаться сколько угодно!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:322
+translate ru qst_jackpot_black_diamond_game_7072cc8f:
+
+    # "Looking down, bags of coins surrounding me, it dawned on me I'd somehow won."
+    "Глядя вниз на мешки с монетами вокруг меня, я осознал что каким-то образом выиграл."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:324
+translate ru qst_jackpot_black_diamond_game_e8afb45a:
+
+    # MC @ smile "(It worked!)"
+    MC @ smile "(Сработало!)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:325
+translate ru qst_jackpot_black_diamond_game_322246ae:
+
+    # MC "(That old prick is going to be pleased with this.)"
+    MC "(Этот старый хрыч будет доволен.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:326
+translate ru qst_jackpot_black_diamond_game_f390b8b4:
+
+    # VULSHAN_GUARD "The games have now concluded. Gather up your earnings when ready, and please return to the main hall,"
+    VULSHAN_GUARD "Игры завершены. Соберите свои выигрыши когда будете готовы, и пожалуйста вернитесь в главный зал,"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:327
+translate ru qst_jackpot_black_diamond_game_edfd5666:
+
+    # VULSHAN_GUARD "Where complimentary drinks and {i}entertainment{/i} shall be given to you all for the remainder of your evening."
+    VULSHAN_GUARD "Где вам всем будут предложены бесплатные напитки и {i}развлечения{/i} до конца вечера."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:328
+translate ru qst_jackpot_black_diamond_game_1e205323:
+
+    # "As the huge metal doors creaked open, everyone gathered up their belongings as I followed out behind them."
+    "Когда огромные металлические двери со скрипом открылись, все собрали свои вещи, а я последовал за ними."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:329
+translate ru qst_jackpot_black_diamond_game_0e1eaee0:
+
+    # "I handed over Mr Winward his share, taking some of the profits for myself."
+    "Я передал мистеру Уинварду его долю, оставив часть прибыли себе."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:331
+translate ru qst_jackpot_black_diamond_game_67bce1a5:
+
+    # MR_WINWARD @ happy "Heehee! I knew I could count on ya, boy!"
+    MR_WINWARD @ happy "Хе-хе! Я знал что могу на тебя рассчитывать, парень!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:332
+translate ru qst_jackpot_black_diamond_game_4a26cfbb:
+
+    # MC "I hope you remember your end of the deal..."
+    MC "Надеюсь, ты помнишь свою часть сделки..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:333
+translate ru qst_jackpot_black_diamond_game_c4e78d74:
+
+    # "Mr Winward pondered the thought for a moment."
+    "Мистер Уинвард на мгновение задумался."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:334
+translate ru qst_jackpot_black_diamond_game_01f285ec:
+
+    # MR_WINWARD @ think "My end of the-"
+    MR_WINWARD @ think "Моя часть-"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:335
+translate ru qst_jackpot_black_diamond_game_8ddef61c:
+
+    # MR_WINWARD @ shock "OH!"
+    MR_WINWARD @ shock "ОУ!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:336
+translate ru qst_jackpot_black_diamond_game_e266e156:
+
+    # MR_WINWARD "You mean me wife?"
+    MR_WINWARD "Ты имеешь в виду мою жену?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:337
+translate ru qst_jackpot_black_diamond_game_6e81d513:
+
+    # MR_WINWARD @ think "Fine, you can lay with her a night... Not sure why you'd even want to."
+    MR_WINWARD @ think "Ладно, можешь провести с ней ночь... Не понимаю, зачем тебе это вообще нужно."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:338
+translate ru qst_jackpot_black_diamond_game_db6be03f:
+
+    # MC "(A night?)"
+    MC "(Ночь?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:339
+translate ru qst_jackpot_black_diamond_game_aec5d18a:
+
+    # MR_WINWARD "Come now, let's leave this place."
+    MR_WINWARD "Пойдем, давай покинем это место."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:343
+translate ru qst_jackpot_black_diamond_game_607e4614:
+
+    # "As the gong rang out, I looked down to see I had lost."
+    "Когда прозвучал гонг, я посмотрел вниз и понял, что проиграл."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:345
+translate ru qst_jackpot_black_diamond_game_eb7b47e3:
+
+    # MC "(...Fuck.)"
+    MC "(...Черт.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:346
+translate ru qst_jackpot_black_diamond_game_8bdf4517:
+
+    # MC "(The old man isn't going to be happy about this.)"
+    MC "(Старик этому не обрадуется.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:347
+translate ru qst_jackpot_black_diamond_game_f390b8b4_1:
+
+    # VULSHAN_GUARD "The games have now concluded. Gather up your earnings when ready, and please return to the main hall,"
+    VULSHAN_GUARD "Игры завершены. Соберите свои выигрыши, когда будете готовы, и пожалуйста, вернитесь в главный зал,"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:348
+translate ru qst_jackpot_black_diamond_game_edfd5666_1:
+
+    # VULSHAN_GUARD "Where complimentary drinks and {i}entertainment{/i} shall be given to you all for the remainder of your evening."
+    VULSHAN_GUARD "Где вам всем будут предложены бесплатные напитки и {i}развлечения{/i} на оставшуюся часть вечера."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:349
+translate ru qst_jackpot_black_diamond_game_995b3882:
+
+    # "As the huge metal doors creaked open, everyone gathered up their belongings as I slumped out behind them."
+    "Когда огромные металлические двери со скрипом открылись, все собрали свои вещи, а я, понурый, вышел следом за ними."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:350
+translate ru qst_jackpot_black_diamond_game_0fa9b0ad:
+
+    # MR_WINWARD @ happy "Well? How much did ya win boy?"
+    MR_WINWARD @ happy "Ну? Сколько ты выиграл, парень?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:351
+translate ru qst_jackpot_black_diamond_game_e30a3671:
+
+    # MR_WINWARD @ shock "...Where's... Where's all the coin?"
+    MR_WINWARD @ shock "...Где... Где все монеты?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:352
+translate ru qst_jackpot_black_diamond_game_c06f1c24:
+
+    # MC @ think "W-Well, you see..."
+    MC @ think "Н-Ну, видишь ли..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:353
+translate ru qst_jackpot_black_diamond_game_d7571421:
+
+    # MR_WINWARD @ shock "...You...You lost, didn't you?"
+    MR_WINWARD @ shock "...Ты... Ты проиграл, да?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:354
+translate ru qst_jackpot_black_diamond_game_26f287b7:
+
+    # MR_WINWARD @ angry "YOU BLEEDIN' IDIOT! HOW COULD YOU LOSE LIKE THAT?!"
+    MR_WINWARD @ angry "ТЫ ЧЕРТОВ ИДИОТ! КАК ТЫ МОГ ТАК ПРОИГРАТЬ?!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:355
+translate ru qst_jackpot_black_diamond_game_1616976d:
+
+    # MR_WINWARD @ angry "That's it! I've had enough of ya!"
+    MR_WINWARD @ angry "Всё! С меня хватит!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:356
+translate ru qst_jackpot_black_diamond_game_24a7c5ec:
+
+    # "In a fit of rage, Mr Winward stormed off before I could stop him."
+    "В приступе ярости Мистер Уинвард ушёл, прежде чем я успел его остановить."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:357
+translate ru qst_jackpot_black_diamond_game_a616cf58:
+
+    # MC "(Shit, I should follow him before he does something even more reckless!)"
+    MC "(Чёрт, надо последовать за ним, пока он не натворил ещё большей глупостей!)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:364
+translate ru qst_jackpot_black_diamond_vulshan_distraction_25aa119e:
+
+    # VULSHAN_GUARD "Have you given my proposal some thought?"
+    VULSHAN_GUARD "Вы подумали о моём предложении?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:367
+translate ru qst_jackpot_black_diamond_vulshan_distraction_5e2dfab4:
+
+    # VULSHAN_GUARD "Very good."
+    VULSHAN_GUARD "Очень хорошо."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:370
+translate ru qst_jackpot_black_diamond_vulshan_distraction_dfbd5559:
+
+    # VULSHAN_GUARD "I shall send some of the girls over towards your friend, and they shall keep him occupied."
+    VULSHAN_GUARD "Я пошлю нескольких девушек к вашему другу, и они его займут."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:371
+translate ru qst_jackpot_black_diamond_vulshan_distraction_9c914759:
+
+    # MC @ think "How do you plan to stop him from hearing the announcement?"
+    MC @ think "Как вы планируете помешать ему услышать объявление?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:372
+translate ru qst_jackpot_black_diamond_vulshan_distraction_9a2016ba:
+
+    # VULSHAN_GUARD "Haha, let's say his drinks shall be a little {i}stronger{/i} than we usually serve..."
+    VULSHAN_GUARD "Ха-ха, скажем так, его напитки будут немного {i}крепче{/i}, чем мы обычно подаём..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:373
+translate ru qst_jackpot_black_diamond_vulshan_distraction_a3a13b2c:
+
+    # VULSHAN_GUARD "He won't even remember when he woke up that there was a game."
+    VULSHAN_GUARD "Он даже не вспомнит, когда проснётся, что была игра."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:374
+translate ru qst_jackpot_black_diamond_vulshan_distraction_df836592:
+
+    # MC "Very well then, let's do this..."
+    MC "Что ж, тогда давайте сделаем это..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:376
+translate ru qst_jackpot_black_diamond_vulshan_distraction_11cdebbc:
+
+    # "What happened afterwards fell into place fairly quickly."
+    "То, что произошло потом, сложилось довольно быстро."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:377
+translate ru qst_jackpot_black_diamond_vulshan_distraction_05ca3c92:
+
+    # "Two of the girls ushered away Mr. Winward to one of the private rooms, already tipsy and more than happy to let two beautiful women distract him; he melted easily in their hands."
+    "Две девушки увели Мистера Уинварда в одну из приватных комнат, уже подвыпившего и более чем счастливого позволить двум красивым женщинам отвлечь его; он легко растаял в их руках."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:378
+translate ru qst_jackpot_black_diamond_vulshan_distraction_7e9ae26c:
+
+    # "Now, free from having to worry about that moron losing all his coin, I asked if I was to meet with 'Crystal eyes,' but the Vulshan guard simply raised his hands in protest."
+    "Теперь, свободный от необходимости беспокоиться, что этот болван проиграет все свои монеты, я спросил, должен ли я встретиться с 'Хрустальными глазами', но Вулшанский стражник просто поднял руки в знак протеста."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:379
+translate ru qst_jackpot_black_diamond_vulshan_distraction_3906465e:
+
+    # VULSHAN_GUARD "No, boss, it's best you don't meet."
+    VULSHAN_GUARD "Нет, босс, лучше тебе не встречаться."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:380
+translate ru qst_jackpot_black_diamond_vulshan_distraction_c2addba5:
+
+    # VULSHAN_GUARD "Best you stay away, just in case someone has seen us talking."
+    VULSHAN_GUARD "Лучше держись подальше, на случай, если кто-то видел, как мы разговариваем."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:381
+translate ru qst_jackpot_black_diamond_vulshan_distraction_1be6975f:
+
+    # VULSHAN_GUARD "Once the game iz over, come speak to me."
+    VULSHAN_GUARD "Как только игра закончится, приходи поговорить со мной."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:382
+translate ru qst_jackpot_black_diamond_vulshan_distraction_c8e4a301:
+
+    # VULSHAN_GUARD "Don't worry, I have just the thing to keep you occupied in one of the private rooms, haha..."
+    VULSHAN_GUARD "Не волнуйся, у меня есть кое-что, чтобы занять тебя в одной из приватных комнат, ха-ха..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:383
+translate ru qst_jackpot_black_diamond_vulshan_distraction_b9e4bde4:
+
+    # "With the loud ringing of a gong, some of the players and their bodyguards began to make their way towards another private chamber."
+    "Под громкий звон гонга некоторые игроки и их телохранители начали пробираться в другую приватную камеру."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:384
+translate ru qst_jackpot_black_diamond_vulshan_distraction_68234420:
+
+    # VULSHAN_GUARD "The game is beginning... I must go..."
+    VULSHAN_GUARD "Игра начинается... Мне пора..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:386
+translate ru qst_jackpot_black_diamond_vulshan_distraction_1e4fef88:
+
+    # "The Vulshan guard turned and left to join the others; the bulky metal doors were then closed with a low 'THUD' behind them."
+    "Стражник Вулшан развернулся и ушёл к остальным; затем массивные металлические двери закрылись с низким 'БАМ' позади них."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:387
+translate ru qst_jackpot_black_diamond_vulshan_distraction_d461251b:
+
+    # MC "Hmm, what should I do now?"
+    MC "Хм, что мне теперь делать?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:391
+translate ru qst_jackpot_black_diamond_vulshan_distraction_5cf3a9b0:
+
+    # MC "I'm still considering it."
+    MC "Я всё ещё обдумываю это."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:392
+translate ru qst_jackpot_black_diamond_vulshan_distraction_dc1fbe17:
+
+    # VULSHAN_GUARD "The game starts soon."
+    VULSHAN_GUARD "Игра скоро начнётся."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:393
+translate ru qst_jackpot_black_diamond_vulshan_distraction_cb1c0fbd:
+
+    # VULSHAN_GUARD "Consider my offer, friend."
+    VULSHAN_GUARD "Обдумай моё предложение, друг."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:397
+translate ru qst_jackpot_black_diamond_vulshan_checkup_4cc9a28e:
+
+    # MC "(Do I really want to see what that old man is getting up to?)"
+    MC "(Неужели я действительно хочу видеть, чем занимается этот старик?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:407
+translate ru qst_jackpot_black_diamond_vulshan_checkup_30695688:
+
+    # "As I creaked open the door to inspect the old man, Mr. Winward drunkenly waved a half-drunk bottle as two of the girls pleasured him, stroking him together as they gently ran their tongues on his body."
+    "Когда я со скрипом открыл дверь, чтобы проверить старика, Мистер Уинвард пьяно размахивал наполовину опустошённой бутылкой, пока две девушки услаждали его, совместно лаская его тело и нежно проводя языками по его коже."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:408
+translate ru qst_jackpot_black_diamond_vulshan_checkup_d1b4b020:
+
+    # MR_WINWARD "I'm gonna be - {i}*Hiccup!*{/i} A richhh mhann shoonnn!"
+    MR_WINWARD "Я стану - {i}*Ик!*{/i} Богаатым чееловеком скоооро!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:409
+translate ru qst_jackpot_black_diamond_vulshan_checkup_8f974385:
+
+    # MR_WINWARD "Hehehe! Yhou ladies shureee are - Mhmm! P-Pretty!"
+    MR_WINWARD "Хе-хе-хе! Вы дамочки, тааакие - Мммм! К-Красивые!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:410
+translate ru qst_jackpot_black_diamond_vulshan_checkup_2f8a1bdf:
+
+    # BLACK_DIAMOND_PROSTITUTE "Oh yes! You shall be zuch rich man!"
+    BLACK_DIAMOND_PROSTITUTE "О да! Ты будешь таким богатым человеком!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:411
+translate ru qst_jackpot_black_diamond_vulshan_checkup_f1770336:
+
+    # OTHER_BLACK_DIAMOND_PROSTITUTE "Iz this fool even listening?"
+    OTHER_BLACK_DIAMOND_PROSTITUTE "Этот дурак вообще слушает?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:412
+translate ru qst_jackpot_black_diamond_vulshan_checkup_7ea79e46:
+
+    # BLACK_DIAMOND_PROSTITUTE "Shhh! Just keep him happy new girl!"
+    BLACK_DIAMOND_PROSTITUTE "Тшшш! Просто держи его счастливым, новенькая!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:415
+translate ru qst_jackpot_black_diamond_vulshan_checkup_aa28b5c1:
+
+    # "The two woman laughed and played along, stroking the old man's cock faster as he grunted and groaned happily."
+    "Две женщины смеялись и подыгрывали, ускоряя движения, лаская член старика, пока он счастливо хрюкал и стонал."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:416
+translate ru qst_jackpot_black_diamond_vulshan_checkup_22fe9e09:
+
+    # "Every so often he'd take a swig from the bottle, or attempted to grope the service girls breasts or asses."
+    "Время от времени он делал глоток из бутылки или пытался ухватить за грудь или задницу обслуживающих девушек."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:417
+translate ru qst_jackpot_black_diamond_vulshan_checkup_b40cc606:
+
+    # MR_WINWARD "Ahhh! Shooo mhuchh! Mhmm! Bhetter thannn - {i}*Hiccup!*{/i} Thathhh oldhhh bitchh! Hehe!"
+    MR_WINWARD "Аххх! Тааак хоорошо! Мхм! Лучше, чеммм - {i}*Ик!*{/i} Тааа старааяя суучка! Хе-хе!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:418
+translate ru qst_jackpot_black_diamond_vulshan_checkup_5e619c4a:
+
+    # OTHER_BLACK_DIAMOND_PROSTITUTE "{i}Who is he talking about?{/i}"
+    OTHER_BLACK_DIAMOND_PROSTITUTE "{i}О ком это он говорит?{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:419
+translate ru qst_jackpot_black_diamond_vulshan_checkup_59577d2b:
+
+    # BLACK_DIAMOND_PROSTITUTE "{i}No idea, just smile and let us finish him quickly!{/i}"
+    BLACK_DIAMOND_PROSTITUTE "{i}Понятия не имею, просто улыбайся и давай быстро его закончим!{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:420
+translate ru qst_jackpot_black_diamond_vulshan_checkup_31c31df8:
+
+    # "As the two women continued to stroke at the old man's cock, eventually, his piggish grunts and moans of pleasure rose and rose until..."
+    "Пока две женщины продолжали ласкать член старика, в конце концов, его свинячие хрюканья и стоны удовольствия нарастали и нарастали, пока..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:425
+translate ru qst_jackpot_black_diamond_vulshan_checkup_7787576e:
+
+    # MR_WINWARD "OOOOOOOOOOOOH!"
+    MR_WINWARD "ООООООООООООХ!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:426
+translate ru qst_jackpot_black_diamond_vulshan_checkup_2fb8dd34:
+
+    # "The old man finally finished, covering the girls hands in his warm seed."
+    "Старик наконец кончил, покрывая руки девушек тёплым семенем."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:427
+translate ru qst_jackpot_black_diamond_vulshan_checkup_f64dd5a5:
+
+    # OTHER_BLACK_DIAMOND_PROSTITUTE "{i}Urghh! Now what?{/i}"
+    OTHER_BLACK_DIAMOND_PROSTITUTE "{i}Ургх! И что теперь?{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:428
+translate ru qst_jackpot_black_diamond_vulshan_checkup_9caff07e:
+
+    # BLACK_DIAMOND_PROSTITUTE "{i}Must I teach you everything? Clean him up!{/i}"
+    BLACK_DIAMOND_PROSTITUTE "{i}Мне что, всё тебе нужно объяснять? Почисти его!{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:429
+translate ru qst_jackpot_black_diamond_vulshan_checkup_ddb31f27:
+
+    # "I pulled back, gently closing the door shut."
+    "Я отступил назад, мягко закрыв дверь."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:430
+translate ru qst_jackpot_black_diamond_vulshan_checkup_4b3b2798:
+
+    # MC "(Well, I think I've seen enough of that.)"
+    MC "(Что ж, думаю, я увидел достаточно.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:435
+translate ru qst_jackpot_black_diamond_vulshan_checkup_0e45a7a0:
+
+    # MC "(I think I'll pass on the free nightmare.)"
+    MC "(Пожалуй, я откажусь от бесплатного кошмара.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:439
+translate ru qst_jackpot_black_diamond_vulshan_couch_3ebf6746:
+
+    # MC "(Should I just chill until the game ends?)"
+    MC "(Может, просто расслабиться, пока игра не закончится?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:442
+translate ru qst_jackpot_black_diamond_vulshan_couch_1798afe3:
+
+    # "Sitting back into the soft furniture, I drank a couple drinks offered freely to me as the time passed by."
+    "Устроившись в мягкой мебели, я выпил пару напитков, которые мне свободно предлагали, пока шло время."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:443
+translate ru qst_jackpot_black_diamond_vulshan_couch_c9a84e72:
+
+    # "Eventually, the doors swung open and the players began to slump out of the room, one by one..."
+    "В конце концов, двери распахнулись, и игроки начали вываливаться из комнаты один за другим..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:444
+translate ru qst_jackpot_black_diamond_vulshan_couch_e2fd4a62:
+
+    # "The same guard approached me, palming off a large bag of coins to me."
+    "Ко мне подошёл тот же охранник, вручив мне большой мешок с монетами."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:445
+translate ru qst_jackpot_black_diamond_vulshan_couch_05a6acf5:
+
+    # VULSHAN_GUARD "It was good to see you again, friend."
+    VULSHAN_GUARD "Рад был снова тебя видеть, друг."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:446
+translate ru qst_jackpot_black_diamond_vulshan_couch_05b31150:
+
+    # VULSHAN_GUARD "Come back again anytime..."
+    VULSHAN_GUARD "Возвращайся в любое время..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:447
+translate ru qst_jackpot_black_diamond_vulshan_couch_1aad024f:
+
+    # "Without another word, the guard slipped away as old man Winward stumbled his way down the stairs clutching his head."
+    "Не говоря больше ни слова, стражник скрылся, пока старик Уинвард, хватаясь за голову и спотыкаясь, спускался по лестнице."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:448
+translate ru qst_jackpot_black_diamond_vulshan_couch_15dd27a2:
+
+    # MR_WINWARD "Urghh... What happened?"
+    MR_WINWARD "Угхх... Что случилось?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:449
+translate ru qst_jackpot_black_diamond_vulshan_couch_2b66f0b1:
+
+    # MR_WINWARD "Did... Did we win?"
+    MR_WINWARD "Мы... Мы победили?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:450
+translate ru qst_jackpot_black_diamond_vulshan_couch_62a82f90:
+
+    # MR_WINWARD @ think "Last thing I remember, I was ... I was..."
+    MR_WINWARD @ think "Последнее что я помню, я был... я был..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:452
+translate ru qst_jackpot_black_diamond_vulshan_couch_d52e9514:
+
+    # MC "Yes, we won."
+    MC "Да, мы победили."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:454
+translate ru qst_jackpot_black_diamond_vulshan_couch_978fdb61:
+
+    # MC "Now come on, let us leave this place."
+    MC "А теперь пошли, покинем это место."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:455
+translate ru qst_jackpot_black_diamond_vulshan_couch_285cc892:
+
+    # MR_WINWARD @ sad "{i}Urghhhh... My head...{/i}"
+    MR_WINWARD @ sad "{i}Угххх... Моя голова...{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:459
+translate ru qst_jackpot_black_diamond_vulshan_couch_f3fb06bb:
+
+    # MC "(I think I'll take a look around for a little longer.)"
+    MC "(Думаю, я ещё немного осмотрюсь вокруг.)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:473
+translate ru qst_jackpot_after_diamond_game_21c8995f:
+
+    # MR_WINWARD @ sad "I swear I... Urghh... My head!"
+    MR_WINWARD @ sad "Клянусь, я... Урргх... Моя голова!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:474
+translate ru qst_jackpot_after_diamond_game_28fa4597:
+
+    # MR_WINWARD @ shock "Did I... Win?"
+    MR_WINWARD @ shock "Я... выиграл?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:475
+translate ru qst_jackpot_after_diamond_game_9d1bce55:
+
+    # MC "Of course you did!"
+    MC "Конечно выиграл!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:476
+translate ru qst_jackpot_after_diamond_game_9a664bc5:
+
+    # MC "We have the coin to prove it, don't we?"
+    MC "У нас есть монета в доказательство, не так ли?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:477
+translate ru qst_jackpot_after_diamond_game_f1110674:
+
+    # MR_WINWARD @ sad "I swear I ... I remember some girls and-"
+    MR_WINWARD @ sad "Клянусь я ... я помню каких-то девушек и-"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:478
+translate ru qst_jackpot_after_diamond_game_ccec3faa:
+
+    # MC @ serious "Mr Winward, let's just go already."
+    MC @ serious "Мистер Уинвард, давай уже пойдём."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:479
+translate ru qst_jackpot_after_diamond_game_ca3e9fe9:
+
+    # MR_WINWARD @ sad "Right, right... Lead the way, ahh..."
+    MR_WINWARD @ sad "Верно, верно... Веди, ахх..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:480
+translate ru qst_jackpot_after_diamond_game_96d1bb64:
+
+    # MR_WINWARD @ sad "{i}My head is killing me.{/i}"
+    MR_WINWARD @ sad "{i}У меня голова раскалывается.{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:486
+translate ru qst_jackpot_after_diamond_game_ce9d2cd6:
+
+    # MR_WINWARD @ happy "Come now, lad."
+    MR_WINWARD @ happy "Ну же, парень."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:487
+translate ru qst_jackpot_after_diamond_game_d0ca01bb:
+
+    # MR_WINWARD @ think "In my experience with places like these, once you've won, you need to leave as soon as possible!"
+    MR_WINWARD @ think "По моему опыту с такими заведениями, после выигрыша нужно уходить как можно скорее!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:488
+translate ru qst_jackpot_after_diamond_game_5d8984a5:
+
+    # MC "Lead the way, I'll make sure no one is following us."
+    MC "Веди, я прослежу, чтобы за нами никто не шёл."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:494
+translate ru qst_jackpot_after_diamond_game_c6cc2b67:
+
+    # MR_WINWARD @ angry "Well, I hope you're fucking happy!"
+    MR_WINWARD @ angry "Что ж, надеюсь ты чертовски доволен!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:495
+translate ru qst_jackpot_after_diamond_game_fff8720f:
+
+    # MR_WINWARD @ angry "You've ruined me, boy, RUINED ME!"
+    MR_WINWARD @ angry "Ты меня погубил, парень, ПОГУБИЛ!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:496
+translate ru qst_jackpot_after_diamond_game_ace5d395:
+
+    # MC @ angry "The last thing you should have been doing, you fool, is gambling all your coin away in a place like that!"
+    MC @ angry "Последнее что тебе следовало делать, идиот, это проигрывать все свои деньги в таком месте!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:497
+translate ru qst_jackpot_after_diamond_game_4f888d98:
+
+    # MR_WINWARD @ angry "BAH! You wanted me to lose my coin, didn't you?"
+    MR_WINWARD @ angry "БАХ! Ты хотел, чтобы я потерял свои деньги, не так ли?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:498
+translate ru qst_jackpot_after_diamond_game_513e2618:
+
+    # MR_WINWARD @ angry "I bet that old bitch put you up to this, didn't she? Hm?"
+    MR_WINWARD @ angry "Бьюсь об заклад, эта старая ведьма тебя на это подбила, да? Хм?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:499
+translate ru qst_jackpot_after_diamond_game_f45f51ec:
+
+    # BLACK "(This male is proving to be increasingly an obstacle to our objectives... {i}Shall we eliminate him as a threat?{/i})"
+    BLACK "(Этот мужчина всё больше становится помехой для наших целей... {i}Устранить его как угрозу?{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:502
+translate ru qst_jackpot_after_diamond_game_492fed1e:
+
+    # MR_WINWARD @ angry "Hmph!"
+    MR_WINWARD @ angry "Хмпф!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:503
+translate ru qst_jackpot_after_diamond_game_561645aa:
+
+    # MR_WINWARD @ angry "I'll believe it when I bloody see it!"
+    MR_WINWARD @ angry "Поверю, когда увижу это своими глазами!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:505
+translate ru qst_jackpot_after_diamond_game_4ca94967:
+
+    # "Angrily, Mr Winward stormed off."
+    "Разгневанный, Мистер Уинвард ушёл, хлопнув дверью."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:506
+translate ru qst_jackpot_after_diamond_game_a4f1e169:
+
+    # MC "{i}*Sigh*{/i}"
+    MC "{i}*Вздох*{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:511
+translate ru qst_jackpot_after_diamond_game_a55a9cbe:
+
+    # "I couldn't hold it back any longer... More and more, I felt the dark rage swelling inside of me."
+    "Я больше не мог сдерживаться... Всё сильнее и сильнее я чувствовал, как тёмная ярость нарастает во мне."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:512
+translate ru qst_jackpot_after_diamond_game_583e0d9b:
+
+    # "Consuming all of my thoughts, reason and logic was pushed away some place it could no longer be heard."
+    "Она поглотила все мои мысли, разум и логика были оттеснены туда, где их уже нельзя было услышать."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:513
+translate ru qst_jackpot_after_diamond_game_cf9ab14e:
+
+    # MR_WINWARD @ shock "I ... Why are you looking at me like-"
+    MR_WINWARD @ shock "Я... Почему ты смотришь на меня так-"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:519
+translate ru qst_jackpot_after_diamond_game_5f1446a4:
+
+    # "With a quick swipe of my hand, the tentacle bolted out from my hand at such speed Mr Winward would have had zero chance to react."
+    "Быстрым взмахом руки, щупальце вырвалось из моей ладони с такой скоростью, что у Мистера Уинварда не было бы ни малейшего шанса среагировать."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:523
+translate ru qst_jackpot_after_diamond_game_7d4bab7b:
+
+    # "The tentacle slashed perfectly clean through Mr Winward's head, and I watched as it rolled across the cobblestone floor."
+    "Щупальце идеально чисто рассекло голову Мистера Уинварда, и я наблюдал, как она покатилась по булыжному полу."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:524
+translate ru qst_jackpot_after_diamond_game_d6c31f76:
+
+    # "His lifeless body collapsed onto the ground almost instantly, blood pooling from the open wound of his neck."
+    "Его безжизненное тело почти мгновенно рухнуло на землю, а из открытой раны на шее разлилась лужа крови."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:527
+translate ru qst_jackpot_after_diamond_game_65663ced:
+
+    # "Realising what I'd just done, a momentary panic washed over me."
+    "Осознав, что я только что сделал, меня на мгновение охватила паника."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:528
+translate ru qst_jackpot_after_diamond_game_1ebfc64b:
+
+    # MC @ scared "(O-Oh f-fuck! What have we just done?!)"
+    MC @ scared "(О-Ох, ч-чёрт! Что мы только что сделали?!)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:529
+translate ru qst_jackpot_after_diamond_game_b90d6760:
+
+    # BLACK "({i}Let us leave this place. Quickly.{/i})"
+    BLACK "({i}Давай покинем это место. Быстрее.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:532
+translate ru qst_jackpot_after_diamond_game_f6fb58be:
+
+    # "Before I could let the gravity of my cold-blooded actions weigh me down, I fled quickly before anyone might stumble upon the ghastly scene."
+    "Прежде чем я позволил тяжести своих хладнокровных действий обрушиться на меня, я быстро скрылся, пока кто-нибудь не наткнулся на ужасающую сцену."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:533
+translate ru qst_jackpot_after_diamond_game_22545ffa:
+
+    # MC "(Mrs Winward, she'll-)"
+    MC "(Миссис Уинвард, она же-)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:534
+translate ru qst_jackpot_after_diamond_game_3f76402b:
+
+    # BLACK "({i}Never need to know... Her foolish husband simply stumbled upon the {i}wrong{/i} people and paid the price.{/i})"
+    BLACK "({i}Никогда не узнает... Её глупый муж просто наткнулся на {i}не тех{/i} людей и поплатился за это.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:535
+translate ru qst_jackpot_after_diamond_game_29e5a94c:
+
+    # BLACK "({i}By my estimates, there was an eighty-four-point-six percent chance his outcome was an inevitability anyway on his current reckless path.{/i})"
+    BLACK "({i}По моим оценкам, с вероятностью восемьдесят четыре целых, шесть десятых процента такой исход был неизбежен на его безрассудном пути.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:536
+translate ru qst_jackpot_after_diamond_game_e7856eb4:
+
+    # "Somehow, the cold calculations of my dark passenger made my horrific crime ever so slightly more tolerable to me... If only a little."
+    "Как ни странно, холодные расчёты моего тёмного пассажира делали моё ужасное преступление чуть более терпимым для меня... Пусть даже самую малость."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:537
+translate ru qst_jackpot_after_diamond_game_62a4e637:
+
+    # BLACK "({i}Now we must claim his mate and make her satisfied.{/i})"
+    BLACK "({i}Теперь мы должны завладеть его самкой и удовлетворить её.{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:538
+translate ru qst_jackpot_after_diamond_game_4fbcd646:
+
+    # MC "(...You can be terrifying sometimes, you know that?)"
+    MC "(...Ты иногда бываешь пугающим, ты знаешь это?)"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:539
+translate ru qst_jackpot_after_diamond_game_0239f662:
+
+    # BLACK "({i}Evidently, so can you...{/i})"
+    BLACK "({i}Очевидно, как и ты...{/i})"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:549
+translate ru qst_jackpot_black_diamond_vip_scene_2f7263e4:
+
+    # "As I headed into one of the private rooms, a pleasant surprise was awaiting me..."
+    "Когда я направился в одну из приватных комнат, меня ждал приятный сюрприз..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:553
+translate ru qst_jackpot_black_diamond_vip_scene_e5d8e0a5:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "How do you want me, sir?"
+    BLACK_DIAMOND_SERVICE_GIRL "Как вы хотите меня, сэр?"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:558
+translate ru qst_jackpot_black_diamond_vip_scene_8371612d:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "Mhmm, as you wish."
+    BLACK_DIAMOND_SERVICE_GIRL "Мхм, как пожелаете."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:563
+translate ru qst_jackpot_black_diamond_vip_scene_3ce5eacc:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "Whatever you desire."
+    BLACK_DIAMOND_SERVICE_GIRL "Чего бы вы ни захотели."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:576
+translate ru qst_jackpot_black_diamond_vip_scene_741a30a5:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "{i}*Slurp!* *Slurp!*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*Хлюп!* *Хлюп!*{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:577
+translate ru qst_jackpot_black_diamond_vip_scene_51ab66f6:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "Mhmmmfghh! Shuchhaabhigg mhmmmff!"
+    BLACK_DIAMOND_SERVICE_GIRL "Ммммфгхх! Какой большойй ммммфф!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:578
+translate ru qst_jackpot_black_diamond_vip_scene_ccb2ca12:
+
+    # "I let out a sigh as the girl worked her {i}talents{/i} excellently on me."
+    "Я вздохнул, пока девушка превосходно применяла свои {i}таланты{/i} на мне."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:579
+translate ru qst_jackpot_black_diamond_vip_scene_64a6bfc1:
+
+    # "Time seemed to drift by as the girls' tongue and wet mouth glided up and down my cock."
+    "Время, казалось плыло, пока язык и влажный рот девушки скользили вверх и вниз по моему члену."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:580
+translate ru qst_jackpot_black_diamond_vip_scene_0dc0cb3b:
+
+    # "I sunk back into the soft furniture, a free bottle drunk between us as the time began to drift on by."
+    "Я погрузился в мягкую мебель, свободная бутылка была выпита между нами, а время начало медленно уплывать."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:581
+translate ru qst_jackpot_black_diamond_vip_scene_f406fe32:
+
+    # MC "Mhhfhh..."
+    MC "Мххфхх..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:589
+translate ru qst_jackpot_black_diamond_vip_scene_bc517590:
+
+    # "I groaned in pleasure as the girl sunk my cock deeper down into her throat, wiggling her round ass enticingly as she did so."
+    "Я застонал от удовольствия, когда девушка погрузила мой член глубже в своё горло, соблазнительно покачивая своей круглой попкой."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:590
+translate ru qst_jackpot_black_diamond_vip_scene_530e6c76:
+
+    # "The girls' tongue flickered and and beat around my cock occasionally as she let out hot whimpers and muffled words of appreciation."
+    "Язык девушки порха́л и бился вокруг моего члена, пока она издавала горячие всхлипы и приглушённые слова одобрения."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:591
+translate ru qst_jackpot_black_diamond_vip_scene_aebca5cc:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "{i}Mhhfh! *Shlick!*{/i} Shuchahhh - Mhhfhh! Ghooodhh chockhh! {i}*Slurp!*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}Мххфх! *Шлик!*{/i} Какой - Мххфхх! Хорошиий члеен! {i}*Сёрб!*{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:592
+translate ru qst_jackpot_black_diamond_vip_scene_86eeb8ce:
+
+    # "Eventually, our brief time of play was at an end."
+    "Вскоре наше короткое время игр подошло к концу."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:593
+translate ru qst_jackpot_black_diamond_vip_scene_f3f7ffc4:
+
+    # "As I felt my balls tighten and rise from her expert teasing, I grunted through gritted teeth to warn her of my impending finish."
+    "Почувствовав, как мои яйца напряглись и поднялись от её искусных ласк, я прохрипел сквозь стиснутые зубы, предупреждая её о приближающемся финише."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:594
+translate ru qst_jackpot_black_diamond_vip_scene_bd7307db:
+
+    # MC "Ahhh...! I'm gonna-"
+    MC "Аххх...! Я сейчас-"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:595
+translate ru qst_jackpot_black_diamond_vip_scene_7a80cfd2:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "{i}*Slurp!*{/i} Mhmmfhh! Jhusthh fhinishhh whennhh rheadhyy! {i}*Slurp!*{/i} Mhmmff!"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*Сёрб!*{/i} Мхммфхх! Пфосто коонфи когдфаа готооф! {i}*Сёрб!*{/i} Мхммфф!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:596
+translate ru qst_jackpot_black_diamond_vip_scene_c614ef8f:
+
+    # "Soon, as her tongue flickered over the head of my cock before gliding down to deep throat my member, she held it there and waited expectently."
+    "Вскоре, когда её язык промелькнул над головкой моего члена, прежде чем скользнуть вниз, чтобы глубоко принять его в горло, она держала его так и ждала с нетерпением."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:597
+translate ru qst_jackpot_black_diamond_vip_scene_df527f38:
+
+    # "After her long, continuous teasing, I finally felt overwhelmed with her mouth, and grabbing the back of her head, held at her soft hair as I poured my thick load down her throat."
+    "После её долгих, непрерывных дразнений я наконец почувствовал себя переполненным её ртом и, схватив её за затылок, ухватился за её мягкие волосы, пока изливал свою густую порцию в её горло."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:598
+translate ru qst_jackpot_black_diamond_vip_scene_37832b20:
+
+    # MC "H-HRGHHHHH!!"
+    MC "Х-ХРГХХХХХ!!"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:615
+translate ru qst_jackpot_black_diamond_vip_scene_80a86ee9:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "{i}*Gulp!*{/i} Mhmmff! {i}*Slurp!*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*Глоток!*{/i} Мхммфф! {i}*Сёрб!*{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:616
+translate ru qst_jackpot_black_diamond_vip_scene_6c79331e:
+
+    # "As the rush of seed flooded down her throat, I noticed her legs trembling slightly as some sweet, glistening juices dripped down between her legs onto the floor."
+    "Когда поток семени хлынул в её горло, я заметил, как её ноги слегка задрожали, а сладкие, блестящие соки капнули между её ног на пол."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:617
+translate ru qst_jackpot_black_diamond_vip_scene_76302dec:
+
+    # "{i}Had she just finished from sucking my cock alone?{/i}"
+    "{i}Неужели она только что кончила просто от сосания моего члена?{/i}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:618
+translate ru qst_jackpot_black_diamond_vip_scene_34d9091c:
+
+    # "The girl eagerly swallowed and licked up every last hint of my seed, making sure not to waste a drop."
+    "Девушка жадно проглотила и слизала каждый последний след моего семени, стараясь не потерять ни капли."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:619
+translate ru qst_jackpot_black_diamond_vip_scene_f3de1b92:
+
+    # "Satisfied my member had been cleaned, she pulled back, wipping her mouth clean with a cloth delicately."
+    "Удовлетворённая тем, что мой член был очищен, она отстранилась, аккуратно вытирая рот тканью."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:620
+translate ru qst_jackpot_black_diamond_vip_scene_949e47d7:
+
+    # BLACK_DIAMOND_SERVICE_GIRL "Thank you for zer meal, sir, fufu {image=[ICON.HEART]}"
+    BLACK_DIAMOND_SERVICE_GIRL "Спасибо за трапезу, сэр, фуфу {image=[ICON.HEART]}"
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:624
+translate ru qst_jackpot_black_diamond_vip_scene_81effd41:
+
+    # "Without another word, the girl rose to her feet, gently bowed and left the room."
+    "Не говоря больше ни слова, девушка поднялась на ноги, мягко поклонилась и вышла из комнаты."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:625
+translate ru qst_jackpot_black_diamond_vip_scene_99cc92d0:
+
+    # "After allowing myself a few moments to collect myself, I headed outside..."
+    "Позволив себе несколько мгновений прийти в себя, я вышел наружу..."
+
+# game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:626
+translate ru qst_jackpot_black_diamond_vip_scene_50ba1287:
+
+    # MC "(Well, that DEFINITELY killed some time at least, now what?)"
+    MC "(Что ж, это ОПРЕДЕЛЁННО убило время, по крайней мере. И что теперь?)"
+
+translate ru strings:
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:15
+    old "frontal assault"
+    new "фронтальная атака"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:17
+    old "assassinated tarek w/poison"
+    new "убил тарека ядом"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:19
+    old "sold nijah"
+    new "продал ниджу"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:21
+    old "made tarek leave with evidence"
+    new "заставил тарека уйти с уликами"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:23
+    old "made tarek leave with lies"
+    new "заставил тарека уйти с помощью лжи"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:25
+    old "killed tarek with vulshan help"
+    new "убил Тарека с помощью вулшан"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:28
+    old "No (don't change anything)"
+    new "Нет (не менять ничего)"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:113
+    old "Would some coin keep your mouth shut?"
+    new "Может, монета заставит тебя помолчать?"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:120
+    old "Because I'll turn this place into a bloodbath?"
+    new "Потому что я устрою здесь кровавую баню?"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:129
+    old "Tarek fled because the Vulshan and the Khazahs were about to kill him!"
+    new "Тарек сбежал, потому что Вулшаны и Хазахи собирались его убить!"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:162
+    old "I had a tip and warned Tarek a raid from inquisitors was coming soon. (Lie)"
+    new "У меня была информация, и я предупредил Тарека, что скоро будет рейд инквизиторов. (Ложь)"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:165
+    old "What are you talking about? The raid hasn't happened yet!"
+    new "О чём ты говоришь? Рейда ещё не было!"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:171
+    old "The only reason there wasn't a raid is because Tarek {i}left.{/i}"
+    new "Единственная причина, по которой рейда не было — это то, что Тарек {i}уехал.{/i}"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:261
+    old "I'll play at the table in your place."
+    new "Я сыграю за столом вместо тебя."
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:298
+    old "Is your percieved honor and love of coin really worth more to you than your life?"
+    new "Твоё мнимое достоинство и любовь к монетам действительно стоят для тебя больше, чем жизнь?"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:313
+    old "Nothing for now, I'm still working on a solution..."
+    new "Пока ничего, я всё ещё работаю над решением..."
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:321
+    old "(WIP) Win"
+    new "(WIP) Победа"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:342
+    old "(WIP) Lose"
+    new "(WIP) Поражение"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:366
+    old "Tell 'Crystal eyes' the deal is on."
+    new "Скажи 'Хрустальным глазам', что сделка заключена."
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:441
+    old "Relax..."
+    new "Расслабься..."
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:501
+    old "I will get the coin elsewhere."
+    new "Я достану деньги в другом месте."
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:510
+    old "Kill Mr. Winward"
+    new "Убить Мистера Уинварда"
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:557
+    old "Keep your clothes on."
+    new "Оставайся в одежде."
+
+    # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:560
+    old "Take your clothes off."
+    new "Раздевайся."
+

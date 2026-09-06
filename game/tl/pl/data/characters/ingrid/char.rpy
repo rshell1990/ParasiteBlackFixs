@@ -1,0 +1,12 @@
+﻿# TODO: Translation updated at 2026-08-06 18:05
+
+translate pl strings:
+
+    # game/data/characters/ingrid/char.rpy:1
+    old "Ingrid"
+    new "Ingrid"
+
+    # game/data/characters/ingrid/char.rpy:14
+    old "Ingrid Castilay, wife of Lord Rollo. It seems she has been imprisoned by Lord Tarbeck as payment for her husbands failure to pay his debt."
+    new "Ingrid Castilay, wife of Lord Rollo. It seems she has been imprisoned by Lord Tarbeck as payment for her husbands failure to pay his debt."
+

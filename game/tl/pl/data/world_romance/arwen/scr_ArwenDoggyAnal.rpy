@@ -1,0 +1,370 @@
+﻿# TODO: Translation updated at 2026-08-06 18:05
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:2
+translate pl sexscene_arwen_backdoor_791178d4:
+
+    # ARWEN "Oh, I bet you would!"
+    ARWEN "Oh, I bet you would!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:3
+translate pl sexscene_arwen_backdoor_759733f7:
+
+    # ARWEN "Now I definitely know what you're looking at when I'm walking away!"
+    ARWEN "Now I definitely know what you're looking at when I'm walking away!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:4
+translate pl sexscene_arwen_backdoor_48cf80c3:
+
+    # ARWEN @ laugh "{i}*giggles*{/i} Come With me..."
+    ARWEN @ laugh "{i}*giggles*{/i} Come With me..."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:6
+translate pl sexscene_arwen_backdoor_6c7ab5b0:
+
+    # "I followed Arwen as she lead me into one of the bordello's private rooms."
+    "I followed Arwen as she lead me into one of the bordello's private rooms."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:12
+translate pl sexscene_arwen_backdoor_56d9ed2f:
+
+    # ARWEN @ talk "Would you like me to keep my dress on, or take it off?"
+    ARWEN @ talk "Would you like me to keep my dress on, or take it off?"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:19
+translate pl sexscene_arwen_backdoor_892fb93b:
+
+    # "Arwen gasped as I was removing my clothes."
+    "Arwen gasped as I was removing my clothes."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:20
+translate pl sexscene_arwen_backdoor_e257b7ce:
+
+    # ARWEN @ scared "Gods... I know I'm brave but-"
+    ARWEN @ scared "Gods... I know I'm brave but-"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:21
+translate pl sexscene_arwen_backdoor_f075e8e2:
+
+    # ARWEN @ blush "You... You expect me to fit {i}all{/i} that in my ass?"
+    ARWEN @ blush "You... You expect me to fit {i}all{/i} that in my ass?"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:22
+translate pl sexscene_arwen_backdoor_07cf1c9b:
+
+    # ARWEN @ scared "I won't be able to walk straight for a week!"
+    ARWEN @ scared "I won't be able to walk straight for a week!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:25
+translate pl sexscene_arwen_backdoor_01e1c23e:
+
+    # ARWEN @ blush "Gods, last time was so... {i}intense,{/i} I'm a little nervous about letting you back {i}there{/i} again."
+    ARWEN @ blush "Gods, last time was so... {i}intense,{/i} I'm a little nervous about letting you back {i}there{/i} again."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:26
+translate pl sexscene_arwen_backdoor_d6137bd0:
+
+    # MC @ smile "And here I thought you were the best fuck in Novaras."
+    MC @ smile "And here I thought you were the best fuck in Novaras."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:27
+translate pl sexscene_arwen_backdoor_c5349b77:
+
+    # "Arwen smiled mischeviously."
+    "Arwen smiled mischeviously."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:28
+translate pl sexscene_arwen_backdoor_59cccc46:
+
+    # ARWEN @ blush "Oh, that's how it is huh?"
+    ARWEN @ blush "Oh, that's how it is huh?"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:31
+translate pl sexscene_arwen_backdoor_17435b9d:
+
+    # ARWEN @ blush "Get over here..."
+    ARWEN @ blush "Get over here..."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:38
+translate pl sexscene_arwen_backdoor_703af733:
+
+    # "On her hands and knees, it did not take Arwen long to get going."
+    "On her hands and knees, it did not take Arwen long to get going."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:39
+translate pl sexscene_arwen_backdoor_0bea7c6f:
+
+    # ARWEN "F-Fuck my ass! Oh gods! {i}*Huff*{/i}"
+    ARWEN "F-Fuck my ass! Oh gods! {i}*Huff*{/i}"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:40
+translate pl sexscene_arwen_backdoor_7ab44a21:
+
+    # ARWEN "GRGHHH! Pull my hair harder while you f-fuck me!"
+    ARWEN "GRGHHH! Pull my hair harder while you f-fuck me!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:41
+translate pl sexscene_arwen_backdoor_16065fbd:
+
+    # "The ring of Arwen's tight asshole squeezed tightly around my cock as she whimpered and moaned, doing her best to push herself back onto me but it was clear she was struggling."
+    "The ring of Arwen's tight asshole squeezed tightly around my cock as she whimpered and moaned, doing her best to push herself back onto me but it was clear she was struggling."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:42
+translate pl sexscene_arwen_backdoor_cee5b607:
+
+    # "Arwen's hands coiled into fists as she trembled, bitting down hard onto her lower lip as her eyes began to water up from the intense session."
+    "Arwen's hands coiled into fists as she trembled, bitting down hard onto her lower lip as her eyes began to water up from the intense session."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:43
+translate pl sexscene_arwen_backdoor_ce7df690:
+
+    # ARWEN "GHHH! You're so f-fucking big!"
+    ARWEN "GHHH! You're so f-fucking big!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:44
+translate pl sexscene_arwen_backdoor_674d545a:
+
+    # ARWEN "Ah! My fucking - Ah! Ass!"
+    ARWEN "Ah! My fucking - Ah! Ass!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:45
+translate pl sexscene_arwen_backdoor_5732228f:
+
+    # "Sweat dripped off of Arwen as she struggled between juggling between pleasure and pain, the sensations from her tight body driving me wild into a frenzy."
+    "Sweat dripped off of Arwen as she struggled between juggling between pleasure and pain, the sensations from her tight body driving me wild into a frenzy."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:46
+translate pl sexscene_arwen_backdoor_866ad19a:
+
+    # ARWEN "You - Ah! You like that?"
+    ARWEN "You - Ah! You like that?"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:47
+translate pl sexscene_arwen_backdoor_518b45df:
+
+    # MC "Arwen, {i}*Huff*{/i} Do you-"
+    MC "Arwen, {i}*Huff*{/i} Do you-"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:48
+translate pl sexscene_arwen_backdoor_3ef5861a:
+
+    # ARWEN "K-Keep going!"
+    ARWEN "K-Keep going!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:49
+translate pl sexscene_arwen_backdoor_9942b72d:
+
+    # ARWEN "Just tell me how much tighter my ass is than the others!"
+    ARWEN "Just tell me how much tighter my ass is than the others!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:50
+translate pl sexscene_arwen_backdoor_dafe8d4b:
+
+    # MC "Grghh!"
+    MC "Grghh!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:51
+translate pl sexscene_arwen_backdoor_e3ce8abc:
+
+    # MC "Your ass is the tightest I've ever fucked you little whore!"
+    MC "Your ass is the tightest I've ever fucked you little whore!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:52
+translate pl sexscene_arwen_backdoor_ab741011:
+
+    # ARWEN "Ah! Ah! AH! Yes!"
+    ARWEN "Ah! Ah! AH! Yes!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:53
+translate pl sexscene_arwen_backdoor_a4e6313c:
+
+    # ARWEN "Hurt me! Hurt me while you fuck me!"
+    ARWEN "Hurt me! Hurt me while you fuck me!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:54
+translate pl sexscene_arwen_backdoor_411a5ddf:
+
+    # "Despite whatever shock of pain she was initially feeling, Arwen seemed to increasingly aroused as we progressed."
+    "Despite whatever shock of pain she was initially feeling, Arwen seemed to increasingly aroused as we progressed."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:55
+translate pl sexscene_arwen_backdoor_de79ccd8:
+
+    # "The pulsing darkness inside of me struggled to restrain myself, to consider her well-being, driven by hot-bloodedness, her body felt too good."
+    "The pulsing darkness inside of me struggled to restrain myself, to consider her well-being, driven by hot-bloodedness, her body felt too good."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:56
+translate pl sexscene_arwen_backdoor_fd0af249:
+
+    # ARWEN "Harder! Shove that cock deeper into my ass! Mmmfgh!"
+    ARWEN "Harder! Shove that cock deeper into my ass! Mmmfgh!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:57
+translate pl sexscene_arwen_backdoor_daea63c1:
+
+    # ARWEN "Make me your little whore!"
+    ARWEN "Make me your little whore!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:58
+translate pl sexscene_arwen_backdoor_df35a9d5:
+
+    # MC "A-Arwen! {i}*Huff*{/i}"
+    MC "A-Arwen! {i}*Huff*{/i}"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:64
+translate pl sexscene_arwen_backdoor_7d143dca:
+
+    # ARWEN "A perfect little ass for a perfect little whore, r-right? Ahh!"
+    ARWEN "A perfect little ass for a perfect little whore, r-right? Ahh!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:65
+translate pl sexscene_arwen_backdoor_233c013b:
+
+    # MC "Arwen {i}*Huff*{/i} I'm close to finishing!"
+    MC "Arwen {i}*Huff*{/i} I'm close to finishing!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:66
+translate pl sexscene_arwen_backdoor_5d294d9a:
+
+    # ARWEN "Mhmm! That's it! Finish in me!"
+    ARWEN "Mhmm! That's it! Finish in me!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:67
+translate pl sexscene_arwen_backdoor_58fb7db3:
+
+    # ARWEN "Finish in my ass!"
+    ARWEN "Finish in my ass!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:68
+translate pl sexscene_arwen_backdoor_7df68c0e:
+
+    # MC "Hrghh! A-Arwen!"
+    MC "Hrghh! A-Arwen!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:69
+translate pl sexscene_arwen_backdoor_e749255c:
+
+    # ARWEN "Empty your fucking balls in my ass!"
+    ARWEN "Empty your fucking balls in my ass!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:70
+translate pl sexscene_arwen_backdoor_bac3ce87:
+
+    # "Unable to hold back any longer, the intense pleasure like fire scourching through my veins drove me wild as the Parasite seemed to almost pulse inside of me."
+    "Unable to hold back any longer, the intense pleasure like fire scourching through my veins drove me wild as the Parasite seemed to almost pulse inside of me."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:71
+translate pl sexscene_arwen_backdoor_12c696e5:
+
+    # "Pulling Arwen as deeply as I could onto me, I held her there as I gritted my teeth and dug my hands into the soft flesh of her ass."
+    "Pulling Arwen as deeply as I could onto me, I held her there as I gritted my teeth and dug my hands into the soft flesh of her ass."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:72
+translate pl sexscene_arwen_backdoor_8197e761:
+
+    # MC "ARWEN!"
+    MC "ARWEN!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:73
+translate pl sexscene_arwen_backdoor_56d49db2:
+
+    # ARWEN "AHH! YES!"
+    ARWEN "AHH! YES!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:74
+translate pl sexscene_arwen_backdoor_2b92611d:
+
+    # "Unable to hold back any longer, I began to pour my load into Arwen's tight ass."
+    "Unable to hold back any longer, I began to pour my load into Arwen's tight ass."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:85
+translate pl sexscene_arwen_backdoor_e33a0d76:
+
+    # "Arwen, whose lip bitting whimper of pleasure became a loud, hot moan as she became overwhelmed, trembled as she felt my hot seed flood her stretched backdoor."
+    "Arwen, whose lip bitting whimper of pleasure became a loud, hot moan as she became overwhelmed, trembled as she felt my hot seed flood her stretched backdoor."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:86
+translate pl sexscene_arwen_backdoor_f43d4b08:
+
+    # ARWEN "Oooooooh...!"
+    ARWEN "Oooooooh...!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:87
+translate pl sexscene_arwen_backdoor_f82ab29a:
+
+    # ARWEN "{i}M-my poor ass...{/i}"
+    ARWEN "{i}M-my poor ass...{/i}"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:88
+translate pl sexscene_arwen_backdoor_333862e8:
+
+    # ARWEN "Fill me... Fill me up."
+    ARWEN "Fill me... Fill me up."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:89
+translate pl sexscene_arwen_backdoor_bf6368ff:
+
+    # "Arwen began to tremble beneath my hands, drenched in sweat as she breathed heavily trying to recompose herself."
+    "Arwen began to tremble beneath my hands, drenched in sweat as she breathed heavily trying to recompose herself."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:90
+translate pl sexscene_arwen_backdoor_372c6d78:
+
+    # ARWEN "Gods... {i}There was so much of it.{/i}"
+    ARWEN "Gods... {i}There was so much of it.{/i}"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:91
+translate pl sexscene_arwen_backdoor_b110ce40:
+
+    # ARWEN "Ahh, help me back onto my feet."
+    ARWEN "Ahh, help me back onto my feet."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:94
+translate pl sexscene_arwen_backdoor_75175dfa:
+
+    # "I helped Arwen back to her feet as her legs still shook beneath her."
+    "I helped Arwen back to her feet as her legs still shook beneath her."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:95
+translate pl sexscene_arwen_backdoor_e9b4d039:
+
+    # "Arwen laughed, brushing back her messed up hair as she sensually run her hand down my chest."
+    "Arwen laughed, brushing back her messed up hair as she sensually run her hand down my chest."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:100
+translate pl sexscene_arwen_backdoor_c1b57531:
+
+    # ARWEN @ blush "I don't think anyone's ever fucked me quite like that!"
+    ARWEN @ blush "I don't think anyone's ever fucked me quite like that!"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:101
+translate pl sexscene_arwen_backdoor_814e80fa:
+
+    # MC @ smile "In a good kind of way, I hope?"
+    MC @ smile "In a good kind of way, I hope?"
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:102
+translate pl sexscene_arwen_backdoor_26a3bba3:
+
+    # ARWEN @ laugh "Mmm, yes..."
+    ARWEN @ laugh "Mmm, yes..."
+
+# game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:103
+translate pl sexscene_arwen_backdoor_a9077f67:
+
+    # ARWEN @ blush "{i}Painful... But very good.{/i}"
+    ARWEN @ blush "{i}Painful... But very good.{/i}"
+
+translate pl strings:
+
+    # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:9
+    old "Brothel Room"
+    new "Brothel Room"
+
+    # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:14
+    old "Leave it on"
+    new "Leave it on"
+
+    # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:16
+    old "Off it goes!"
+    new "Off it goes!"
+

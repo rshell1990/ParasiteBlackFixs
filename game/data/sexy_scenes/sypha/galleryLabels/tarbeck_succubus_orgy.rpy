@@ -1,0 +1,100 @@
+label gallery_sypha_tarbeck_succubus_orgy_preview:
+    KELEBETH @laugh "You Demorai are always so confident in your {i}'claims'{/i}."
+    KELEBETH @laugh "But it seems to me this one will do exactly as he pleases."
+    KELEBETH "{i}*Soft chuckle*{/i}"
+    SYPHA @mad "...Is that a little challenge, hell-whore?"
+    SYPHA @smug "Perhaps then, we should settle this now?"
+    SYPHA @smug "Let's find out who's 'claim' is better."
+    $ PlayMusicRandom("mus_sex")
+    KELEBETH "Wait—what are you—"
+    KELEBETH "{i}*Gasp!*{/i}"
+    KELEBETH "... Oh."
+    KELEBETH "{b}Interesting!{/b}"
+    $ PlaySexFx(audio.moans_breaths_loop, 1)
+    $ PlaySexFx2(audio.moans_muffled_suckey, 1)
+    scene sypha_tarbeck_succubus_orgy_vag_1 with dissolve
+    $ Pause()
+    "A moment later, all three succubi were bent over and tightly bound, their asses in the air as Sypha gleefully made Kelbeth eat at her womanhood obediently."
+    SYPHA "There, there, dear!"
+    SYPHA "Look! They're alllllllll nice and ready for you!"
+    KELEBETH "Mhmm… Consider yourself lucky, little Demorai. I'm in a generous mood tonight."
+    SYPHA "Such confidence!"
+    SYPHA "You woudn't think the three of you folded almost immediately!"
+    KELEBETH "Degenerate…"
+    SYPHA "A little rich coming from someone who suck's cock to survive, don't you think?"
+    $ PlaySexFx(audio.moans_breaths_loop, 1)
+    scene sypha_tarbeck_succubus_orgy_vag_2 with dissolve
+    $ Pause()
+    "Sypha watched as I drew my cock and pressed it to Kelebeth's dripping slit."
+    "She groaned deeply, welcoming me as my cock sank into her inch by inch."
+    KELEBETH "Mmfghhh! Harder! Give me every drop of your essence!"
+    KELEBETH "Break us!"
+    SYPHA "Hahaha! Are you already hanging on for dear life?"
+    SYPHA "The mighty succubus brought to heel in round one!"
+    KELEBETH "Ssssshut up!"
+    KELEBETH "You could not possibly understand the connection between our kinds! Cur!"
+    KELEBETH "Urghhh!"
+    "Her tight heat squeezed and pulsed around me, clinging almost desperately, refusing to let me go."
+    "Her slick juices coated me, and whatever they were made of, they hit like aphrodisiac fire in my veins—the world narrowed to heat, flesh, and the pounding need to rut her senseless."
+    SYPHA "Darling…"
+    SYPHA "Don't just focus on her now!"
+    SYPHA "Can't you see her little pets want some attention too?"
+    SYPHA "{i}Why don't you show them what you can really do?{/i}"
+    $ PlaySexFx(audio.moans_breaths_loop, 1)
+    scene sypha_tarbeck_succubus_orgy_vag_3 with dissolve
+    $ Pause()
+    "Two tentacles emerged, with elongated tongues from the bulbous heads, they licked at each of the succubus' holes, greedily lapping them up."
+    "The succubus' moaned and whimpered, pleading their mistress for more, but she was far too occupied between Sypha's pussy and my cock."
+    KELEBETH "Mmmfghhh!"
+    SYPHA "Your mistress is busy, whores!"
+    SYPHA "occupy yourselves!"
+    "The two succubus' squirmed, moaning hotly as the tongues contined to lap up their juices."
+    SYPHA "Mhhh..."
+    SYPHA "What else can those tentacles do?"
+    SYPHA "I want to see it with my own eyes!"
+    scene sypha_tarbeck_succubus_orgy_vag_4 with dissolve
+    $ Pause()
+    "The two tentacles thrust forward, attaching onto the succubus' asses as the tongues, squirmed and forced their way deep into their needy cunts."
+    "They moaned like beasts in heat, begging, gasping, pleading as the tendrils drove deeper."
+    SYPHA "Ahh...!"
+    SYPHA "Now THAT's more like it!"
+    SYPHA "If only I could have their expressions right now painted! Huehue!"
+    "Lewd squelches and desperate cries filled the room as I rearranged their insides."
+    "Sypha grabbed Kelebeth by the hair and ground her face between her thighs."
+    SYPHA "Ahhh… That's it, whore!"
+    SYPHA "Try and play with what's MINE, hmm?"
+    KELEBETH "{i}*Slurp!* *Shlick!*{/i}"
+    SYPHA "How are their holes, my love?"
+    MC "Stop—ahhh—calling me that!"
+    MC "And they're TIGHT!"
+    MC "Gods… these whores could wring the life out of a lesser man!"
+    KELEBETH "MMMMFGHH!!"
+    SYPHA "Inferior products before you get to sample me!"
+    SYPHA "I can assure you of that!"
+    "Kelebeth shuddered, pushing back, her ass bouncing with every thrust."
+    "Her 'lesser' sisters writhed, their bodies jolting as the tentacles churned them mercilessly."
+    SYPHA "Ghood… little… sucuuubus…"
+    KELEBETH "Mmfghhhh…!"
+    "Their bodies quaked as they were used, Sypha watching me with possessive delight."
+    "Her gaze a curious mix of curiousity and desire."
+    "Time lost meaning—heat, flesh, and pleasure drowned everything."
+    "Sypha relished every second of control, delighting in watching me tame the so-called queens of desire."
+    SYPHA "Do you understand now, little succubus?"
+    "Kelebeth and the others could only moan in broken submission."
+    SYPHA "This one…"
+    SYPHA "{i}Is mine.{/i}"
+    "My balls tightened."
+    "Sypha sensed it instantly—eyes bright, lips curling as if proud… or possessive… or both."
+    "I grabbed Kelebeth's ass, claws digging just enough to draw blood as I slammed deep and stayed there."
+    "She wailed, tongue spilling from her mouth as I filled her."
+    $ PlaySexFx2(audio.forgean_finish)
+    scene sypha_tarbeck_succubus_orgy_vag_finish with flash
+    $ Pause()
+    MC "{i}*ROARRRRR!*{/i}"
+    SYPHA "That's it… Make them beg!"
+    SYPHA "Make them addicts!" 
+    "Seed spilled, dripping down her thighs as the other succubi scrambled hungrily beneath, lapping it eagerly from the floor."
+    $ StopSexFx()
+    "Sypha rose back to her feet, cheeks flushed as her sweat glistened in the light."
+    "She adjusted her hair, and smiled victoriously."
+    return

@@ -1,0 +1,18 @@
+﻿# TODO: Translation updated at 2026-06-30 02:00
+
+# game/engine/char_template/functions_party.rpy:59
+translate kr talk_fallback_d0802304:
+
+    # "We had an interesting conversation."
+    "우리는 흥미로운 대화를 나누었다."
+
+translate kr strings:
+
+    # game/engine/char_template/functions_party.rpy:12
+    old "%s joins your party!"
+    new "%s(이)가 파티에 합류했습니다!"
+
+    # game/engine/char_template/functions_party.rpy:40
+    old "%s leaves your party!"
+    new "%s(이)가 파티를 떠났습니다!"
+

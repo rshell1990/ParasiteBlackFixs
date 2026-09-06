@@ -1,0 +1,238 @@
+﻿# TODO: Translation updated at 2026-07-01 11:57
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:5
+translate ptBR qst_ADazzlingTail_02_day_9c5844c9:
+
+    # MC @ talk "Drax? Where’s Arlena?"
+    MC @ talk "Drax? Onde está Arlena?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:6
+translate ptBR qst_ADazzlingTail_02_day_37e6412f:
+
+    # DRAX "She said you’d be lookin’ for ‘er."
+    DRAX "Ela disse que você estaria procurando por ela."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:7
+translate ptBR qst_ADazzlingTail_02_day_267f8f1d:
+
+    # DRAX "She’s upstairs in her room working on something fancy like."
+    DRAX "Ela está lá em cima no quarto dela trabalhando em algo chique, assim."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:8
+translate ptBR qst_ADazzlingTail_02_day_fd68daf3:
+
+    # MC @ talk "Alright."
+    MC @ talk "Tudo bem."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:12
+translate ptBR qst_ADazzlingTail_02_day_57bc323d:
+
+    # "As I wandered up towards her room, Drax shot a sly look in my direction before looking away."
+    "Enquanto eu subia para o quarto dela, Drax lançou um olhar malicioso em minha direção antes de desviar o olhar."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:13
+translate ptBR qst_ADazzlingTail_02_day_a7cc11f2:
+
+    # MC @ talk "Arlena, are you—"
+    MC @ talk "Arlena, você está—"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:19
+translate ptBR qst_ADazzlingTail_02_day_e6bec2ff:
+
+    # "As I pushed open the door, I was shocked to find myself stood in front of a naked Arlena inspecting herself in the mirror, a shiny toy wedged into her ass."
+    "Quando empurrei a porta, fiquei chocado ao me encontrar na frente de uma Arlena nua se inspecionando no espelho, um brinquedo brilhante enfiado em sua bunda."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:20
+translate ptBR qst_ADazzlingTail_02_day_b8ddaa33:
+
+    # "She seemed to be lost in pleasure, letting out deep, heavy moans."
+    "Ela parecia estar perdida em prazer, soltando gemidos profundos e pesados."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:21
+translate ptBR qst_ADazzlingTail_02_day_e72092cb:
+
+    # "I couldn't tear my eyes of her, until she glanced back at me..."
+    "Não conseguia desviar meus olhos dela, até que ela olhou de volta para mim..."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:28
+translate ptBR qst_ADazzlingTail_02_day_80f615d7:
+
+    # "Quickly grabbing the quilt from her bed to cover herself with, Arlena glared, cheeks red with arousal."
+    "Rapidamente agarrando a colcha de sua cama para se cobrir, Arlena me encarou, bochechas vermelhas de excitação."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:30
+translate ptBR qst_ADazzlingTail_02_day_7a64bb39:
+
+    # MC @ talk "GAH! "
+    MC @ talk "GAH! "
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:32
+translate ptBR qst_ADazzlingTail_02_day_eee7b839:
+
+    # ARLENA @ angry "PERVERT!!!"
+    ARLENA @ angry "PERVERTIDO!!!"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:33
+translate ptBR qst_ADazzlingTail_02_day_31ca3adc:
+
+    # ARLENA @ angry "Haven’t you heard of knocking first?"
+    ARLENA @ angry "Nunca ouviu falar em bater primeiro?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:34
+translate ptBR qst_ADazzlingTail_02_day_659ec01e:
+
+    # MC @ talk "Your father said you were up here! I-I didn’t think!"
+    MC @ talk "Seu pai disse que você estava aqui em cima! Eu-Eu não pensei!"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:35
+translate ptBR qst_ADazzlingTail_02_day_074f38cc:
+
+    # "Arlena folded her arms across her chest and pouted as she stared at the floor, furious."
+    "Arlena cruzou os braços sobre o peito e fez beicinho enquanto encarava o chão, furiosa."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:36
+translate ptBR qst_ADazzlingTail_02_day_c6bd8a87:
+
+    # MC @ talk "... Were you trying them out for—"
+    MC @ talk "... Você estava experimentando eles para—"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:37
+translate ptBR qst_ADazzlingTail_02_day_0db533a3:
+
+    # ARLENA "I wanted to see if they looked good enough obviously, idiot!"
+    ARLENA "Eu queria ver se eles ficavam bem o suficiente, obviamente, idiota!"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:38
+translate ptBR qst_ADazzlingTail_02_day_9d774f89:
+
+    # MC @ talk "Right, right... Of course."
+    MC @ talk "Certo, certo... Claro."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:39
+translate ptBR qst_ADazzlingTail_02_day_3fbe8a9c:
+
+    # ARLENA "... W-Well?"
+    ARLENA "... B-Bem?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:40
+translate ptBR qst_ADazzlingTail_02_day_6b29b915:
+
+    # MC @ talk "... Well, what?"
+    MC @ talk "... Bem, o quê?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:41
+translate ptBR qst_ADazzlingTail_02_day_dbc10847:
+
+    # ARLENA "Well, how did it look, idiot?"
+    ARLENA "Bem, como ficou, idiota?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:42
+translate ptBR qst_ADazzlingTail_02_day_a2ef6158:
+
+    # MC @ talk "OH!"
+    MC @ talk "AH!"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:43
+translate ptBR qst_ADazzlingTail_02_day_b72d78e7:
+
+    # MC @ talk "It looked..."
+    MC @ talk "Parecia..."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:46
+translate ptBR qst_ADazzlingTail_02_day_785107e8:
+
+    # ARLENA "U-Uhh..."
+    ARLENA "U-Uuh..."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:47
+translate ptBR qst_ADazzlingTail_02_day_c7601cba:
+
+    # "Arlena seemed to contemplate the idea for a moment before shaking it off."
+    "Arlena pareceu contemplar a ideia por um momento antes de afastá-la."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:48
+translate ptBR qst_ADazzlingTail_02_day_afb5619c:
+
+    # ARLENA "In your dreams!"
+    ARLENA "Nos seus sonhos!"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:50
+translate ptBR qst_ADazzlingTail_02_day_3e671db7:
+
+    # ARLENA "Well... that’s good..."
+    ARLENA "Bem... isso é bom..."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:51
+translate ptBR qst_ADazzlingTail_02_day_1b5f35b1:
+
+    # ARLENA "Glad you enjoyed the view, pervert!"
+    ARLENA "Que bom que gostou da vista, tarado!"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:53
+translate ptBR qst_ADazzlingTail_02_day_a44207c9:
+
+    # "Arlena thought about the idea for moment, saying nothing as her cheeks turned a soft shade of pink."
+    "Arlena pensou na ideia por um momento, não dizendo nada enquanto suas bochechas ficavam de um tom suave de rosa."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:55
+translate ptBR qst_ADazzlingTail_02_day_37355111:
+
+    # "Dropping the quilt down, she turned around to give me a full view as she shyly looked over her shoulder to gauge my reaction."
+    "Deixando cair a colcha, ela se virou para me dar uma visão completa enquanto olhava timidamente por cima do ombro para avaliar minha reação."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:56
+translate ptBR qst_ADazzlingTail_02_day_3fbe8a9c_1:
+
+    # ARLENA "... W-Well?"
+    ARLENA "... B-Bem?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:57
+translate ptBR qst_ADazzlingTail_02_day_96c3da59:
+
+    # ARLENA "What do you think? Does it look good?"
+    ARLENA "O que você acha? Parece bom?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:59
+translate ptBR qst_ADazzlingTail_02_day_61562a8f:
+
+    # "As I stared at her magnificent behind, utterly entranced, Arlena didn’t wait for my answer before she covered herself once again with the blanket."
+    "Enquanto eu olhava para seu traseiro magnífico, totalmente hipnotizado, Arlena não esperou minha resposta antes de se cobrir mais uma vez com o cobertor."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:60
+translate ptBR qst_ADazzlingTail_02_day_9f929f49:
+
+    # ARLENA "I’ll take that as a yes."
+    ARLENA "Vou considerar isso como um sim."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:63
+translate ptBR qst_ADazzlingTail_02_day_3fd773ff:
+
+    # MC @ talk "What do you need from me now?"
+    MC @ talk "O que você precisa de mim agora?"
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:64
+translate ptBR qst_ADazzlingTail_02_day_4919dd19:
+
+    # ARLENA "Nothing, I’ll be dropping the stuff over to the Pleasure District later."
+    ARLENA "Nada, vou entregar as coisas no Distrito do Prazer mais tarde."
+
+# game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:65
+translate ptBR qst_ADazzlingTail_02_day_283e63d3:
+
+    # ARLENA "Come back tomorrow and I’ll give you your cut."
+    ARLENA "Volte amanhã e eu lhe darei a sua parte."
+
+translate ptBR strings:
+
+    # game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:45
+    old "I’d jump you right now if I could."
+    new "Eu pularia em você agora mesmo se pudesse."
+
+    # game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:49
+    old "People will love them."
+    new "As pessoas vão adorar."
+
+    # game/data/world_quests/side/novaras/ADazzlingTail/scr_02_day.rpy:52
+    old "Hmm, I’d need another look again to be sure!"
+    new "Hmm, eu precisaria de outra olhada para ter certeza!"
+

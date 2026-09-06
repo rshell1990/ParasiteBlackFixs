@@ -1,0 +1,225 @@
+label rom_Ves_6_Drunk:
+    $ NoteLock("VesRomance3")
+    $ AutoTimeFreeze(True)
+    show mc:
+        xcenter 0.15
+    show ves lewd:
+        xcenter 0.6
+        xzoom -1.0
+    with dissolve
+    $ AutoMus(False)
+    $ PlayMusic("audio/music/29_Orcs_Eyes.ogg")
+    MC @surprised '... Ves?'
+    VES @smile_talk 'Heyyyyy! It’s my...'
+    VES @lewd_talk 'Mmm... Favourite human!'
+    MC @smile 'Are you drunk?'
+    'Ves smiled goofily, waving the flagon of ale in her hand.'
+    VES @smile_talk 'I made my own!'
+    VES @lewd_talk 'But I think I made it too strong because...'
+    VES @lewd_talk '{i}*Hiccup!*{/i}'
+    VES @lewd_talk '... Mmm... Y-Yep...'
+    MC @talk  'Do you think you should lie down?'
+    VES @lewd_talk 'Yesss!'
+    MC @smile 'Okay then, let’s—'
+    'Taking my hand, Ves firmly yanked and dragged me down onto the floor with her.'
+    MC @talk 'Whoa!'
+    VES @lewd_talk 'But you’re laying down with me, human!'
+    'Ves laughed as my face smashed into the sand and I turned to roll onto my side, spitting out some of the sand now on my tongue she hiccupped drunkenly once again.'
+    VES @lewd_talk 'Here, drink some of this.'
+    MC @smile 'Thanks...'
+    'Handing over the flagon, I took a sip before struggling to swallow down the burning hot after taste of the drink.'
+    MC @surprised 'Gah! No wonder you’re drunk!'
+    'Ves rolled over onto my chest, her body flushed hot.'
+    VES @smile_talk '... You’re cute.'
+    VES @lewd_talk 'For a human.'
+    MC @smile 'Thanks, I try my best.'
+    'Ves laughed.'
+    VES @lewd_talk 'If my tribe knew what I was doing...'
+    VES @lewd_talk 'I think they might kick me out.'
+    MC @talk  'Well, if it’s any consolation... I’d probably be arrested for "consorting" with you.'
+    'Ves rolled onto her back beside me, gazing up at the night sky.'
+    VES @lewd_talk 'Mm... Then I guess we’re both being stupid.'
+    MC @talk  'Yep.'
+    VES  '...'
+    VES @lewd_talk '... See that there?'
+    'Ves pointed towards a small cluster of stars.'
+    MC @talk 'Hm? Oh, you mean the Nazon?'
+    VES @lewd_talk 'Ehhh? The what?'
+    MC @talk 'That’s what that cluster is.'
+    MC @talk 'My father told me it always points true north so sailors—'
+    'Ves gently tapped at my head.'
+    VES @smile_talk 'Dumb.'
+    MC @talk 'What?!'
+    MC @talk 'It’s true!'
+    VES @lewd_talk 'That’s the Great Chief Kalv striking at the great bear...'
+    VES @lewd_talk 'See that line?'
+    VES @lewd_talk 'That’s his spear.'
+    MC @talk 'Whose?'
+    MC @talk '... Are we looking at the same cluster of stars here?'
+    'Ves rolled lazily onto my chest.'
+    VES @smile_talk 'You are cute but dumb.'
+    MC '...'
+    VES '...'
+    'After a few seconds of staring at me with the widest pupils I’d ever seen, she leaned forward timidly, pressing her soft lips once again onto mine, caressing my face before she pulled back to stare at me.'
+    VES @lewd_talk 'I want you to stay here tonight.'
+    MC @smile 'Is that a request or an order?'
+    VES @smile_talk 'Whichever makes you say yes, human.'
+    MC @talk '... Alright. I’ll stay tonight.'
+    'Smiling, Ves gently rose to her feet, reaching down to pull me up.'
+    VES @lewd_talk 'Come.'
+    'Ves took the last sip of her drink before tossing it aside.'
+    VES @talk 'Comeeeee!'
+    scene black with dissolve
+    'Taking my hand, Ves practically dragged me into her tent before pushing me down onto the soft rugs of her bed.'
+    $ LocSet("ves_tent_int")
+    $ LocFlush()
+    show mc:
+        xcenter 0.2
+    show ves lewd:
+        xcenter 0.5
+        xzoom -1.0
+    with dissolve
+    VES @lewd_talk 'Clothes off!'
+    'She ordered tipsily.'
+    MC @talk 'Heh... You first.'
+    $ CharSetClothes("ves", "naked")
+    show ves at nod
+    'Ves smiled as she began to strip down, much less nervous than before, prompting me to do the same.'
+    $ CharSetClothes("mc", "naked")
+    show mc at nod
+    MC @talk 'Are you planning—'
+    VES @lewd_talk 'Orcs never sleep with clothes on when with their mates.'
+    VES @lewd_talk 'We see each other as we are in bed.'
+    scene cg_ves_cuddling with dissolve
+    $ Pause()
+    'Climbing under the fur covers with me, Ves gently rested her head onto my chest, sighing happily.'
+    VES @smile_talk 'I like having you here like this.'
+    'Gently, my hand moved down her soft back to give her ass a squeeze. She groaned softly, gently nibbling at my chest.'
+    VES @smile_talk 'Mmm...'
+    VES @lewd_talk '... Can I ask you something?'
+    MC @talk 'Go on...'
+    VES @lewd_talk 'You have been kind to me, more than most, and I’ve shared a lot with you, but...'
+    VES @lewd_talk 'I do not know your story.'
+    MC @surprised 'My story?'
+    VES @lewd_talk 'Tell me about your life, about your friends...'
+    VES @lewd_talk 'About your... abilities.'
+    VES @lewd_talk 'I want to know everything!'
+    MC @talk '... Well...'
+    menu:
+        "It all began when I was born, everyone realised I was the most handsome man in all of Alderay.":
+            VES @talk 'You were? How does one get awarded such a title?'
+            MC @smile 'Ha! I wish.'
+            'Ves playfully slapped my chest.'
+            VES @smile_talk 'You know I still do not understand human humour.'
+            VES @talk 'Don’t be mean.'
+            MC @smile 'Or what? You’ll kiss me?'
+            'Ves pouted endearingly at the comment but said nothing in response.'
+        "Not much to say really... Most of your time growing up in Novaras is spent studying if you’re smart.":
+            VES @talk 'Studying?'
+            MC @talk 'Well, the first thing that happens is they determine if you have any magic or not.'
+            MC @talk 'That makes the difference between you going to the Mage’s Guild or just the regular Academy like most.'
+            VES @talk 'You do not have any magic?'
+            VES @talk 'But your powers...'
+            MC @talk 'I know, it’s... something else.'
+            MC @talk 'I don’t know what.'
+    #BOTH ROUTES CONTINUED
+    VES @talk 'So... You and this other human friend of yours, Marcus... Are you close?'
+    MC @talk 'Like brothers... We’ve known each other since we were little.'
+    VES @talk 'He is... different to you.'
+    MC @talk 'He’s a good man.'
+    MC @talk 'But he’s got his issues, even before the fighting, I think.'
+    VES @talk '... So, how did you become warriors?'
+    MC @talk 'We didn’t get much say in the matter...'
+    MC @talk 'Called up to be part of the noble Scouts.'
+    VES @talk 'You didn’t choose to become a warrior?'
+    VES @talk 'Surely this is a great honour!'
+    MC @talk 'Not to us...'
+    VES @talk '... I don’t understand.'
+    MC @talk 'There’s no glory dying in some wretched field for a pointless skirmish watching as your friends are being slaughtered around you.'
+    MC @talk 'Dying for SOMETHING, for ANYTHING would make it better...'
+    MC @talk 'More bearable.'
+    MC @talk 'But most of us would just die unceremoniously, in cruel, painful deaths with no one to remember... or even care that we’re gone or what our mission even was in the first place.'
+    VES @talk '...'
+    MC @talk 'Praying... always praying you’d somehow get home... Praying you’d never have to venture beyond those walls again.'
+    VES @talk '... And yet, here you are!'
+    VES @smile_talk 'Made stronger by surviving beyond the walls!'
+    MC @talk '... Yeah, I suppose so.'
+    VES @talk 'And you and I would never have met if you were still too afraid to leave the safety of your walls.'
+    MC @talk '... Me and Marcus only survived because of {i}what happened...{/i}'
+    MC @talk 'For anyone else, they’d be...'
+    'Ves’ hand moved to shush my lips.'
+    VES @talk 'And yet, {i}you live to fight another day...{/i}'
+    VES @talk 'This is what matters.'
+    VES @talk 'O’rlarak commands you to live and fight on. For those who were not so fortunate. For those who have been denied what you have.'
+    MC @talk 'O’rlarak?'
+    VES @talk '{i}The greatest of all chiefs who now reigns in the sky.{/i}'
+    MC @talk '... Ves...'
+    VES @talk'To my people, to die in battle protecting those we love... those we care for...'
+    VES @talk 'There is no better way to die.'
+    menu:
+        "I’d prefer dying old and grey with my family around me.":
+            VES @talk '... Strange.'
+            MC @talk 'What, why is that strange?'
+            VES @talk 'Most orcs see life as a short arrangement... A brief deal with the Great Chiefs paid for in blood.'
+            VES @talk 'We are prepared to die from the day we are born.'
+            VES @talk 'But you see it as lasting... {i}longer.{/i}'
+            MC @talk 'There’s more to life than death, Ves.'
+            VES @talk '... I’d like you to show me this one day.'
+        "I dunno, dying in a brothel sounds like a lot more fun.":
+            VES @talk 'A brothel?'
+            MC @smile 'It’s... Never mind.'
+            VES @talk 'What kind of place is that?'
+            MC @talk 'It’s a place where humans pay to have sex.'
+            VES @talk '... Humans... {i}pay{/i} to have sex?'
+            VES @talk 'Do you not have matriarchs?'
+            MC @talk 'Uhh, what?'
+            VES @talk 'Every tribe has a few matriarchs... Women devoted just to breeding.'
+            MC @talk 'Wait, what?!'
+            VES @talk 'A great number of orcs die young or in battle... Numbers need to be replenished quickly or we risk extinction.'
+            VES @talk 'Matriarchs can even request to break in newly bonded husbands.'
+            MC @talk 'How do the wives feel about that?'
+            VES @talk 'It is an old tradition... Some don’t like it but...'
+            MC @smile 'I can imagine!'
+            'Ves shrugged apathetically.'
+            VES @talk 'Matriarchs often have the children of several males, and it is forbidden for them to devote themselves to just one mate.'
+            VES @talk 'So, it is seen as different to betraying your mate to be with them. It is for the good of the clan.'
+            MC @talk 'That’s... a very openminded culture.'
+            MC @talk 'I’m not sure humans would feel the same.'
+        "I suppose you’re right...":
+            VES @smile_talk 'Of course I am right!'
+            VES @talk 'I may not have studied like you, but I have learned many things...'
+
+    #ALL ROUTES CONTINUED
+    VES @talk 'So... you still haven’t told me how you became...'
+    MC @talk 'Ah... Well...'
+    'I spent the next while recounting my tale to Ves, the perilous journey lead by Captain Duprey, the abandoned fort and the strange underground lab...'
+    'Finally, I went into detail about the strange creatures that had attached themselves to me and Marcus, and the terms and conditions of our survival for their ‘gift’.'
+    VES @talk '... I see.'
+    'Ves sighed morosely.'
+    MC @talk '... What is it?'
+    VES @talk '... Nothing.'
+    MC @talk 'No, something’s bothering you.'
+    VES @talk 'I...'
+    VES @talk 'Would like to have you for myself...'
+    MC @talk '...'
+    VES @talk '{i}Just{/i} for myself.'
+    VES @talk 'But... I know this is probably not possible, is it?'
+    MC @talk 'It is... difficult.'
+    MC @talk 'When I was fully human, I could have—'
+    VES @talk 'No... It’s okay.'
+    VES @smile_talk 'I am just happy to be with you.'
+    VES @talk '... And grateful for the patience you have shown me.'
+    'Gently, I caressed Ves’ face with my hand, she leaned forward to press another kiss onto me.'
+    VES @smile_talk '... Goodnight, [player_name!t].'
+    MC @smile 'Hey! You said my name!'
+    VES @talk '{i}*Grumbles*{/i}'
+    MC @talk '...'
+    scene black with dissolve
+    MC @talk 'Goodnight, Ves...'
+    $ PlaySoundRandom("clockWind", Channel = "guisfx", Volume = 0.7)
+    $ AutoTimeFreeze(False)
+    while rpTime < TIME_DAY_START:
+        $ TimeAdvBy(TIME_1H)
+    $ AutoMus(True)
+    $ HealParty()
+    jump rom_Ves_61_PostDrunk

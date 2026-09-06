@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/engine/battle/MainLoop.rpy", line 10: invalid syntax
+    default BattleData = None
+                ^^^^^^^^^^
+
+Ren'Py Version: Ren'Py 8.5.3.26051504
+Sat Sep  5 21:14:21 2026

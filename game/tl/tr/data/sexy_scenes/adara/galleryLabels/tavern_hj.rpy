@@ -1,0 +1,230 @@
+﻿# TODO: Translation updated at 2026-06-09 21:50
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:8
+translate tr gallery_adara_tavern_hj_9599addc:
+
+    # "Pulling Adara closer towards me, she gasped slightly before settling."
+    "Adara'yı yakınıma çekerek, hafifçe nefesi kesildi ve sonra yerleşti."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:9
+translate tr gallery_adara_tavern_hj_5c7fe7d9:
+
+    # MC @ talk "You haven’t done anything wrong."
+    MC @ talk "Yanlış bir şey yapmadın."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:10
+translate tr gallery_adara_tavern_hj_85631ae5:
+
+    # ADARA @ talk "...You smell so nice."
+    ADARA @ talk "...Çok güzel kokuyorsun."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:11
+translate tr gallery_adara_tavern_hj_5aa5416c:
+
+    # MC @ talk "I do?"
+    MC @ talk "Öyle mi?"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:12
+translate tr gallery_adara_tavern_hj_48c750e3:
+
+    # "In that moment, she said nothing as Adara’s hand began to trail down, resting over my crotch."
+    "O anda, Adara'nın eli aşağı kaymaya başlarken hiçbir şey söylemedi, kasıklarımın üzerinde dinlendi."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:13
+translate tr gallery_adara_tavern_hj_7d990802:
+
+    # ADARA @ talk "...C-Can I touch you?"
+    ADARA @ talk "...S-Sana dokunabilir miyim?"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:14
+translate tr gallery_adara_tavern_hj_43725b8d:
+
+    # MC @ talk "A-Adara!"
+    MC @ talk "A-Adara!"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:15
+translate tr gallery_adara_tavern_hj_0f65e518:
+
+    # ADARA @ talk "[player_name!t]..."
+    ADARA @ talk "«oyuncu_adı»..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:16
+translate tr gallery_adara_tavern_hj_745c032b:
+
+    # ADARA @ talk "I’ve missed touching you."
+    ADARA @ talk "Sana dokunmayı özledim."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:17
+translate tr gallery_adara_tavern_hj_40360bfe:
+
+    # MC @ talk "Ahh~"
+    MC @ talk "Ahh~"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:18
+translate tr gallery_adara_tavern_hj_ac11f5e4:
+
+    # MC @ talk "Adara..."
+    MC @ talk "Adara..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:19
+translate tr gallery_adara_tavern_hj_4049b95f:
+
+    # ADARA @ talk "Shhh, we don’t want anyone to look this way, right?"
+    ADARA @ talk "Şşş, kimsenin bu tarafa bakmasını istemeyiz, değil mi?"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:23
+translate tr gallery_adara_tavern_hj_59ecdb14:
+
+    # ADARA @ talk "{i}By the gods... it’s... even bigger than I remember!{/i}"
+    ADARA @ talk "{i}Tanrılar aşkına... bu... hatırladığımdan bile daha büyük!{/i}"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:24
+translate tr gallery_adara_tavern_hj_56753d13:
+
+    # ADARA "{i}He’s changed so much... Just being near him is-{/i}"
+    ADARA "{i}O kadar değişti ki... Sadece yanında olmak bile-{/i}"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:25
+translate tr gallery_adara_tavern_hj_bc8ca9f8:
+
+    # MC @ talk "Ahh, Adara... You’re breathing so loud."
+    MC @ talk "Ahh, Adara... Çok yüksek sesle nefes alıyorsun."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:26
+translate tr gallery_adara_tavern_hj_2a2efdca:
+
+    # ADARA @ talk "S-Sorry, your hand... It feels nice."
+    ADARA @ talk "Ü-Üzgünüm, elin... Hoş hissettiriyor."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:27
+translate tr gallery_adara_tavern_hj_cdd50187:
+
+    # MC @ talk "That’s it Adara..."
+    MC @ talk "İşte böyle Adara..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:28
+translate tr gallery_adara_tavern_hj_6dca8104:
+
+    # MC @ talk "Just like that..."
+    MC @ talk "Aynen böyle..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:29
+translate tr gallery_adara_tavern_hj_7c9aa3be:
+
+    # MC @ talk "Ah..."
+    MC @ talk "Ah..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:33
+translate tr gallery_adara_tavern_hj_b8464439:
+
+    # ADARA "{i}This is so exciting...{/i}"
+    ADARA "{i}Bu çok heyecan verici...{/i}"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:34
+translate tr gallery_adara_tavern_hj_b824c11d:
+
+    # ADARA "{i}Gods, I could just imagine the ridicule if w-we were caught but-{/i}"
+    ADARA "{i}Tanrılar, y-yakalansaydık alay konusunu hayal edebiliyorum ama-{/i}"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:35
+translate tr gallery_adara_tavern_hj_3422bc90:
+
+    # ADARA @ talk "Are you close?"
+    ADARA @ talk "Yaklaştın mı?"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:36
+translate tr gallery_adara_tavern_hj_ae194af9:
+
+    # MC @ talk "Just a little more Adara..."
+    MC @ talk "Biraz daha Adara..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:37
+translate tr gallery_adara_tavern_hj_ab39f63c:
+
+    # ADARA @ talk "Mmmhmm, okay."
+    ADARA @ talk "Mmmhmm, tamam."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:41
+translate tr gallery_adara_tavern_hj_ab61150c:
+
+    # ADARA @ talk "...!"
+    ADARA @ talk "...!"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:42
+translate tr gallery_adara_tavern_hj_1e435b5b:
+
+    # MC @ talk "Ahh!"
+    MC @ talk "Ahh!"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:43
+translate tr gallery_adara_tavern_hj_a43d6209:
+
+    # "Now {i}that{/i} was a proper reunion."
+    "İşte {i}bu{/i} düzgün bir yeniden buluşmaydı."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:44
+translate tr gallery_adara_tavern_hj_ef92f624:
+
+    # "Adara quickly moved to put my cock away before pulling her hand out and licking the fingers."
+    "Adara elini çekip parmaklarını yalamadan önce aletimi hemen yerine koydu."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:45
+translate tr gallery_adara_tavern_hj_91c9edb5:
+
+    # MC @ talk "Adara!"
+    MC @ talk "Adara!"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:46
+translate tr gallery_adara_tavern_hj_d4fc1887:
+
+    # "Adara blushed bright red."
+    "Adara parlak kırmızı kızardı."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:47
+translate tr gallery_adara_tavern_hj_4846a3db:
+
+    # ADARA @ talk "W-What?"
+    ADARA @ talk "N-Ne?"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:48
+translate tr gallery_adara_tavern_hj_812460aa:
+
+    # ADARA @ talk "I gotta clean up your mess somehow..."
+    ADARA @ talk "Döküntünü bir şekilde temizlemem gerek..."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:49
+translate tr gallery_adara_tavern_hj_98120290:
+
+    # ADARA @ talk "It’s all over my hands and it’s sticky."
+    ADARA @ talk "Ellerimin her yerinde ve yapış yapış."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:50
+translate tr gallery_adara_tavern_hj_2daa2dc4:
+
+    # MC @ talk "Well... still."
+    MC @ talk "Pekala... yine de."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:51
+translate tr gallery_adara_tavern_hj_59a5fa4a:
+
+    # "The thought made me twitch with excitement once again, despite just finishing."
+    "Düşünce, henüz bitirmiş olmama rağmen beni bir kez daha heyecanla seğirtti."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:52
+translate tr gallery_adara_tavern_hj_7171b7f4:
+
+    # BLACK "This one longs to sire you many children."
+    BLACK "Bu sana birçok çocuk doğurmak istiyor."
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:53
+translate tr gallery_adara_tavern_hj_498b3292:
+
+    # "Shut up! Shut up! Shut up!"
+    "Kapa çeneni! Kapa çeneni! Kapa çeneni!"
+
+# game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:54
+translate tr gallery_adara_tavern_hj_3c7dd74b:
+
+    # BLACK "She would make a good mate."
+    BLACK "İyi bir eş olurdu."
+

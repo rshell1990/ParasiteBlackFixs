@@ -1,0 +1,192 @@
+﻿# TODO: Translation updated at 2026-06-09 21:50
+
+translate tr strings:
+
+    # game/data/battle_enemies/neutral.rpy:39
+    old "Bazark"
+    new "Bazark"
+
+    # game/data/battle_enemies/neutral.rpy:64
+    old "Demon frog"
+    new "İblis kurbağa"
+
+    # game/data/battle_enemies/neutral.rpy:89
+    old "Giant slimelark"
+    new "Dev balçıkkuşu"
+
+    # game/data/battle_enemies/neutral.rpy:111
+    old "Caltrack"
+    new "Caltrack"
+
+    # game/data/battle_enemies/neutral.rpy:141
+    old "The Abomination"
+    new "İğrenç Yaratık"
+
+    # game/data/battle_enemies/neutral.rpy:164
+    old "Green slime"
+    new "Yeşil balçık"
+
+    # game/data/battle_enemies/neutral.rpy:189
+    old "Man in Black"
+    new "Siyahlı Adam"
+
+    # game/data/battle_enemies/neutral.rpy:212
+    old "Slimelark"
+    new "Balçıkkuşu"
+
+    # game/data/battle_enemies/neutral.rpy:235
+    old "Kraken"
+    new "Kraken"
+
+    # game/data/battle_enemies/neutral.rpy:258
+    old "Giant rat"
+    new "Dev fare"
+
+    # game/data/battle_enemies/neutral.rpy:284
+    old "Behemoth"
+    new "Dev"
+
+    # game/data/battle_enemies/neutral.rpy:307
+    old "Desert rat queen"
+    new "Çöl faresi kraliçesi"
+
+    # game/data/battle_enemies/neutral.rpy:331
+    old "Camen"
+    new "Camen"
+
+    # game/data/battle_enemies/neutral.rpy:354
+    old "Ghoul"
+    new "Gulyabani"
+
+    # game/data/battle_enemies/neutral.rpy:376
+    old "Big ghoul"
+    new "Büyük gulyabani"
+
+    # game/data/battle_enemies/neutral.rpy:398
+    old "Goblin"
+    new "Cin"
+
+    # game/data/battle_enemies/neutral.rpy:420
+    old "Bear"
+    new "Ayı"
+
+    # game/data/battle_enemies/neutral.rpy:450
+    old "Rhuvan"
+    new "Rhuvan"
+
+    # game/data/battle_enemies/neutral.rpy:480
+    old "Desert Skalith"
+    new "Çöl Skalithi"
+
+    # game/data/battle_enemies/neutral.rpy:508
+    old "Water Skalith"
+    new "Su Skalithi"
+
+    # game/data/battle_enemies/neutral.rpy:536
+    old "Forest Skalith"
+    new "Orman Skalithi"
+
+    # game/data/battle_enemies/neutral.rpy:564
+    old "Wolf"
+    new "Kurt"
+
+    # game/data/battle_enemies/neutral.rpy:592
+    old "Great Dire Wolf"
+    new "Büyük Korkunç Kurt"
+
+    # game/data/battle_enemies/neutral.rpy:620
+    old "Stag"
+    new "Geyik"
+
+    # game/data/battle_enemies/neutral.rpy:655
+    old "Merlanian Soldier"
+    new "Merlanian Askeri"
+
+    # game/data/battle_enemies/neutral.rpy:679
+    old "Merlanian General"
+    new "Merlanian Generali"
+
+    # game/data/battle_enemies/neutral.rpy:704
+    old "Shyahtan"
+    new "Şeytan"
+
+    # game/data/battle_enemies/neutral.rpy:734
+    old "Corpse Eater"
+    new "Ceset Yiyici"
+
+    # game/data/battle_enemies/neutral.rpy:758
+    old "Succubus"
+    new "sukkubus"
+
+    # game/data/battle_enemies/neutral.rpy:781
+    old "X-71"
+    new "X-71"
+
+    # game/data/battle_enemies/neutral.rpy:804
+    old "The Face"
+    new "Yüz"
+
+    # game/data/battle_enemies/neutral.rpy:827
+    old "Lizard monster"
+    new "Kertenkele canavarı"
+
+# TODO: Translation updated at 2026-06-17 00:00
+
+translate tr strings:
+
+    # game/data/battle_enemies/neutral.rpy:860
+    old "Zombie"
+    new "Zombi"
+
+    # game/data/battle_enemies/neutral.rpy:914
+    old "Dark specter"
+    new "Kara hayalet"
+
+# TODO: Translation updated at 2026-06-21 15:05
+
+translate tr strings:
+
+    # game/data/battle_enemies/neutral.rpy:945
+    old "Zombie butcher"
+    new "Zombi kasap"
+
+    # game/data/battle_enemies/neutral.rpy:972
+    old "Gator"
+    new "Timsah"
+
+# TODO: Translation updated at 2026-06-29 02:40
+
+translate tr strings:
+
+    # game/data/battle_enemies/neutral.rpy:997
+    old "Nightmare head"
+    new "Kabus Başı"
+
+    # game/data/battle_enemies/neutral.rpy:1023
+    old "Left hand"
+    new "Sol El"
+
+    # game/data/battle_enemies/neutral.rpy:1049
+    old "Right hand"
+    new "Sağ El"
+
+    # game/data/battle_enemies/neutral.rpy:1075
+    old "Floating eye"
+    new "Uçan Göz"
+
+# TODO: Translation updated at 2026-07-13 23:41
+
+translate tr strings:
+
+    # game/data/battle_enemies/neutral.rpy:1100
+    old "Hugo"
+    new "Hugo"
+
+# TODO: Translation updated at 2026-08-18 18:26
+
+translate tr strings:
+
+    # game/data/battle_enemies/neutral.rpy:1127
+    old "Monstrous Experiment"
+    new "Canavarca Deney"
+

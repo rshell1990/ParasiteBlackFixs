@@ -1,0 +1,344 @@
+﻿# TODO: Translation updated at 2026-06-09 21:50
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:6
+translate tr scr_event_Elena_morningAfterBook_8dbcb600:
+
+    # "As my eyes peeled open, I found Elena sat legs crossed on the floor, tail swishing as she read some book."
+    "Gözlerim açılırken, Elena'yı yerde bağdaş kurmuş, kuyruğu sallanırken bir kitap okurken buldum."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:7
+translate tr scr_event_Elena_morningAfterBook_ffbba8cf:
+
+    # MC @ talk "...Hello there."
+    MC @ talk "...Merhaba."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:13
+translate tr scr_event_Elena_morningAfterBook_b6b565ea:
+
+    # ELENA @ talk "Hm? Oh! You're awake!"
+    ELENA @ talk "Hm? Oh! Uyanmışsın!"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:14
+translate tr scr_event_Elena_morningAfterBook_42c92510:
+
+    # ELENA @ talk "I hope I didn't wake you up."
+    ELENA @ talk "Umarım seni uyandırmadım."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:15
+translate tr scr_event_Elena_morningAfterBook_bcb13d87:
+
+    # MC @ talk "No, it's fine."
+    MC @ talk "Hayır, sorun değil."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:16
+translate tr scr_event_Elena_morningAfterBook_26fc3f85:
+
+    # MC @ talk "Enjoying the read?"
+    MC @ talk "Okumanın keyfini çıkarıyor musun?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:17
+translate tr scr_event_Elena_morningAfterBook_380fbcfe:
+
+    # ELENA @ talk "Yes actually, it reminds me of what father used to read to me when I was little."
+    ELENA @ talk "Aslında evet, bana küçükken babamın bana okuduğu şeyleri hatırlatıyor."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:18
+translate tr scr_event_Elena_morningAfterBook_4210173c:
+
+    # MC @ talk "{i}Father?{/i}"
+    MC @ talk "{i}Baban mı?{/i}"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:19
+translate tr scr_event_Elena_morningAfterBook_4f4138f7:
+
+    # ELENA @ talk "I... Lord Vront insisted I call him father."
+    ELENA @ talk "Ben... Lord Vront ona baba demem konusunda ısrar etti."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:20
+translate tr scr_event_Elena_morningAfterBook_ea1dfdf1:
+
+    # ELENA @ talk "He wanted me to know despite being adopted, he still saw me as one of his own flesh and blood."
+    ELENA @ talk "Evlat edinilmeme rağmen, beni hala kendi kanından ve canından biri olarak gördüğünü bilmemi istedi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:21
+translate tr scr_event_Elena_morningAfterBook_5b247ea3:
+
+    # MC @ talk "Really?"
+    MC @ talk "Gerçekten mi?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:22
+translate tr scr_event_Elena_morningAfterBook_a204b682:
+
+    # ELENA @ talk "Yes, he oversaw that I received an education alongside Grace and taught me everything he could."
+    ELENA @ talk "Evet, Grace ile birlikte bir eğitim almamı denetledi ve bana öğretebildiği her şeyi öğretti."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:23
+translate tr scr_event_Elena_morningAfterBook_4dacb865:
+
+    # ELENA @ talk "How to cook, how to manage finances... How to fight."
+    ELENA @ talk "Nasıl yemek pişirilir, nasıl mali yönetilir... Nasıl savaşılır."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:24
+translate tr scr_event_Elena_morningAfterBook_2d2d4576:
+
+    # MC @ talk "He taught you to fight?"
+    MC @ talk "Sana savaşmayı öğretti mi?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:25
+translate tr scr_event_Elena_morningAfterBook_fa268b6f:
+
+    # ELENA @ talk "Not him personally but, he paid for me to learn from private tutors."
+    ELENA @ talk "Şahsen o değil ama, özel öğretmenlerden öğrenmem için para ödedi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:26
+translate tr scr_event_Elena_morningAfterBook_70deb4ed:
+
+    # MC @ talk "Sounds like he really cared for you."
+    MC @ talk "Seni gerçekten önemsediği anlaşılıyor."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:27
+translate tr scr_event_Elena_morningAfterBook_02e153ae:
+
+    # ELENA @ talk "I think so... But he rarely opened up, and there was always the burden of expectation that my role was to serve as protector and companion to Grace."
+    ELENA @ talk "Sanırım öyle... Ama nadiren açıldı ve her zaman rolümün Grace'e koruyucu ve yoldaş olarak hizmet etmek olduğu beklentisinin yükü vardı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:28
+translate tr scr_event_Elena_morningAfterBook_305878ed:
+
+    # MC @ talk "But what of what you wanted?"
+    MC @ talk "Peki ya senin istediklerin?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:29
+translate tr scr_event_Elena_morningAfterBook_14c94d73:
+
+    # ELENA @ talk "I think my own dreams and desires were seen as the things of fancy."
+    ELENA @ talk "Sanırım kendi hayallerim ve arzularım fantezi şeyleri olarak görüldü."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:30
+translate tr scr_event_Elena_morningAfterBook_d6c02f1d:
+
+    # ELENA @ talk "While I think he wished I was happy, my happiness was not a goal nor a concern of his."
+    ELENA @ talk "Mutlu olmamı dilediğini düşünürken, mutluluğum onun için bir hedef ne de bir endişe değildi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:31
+translate tr scr_event_Elena_morningAfterBook_2d3ecf87:
+
+    # MC @ talk "That sounds like a complicated relationship."
+    MC @ talk "Karmaşık bir ilişki gibi geliyor kulağa."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:32
+translate tr scr_event_Elena_morningAfterBook_5d6d80f1:
+
+    # ELENA @ talk "It was..."
+    ELENA @ talk "Öyleydi..."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:33
+translate tr scr_event_Elena_morningAfterBook_0d661ab0:
+
+    # MC @ talk "And what of the now Lady Thornfall? How was things with her?"
+    MC @ talk "Peki ya şimdiki Leydi Thornfall? Onunla işler nasıldı?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:34
+translate tr scr_event_Elena_morningAfterBook_29852055:
+
+    # ELENA @ talk "I believe sisterly... To an extent."
+    ELENA @ talk "Kardeşçe diye düşünüyorum... Bir dereceye kadar."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:35
+translate tr scr_event_Elena_morningAfterBook_481f2687:
+
+    # MC @ talk "{i}To an extent?{/i}"
+    MC @ talk "{i}Bir dereceye kadar?{/i}"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:36
+translate tr scr_event_Elena_morningAfterBook_a7c7e34f:
+
+    # ELENA @ talk "I mean, she would constantly have me tag along with her."
+    ELENA @ talk "Yani, sürekli onunla birlikte takılmamı sağlardı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:37
+translate tr scr_event_Elena_morningAfterBook_a9895b98:
+
+    # ELENA @ talk "But somehow, she always seemed to find and encourage trouble."
+    ELENA @ talk "Ama bir şekilde, her zaman bela bulup teşvik ediyor gibiydi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:38
+translate tr scr_event_Elena_morningAfterBook_b323444e:
+
+    # MC @ talk "What do you mean?"
+    MC @ talk "Ne demek istiyorsun?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:39
+translate tr scr_event_Elena_morningAfterBook_2190c424:
+
+    # ELENA @ talk "I was always there to protect her and get her out of whatever mess she landed herself into."
+    ELENA @ talk "Her zaman onu korumak ve kendini bulaştırdığı her beladan kurtarmak için oradaydım."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:40
+translate tr scr_event_Elena_morningAfterBook_5eb1441e:
+
+    # ELENA @ talk "But she would do... Strange things."
+    ELENA @ talk "Ama o... Garip şeyler yapardı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:41
+translate tr scr_event_Elena_morningAfterBook_0c073176:
+
+    # ELENA @ talk "Flirt with bachelors and then make the men fight over her when really she had no interest in either."
+    ELENA @ talk "Bekarlarla flört eder ve sonra aslında ikisine de ilgisi olmadığı halde erkekleri onun için savaştırırdı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:42
+translate tr scr_event_Elena_morningAfterBook_c2ba5cdb:
+
+    # ELENA @ talk "Lie all the time and expect me to take the blame for whatever petty crime she did."
+    ELENA @ talk "Her zaman yalan söyler ve yaptığı herhangi bir küçük suçun suçunu benim üstlenmemi beklerdi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:43
+translate tr scr_event_Elena_morningAfterBook_c05ba311:
+
+    # ELENA @ talk "And just generally seemed to enjoy causing chaos."
+    ELENA @ talk "Ve genel olarak kaosa neden olmaktan keyif alıyor gibiydi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:44
+translate tr scr_event_Elena_morningAfterBook_36398f57:
+
+    # MC @ talk "Sounds like a spoilt brat."
+    MC @ talk "Şımarık bir velet gibi geliyor kulağa."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:45
+translate tr scr_event_Elena_morningAfterBook_eced757e:
+
+    # ELENA @ talk "She could be... But then when I needed her, she was there."
+    ELENA @ talk "Olabilirdi... Ama sonra ona ihtiyacım olduğunda, oradaydı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:46
+translate tr scr_event_Elena_morningAfterBook_c8e3f7c1:
+
+    # ELENA @ talk "She was far more concerned than father with my actual happiness, and always wanted me to pursue whatever made me happy."
+    ELENA @ talk "Gerçek mutluluğumla babamdan çok daha fazla ilgileniyordu ve her zaman beni mutlu edecek şeyi takip etmemi istedi."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:47
+translate tr scr_event_Elena_morningAfterBook_16e68e72:
+
+    # MC @ talk "Hm, did the good parts to her outweigh the bad?"
+    MC @ talk "Hm, ondaki iyi kısımlar kötülerden ağır basıyor muydu?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:48
+translate tr scr_event_Elena_morningAfterBook_4bd076ae:
+
+    # ELENA @ talk "I've been asking myself that question my whole life..."
+    ELENA @ talk "Tüm hayatım boyunca kendime bu soruyu sordum..."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:49
+translate tr scr_event_Elena_morningAfterBook_28bdcec6:
+
+    # "Elena seemed to daze off for a moment before closing her book shut."
+    "Elena bir an dalıp gitti, sonra kitabını kapattı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:50
+translate tr scr_event_Elena_morningAfterBook_924e3dc7:
+
+    # ELENA @ talk "Anyway, If you want to stay in bed, don't let me stop you."
+    ELENA @ talk "Neyse, eğer yatakta kalmak istiyorsan, seni durdurmayayım."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:51
+translate tr scr_event_Elena_morningAfterBook_e54f69fe:
+
+    # MC @ talk "{i}*Groans*{/i}"
+    MC @ talk "{i}*Homurdanma*{/i}"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:52
+translate tr scr_event_Elena_morningAfterBook_96845d23:
+
+    # MC @ talk "I'm up now, may as well see what's about."
+    MC @ talk "Artık ayaktayım, ne var ne yok bakayım bari."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:58
+translate tr scr_event_Elena_morningAfterBook_e133a80b:
+
+    # "As I rose from my feet and yawned, I quickly forgot I was still naked and Elena blushed as her wide eyes stared at the dangling appendage between my legs."
+    "Ayaklarımdan kalkıp esnerken, hala çıplak olduğumu çabucak unuttum ve Elena kocaman gözleri bacaklarımın arasındaki sarkan uzantıya bakarken kızardı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:59
+translate tr scr_event_Elena_morningAfterBook_1d98e220:
+
+    # ELENA @ talk "Y-You're...!"
+    ELENA @ talk "S-Sen...!"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:60
+translate tr scr_event_Elena_morningAfterBook_bf1a78a6:
+
+    # MC @ talk "Hm?"
+    MC @ talk "Hım?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:61
+translate tr scr_event_Elena_morningAfterBook_8ff7de53:
+
+    # MC @ surprised "Oh! Sorry, sometimes I forget."
+    MC @ surprised "Oh! Üzgünüm, bazen unutuyorum."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:62
+translate tr scr_event_Elena_morningAfterBook_c2ea560f:
+
+    # ELENA @ talk "Um, i-it's fine!"
+    ELENA @ talk "Um, s-sorun değil!"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:63
+translate tr scr_event_Elena_morningAfterBook_2cc0db42:
+
+    # "As Elena's cheeks burned red, I smirked remembering some words she previously teased me about."
+    "Elena'nın yanakları kıpkırmızı yanarken, daha önce beni kızdırdığı bazı sözleri hatırlayarak sırıttım."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:64
+translate tr scr_event_Elena_morningAfterBook_ba738462:
+
+    # MC @ talk "I thought you didn't care about how us humans dress ourselves?"
+    MC @ talk "Biz insanların nasıl giyindiğini umursamadığını sanıyordum?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:65
+translate tr scr_event_Elena_morningAfterBook_2f981c88:
+
+    # ELENA @ talk "Y-Yes, but your thing is... Um..."
+    ELENA @ talk "E-Evet, ama senin şeyin... Um..."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:66
+translate tr scr_event_Elena_morningAfterBook_031af7b3:
+
+    # ELENA @ talk "{i}Distracting.{/i}"
+    ELENA @ talk "{i}Dikkat dağıtıcı.{/i}"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:72
+translate tr scr_event_Elena_morningAfterBook_66a163ff:
+
+    # MC @ smile "Distracting huh?"
+    MC @ smile "Dikkat dağıtıcı ha?"
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:75
+translate tr scr_event_Elena_morningAfterBook_1894910e:
+
+    # "I reached down to grab some of my clothes, dressing myself as Elena turned to look away still red-faced, her eyes occasionally glancing over in my direction subtly."
+    "Aşağı uzanıp birkaç kıyafetimi aldım, Elena hala kıpkırmızı bir şekilde başka yere bakmak için dönerken giyindim, gözleri ara sıra gizlice benim yönüme doğru kaydı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:80
+translate tr scr_event_Elena_morningAfterBook_19615cbe:
+
+    # MC @ talk "Alright, all done."
+    MC @ talk "Tamam, hepsi bitti."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:81
+translate tr scr_event_Elena_morningAfterBook_66749978:
+
+    # MC @ talk "You can look now."
+    MC @ talk "Artık bakabilirsin."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:87
+translate tr scr_event_Elena_morningAfterBook_01ea2c31:
+
+    # "Elena slowly turned her head to look towards me once again, still flustered by the experience."
+    "Elena yavaşça başını bir kez daha bana doğru çevirdi, deneyimden hala telaşlı."
+
+# game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:88
+translate tr scr_event_Elena_morningAfterBook_5230a294:
+
+    # ELENA @ talk "C-Come on now, adventures await."
+    ELENA @ talk "H-Hadi şimdi, maceralar bekliyor."
+
