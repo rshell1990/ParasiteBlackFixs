@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/engine/battle/MainLoop.rpy", line 10: invalid syntax
-    default BattleData = None
-                ^^^^^^^^^^
+File "game/data/battle_skills_actions/SkillsNecromancer/Off/Summon.rpy", line 9: invalid syntax
+    ValidTargets = .ANY_EmptyParty
+                       ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Sat Sep  5 21:14:21 2026
+Sun Sep  6 03:58:43 2026

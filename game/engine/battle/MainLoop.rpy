@@ -1,6 +1,6 @@
 default DEBUG_EndlessBattle = False
-default BattleChar_SpriteZorder = {0: {0: (100, 200), 1: (110, 210), 2: (120, 220), 3: (130, 230)}, 1: {0: (100, 200), 1: (110, 210), 2: (120, 220), 3: (130, 230)}}
-default BattleChar_ScreenPositions = {0: {0: (480, 540), 1: (720, 540), 2: (960, 540), 3: (1200, 540)}, 1: {0: (1440, 540), 1: (1200, 540), 2: (960, 540), 3: (720, 540)}}
+define BattleChar_SpriteZorder = {0: {0: (5, 6), 1: (1, 2), 2: (7, 8), 3: (3, 4)}, 1: {0: (5, 6), 1: (1, 2), 2: (7, 8), 3: (3, 4)}}
+define BattleChar_ScreenPositions = {0: {0: (720, 730), 1: (560, 440), 2: (340, 740), 3: (230, 455)}, 1: {0: (1200, 730), 1: (1360, 440), 2: (1580, 740), 3: (1690, 455)}}
 default BattleChar_ScreenPositions_Offset = {0: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}, 1: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}}
 default BattleChar_ScreenPositions_Offset_Anim = {0: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}, 1: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}}
 default BattleChar_ScreenPositions_Offset_Anim_Active = {0: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}, 1: {0: (0, 0), 1: (0, 0), 2: (0, 0), 3: (0, 0)}}
@@ -391,8 +391,8 @@ init python:
 
             # set sprite zorders
             for Char in CharList:
-                Char.SpriteZorder = BattleChar_SpriteZorder[Char.PositionSlotIndex][0]
-                Char.HudZorder = BattleChar_SpriteZorder[Char.PositionSlotIndex][1]
+                Char.SpriteZorder = BattleChar_SpriteZorder[Char.BattleSide][Char.PositionSlotIndex][0]
+                Char.HudZorder = BattleChar_SpriteZorder[Char.BattleSide][Char.PositionSlotIndex][1]
 
             # set audio channels
             for Char in CharList:
