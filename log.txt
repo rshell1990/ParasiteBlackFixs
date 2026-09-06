@@ -1,35 +1,37 @@
-2026-09-06 18:31:53 UTC
+2026-09-06 23:12:26 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 437 ms
-Loading error handling took 2335 ms
+Early init took 2085 ms
+Loading error handling took 2179 ms
 10846 script files skipped.
-Loading script took 1950 ms
-Loading save slot metadata took 52 ms
-Loading persistent took 1 ms
+Loading script took 20982 ms
+Loading save slot metadata took 237 ms
+Loading persistent took 0 ms
 Initialized steam.
-Running init code took 509 ms
-Loading analysis data took 17 ms
-Analyze and compile ATL took 31 ms
-Reloading save slot metadata took 9 ms
-Dump and make backups took 122 ms
+ - Init at renpy/common/00steam.rpy:879 took 402 ms.
+ - Init at game/engine/gui_aio.rpy:1 took 382 ms.
+Running init code took 1260 ms
+Loading analysis data took 10 ms
+Analyze and compile ATL took 39 ms
+Reloading save slot metadata took 93 ms
+Dump and make backups took 99 ms
 Cleaning cache took 0 ms
 Making clean stores took 0 ms
-Initial gc took 136 ms
+Initial gc took 95 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 5 ms
-Init translation took 11 ms
+Creating interface object took 4 ms
+Init translation took 8 ms
 Cleaning stores took 0 ms
-Load screen analysis took 70 ms
-Analyze screens took 5 ms
+Load screen analysis took 95 ms
+Analyze screens took 0 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
-Save bytecode took 0 ms
-Running _start took 2 ms
-Interface start took 1049 ms
+Save bytecode took 145 ms
+Running _start took 1 ms
+Interface start took 720 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -43,6 +45,3 @@ Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
 INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed

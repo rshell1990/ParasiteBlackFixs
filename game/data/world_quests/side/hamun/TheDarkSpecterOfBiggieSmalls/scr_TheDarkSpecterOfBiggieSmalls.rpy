@@ -84,8 +84,7 @@ label qst_TheDarkSpecterOfBiggieSmalls_garen1:
         "No.":
             GAREN @angry "UNACCEPTABLE! THE DEVELOPER WILL NOT ALLOW IT!"
             GAREN @talk "Return when you have found sense!"
-            $ QstTheDarkSpecterOfBiggieSmalls().TakenQuest = 2  # Player declined the quest
-            # IMPLEMENT: exit/re-enter dialogue without advancing.
+            $ QstTheDarkSpecterOfBiggieSmalls().TakenQuest = 2
             $ LocEnter()
 
 label qst_TheDarkSpecterOfBiggieSmalls_garenreturn:
@@ -116,7 +115,6 @@ label qst_TheDarkSpecterOfBiggieSmalls_lenin:
     LENIN "AND WHY AM I HERE?!"
     LENIN "Oh bother... Just die already!"
     hide mc with dissolve
-    # Battle against Lenin's ghost + support thugs using real enemy templates.
     $ StartBattle(BattleData(BackgroundImage = "pbat_hamun_street", CharIDList_Right = ["lenin", "lenins_thug1", "lenins_thug2"]))
     if LastBattleOutcome != "victory":
         return
@@ -135,10 +133,10 @@ label qst_TheDarkSpecterOfBiggieSmalls_sweetie2:
     show sweetie at right_f
     SWEETIE "May I help you champion?"
     menu Qst_TheDarkSpecterOfBiggieSmalls_Sweetie_menu2:
-        "I do not have it.": # Only available if the player does NOT have the Feline.
+        "I do not have it.":
             SWEETIE "Return when you do!"
             $ QstTheDarkSpecterOfBiggieSmalls().SweetieDelivered = False
-            $ LocSet("hamun_brothel")
+            $ LocSet("hamun_dist_docks")
             $ LocEnter()
 label qst_TheDarkSpecterOfBiggieSmalls_sweetie1:
     show mc at cleft
@@ -146,13 +144,10 @@ label qst_TheDarkSpecterOfBiggieSmalls_sweetie1:
     SWEETIE "May I help you champion?"
     menu Qst_TheDarkSpecterOfBiggieSmalls_Sweetie_menu1:
         "Here, take this.": # Only available if the player has the Feline quest item.
-            if not PlayerHasItem("qst_feline"):
-                SWEETIE "Return when you do!"
             $ PlayerRemItem("qst_feline")
             $ QstTheDarkSpecterOfBiggieSmalls().SweetieDelivered = True
             $ LocSet("hamun_brothel")
             $ LocEnter()
-            # Remove the Feline from inventory here.
             SWEETIE "I thank you brave knight, wanna see my tits?"
             menu Qst_TheDarkSpecterOfBiggieSmalls_menu4:
                 "Yes.":
