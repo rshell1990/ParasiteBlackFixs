@@ -43,6 +43,7 @@ label dev_battle_setup:
         $ PlayerAddItem("potion_heal_minor", 4)
     if not PlayerItemQty("potion_heal_regular") >= 1:
         $ PlayerAddItem("potion_heal_regular", 4)
+    $ BattleSetup_ParseBattleMaps()
     call screen battle_setup()
     if _return is not True:
         # this statement is here only to ensure that a hot-reload won't undo your chars/gear setup

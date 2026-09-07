@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 4: expected '=' not found.
-    define TargetBattleScene() = None
+File "game/devtools/battle_setup.rpy", line 204: add expects a non-empty block.
+    add selected_battle_map:
                             ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Sun Sep  6 12:32:15 2026
+Mon Sep  7 13:08:47 2026

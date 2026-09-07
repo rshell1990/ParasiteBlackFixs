@@ -8,24 +8,19 @@ default persistent.battle_setup_last_chosen_left_char_IDs  = dict()
 default persistent.battle_setup_last_chosen_right_char_IDs = dict() # IDs AND TARGET LEVELS
 ###
 init python:
-    
     def BattleSetup_ParseBattleMaps():
         results = []
         for entry in renpy.list_images():
             if "pbat_" in entry:
                 results.append(entry)
-        battle_setup_battle_maps = results
-    if config.developer:
-        BattleSetup_ParseBattleMaps()
+        store.battle_setup_battle_maps = results
 
-    def BattleSetup_GUI_GetIDsAndLevelsList(chars):
-        Result = []
-        for CharData in chars:
-            if CharData["lvl"] == -1:
-                Result.append(CharData["CharID"])
-            else:
-                Result.append({CharData["CharID"]:CharData["lvl"]})
-        return Result
+    def BattleSetup_GetBattleMaps():
+        results = []
+        for entry in renpy.list_images():
+            if "pbat_" in entry:
+                results.append(entry)
+        return results
 
     def BattleSetup_GetAllCharsWithSkin():
         results = {}
@@ -88,11 +83,13 @@ screen battle_setup():
     predict False
     modal True
 
-    on "show" action [
-        SetVariable("battle_setup_chars_left_side",  BattleSetup_GUI_FromIDAndLevelList(persistent.battle_setup_last_chosen_left_char_IDs)), 
-        SetVariable("battle_setup_chars_right_side", BattleSetup_GUI_FromIDAndLevelList(persistent.battle_setup_last_chosen_right_char_IDs))]
+    default battle_setup_battle_maps = BattleSetup_GetBattleMaps()
+    default selected_battle_map = renpy.random.choice(battle_setup_battle_maps) if battle_setup_battle_maps else ""
 
-    default selected_battle_map = renpy.random.choice(battle_setup_battle_maps)
+    on "show" action [
+        SetVariable("battle_setup_chars_left_side", BattleSetup_GUI_FromIDAndLevelList(persistent.battle_setup_last_chosen_left_char_IDs)), 
+        SetVariable("battle_setup_chars_right_side", BattleSetup_GUI_FromIDAndLevelList(persistent.battle_setup_last_chosen_right_char_IDs))]
+    
     default override_night_tint = True      # so that we can test night maps w/o extra clicks
     default adding_to_left = True           # swaps side we're adding to
 
@@ -203,11 +200,12 @@ screen battle_setup():
                             xalign 0.5
                             xsize 250
                             ysize 120
-                            add selected_battle_map:
-                                xalign 0.5
-                                ysize 100
-                                fit "contain"
-                            text selected_battle_map:
+                            if selected_battle_map:
+                                add selected_battle_map:
+                                    xalign 0.5
+                                    ysize 100
+                                    fit "contain"
+                            text str(selected_battle_map or ""):
                                 align (0.1, 0.9)
                                 color "#fff12c"
                                 size 20
@@ -237,7 +235,7 @@ screen battle_setup():
         hbox:
             align (0.5, 0.99)
             spacing 30
-            textbutton _("Return") action Return(None)
+            textbutton _("Return") action Return(True)
             textbutton _("Start"):
                 if len(battle_setup_chars_left_side) > 0 and len(battle_setup_chars_right_side) > 0:
                     action [Function(BattleSetup_GUI_StoreCharIDs, BattleSetup_GUI_GetIDsAndLevelsList(battle_setup_chars_left_side), BattleSetup_GUI_GetIDsAndLevelsList(battle_setup_chars_right_side)), 

@@ -1,74 +1,116 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/engine/locations/coreLoop.rpy", line 52, in script call
-    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
-  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
-    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
-  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
-    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
-    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
-    Battle_SetBattleCharSkillPool(self, "Normal")
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-                         ~~~~~~~~^^^^^^^^^                                                                                                                          
-KeyError: 'SummonerSummon'
+  File "game/devtools/devroom.rpy", line 16, in script call
+    call processDialogue("dev_root") from _call_processDialogue_46
+  File "game/engine/dialogue/labels.rpy", line 15, in script call
+    $ renpy.call(currentDNode.label)
+  File "game/devtools/devroom.rpy", line 47, in script
+    call screen battle_setup()
+  File "game/devtools/battle_setup.rpy", line 84, in execute
+    screen battle_setup():
+  File "game/devtools/battle_setup.rpy", line 84, in execute
+    screen battle_setup():
+  File "game/devtools/battle_setup.rpy", line 96, in execute
+    frame:
+  File "game/devtools/battle_setup.rpy", line 99, in execute
+    vbox:
+  File "game/devtools/battle_setup.rpy", line 157, in execute
+    hbox:
+  File "game/devtools/battle_setup.rpy", line 195, in execute
+    frame:
+  File "game/devtools/battle_setup.rpy", line 197, in execute
+    vbox:
+  File "game/devtools/battle_setup.rpy", line 199, in execute
+    frame:
+  File "game/devtools/battle_setup.rpy", line 207, in execute
+    text selected_battle_map:
+Exception: Cannot display None as text.
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
-  File "game/engine/locations/coreLoop.rpy", line 52, in script call
-    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
-  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
-    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
-  File "renpy/ast.py", line 1193, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1276, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
-    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
-    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
-    Battle_SetBattleCharSkillPool(self, "Normal")
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-                         ~~~~~~~~^^^^^^^^^                                                                                                                          
-KeyError: 'SummonerSummon'
+  File "game/devtools/devroom.rpy", line 16, in script call
+    call processDialogue("dev_root") from _call_processDialogue_46
+  File "game/engine/dialogue/labels.rpy", line 15, in script call
+    $ renpy.call(currentDNode.label)
+  File "game/devtools/devroom.rpy", line 47, in script
+    call screen battle_setup()
+  File "renpy/ast.py", line 2251, in execute
+    self.call("execute")
+    ~~~~~~~~~^^^^^^^^^^^
+  File "renpy/ast.py", line 2205, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/statements.py", line 381, in call
+    return method(parsed, *args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/000statements.rpy", line 698, in execute_call_screen
+    store._return = renpy.call_screen(name, *args, **kwargs)
+                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/exports/statementexports.py", line 341, in call_screen
+    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
+         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/ui.py", line 306, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/core.py", line 2163, in interact
+    repeat, rv = self.interact_core(
+                 ~~~~~~~~~~~~~~~~~~^
+        preloads=preloads,
+        ^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "renpy/display/core.py", line 2709, in interact_core
+    root_widget.visit_all(lambda d: d.per_interact())
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/displayable.py", line 460, in visit_all
+    d.visit_all(callback, seen)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "renpy/display/displayable.py", line 460, in visit_all
+    d.visit_all(callback, seen)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "renpy/display/displayable.py", line 460, in visit_all
+    d.visit_all(callback, seen)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "renpy/display/screen.py", line 503, in visit_all
+    callback(self)
+    ~~~~~~~~^^^^^^
+  File "renpy/display/core.py", line 2709, in <lambda>
+    root_widget.visit_all(lambda d: d.per_interact())
+                                    ~~~~~~~~~~~~~~^^ 
+  File "renpy/display/screen.py", line 514, in per_interact
+    self.update()
+    ~~~~~~~~~~~^^
+  File "renpy/display/screen.py", line 715, in update
+    self.screen.function(**self.scope)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "game/devtools/battle_setup.rpy", line 84, in execute
+    screen battle_setup():
+  File "game/devtools/battle_setup.rpy", line 84, in execute
+    screen battle_setup():
+  File "game/devtools/battle_setup.rpy", line 96, in execute
+    frame:
+  File "game/devtools/battle_setup.rpy", line 99, in execute
+    vbox:
+  File "game/devtools/battle_setup.rpy", line 157, in execute
+    hbox:
+  File "game/devtools/battle_setup.rpy", line 195, in execute
+    frame:
+  File "game/devtools/battle_setup.rpy", line 197, in execute
+    vbox:
+  File "game/devtools/battle_setup.rpy", line 199, in execute
+    frame:
+  File "game/devtools/battle_setup.rpy", line 207, in execute
+    text selected_battle_map:
+  File "renpy/text/text.py", line 2207, in __init__
+    raise Exception("Cannot display {0!r} as text.".format(i))
+Exception: Cannot display None as text.
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Mon Sep  7 11:27:28 2026
+Mon Sep  7 13:01:15 2026
