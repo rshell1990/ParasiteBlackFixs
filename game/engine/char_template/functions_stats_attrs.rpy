@@ -360,7 +360,16 @@ init -2 python:
         30:["Strength", "Luck"],
         20:["Willpower", "Endurance"]
     }
-
+    attr_allocation_weights["summoner"] = {
+        50:["Agility", "Dexterity"],
+        30:["Strength", "Luck"],
+        20:["Willpower", "Endurance"]
+    }
+    attr_allocation_weights["necromancer"] = {
+        50:["Agility", "Dexterity"],
+        30:["Strength", "Luck"],
+        20:["Willpower", "Endurance"]
+    }
     ### descriptions last updated 23/09/2023
     # "Strength":     5, # +5 melee damage per point
     # "Endurance":    5, # +5 hp per point OVER 5, its value also equals phys damage resistance (armor)

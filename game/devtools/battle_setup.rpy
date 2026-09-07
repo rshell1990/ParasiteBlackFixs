@@ -78,6 +78,12 @@ init python:
                 if CharData in CharDefs:
                     BattleSetup_GUI_SelectChar(Result, CharData)
         return Result
+    def BattleSetup_GUI_GetIDsAndLevelsList(CharList):
+        Result = []
+        for char_dict in CharList:
+            # Serializes back into [{charID: lvl}] format expected by persistent storage and battle setup
+            Result.append({char_dict["CharID"]: char_dict["lvl"]})
+        return Result
 
 screen battle_setup():
     predict False

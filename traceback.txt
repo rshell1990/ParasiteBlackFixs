@@ -5,27 +5,57 @@ While running game code:
     call processDialogue("dev_root") from _call_processDialogue_46
   File "game/engine/dialogue/labels.rpy", line 15, in script call
     $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 47, in script
-    call screen battle_setup()
-  File "game/devtools/battle_setup.rpy", line 84, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 84, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 96, in execute
+  File "game/devtools/devroom.rpy", line 58, in script call
+    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
+  File "game/engine/battle/MainLoop.rpy", line 509, in script
+    call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
+    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
+    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 659, in execute
     frame:
-  File "game/devtools/battle_setup.rpy", line 99, in execute
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 662, in execute
     vbox:
-  File "game/devtools/battle_setup.rpy", line 157, in execute
-    hbox:
-  File "game/devtools/battle_setup.rpy", line 195, in execute
-    frame:
-  File "game/devtools/battle_setup.rpy", line 197, in execute
-    vbox:
-  File "game/devtools/battle_setup.rpy", line 199, in execute
-    frame:
-  File "game/devtools/battle_setup.rpy", line 207, in execute
-    text selected_battle_map:
-Exception: Cannot display None as text.
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 663, in execute
+    vpgrid:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 666, in execute
+    for SkillIndex, SkillInstance in enumerate(BattleChar.Skills):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 667, in execute
+    if SkillIndex < 9:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 668, in execute
+    use Battle_SkillIcon(SkillInstance, HotKey = f"K_{SkillIndex + 1}", HotKeyText = str(SkillIndex + 1), FromSkillMenu = True, WaitForPlayerInput= WaitForPlayerInput)
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
+    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
+    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 112, in execute
+    fixed:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in execute
+    imagebutton:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in keywords
+    imagebutton:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
+    if WaitForPlayerInput:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
+    if WaitForPlayerInput:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
+    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
+    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 122, in keywords
+    if (SkillInstance.OncePerTurn and SkillInstance.UsedThisTurn):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 127, in keywords
+    else:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in keywords
+    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in <module>
+    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
+                                                    ~~~~~~~~~~~~~~~~~~~~~~~~^^ 
+  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
+    if not super(BattleSkill_SummonerSummon, self).CanExecute():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^                     
+NameError: name 'BattleSkill_SummonerSummon' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
@@ -34,8 +64,10 @@ Traceback (most recent call last):
     call processDialogue("dev_root") from _call_processDialogue_46
   File "game/engine/dialogue/labels.rpy", line 15, in script call
     $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 47, in script
-    call screen battle_setup()
+  File "game/devtools/devroom.rpy", line 58, in script call
+    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
+  File "game/engine/battle/MainLoop.rpy", line 509, in script
+    call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
   File "renpy/ast.py", line 2251, in execute
     self.call("execute")
     ~~~~~~~~~^^^^^^^^^^^
@@ -88,29 +120,61 @@ Traceback (most recent call last):
   File "renpy/display/screen.py", line 715, in update
     self.screen.function(**self.scope)
     ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "game/devtools/battle_setup.rpy", line 84, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 84, in execute
-    screen battle_setup():
-  File "game/devtools/battle_setup.rpy", line 96, in execute
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
+    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
+    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 659, in execute
     frame:
-  File "game/devtools/battle_setup.rpy", line 99, in execute
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 662, in execute
     vbox:
-  File "game/devtools/battle_setup.rpy", line 157, in execute
-    hbox:
-  File "game/devtools/battle_setup.rpy", line 195, in execute
-    frame:
-  File "game/devtools/battle_setup.rpy", line 197, in execute
-    vbox:
-  File "game/devtools/battle_setup.rpy", line 199, in execute
-    frame:
-  File "game/devtools/battle_setup.rpy", line 207, in execute
-    text selected_battle_map:
-  File "renpy/text/text.py", line 2207, in __init__
-    raise Exception("Cannot display {0!r} as text.".format(i))
-Exception: Cannot display None as text.
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 663, in execute
+    vpgrid:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 666, in execute
+    for SkillIndex, SkillInstance in enumerate(BattleChar.Skills):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 667, in execute
+    if SkillIndex < 9:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 668, in execute
+    use Battle_SkillIcon(SkillInstance, HotKey = f"K_{SkillIndex + 1}", HotKeyText = str(SkillIndex + 1), FromSkillMenu = True, WaitForPlayerInput= WaitForPlayerInput)
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
+    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
+    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 112, in execute
+    fixed:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in execute
+    imagebutton:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in keywords
+    imagebutton:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
+    if WaitForPlayerInput:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
+    if WaitForPlayerInput:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
+    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
+    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 122, in keywords
+    if (SkillInstance.OncePerTurn and SkillInstance.UsedThisTurn):
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 127, in keywords
+    else:
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in keywords
+    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
+  File "renpy/python.py", line 1308, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1301, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in <module>
+    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
+                                                    ~~~~~~~~~~~~~~~~~~~~~~~~^^ 
+  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
+    if not super(BattleSkill_SummonerSummon, self).CanExecute():
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^                     
+NameError: name 'BattleSkill_SummonerSummon' is not defined
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Mon Sep  7 13:01:15 2026
+Mon Sep  7 13:55:00 2026

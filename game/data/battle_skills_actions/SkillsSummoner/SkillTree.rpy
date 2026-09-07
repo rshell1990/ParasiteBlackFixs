@@ -1,5 +1,5 @@
 init python:
-    Lib_BattleSkillTrees["Summoner"] = {
+    Lib_BattleSkillTrees["summoner"] = {
         "name":             _("Summoner"),
         "skills_string":    _("Summoner skills"),
         "offence":{
