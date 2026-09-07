@@ -1,35 +1,36 @@
-2026-09-07 04:11:58 UTC
+2026-09-07 16:13:02 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 447 ms
-Loading error handling took 2302 ms
+Early init took 455 ms
+Loading error handling took 2301 ms
 10846 script files skipped.
-Loading script took 1811 ms
-Loading save slot metadata took 52 ms
-Loading persistent took 0 ms
+Loading script took 1908 ms
+Loading save slot metadata took 54 ms
+Loading persistent took 1 ms
 Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 445 ms
-Loading analysis data took 16 ms
+Running init code took 487 ms
+Loading analysis data took 18 ms
 Analyze and compile ATL took 28 ms
-Reloading save slot metadata took 10 ms
-Dump and make backups took 0 ms
+Reloading save slot metadata took 9 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlackFixs':
+Dump and make backups took 35 ms
 Cleaning cache took 0 ms
 Making clean stores took 1 ms
-Initial gc took 101 ms
+Initial gc took 97 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 2 ms
 Init translation took 8 ms
 Cleaning stores took 0 ms
-Load screen analysis took 45 ms
-Analyze screens took 0 ms
-Save screen analysis took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 27 ms
+Save screen analysis took 36 ms
 Save pyanalysis took 0 ms
-Save bytecode took 0 ms
-Running _start took 0 ms
-Interface start took 711 ms
+Save bytecode took 130 ms
+Running _start took 2 ms
+Interface start took 692 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -39,10 +40,303 @@ Vendor: 'ATI Technologies Inc.'
 Renderer: 'Radeon RX550/550 Series'
 Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
 Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/engine/locations/coreLoop.rpy", line 52, in script call
+    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
+    store.BattleScene = BattleSceneClass(BattleDataObj)
+                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
+    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
+    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
+    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
+    Battle_SetBattleCharSkillPool(self, "Normal")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+                         ~~~~~~~~^^^^^^^^^                                                                                                                          
+KeyError: 'SummonerSummon'
+
+While running game code:
+  File "game/engine/locations/coreLoop.rpy", line 52, in script call
+    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
+    store.BattleScene = BattleSceneClass(BattleDataObj)
+                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
+    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
+    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
+    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
+    Battle_SetBattleCharSkillPool(self, "Normal")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+                         ~~~~~~~~^^^^^^^^^                                                                                                                          
+KeyError: 'SummonerSummon'
+Resetting cache.
+Early init took 482 ms
+Loading error handling took 2434 ms
+10846 script files skipped.
+Loading script took 1646 ms
+Loading save slot metadata took 41 ms
+Loading persistent took 0 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 286 ms
+Loading analysis data took 16 ms
+Analyze and compile ATL took 32 ms
+Reloading save slot metadata took 8 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlackFixs':
+Dump and make backups took 34 ms
+Cleaning cache took 1 ms
+Making clean stores took 1 ms
+Initial gc took 134 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0 ms
+Init translation took 10 ms
 Cleaning stores took 0 ms
-Load screen analysis took 47 ms
-Analyze screens took 0 ms
+Load screen analysis took 1 ms
+Analyze screens took 26 ms
+Save screen analysis took 52 ms
+Save pyanalysis took 0 ms
+Save bytecode took 1 ms
+Running _start took 1 ms
+Interface start took 678 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/engine/locations/coreLoop.rpy", line 52, in script call
+    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
+    store.BattleScene = BattleSceneClass(BattleDataObj)
+                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
+    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
+    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
+    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
+    Battle_SetBattleCharSkillPool(self, "Normal")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+                         ~~~~~~~~^^^^^^^^^                                                                                                                          
+KeyError: 'SummonerSummon'
+
+While running game code:
+  File "game/engine/locations/coreLoop.rpy", line 52, in script call
+    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
+    store.BattleScene = BattleSceneClass(BattleDataObj)
+                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
+    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
+    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
+    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
+    Battle_SetBattleCharSkillPool(self, "Normal")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+                         ~~~~~~~~^^^^^^^^^                                                                                                                          
+KeyError: 'SummonerSummon'
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 398 ms
+Loading error handling took 2358 ms
+10846 script files skipped.
+Loading script took 1620 ms
+Loading save slot metadata took 42 ms
+Loading persistent took 0 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 298 ms
+Loading analysis data took 13 ms
+Analyze and compile ATL took 31 ms
+Reloading save slot metadata took 8 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlackFixs':
+Dump and make backups took 32 ms
+Cleaning cache took 0 ms
+Making clean stores took 1 ms
+Initial gc took 163 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 1 ms
+Init translation took 11 ms
+Cleaning stores took 0 ms
+Load screen analysis took 0 ms
+Analyze screens took 27 ms
+Save screen analysis took 37 ms
+Save pyanalysis took 0 ms
+Save bytecode took 0 ms
 Running _start took 2 ms
+Interface start took 872 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "game/engine/locations/coreLoop.rpy", line 52, in script call
+    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
+    store.BattleScene = BattleSceneClass(BattleDataObj)
+                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
+    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
+    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
+    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
+    Battle_SetBattleCharSkillPool(self, "Normal")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+                         ~~~~~~~~^^^^^^^^^                                                                                                                          
+KeyError: 'SummonerSummon'
+
+While running game code:
+  File "game/engine/locations/coreLoop.rpy", line 52, in script call
+    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in script
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+  File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 322, in <module>
+    $ StartBattle(BattleData(BackgroundImage = "pbat_fort_sebastian", CharIDList_Right = ["markus"], CanAutoBattle = False, CanTransform = False, ContinueOnDefeat = True))
+      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
+    store.BattleScene = BattleSceneClass(BattleDataObj)
+                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
+    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
+                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
+    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
+                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
+    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
+    Battle_SetBattleCharSkillPool(self, "Normal")
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
+    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+                         ~~~~~~~~^^^^^^^^^                                                                                                                          
+KeyError: 'SummonerSummon'
+Screen sizes: virtual=(1920, 1080) physical=(1600, 877) drawable=(1600, 877)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Resize event: <Event(65533-VIDEORESIZE h=829, size=(1600, 829), w=1600)>

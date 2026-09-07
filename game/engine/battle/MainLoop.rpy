@@ -390,6 +390,19 @@ init python:
                 CharList[1].PositionSlotIndex = 1
                 CharList[2].PositionSlotIndex = 2
                 CharList[3].PositionSlotIndex = 3
+            elif BattleCharsAmt == 5:
+                CharList[0].PositionSlotIndex = 0
+                CharList[1].PositionSlotIndex = 1
+                CharList[2].PositionSlotIndex = 2
+                CharList[3].PositionSlotIndex = 3
+                CharList[4].PositionSlotIndex = 4
+            elif BattleCharsAmt == 6:
+                CharList[0].PositionSlotIndex = 0
+                CharList[1].PositionSlotIndex = 1
+                CharList[2].PositionSlotIndex = 2
+                CharList[3].PositionSlotIndex = 3
+                CharList[4].PositionSlotIndex = 4
+                CharList[5].PositionSlotIndex = 5
 
             # set sprite zorders
             for Char in CharList:
