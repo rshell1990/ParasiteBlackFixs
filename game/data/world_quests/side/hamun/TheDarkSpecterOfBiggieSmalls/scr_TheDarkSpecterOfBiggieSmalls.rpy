@@ -275,7 +275,7 @@ label qst_TheDarkSpecterOfBiggieSmalls_garen_postquest:
             GAREN @talk "Of course!"
             hide garen with easeoutright
             show nijah at right_f with easeinright
-            label sandwich_choice:
+            label fifty_fifty_chance:
                 if renpy.random.choice([True, False]):
                     # SUCCESS:
                     NIJAH "Wanna fuck?"

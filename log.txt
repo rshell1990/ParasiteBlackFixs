@@ -1,37 +1,35 @@
-2026-09-06 23:12:26 UTC
+2026-09-07 04:11:58 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 2085 ms
-Loading error handling took 2179 ms
+Early init took 447 ms
+Loading error handling took 2302 ms
 10846 script files skipped.
-Loading script took 20982 ms
-Loading save slot metadata took 237 ms
+Loading script took 1811 ms
+Loading save slot metadata took 52 ms
 Loading persistent took 0 ms
-Initialized steam.
- - Init at renpy/common/00steam.rpy:879 took 402 ms.
- - Init at game/engine/gui_aio.rpy:1 took 382 ms.
-Running init code took 1260 ms
-Loading analysis data took 10 ms
-Analyze and compile ATL took 39 ms
-Reloading save slot metadata took 93 ms
-Dump and make backups took 99 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 445 ms
+Loading analysis data took 16 ms
+Analyze and compile ATL took 28 ms
+Reloading save slot metadata took 10 ms
+Dump and make backups took 0 ms
 Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 95 ms
+Making clean stores took 1 ms
+Initial gc took 101 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 4 ms
+Creating interface object took 2 ms
 Init translation took 8 ms
 Cleaning stores took 0 ms
-Load screen analysis took 95 ms
+Load screen analysis took 45 ms
 Analyze screens took 0 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
-Save bytecode took 145 ms
-Running _start took 1 ms
-Interface start took 720 ms
+Save bytecode took 0 ms
+Running _start took 0 ms
+Interface start took 711 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -44,4 +42,7 @@ Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 25
 Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
+Cleaning stores took 0 ms
+Load screen analysis took 47 ms
+Analyze screens took 0 ms
+Running _start took 2 ms

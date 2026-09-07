@@ -157,5 +157,6 @@
             }
         ]
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "renpyCode.sdkPath": "D:\\Fitz\\Downloads\\renpy-8.5.3-sdk"
 }
