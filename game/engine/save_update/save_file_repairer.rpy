@@ -780,6 +780,8 @@ label save_state_update:
     if SaveGameVersion == "0.199":
         if QstIsOver(QstFromAnotherWorld):
             $ QstStart(TravelNodesRandomizer)
+        # Fix: Add Python prefix '$' and reference the class safely via ItemActionLib or the global store
+        $ store.BattleItemAction_PotionHealMinor = ItemActionLib.get("potion_heal_minor")
         $ SaveGameVersion = "0.200"
 
     # after a build, add a new block ~up here

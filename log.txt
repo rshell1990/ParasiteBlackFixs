@@ -1,35 +1,225 @@
-2026-09-09 15:16:36 UTC
+2026-09-09 15:58:38 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 468 ms
-Loading error handling took 2336 ms
+Early init took 528 ms
+Loading error handling took 2478 ms
 10846 script files skipped.
-Loading script took 2155 ms
-Loading save slot metadata took 58 ms
-Loading persistent took 1 ms
+Loading script took 2304 ms
+Loading save slot metadata took 160 ms
+Loading persistent took 0 ms
 Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 574 ms
+Running init code took 530 ms
 Loading analysis data took 18 ms
-Analyze and compile ATL took 30 ms
-Reloading save slot metadata took 14 ms
+Analyze and compile ATL took 32 ms
+Reloading save slot metadata took 12 ms
 Dump and make backups took 0 ms
 Cleaning cache took 0 ms
 Making clean stores took 1 ms
-Initial gc took 112 ms
+Initial gc took 119 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 3 ms
-Init translation took 11 ms
+Creating interface object took 2 ms
+Init translation took 9 ms
 Cleaning stores took 0 ms
-Load screen analysis took 53 ms
-Analyze screens took 4 ms
+Load screen analysis took 54 ms
+Analyze screens took 3 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
 Save bytecode took 0 ms
-Running _start took 1 ms
-Interface start took 801 ms
+Running _start took 2 ms
+Interface start took 750 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+
+Full traceback:
+  File "renpy/common/00gamemenu.rpy", line 179, in script
+    $ ui.interact()
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00gamemenu.rpy", line 179, in <module>
+    $ ui.interact()
+      ~~~~~~~~~~~^^
+  File "renpy/ui.py", line 306, in interact
+    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/core.py", line 2163, in interact
+    repeat, rv = self.interact_core(
+                 ~~~~~~~~~~~~~~~~~~^
+        preloads=preloads,
+        ^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+        **kwargs,
+        ^^^^^^^^^
+    )
+    ^
+  File "renpy/display/core.py", line 3263, in interact_core
+    rv = root_widget.event(ev, x, y, 0)
+         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1281, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1281, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1281, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/screen.py", line 805, in event
+    rv = self.child.event(ev, x, y, st)
+         ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1281, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1510, in event
+    rv = super(Window, self).event(ev, x, y, st)
+         ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 273, in event
+    rv = d.event(ev, x - xo, y - yo, st)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1281, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/layout.py", line 1281, in event
+    rv = i.event(ev, x - xo, y - yo, cst)
+         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/behavior.py", line 1189, in event
+    return handle_click(self.clicked)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "renpy/display/behavior.py", line 1111, in handle_click
+    rv = run(action)
+         ~~~^^^^^^^^
+  File "renpy/display/behavior.py", line 404, in run
+    new_rv = run(i, *args, **kwargs)
+             ~~~^^^^^^^^^^^^^^^^^^^^
+  File "renpy/display/behavior.py", line 411, in run
+    return action(*args, **kwargs)
+           ~~~~~~^^^^^^^^^^^^^^^^^
+  File "renpy/common/00action_file.rpy", line 499, in __call__
+    renpy.load(fn)
+    ~~~~~~~~~~^^^^
+  File "renpy/loadsave.py", line 636, in load
+    roots, log = loads(log_data)
+                 ~~~~~^^^^^^^^^^
+  File "renpy/compat/pickle.py", line 307, in loads
+    return load(io.BytesIO(s))
+           ~~~~^^^^^^^^^^^^^^^
+  File "renpy/compat/pickle.py", line 299, in load
+    return Unpickler(f, fix_imports=True, encoding="utf-8", errors="surrogateescape").load()
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "renpy/compat/pickle.py", line 291, in find_class
+    return super().find_class(module, name)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+AttributeError: Can't get attribute 'BattleItemAction_PotionHealMinor' on <renpy.python.StoreModule object at 0x00000000052014f0>
+
+While running game code:
+AttributeError: Can't get attribute 'BattleItemAction_PotionHealMinor' on <renpy.python.StoreModule object at 0x00000000052014f0>
+Resetting cache.
+Early init took 453 ms
+Loading error handling took 2728 ms
+10915 script files skipped.
+Loading script took 1822 ms
+Loading save slot metadata took 39 ms
+Loading persistent took 1 ms
+
+File "game/engine/save_update/save_file_repairer.rpy", line 790: Indentation mismatch.
+    call save_state_update_shared from _call_save_state_update_shared_1
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 561 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 428 ms
+Loading error handling took 2580 ms
+10915 script files skipped.
+Loading script took 1962 ms
+Loading save slot metadata took 38 ms
+Loading persistent took 1 ms
+
+File "game/engine/save_update/save_file_repairer.rpy", line 785: invalid syntax
+    SaveGameVersion = "0.200"R
+                                       ^
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Interface start took 589 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 433 ms
+Loading error handling took 2591 ms
+10846 script files skipped.
+Loading script took 2048 ms
+Loading save slot metadata took 50 ms
+Loading persistent took 1 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 327 ms
+Loading analysis data took 18 ms
+Analyze and compile ATL took 33 ms
+Reloading save slot metadata took 12 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
+Dump and make backups took 87 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 134 ms
+DPI scale factor: 1.000000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 0 ms
+Init translation took 17 ms
+Cleaning stores took 1 ms
+Load screen analysis took 0 ms
+Analyze screens took 28 ms
+Save screen analysis took 44 ms
+Save pyanalysis took 0 ms
+Save bytecode took 12 ms
+Running _start took 0 ms
+Interface start took 728 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)

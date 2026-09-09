@@ -12,6 +12,8 @@ init -1 python:
     def RegisterBattleItemAction(ActionID):
         def Decorate(Class):
             ItemActionLib[ActionID] = Class
+            # Inject the class into the global store so pickle can resolve it on load
+            setattr(renpy.store, Class.__name__, Class)
             return Class
         return Decorate
 

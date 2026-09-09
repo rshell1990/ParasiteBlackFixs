@@ -1,1 +1,1 @@
-{"action": "heartbeat", "status": "ok", "label": "Battle_Loop", "scene": "['BattleCharInfoScreen_443240416', 'BattleCharInfoScreen_443241952', 'BattleCharSprite_443240416', 'BattleCharSprite_443241952', 'Battle_CharInfoOnBattlefield', 'Battle_CharSelectionPanels', 'Battle_VfxImpact443240416', 'Battle_VfxImpact443241952', 'pbat_hamun_street_night']", "time": 1788967314.7971356}
+{"action": "heartbeat", "status": "ok", "label": "main_recheck", "scene": "['bg_dynamic']", "time": 1788971097.932055}
