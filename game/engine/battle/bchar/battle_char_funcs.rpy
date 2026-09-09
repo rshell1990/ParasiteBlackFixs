@@ -57,36 +57,45 @@ init python:
         return BattleCharList
 
 ########################################################
-    def Battle_GetCharStatMod_Armor(BattleChar):
-        ReturnVal = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatMod_Armor is not None:
-                ReturnVal *= StatusEffect.StatMod_Armor
-        return ReturnVal
-    def Battle_GetCharStatMod_MagicRes(BattleChar):
-        ReturnVal = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatMod_Armor is not None:
-                ReturnVal *= StatusEffect.StatMod_Armor
-        return ReturnVal
-    def Battle_GetCharStatMod_AttackRating(BattleChar):
-        ReturnVal = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatMod_Armor is not None:
-                ReturnVal *= StatusEffect.StatMod_Armor
-        return ReturnVal
-    def Battle_GetCharStatMod_DodgeRating(BattleChar):
-        ReturnVal = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatMod_Armor is not None:
-                ReturnVal *= StatusEffect.StatMod_Armor
-        return ReturnVal
-    def Battle_GetCharStatMod_CritChance(BattleChar):
-        ReturnVal = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatMod_Armor is not None:
-                ReturnVal *= StatusEffect.StatMod_Armor
-        return ReturnVal
+    def Battle_GetCharStatMod_Armor(CharObj):
+        mod = 1.0
+        for StatusEffect in CharObj.StatusEffects:
+            stat_val = getattr(StatusEffect, "StatMod_Armor", None)
+            if stat_val is not None:
+                mod += stat_val
+        return mod
+
+    def Battle_GetCharStatMod_MagicRes(CharObj):
+        mod = 1.0
+        for StatusEffect in CharObj.StatusEffects:
+            stat_val = getattr(StatusEffect, "StatMod_MagicRes", None)
+            if stat_val is not None:
+                mod += stat_val
+        return mod
+
+    def Battle_GetCharStatMod_AttackRating(CharObj):
+        mod = 1.0
+        for StatusEffect in CharObj.StatusEffects:
+            stat_val = getattr(StatusEffect, "StatMod_AttackRating", None)
+            if stat_val is not None:
+                mod += stat_val
+        return mod
+
+    def Battle_GetCharStatMod_DodgeRating(CharObj):
+        mod = 1.0
+        for StatusEffect in CharObj.StatusEffects:
+            stat_val = getattr(StatusEffect, "StatMod_DodgeRating", None)
+            if stat_val is not None:
+                mod += stat_val
+        return mod
+
+    def Battle_GetCharStatMod_CritChance(CharObj):
+        mod = 1.0
+        for StatusEffect in CharObj.StatusEffects:
+            stat_val = getattr(StatusEffect, "StatMod_CritChance", None)
+            if stat_val is not None:
+                mod += stat_val
+        return mod
 ########################################################
 ###### health
     def Battle_GetHealthRecoveryMod(BattleChar):
@@ -119,7 +128,7 @@ init python:
     def Battle_GetEnergyRecoveryMod(BattleChar):
         RecoveryMod = 1.0
         for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.ResRecoverMod_Energy is not None:
+            if getattr(StatusEffect, "ResRecoverMod_Energy", None) is not None:
                 RecoveryMod *= StatusEffect.ResRecoverMod_Energy
         return RecoveryMod
     def Battle_RestoreEnergy(BattleChar, Value, IgnoreRecoveryMod = False):

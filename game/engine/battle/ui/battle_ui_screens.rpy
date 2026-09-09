@@ -277,15 +277,17 @@ screen Battle_CharInfoOnBattlefield(BattleChar):
                 xalign 0.5
                 spacing 4
                 for StatusEffect in BattleChar.StatusEffects:
+                    $ eff_type = getattr(StatusEffect, "EffectType", BATTLE_STATUS_EFFECT_TYPE.BUFF)
+                    $ eff_icon = getattr(StatusEffect, "Icon", "images/gui/battle/skill_matrix_bg.webp")
                     fixed:
                         fit_first True
                         # buff -- green
-                        if StatusEffect.EffectType == BATTLE_STATUS_EFFECT_TYPE.BUFF:
+                        if eff_type == BATTLE_STATUS_EFFECT_TYPE.BUFF:
                             add Transform(("images/gui/battle/skill_matrix_bg.webp"), 
                                 size = (44, 44), align = (0.5, 0.5), 
                                 matrixcolor = TintMatrix((3, 107, 3)))
                         # debuff -- red
-                        elif StatusEffect.EffectType == BATTLE_STATUS_EFFECT_TYPE.DEBUFF:
+                        elif eff_type == BATTLE_STATUS_EFFECT_TYPE.DEBUFF:
                             add Transform(("images/gui/battle/skill_matrix_bg.webp"), 
                                 size = (44, 44), align = (0.5, 0.5), 
                                 matrixcolor = TintMatrix((107, 3, 3)))
@@ -297,15 +299,15 @@ screen Battle_CharInfoOnBattlefield(BattleChar):
 
                         imagebutton:
                             align (0.5, 0.5)
-                            idle Transform(StatusEffect.Icon, xcenter = 0.5, size = (38, 38))
+                            idle Transform(eff_icon, xcenter = 0.5, size = (38, 38))
                             hovered [TooltipSetUI(GetStatusEffectDesc(StatusEffect)), Function(BattleUI_BringInfoForward, BattleChar)]
                             unhovered [TooltipClearUI(), Function(BattleUI_BringInfoBackward, BattleChar)]
                             keyboard_focus False
 
                             action NullAction()
 
-                        if StatusEffect.Permanent == False:
-                            text f"{StatusEffect.Duration}":
+                        if getattr(StatusEffect, "Permanent", False) == False:
+                            text f"{getattr(StatusEffect, 'Duration', 0)}":
                                 size 30
                                 align (0.5, 1.0)
                                 outlines [(absolute(1), "#000", absolute(0), absolute(0))]
@@ -356,8 +358,6 @@ screen Battle_CharInfoOnBattlefield(BattleChar):
                     zoom 0.98
                 text "%s" % (BattleScene.ActionAwaitingTarget_PotentialTargetsList.index(BattleChar) + 1):
                     align (0.5, 1.0)
-
-
 ################################################################################################################
 ################################################################################################################
 ################################################################################################################

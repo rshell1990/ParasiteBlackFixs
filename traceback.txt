@@ -5,23 +5,23 @@ While running game code:
     call processDialogue("dev_root") from _call_processDialogue_46
   File "game/engine/dialogue/labels.rpy", line 15, in script call
     $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 60, in script call
+  File "game/devtools/devroom.rpy", line 64, in script call
     $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/engine/battle/MainLoop.rpy", line 530, in script
-    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
-  File "game/engine/battle/MainLoop.rpy", line 530, in <module>
-    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "game/engine/battle/actions_skills/ScheduledItemUse.rpy", line 68, in ExecuteAction
-    OnHitEffect.ApplyEffect(Target)
-    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
-  File "game/data/battle_effects/BattleEffect.rpy", line 218, in ApplyEffect
-    Battle_RestoreHealth(Target, self.RestoreValue)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 103, in Battle_RestoreHealth
-    Value = Value * Battle_GetHealthRecoveryMod(BattleChar)
-            ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
+  File "game/engine/battle/MainLoop.rpy", line 496, in script
+    $ Battle_StatusEffect_OnTurnStart(BattleScene.ActingSide)
+  File "game/engine/battle/MainLoop.rpy", line 496, in <module>
+    $ Battle_StatusEffect_OnTurnStart(BattleScene.ActingSide)
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/status_effect/battle_StatusEffect_funcs.rpy", line 171, in Battle_StatusEffect_OnTurnStart
+    StatusEffect.OnTurnStart()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "game/data/battle_skills_actions/SkillsNeutral/ChargedStrike.rpy", line 114, in OnTurnStart
+    self.SkillRef.Execute(self.Target)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "game/data/battle_skills_actions/SkillsNeutral/ChargedStrike.rpy", line 43, in Execute
+    Battle_HideChargeVFX(actor)
+    ^^^^^^^^^^^^^^^^^^^^       
+NameError: name 'Battle_HideChargeVFX' is not defined
 
 -- Full Traceback ------------------------------------------------------------
 
@@ -30,31 +30,31 @@ Traceback (most recent call last):
     call processDialogue("dev_root") from _call_processDialogue_46
   File "game/engine/dialogue/labels.rpy", line 15, in script call
     $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 60, in script call
+  File "game/devtools/devroom.rpy", line 64, in script call
     $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/engine/battle/MainLoop.rpy", line 530, in script
-    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+  File "game/engine/battle/MainLoop.rpy", line 496, in script
+    $ Battle_StatusEffect_OnTurnStart(BattleScene.ActingSide)
   File "renpy/ast.py", line 1193, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "renpy/python.py", line 1276, in py_exec_bytecode
     exec(bytecode, globals, locals)
     ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 530, in <module>
-    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "game/engine/battle/actions_skills/ScheduledItemUse.rpy", line 68, in ExecuteAction
-    OnHitEffect.ApplyEffect(Target)
-    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
-  File "game/data/battle_effects/BattleEffect.rpy", line 218, in ApplyEffect
-    Battle_RestoreHealth(Target, self.RestoreValue)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 103, in Battle_RestoreHealth
-    Value = Value * Battle_GetHealthRecoveryMod(BattleChar)
-            ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
+  File "game/engine/battle/MainLoop.rpy", line 496, in <module>
+    $ Battle_StatusEffect_OnTurnStart(BattleScene.ActingSide)
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/status_effect/battle_StatusEffect_funcs.rpy", line 171, in Battle_StatusEffect_OnTurnStart
+    StatusEffect.OnTurnStart()
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "game/data/battle_skills_actions/SkillsNeutral/ChargedStrike.rpy", line 114, in OnTurnStart
+    self.SkillRef.Execute(self.Target)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "game/data/battle_skills_actions/SkillsNeutral/ChargedStrike.rpy", line 43, in Execute
+    Battle_HideChargeVFX(actor)
+    ^^^^^^^^^^^^^^^^^^^^       
+NameError: name 'Battle_HideChargeVFX' is not defined
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Tue Sep  8 20:32:52 2026
+Wed Sep  9 09:34:17 2026

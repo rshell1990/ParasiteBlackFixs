@@ -18,7 +18,7 @@ init python:
         base_xp_value = 45,
         auto_attr_allocation = "hulk",
         
-        CharSkills = {"NeutralSuperHeavyBlow":1, "NeutralHumiliatingAttack":1},
+        CharSkills = {"ChargedStrike":1, "NeutralHumiliatingAttack":1},
         )
 ### kinda stronger bandit you meet in various places in game
     CharDefs["lenin"] = BuildCharTemplate(CharID = "lenin",

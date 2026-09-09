@@ -32,4 +32,4 @@ init python:
                 DamageValue = Battle_FormatDescVal(Battle_GetBCharDmgTupleAsText(self.Owner_BattleChar, self.DamageValue[DescLevel]))
             else:
                 DamageValue = Battle_FormatDescVal(Battle_GetPBCharDmgTupleAsText(self.Owner_PBCharID, self.DamageValue[DescLevel]))
-            return tra(_("Attacks all enemies for %s damage reducing the damage they deal by 40% for 2 turns, causing bleeding for 1 turn and taunting them for 1 turn.")) % DamageValue
+            return tra(_("Attacks all enemies for %s damage reducing the damage they deal by 40%% for 2 turns, causing bleeding for 1 turn and taunting them for 1 turn.")) % DamageValue

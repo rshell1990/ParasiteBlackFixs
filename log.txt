@@ -1,226 +1,35 @@
-2026-09-09 02:48:56 UTC
+2026-09-09 15:16:36 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 437 ms
-Loading error handling took 2194 ms
+Early init took 468 ms
+Loading error handling took 2336 ms
 10846 script files skipped.
-Loading script took 1729 ms
-Loading save slot metadata took 56 ms
-Loading persistent took 8 ms
-Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 437 ms
-Loading analysis data took 16 ms
-Analyze and compile ATL took 31 ms
-Reloading save slot metadata took 16 ms
-Dump and make backups took 0 ms
-Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 80 ms
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 16 ms
-Init translation took 0 ms
-Cleaning stores took 0 ms
-Load screen analysis took 62 ms
-Analyze screens took 3 ms
-Save screen analysis took 0 ms
-Save pyanalysis took 0 ms
-Save bytecode took 0 ms
-Running _start took 2 ms
-Interface start took 1561 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 398 ms
-Loading error handling took 2586 ms
-10846 script files skipped.
-Loading script took 2131 ms
-Loading save slot metadata took 41 ms
+Loading script took 2155 ms
+Loading save slot metadata took 58 ms
 Loading persistent took 1 ms
 Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 296 ms
-Loading analysis data took 37 ms
-Analyze and compile ATL took 52 ms
-Reloading save slot metadata took 11 ms
+Running init code took 574 ms
+Loading analysis data took 18 ms
+Analyze and compile ATL took 30 ms
+Reloading save slot metadata took 14 ms
 Dump and make backups took 0 ms
 Cleaning cache took 0 ms
 Making clean stores took 1 ms
-Initial gc took 181 ms
+Initial gc took 112 ms
 DPI scale factor: 1.000000
-Creating interface object took 0 ms
-Init translation took 13 ms
-Cleaning stores took 1 ms
-Load screen analysis took 55 ms
-Analyze screens took 3 ms
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: b"Couldn't load nvlib." (can be ignored)
+Creating interface object took 3 ms
+Init translation took 11 ms
+Cleaning stores took 0 ms
+Load screen analysis took 53 ms
+Analyze screens took 4 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
 Save bytecode took 0 ms
 Running _start took 1 ms
-Interface start took 1320 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Resetting cache.
-Early init took 412 ms
-Loading error handling took 2443 ms
-12164 script files skipped.
-Loading script took 120 ms
-Loading save slot metadata took 18 ms
-Loading persistent took 0 ms
-
-File "game/data/battle_skills_actions/ItemActions.rpy", line 421: invalid syntax. Perhaps you forgot a comma?
-    HEALTH_RECOVERED = self.RestoreBaseAmount
-                           ^
-DPI scale factor: 1.000000
-Interface start took 453 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 423 ms
-Loading error handling took 2627 ms
-10846 script files skipped.
-Loading script took 2258 ms
-Loading save slot metadata took 41 ms
-Loading persistent took 0 ms
-Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 372 ms
-Loading analysis data took 17 ms
-Analyze and compile ATL took 34 ms
-Reloading save slot metadata took 10 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 35 ms
-Cleaning cache took 1 ms
-Making clean stores took 0 ms
-Initial gc took 129 ms
-DPI scale factor: 1.000000
-Creating interface object took 0 ms
-Init translation took 11 ms
-Cleaning stores took 0 ms
-Load screen analysis took 1 ms
-Analyze screens took 28 ms
-Save screen analysis took 38 ms
-Save pyanalysis took 0 ms
-Save bytecode took 118 ms
-Running _start took 3 ms
-Interface start took 1274 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 412 ms
-Loading error handling took 2476 ms
-10846 script files skipped.
-Loading script took 1947 ms
-Loading save slot metadata took 41 ms
-Loading persistent took 0 ms
-Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 346 ms
-Loading analysis data took 16 ms
-Analyze and compile ATL took 33 ms
-Reloading save slot metadata took 13 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 44 ms
-Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 136 ms
-DPI scale factor: 1.000000
-Creating interface object took 0 ms
-Init translation took 10 ms
-Cleaning stores took 0 ms
-Load screen analysis took 1 ms
-Analyze screens took 25 ms
-Save screen analysis took 33 ms
-Save pyanalysis took 0 ms
-Save bytecode took 1 ms
-Running _start took 2 ms
-Interface start took 1252 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-Resetting cache.
-Early init took 429 ms
-Loading error handling took 2521 ms
-10846 script files skipped.
-Loading script took 2238 ms
-Loading save slot metadata took 42 ms
-Loading persistent took 0 ms
-Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 321 ms
-Loading analysis data took 18 ms
-Analyze and compile ATL took 39 ms
-Reloading save slot metadata took 10 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 36 ms
-Cleaning cache took 0 ms
-Making clean stores took 1 ms
-Initial gc took 181 ms
-DPI scale factor: 1.000000
-Creating interface object took 0 ms
-Init translation took 12 ms
-Cleaning stores took 0 ms
-Load screen analysis took 1 ms
-Analyze screens took 27 ms
-Save screen analysis took 46 ms
-Save pyanalysis took 0 ms
-Save bytecode took 1 ms
-Running _start took 2 ms
-Interface start took 1167 ms
+Interface start took 801 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)

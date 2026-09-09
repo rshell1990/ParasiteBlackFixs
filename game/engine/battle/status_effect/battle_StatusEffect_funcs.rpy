@@ -23,7 +23,7 @@ init python:
         StatusEffect.Owner_BattleChar = TargetChar
 
         # if a char is about to 'protect' another char, remove char's 'protect' from another char if present
-        if StatusEffect.StatusEffectID == "protect":
+        if getattr(StatusEffect, "StatusEffectID", None) == "protect":
             if StatusEffect.AllowMultiple == False:
                 AliveSideChars = Battle_GetAliveCharsOnSide(StatusEffect.Owner_BattleChar.BattleSide)
                 AliveSideChars.remove(TargetChar)
@@ -35,7 +35,7 @@ init python:
 
         # case 1, effect with this stacking id present, do stacking
         for PresentStatusEffect in reversed(TargetChar.StatusEffects):
-            if PresentStatusEffect.StatusEffectID == StatusEffect.StatusEffectID:
+            if getattr(PresentStatusEffect, "StatusEffectID", None) == getattr(StatusEffect, "StatusEffectID", None):
                 # stacking just add duration
                 if PresentStatusEffect.StackingMethod == BATTLE_STATUS_EFFECT_STACKING.ADDITIVE:
                     PresentStatusEffect.Duration += StatusEffect.Duration
@@ -79,35 +79,50 @@ init python:
     def GetStatusEffectDesc(StatusEffect):
         TextLines = []
 
-        TextLines.append(tra(StatusEffect.EffectName))
-        TextLines.append("\n" + StatusEffect.GetDesc())
-        if StatusEffect.SourceName is not None:
-            TextLines.append("\n" + tra(_("Source:")) + " " + tra(StatusEffect.SourceName))
+        # Safely extract EffectName with a fallback string
+        effect_name = getattr(StatusEffect, "EffectName", "Status Effect")
+        TextLines.append(tra(effect_name))
+
+        # Safely call GetDesc if available
+        if hasattr(StatusEffect, "GetDesc"):
+            desc = StatusEffect.GetDesc()
+            if desc:
+                TextLines.append("\n" + desc)
+
+        # Safely check SourceName
+        source_name = getattr(StatusEffect, "SourceName", None)
+        if source_name is not None:
+            TextLines.append("\n" + tra(_("Source:")) + " " + tra(source_name))
+
+        # Safely check StatusEffectID for Developer mode
         if config.developer:
-            TextLines.append("\n{color=#949494}(DEV) Status effect ID: %s{/color}" % StatusEffect.StatusEffectID)
+            effect_id = getattr(StatusEffect, "StatusEffectID", StatusEffect.__class__.__name__)
+            TextLines.append("\n{color=#949494}(DEV) Status effect ID: %s{/color}" % effect_id)
 
         return "".join(TextLines)
 
-    def Battle_TickStatusEffectDuration(Side = 0, AtEnd = False):
-        for BattleChar in BattleScene.BattleChars[Side]:
-            for StatusEffect in reversed(BattleChar.StatusEffects):
-                if StatusEffect.Permanent == True:
+    def Battle_TickStatusEffectDuration(ActingSide, AtEnd=True):
+        # Handle both integer side indices and character lists
+        if isinstance(ActingSide, int):
+            left_party = getattr(BattleScene, "CharList_Left", getattr(BattleScene, "Party_Left", []))
+            right_party = getattr(BattleScene, "CharList_Right", getattr(BattleScene, "Party_Right", []))
+            char_list = left_party if ActingSide == 0 else right_party
+        else:
+            char_list = ActingSide
+
+        for BattleChar in char_list:
+            for StatusEffect in list(BattleChar.StatusEffects):
+                # Check permanence safely
+                if getattr(StatusEffect, "IsPermanent", getattr(StatusEffect, "Permanent", False)):
                     continue
 
-                # turn start tick
-                if StatusEffect.TickOn == 0:
-                    if AtEnd == False:
-                        StatusEffect.Duration -= 1
-                        if StatusEffect.Duration <= 0:
-                            BattleChar.StatusEffects.remove(StatusEffect)
+                # Check tick timing safely (0 = End, 1 = Start)
+                tick_timing = getattr(StatusEffect, "TickOn", 0)
+                target_timing = 0 if AtEnd else 1
 
-                # turn end tick
-                else:
-                    if AtEnd == True:
-                        StatusEffect.Duration -= 1
-                        if StatusEffect.Duration <= 0:
-                            BattleChar.StatusEffects.remove(StatusEffect)
-        return
+                if tick_timing == target_timing:
+                    if hasattr(StatusEffect, "TickDuration"):
+                        StatusEffect.TickDuration(AtEnd=AtEnd)
 
     def Battle_PlacePermaStatusEffects():
         for Side in range(2):
@@ -159,24 +174,35 @@ init python:
     def Battle_GetIncomingDamageMod(BattleChar):
         DamageMod_In = 1.0
         for StatusEffect in BattleChar.StatusEffects:
-            DamageMod_In *= StatusEffect.DamageRecieved_Mod
+            DamageMod_In *= getattr(StatusEffect, "DamageRecieved_Mod", 1.0)
         return round(max(DamageMod_In, 0.1), 1)
 
     def Battle_GetOutgoingDamageMod(BattleChar):
         DamageMod_Out = 1.0
         for StatusEffect in BattleChar.StatusEffects:
-            DamageMod_Out *= StatusEffect.DamageDealt_Mod
-        return round(max(DamageMod_Out, 0.1), 1)
+            DamageMod_Out *= getattr(StatusEffect, "DamageDealt_Mod", 1.0)
+        return DamageMod_Out
 
     def Battle_HasStatusEffect(BattleChar, EffectID):
+        ####Checks if a character has a specific status effect, safely handling custom effect state objects.
+        if not hasattr(BattleChar, "StatusEffects") or not BattleChar.StatusEffects:
+            return False
+
         for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatusEffectID == EffectID:
+            # Safely check StatusEffectID, ID, or class/type name
+            effect_id = getattr(StatusEffect, "StatusEffectID", getattr(StatusEffect, "ID", None))
+            
+            if effect_id == EffectID:
                 return True
+            # Fallback check if EffectID matches the class name directly
+            elif StatusEffect.__class__.__name__ == EffectID:
+                return True
+
         return False
 
     def Battle_GetStatusEffect(BattleChar, EffectID):
         for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.StatusEffectID == EffectID:
+            if getattr(StatusEffect, "StatusEffectID", None) == EffectID:
                 return StatusEffect
 
     def Battle_HasAnyDebuff(BattleChar):

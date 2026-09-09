@@ -2,9 +2,25 @@
 errors listed below, and try again.
 
 
-File "game/data/battle_skills_actions/ItemActions.rpy", line 421: invalid syntax. Perhaps you forgot a comma?
-    HEALTH_RECOVERED = self.RestoreBaseAmount
-                           ^
+File "game/engine/battle/bchar/battle_char_funcs.rpy", line 60: expected statement.
+    def Battle_GetCharStatMod_Armor(CharObj):
+                                   ^
+
+File "game/engine/battle/bchar/battle_char_funcs.rpy", line 68: expected statement.
+    def Battle_GetCharStatMod_MagicRes(CharObj):
+                                      ^
+
+File "game/engine/battle/bchar/battle_char_funcs.rpy", line 76: expected statement.
+    def Battle_GetCharStatMod_AttackRating(CharObj):
+                                          ^
+
+File "game/engine/battle/bchar/battle_char_funcs.rpy", line 84: expected statement.
+    def Battle_GetCharStatMod_DodgeRating(CharObj):
+                                         ^
+
+File "game/engine/battle/bchar/battle_char_funcs.rpy", line 92: expected statement.
+    def Battle_GetCharStatMod_CritChance(CharObj):
+                                        ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Tue Sep  8 21:51:15 2026
+Wed Sep  9 09:05:51 2026

@@ -1,21 +1,44 @@
 init python:
     def Battle_RunCharAnim(BattleChar, AnimID):
-        renpy.hide(BattleChar.SpriteTag)
+        """
+        Executes a character pose animation safely without crashing if the key is missing.
+        """
+        if not hasattr(BattleChar, "BattleSkin") or not hasattr(BattleChar.BattleSkin, "AnimsDict"):
+            return None
 
-        if isinstance(BattleChar.BattleSkin.AnimsDict[AnimID], list):
-            AnimObj = renpy.random.choice(BattleChar.BattleSkin.AnimsDict[AnimID])
-        else:    
-            AnimObj = BattleChar.BattleSkin.AnimsDict[AnimID]
+        # Check if the requested pose key exists in the character's skin
+        if AnimID not in BattleChar.BattleSkin.AnimsDict:
+            renpy.log(f"WARNING: Animation '{AnimID}' missing for skin '{BattleChar.BattleSkin}'.")
+            return None
 
-        if AnimObj.AnimLoop == True:
-            ShowWhat = AnimObj.Displayable
+        # Retrieve the animation sequence/data and assign to AnimObj
+        AnimObj = BattleChar.BattleSkin.AnimsDict[AnimID]
+
+        # Check if the object is a container/list vs a direct displayable anim object
+        if isinstance(AnimObj, list):
+            # If the animation data is a list of steps/images
+            pass
+
+        # Safely evaluate looping and displayable properties
+        if getattr(AnimObj, "AnimLoop", False):
+            ShowWhat = getattr(AnimObj, "Displayable", AnimObj)
         else:
-            IdleAnimObj = BattleChar.BattleSkin.AnimsDict["idle"]
-            ShowWhat = At(AnimObj.Displayable, Battle_TransformRevertToIdleAnim(AnimObj.LengthInSeconds, IdleAnimObj.Displayable))
+            IdleAnimObj = BattleChar.BattleSkin.AnimsDict.get("idle", None)
+            IdleDisplayable = getattr(IdleAnimObj, "Displayable", IdleAnimObj)
+            AnimDisplayable = getattr(AnimObj, "Displayable", AnimObj)
+            AnimLength = getattr(AnimObj, "LengthInSeconds", 0.5)
 
-        renpy.show(BattleChar.SpriteTag, what = ShowWhat, 
-                at_list = [Battle_TransformCharPosition(BattleChar)], 
-                zorder = BattleChar.SpriteZorder)
+            if IdleAnimObj:
+                ShowWhat = At(AnimDisplayable, Battle_TransformRevertToIdleAnim(AnimLength, IdleDisplayable))
+            else:
+                ShowWhat = AnimDisplayable
+
+        renpy.show(
+            BattleChar.SpriteTag, 
+            what = ShowWhat, 
+            at_list = [Battle_TransformCharPosition(BattleChar)], 
+            zorder = BattleChar.SpriteZorder
+        )
         return AnimObj
 
     def Battle_SpawnVfxOnChar(BattleChar, ImageID, RandomRotation = False, AutoXFlip = True):
@@ -29,7 +52,21 @@ init python:
             zorder = BattleChar.SpriteZorder + 8,
             tag = ImageID + str(id(BattleChar)))
         return
-
+    def Battle_ShowChargeVFX(BattleChar):
+        """
+        Displays the particle/visual effect overlay when charging a skill.
+        """
+        # Determine target displayable tag or character position
+        char_tag = getattr(BattleChar, "SpriteTag", None) or getattr(BattleChar, "CharID", None)
+        
+        # Check if the charge VFX image exists in Ren'Py's image registry
+        if renpy.has_image("vfx_charge"):
+            renpy.show("vfx_charge", at_list=[Transform(center)])
+        elif char_tag and renpy.has_image(f"vfx_charge_{char_tag}"):
+            renpy.show(f"vfx_charge_{char_tag}")
+        else:
+            # Fallback log if no explicit charge VFX graphic is defined
+            renpy.log(f"VFX Warning: 'Battle_ShowChargeVFX' triggered for '{char_tag}', but no VFX asset was found.")
 
 # char sprites root tf
 transform Battle_TransformCharPosition(BattleChar):

@@ -52,7 +52,7 @@ init python:
             # delete protect status eff
             for Char in RemainingAliveAlliesOfDead:
                 for StatusEffect in reversed(Char.StatusEffects):
-                    if StatusEffect.StatusEffectID == "protect":
+                    if getattr(StatusEffect, "StatusEffectID", None) == "protect":
                         if StatusEffect.ProtectedBy == TargetBattleChar:
                             Char.StatusEffects.remove(StatusEffect)
 

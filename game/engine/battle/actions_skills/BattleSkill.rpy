@@ -129,3 +129,104 @@ init -1 python:
             ResultStrings[Index] = "{size=+6}{color=[BATTLE_COLORS.REQ_MISSING]}" + String + "{/color}{/size}\n"
 
         return "".join(ResultStrings)
+
+    class BattleSkill_ChargedStrike(BattleSkill):
+        def __init__(self, Owner_BattleChar=None, Owner_PBCharID=None, ToLevel=1):
+            super(BattleSkill_ChargedStrike, self).__init__(Owner_BattleChar, Owner_PBCharID, ToLevel)
+            
+            self.DisplayName = _("Power Surge")
+            self.Icon = "images/battle_skill_icons/charged_strike.webp"
+            self.Cost_Energy = 20
+            self.ValidTargets = BATTLE_TARGETS.ANY_ENEMY
+            self.OncePerTurn = True
+
+        def Execute(self, Target):
+            actor = self.Owner_BattleChar
+            charge_effect = Battle_GetStatusEffect(actor, "status_charging_strike")
+
+            if charge_effect is None:
+                ##### PHASE 1: START CHARGE
+                ##### Attach status effect to track charge state until next turn
+                new_status = BattleStatusEffect_Charging(actor, Target, self)
+                actor.StatusEffects.append(new_status)
+
+                ##### Visuals & Audio
+                Battle_RunCharAnim(actor, "charge_pose")
+                Battle_ShowChargeVFX(actor)
+                Battle_AddLogEntry(_("{color=#FFFF00}%s begins gathering power!{/color}") % actor.DisplayName)[cite: 1]
+
+            else:
+                ########RELEASE ATTACK
+                #######Remove VFX and status effect
+                Battle_HideChargeVFX(actor)[cite: 1]
+                actor.StatusEffects.remove(charge_effect)
+
+                # Queue the attack action for damage processing
+                release_action = BattleAction_ChargedRelease(
+                    UserBattleChar=actor,
+                    TargetList=[Target],
+                    BaseDamage=int(actor.Attack * 2.5) # 250% damage
+                )
+                Battle_ScheduleAttack(release_action)[cite: 1]
+
+        def GetDesc(self, DescLevel=1):
+            return _("Gather energy for 1 turn, then unleash a powerful blow for 250% damage.")
+
+#####################STATUS EFFECT TO TRACK CHARGING
+    class BattleStatusEffect_Charging(object):
+        def __init__(self, UserChar, TargetChar, SkillRef):
+            self.ID = "status_charging_strike"
+            self.DisplayName = _("Charging")
+            self.IsPermanent = False
+            self.Duration = 1
+            self.UserChar = UserChar
+            self.TargetChar = TargetChar
+            self.SkillRef = SkillRef
+
+        def OnTurnStart(self):
+            # Auto-triggers Phase 2 on character's next turn
+            if self.TargetChar and getattr(self.TargetChar, "IsAlive", True):
+                self.SkillRef.Execute(self.TargetChar)
+            else:
+                # Retarget to another living enemy if original target died
+                actor = self.SkillRef.Owner_BattleChar
+                alive_enemies = Battle_GetAliveCharsOnSide(1 if actor.BattleSide == 0 else 0)
+                if alive_enemies:
+                    self.SkillRef.Execute(alive_enemies[0])
+                else:
+                    Battle_HideChargeVFX(actor)
+                    actor.StatusEffects.remove(self)
+
+        def TickDuration(self, AtEnd=False):
+            pass
+
+
+    # -------------------------------------------------------------------------
+    # 3. SCHEDULED ATTACK ACTION
+    # -------------------------------------------------------------------------
+    class BattleAction_ChargedRelease(object):
+        def __init__(self, UserBattleChar, TargetList, BaseDamage):
+            self.UserBattleChar = UserBattleChar
+            self.TargetList = TargetList
+            self.BaseDamage = BaseDamage
+            self.IsChargedAttackRelease = True  # Triggers release VFX in loop[cite: 1]
+            self.AllowDeadTargets = False[cite: 1]
+
+        def ExecuteAction(self):
+            target = self.TargetList[0]
+            actor = self.UserBattleChar
+
+            # Animations & Impact VFX
+            Battle_RunCharAnim(actor, "attack")[cite: 1]
+            Battle_PlayReleaseChargeVFX(actor, target)[cite: 1]
+
+            # Calculate and apply damage
+            damage_dealt = max(int(self.BaseDamage - getattr(target, "Defense", 0)), 1)
+            target.Health = max(target.Health - damage_dealt, 0)
+
+            if target.Health == 0:
+                target.IsAlive = False[cite: 1]
+                Battle_RunCharAnim(target, "defeat")
+
+            Battle_AddLogEntry(_("{color=#FF0000}%s unleashes Power Surge on %s for %d damage!{/color}") 
+                               % (actor.DisplayName, target.DisplayName, damage_dealt))

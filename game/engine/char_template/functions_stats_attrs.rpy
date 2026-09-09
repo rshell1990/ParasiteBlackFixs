@@ -89,9 +89,9 @@ init -2 python:
         # if in battle, use battle status eff properties
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if StatusEff.AttrMod_StrengthMul is not None:
+                if getattr(StatusEff, "AttrMod_StrengthMul", None) is not None:
                     ResultValue *= StatusEff.AttrMod_StrengthMul
-                if StatusEff.AttrMod_StrengthAdd is not None:
+                if getattr(StatusEff, "AttrMod_StrengthAdd", None) is not None:
                     ResultValue += StatusEff.AttrMod_StrengthAdd
         # story mode, separate calc path
         else:
@@ -117,9 +117,9 @@ init -2 python:
 
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if StatusEff.AttrMod_EnduranceMul is not None:
+                if getattr(StatusEff, "AttrMod_EnduranceMul", None) is not None:
                     ResultValue *= StatusEff.AttrMod_EnduranceMul
-                if StatusEff.AttrMod_EnduranceAdd is not None:
+                if getattr(StatusEff, "AttrMod_EnduranceAdd", None) is not None:
                     ResultValue += StatusEff.AttrMod_EnduranceAdd
         else:
             if dataObj.CharID in StoryStatusEffects:
@@ -139,9 +139,9 @@ init -2 python:
 
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if StatusEff.AttrMod_WillpowerMul is not None:
+                if getattr(StatusEff, "AttrMod_WillpowerMul", None) is not None:
                     ResultValue *= StatusEff.AttrMod_WillpowerMul
-                if StatusEff.AttrMod_WillpowerAdd is not None:
+                if getattr(StatusEff, "AttrMod_WillpowerAdd", None) is not None:
                     ResultValue += StatusEff.AttrMod_WillpowerAdd
     
         ResultValue = math.ceil(max(ResultValue, 1))
@@ -156,9 +156,9 @@ init -2 python:
 
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if StatusEff.AttrMod_AgilityMul is not None:
+                if getattr(StatusEff, "AttrMod_AgilityMul", None) is not None:
                     ResultValue *= StatusEff.AttrMod_AgilityMul
-                if StatusEff.AttrMod_AgilityAdd is not None:
+                if getattr(StatusEff, "AttrMod_AgilityAdd", None) is not None:
                     ResultValue += StatusEff.AttrMod_AgilityAdd
     
         ResultValue = math.ceil(max(ResultValue, 1))
@@ -173,9 +173,9 @@ init -2 python:
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if StatusEff.AttrMod_DexterityMul is not None:
+                if getattr(StatusEff, "AttrMod_DexterityMul", None) is not None:
                     ResultValue *= StatusEff.AttrMod_DexterityMul
-                if StatusEff.AttrMod_DexterityAdd is not None:
+                if getattr(StatusEff, "AttrMod_DexterityAdd", None) is not None:
                     ResultValue += StatusEff.AttrMod_DexterityAdd
         else:
             if dataObj.CharID in StoryStatusEffects:
@@ -195,9 +195,9 @@ init -2 python:
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if StatusEff.AttrMod_LuckMul is not None:
+                if getattr(StatusEff, "AttrMod_LuckMul", None) is not None:
                     ResultValue *= StatusEff.AttrMod_LuckMul
-                if StatusEff.AttrMod_LuckAdd is not None:
+                if getattr(StatusEff, "AttrMod_LuckAdd", None) is not None:
                     ResultValue += StatusEff.AttrMod_LuckAdd
 
         ResultValue = math.ceil(max(ResultValue, 1))
@@ -212,7 +212,8 @@ init -2 python:
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                ResultValue *= getattr(StatusEff, "AttrMod_CharismaMul")
+                if getattr(StatusEff, "AttrMod_CharismaMul", None) is not None:
+                    ResultValue *= StatusEff.AttrMod_CharismaMul
 
         ResultValue = math.ceil(max(ResultValue, 1))
         return(ResultValue) 
@@ -226,7 +227,8 @@ init -2 python:
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                ResultValue *= getattr(StatusEff, "AttrMod_BarterMul")
+                if getattr(StatusEff, "AttrMod_BarterMul", None) is not None:
+                    ResultValue *= StatusEff.AttrMod_BarterMul
 
         ResultValue = math.ceil(max(ResultValue, 1))
         return(ResultValue) 

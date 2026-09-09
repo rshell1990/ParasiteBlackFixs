@@ -65,48 +65,76 @@ init python:
                 ReturnVal = max(int(Battle_GetOutgoingDamageMod(self) * self.CharRef["Damage"] * DIFFICULTY.PLAYERSIDE_DMG[CurrentDifficulty]), 1)
             return ReturnVal
 
+
         @property
-        def Armor(self): 
-            Val = self.CharRef["Armor"]
+        def DisplayName(self):
+        ####Returns the character's display name, falling back through standard attribute names.
+            if hasattr(self, "Name") and self.Name:
+                return self.Name
+            elif hasattr(self, "char_name") and self.char_name:
+                return self.char_name
+            elif hasattr(self, "CharRef") and isinstance(self.CharRef, dict) and "Name" in self.CharRef:
+                return self.CharRef["Name"]
+            return getattr(self, "CharID", "Unknown")
+        
+        @property
+        def Armor(self):
+            val = self.CharRef["Armor"]
+        
             for StatusEffect in self.StatusEffects:
-                if StatusEffect.StatMod_Armor is not None:
-                    Val *= StatusEffect.StatMod_Armor
-            # return max(round(Val), 1)
-            return round(Val)
+                mod = getattr(StatusEffect, "StatMod_Armor", None)
+                if mod is not None:
+                    val += mod
+                
+            return max(val, 0)
 
         @property
         def MagicRes(self):
-            Val = self.CharRef["MagicRes"]
+            val = self.CharRef["MagicRes"]
+        
             for StatusEffect in self.StatusEffects:
-                if StatusEffect.StatMod_MagicRes is not None:
-                    Val *= StatusEffect.StatMod_MagicRes
-            return max(round(Val), 1)
+                mod = getattr(StatusEffect, "StatMod_MagicRes", None)
+                if mod is not None:
+                    val += mod
+                
+            return max(val, 0)
 
         @property
         def AttackRating(self):
-            Val = self.CharRef["AttackRating"]
+            # Base calculation from underlying character stats
+            val = self.CharRef["AttackRating"]
+        
+            # Apply status effect modifiers safely
             for StatusEffect in self.StatusEffects:
-                if StatusEffect.StatMod_AttackRating is not None:
-                    Val *= StatusEffect.StatMod_AttackRating
-            # return max(round(Val), 1)
-            return round(Val)
+                mod = getattr(StatusEffect, "StatMod_AttackRating", None)
+                if mod is not None:
+                    val += mod
+                
+            return max(val, 1)
 
         @property
         def DodgeRating(self):
-            Val = self.CharRef["DodgeRating"]
+            val = self.CharRef["DodgeRating"]
+        
             for StatusEffect in self.StatusEffects:
-                if StatusEffect.StatMod_DodgeRating is not None:
-                    Val *= StatusEffect.StatMod_DodgeRating
-            # return max(round(Val), 1)
-            return round(Val)
+                mod = getattr(StatusEffect, "StatMod_DodgeRating", None)
+                if mod is not None:
+                    val += mod
+                
+            return max(val, 0)
 
         @property
         def CritChance(self):
-            Val = self.CharRef["CritChance"]
+            # Base calculation from character stats
+            val = self.CharRef["CritChance"]
+        
+            # Apply status effect modifiers safely
             for StatusEffect in self.StatusEffects:
-                if StatusEffect.StatMod_CritChance is not None:
-                    Val *= StatusEffect.StatMod_CritChance
-            return max(round(Val), 1)
+                mod = getattr(StatusEffect, "StatMod_CritChance", None)
+                if mod is not None:
+                    val += mod
+                
+            return max(val, 0)
         @property
         def Willpower(self):
             Val = self.CharRef["derived_Willpower"]
