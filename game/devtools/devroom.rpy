@@ -43,6 +43,12 @@ label dev_battle_setup:
         $ PlayerAddItem("potion_heal_minor", 4)
     if not PlayerItemQty("potion_heal_regular") >= 1:
         $ PlayerAddItem("potion_heal_regular", 4)
+    if not PlayerItemQty("potion_lowrevival") >= 1:
+        $ PlayerAddItem("potion_lowrevival", 4)
+    if not PlayerItemQty("potion_medrevival") >= 1:
+        $ PlayerAddItem("potion_medrevival", 4)
+    if not PlayerItemQty("potion_highrevival") >= 1:
+        $ PlayerAddItem("potion_highrevival", 4)
     $ BattleSetup_ParseBattleMaps()
     call screen battle_setup()
     if _return is not True:

@@ -208,7 +208,7 @@ init python:
 
     class BattleEffect_RestoreHealth:
         def __init__(self, RestoreValue = 0.0, RatioFromMax = False):
-            self.RestoreValue = RestoreValue
+            self.RestoreValue = RestoreValue if RestoreValue is not None else 0.0
             self.RatioFromMax = RatioFromMax
         
         def ApplyEffect(self, Target):

@@ -302,3 +302,132 @@ init python:
             Result = []
             Result.append(Item_BonusColor + tra(_("Cures poisoning")) + "{/color}")
             return "".join(Result)
+########################################################
+    @RegisterBattleItemAction("PotionRevival")
+    class BattleItemAction_PotionRevival(BattleSkill):
+        ValidTargets = BATTLE_TARGETS.ANY_ALLY
+        SpendTurn = False
+        AllowDeadTargets = True
+
+        def __init__(self, Owner_BattleChar = None, ItemID = None):
+            super().__init__(Owner_BattleChar = Owner_BattleChar)
+            self.ItemID = ItemID
+            self.ItemName = all_items[self.ItemID]["name"]
+
+            raw_heal_arg = all_items[self.ItemID].get("on_use_battle_arg1")
+            self.RestoreBaseAmount = raw_heal_arg if raw_heal_arg is not None else 50
+
+        def Execute(self, Target):
+            # Mark character alive before applying health restoration
+            Target.IsAlive = True
+
+            Battle_ScheduledItemUse(
+                SourceAction = self,
+                UseTarget = Target,
+                SoundUse_CustomList = soundLib["usePotion"],
+                GenericLogLine = False,
+                Effects_OnTarget = [BattleEffect_RestoreHealth(RestoreValue = self.RestoreBaseAmount)])
+
+            Battle_AddLogEntry_Autoformat(
+                USER = self.Owner_BattleChar,
+                TARGET = Target,
+                ITEM_NAME = self.ItemName,
+                HEALTH_RECOVERED = self.RestoreBaseAmount,
+                String = tra(_("USER_NAME uses ITEM_NAME on TARGET_NAME, reviving them!")))
+            return
+
+        def CanExecute(self):
+            # Ensure at least one ally is downed (IsAlive == False)
+            Allies = BattleScene.BattleChars[self.Owner_BattleChar.BattleSide]
+            return any(not Ally.IsAlive for Ally in Allies)
+
+        def GetDesc(self):
+            Result = []
+            Result.append(Item_BonusColor + tra(_("Revives a fallen ally with health: %s")) % self.RestoreBaseAmount + "{/color}")
+            return "".join(Result)
+########################################################
+    @RegisterBattleItemAction("PotionMedRevival")
+    class BattleItemAction_MedPotionRevival(BattleSkill):
+        ValidTargets = BATTLE_TARGETS.ANY_ALLY
+        SpendTurn = False
+        AllowDeadTargets = True
+
+        def __init__(self, Owner_BattleChar = None, ItemID = None):
+            super().__init__(Owner_BattleChar = Owner_BattleChar)
+            self.ItemID = ItemID
+            self.ItemName = all_items[self.ItemID]["name"]
+
+            raw_heal_arg = all_items[self.ItemID].get("on_use_battle_arg1")
+            self.RestoreBaseAmount = raw_heal_arg if raw_heal_arg is not None else 1000
+
+        def Execute(self, Target):
+            # Mark character alive before applying health restoration
+            Target.IsAlive = True
+
+            Battle_ScheduledItemUse(
+                SourceAction = self,
+                UseTarget = Target,
+                SoundUse_CustomList = soundLib["usePotion"],
+                GenericLogLine = False,
+                Effects_OnTarget = [BattleEffect_RestoreHealth(RestoreValue = self.RestoreBaseAmount)])
+
+            Battle_AddLogEntry_Autoformat(
+                USER = self.Owner_BattleChar,
+                TARGET = Target,
+                ITEM_NAME = self.ItemName,
+                HEALTH_RECOVERED = self.RestoreBaseAmount,
+                String = tra(_("USER_NAME uses ITEM_NAME on TARGET_NAME, reviving them!")))
+            return
+
+        def CanExecute(self):
+            # Ensure at least one ally is downed (IsAlive == False)
+            Allies = BattleScene.BattleChars[self.Owner_BattleChar.BattleSide]
+            return any(not Ally.IsAlive for Ally in Allies)
+
+        def GetDesc(self):
+            Result = []
+            Result.append(Item_BonusColor + tra(_("Revives a fallen ally with health: %s")) % self.RestoreBaseAmount + "{/color}")
+            return "".join(Result)
+##########################################################
+    @RegisterBattleItemAction("PotionHighRevival")
+    class BattleItemAction_HighPotionRevival(BattleSkill):
+        ValidTargets = BATTLE_TARGETS.ANY_ALLY
+        SpendTurn = False
+        AllowDeadTargets = True
+
+        def __init__(self, Owner_BattleChar = None, ItemID = None):
+            super().__init__(Owner_BattleChar = Owner_BattleChar)
+            self.ItemID = ItemID
+            self.ItemName = all_items[self.ItemID]["name"]
+
+            raw_heal_arg = all_items[self.ItemID].get("on_use_battle_arg1")
+            self.RestoreBaseAmount = raw_heal_arg if raw_heal_arg is not None else 99999
+
+        def Execute(self, Target):
+            # Mark character alive before applying health restoration
+            Target.IsAlive = True
+
+            Battle_ScheduledItemUse(
+                SourceAction = self,
+                UseTarget = Target,
+                SoundUse_CustomList = soundLib["usePotion"],
+                GenericLogLine = False,
+                Effects_OnTarget = [BattleEffect_RestoreHealth(RestoreValue = self.RestoreBaseAmount)])
+
+            Battle_AddLogEntry_Autoformat(
+                USER = self.Owner_BattleChar,
+                TARGET = Target,
+                ITEM_NAME = self.ItemName,
+                HEALTH_RECOVERED = self.RestoreBaseAmount,
+                String = tra(_("USER_NAME uses ITEM_NAME on TARGET_NAME, reviving them!")))
+            return
+
+        def CanExecute(self):
+            # Ensure at least one ally is downed (IsAlive == False)
+            Allies = BattleScene.BattleChars[self.Owner_BattleChar.BattleSide]
+            return any(not Ally.IsAlive for Ally in Allies)
+
+        def GetDesc(self):
+            Result = []
+            Result.append(Item_BonusColor + tra(_("Revives a fallen ally with health: %s")) % self.RestoreBaseAmount + "{/color}")
+            return "".join(Result)

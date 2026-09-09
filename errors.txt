@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/devtools/battle_setup.rpy", line 204: add expects a non-empty block.
-    add selected_battle_map:
-                            ^
+File "game/data/battle_skills_actions/ItemActions.rpy", line 421: invalid syntax. Perhaps you forgot a comma?
+    HEALTH_RECOVERED = self.RestoreBaseAmount
+                           ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Mon Sep  7 13:08:47 2026
+Tue Sep  8 21:51:15 2026

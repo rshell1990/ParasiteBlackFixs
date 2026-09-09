@@ -172,7 +172,10 @@ screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSki
 screen Battle_CharSelectionPanels(SelectSkillTarget = False):
     layer "master"
     for BattleChar in BattleScene.BattleChars[0] + BattleScene.BattleChars[1]:
-        if BattleChar.IsAlive:
+        # Enable interaction if alive OR if awaiting target for a revival action
+        $ AllowDead = SelectSkillTarget and BattleScene.ActionAwaitingTarget and getattr(BattleScene.ActionAwaitingTarget, "AllowDeadTargets", False)
+        
+        if BattleChar.IsAlive or AllowDead:
             button:
                 if Battle_ShowSelectionOutlines:
                     style "frame_trans"
@@ -181,25 +184,24 @@ screen Battle_CharSelectionPanels(SelectSkillTarget = False):
                     keysym "%s" % (BattleScene.ActionAwaitingTarget_PotentialTargetsList.index(BattleChar) + 1)
                 else:
                     background Null()
+                
                 xsize int(BattleChar.BattleSkin.FocusRectSize[0] * (0.9 if BattleChar.PositionSlotIndex in [0, 1] else 1.0))
                 ysize int(BattleChar.BattleSkin.FocusRectSize[1] * (0.9 if BattleChar.PositionSlotIndex in [0, 1] else 1.0))
                 anchor (0.5, 1.0)
                 pos BattleChar_ScreenPositions[BattleChar.BattleSide][BattleChar.PositionSlotIndex]
-
                 offset BattleChar.BattleSkin.FocusRectOffset
 
                 if SelectSkillTarget:
                     if BattleChar in BattleScene.ActionAwaitingTarget_PotentialTargetsList:
-                        action  [Function(Battle_ClearActionAwaitingTarget),
-                                    Function(Battle_SetCharAction, BattleScene.ActionAwaitingTarget.Owner_BattleChar, BattleScene.ActionAwaitingTarget, BattleChar),
-                                    Function(Battle_SetUISelection, Side = BattleChar.BattleSide, Char = BattleChar),
-                                    TooltipSetUI(BattleChar.CharRef["name"]),
-                                    Return()]
+                        action [
+                            Function(Battle_ClearActionAwaitingTarget),
+                            Function(Battle_SetCharAction, BattleScene.ActionAwaitingTarget.Owner_BattleChar, BattleScene.ActionAwaitingTarget, BattleChar),
+                            Function(Battle_SetUISelection, Side = BattleChar.BattleSide, Char = BattleChar),
+                            TooltipSetUI(BattleChar.CharRef["name"]),
+                            Return()
+                        ]
                 else:
                     action Function(Battle_SetUISelection, Side = BattleChar.BattleSide, Char = BattleChar)
-
-                hovered [TooltipSetUI(Battle_GetTargetingTooltipForCurrentAction(BattleChar)), Function(BattleUI_BringInfoForward, BattleChar)]
-                unhovered [TooltipClearUI(), Function(BattleUI_BringInfoBackward, BattleChar)]
 
 init python:
     def Battle_GetTargetingTooltipForCurrentAction(TargetBattleChar):
@@ -702,7 +704,8 @@ screen Battle_ItemMenu(BattleChar):
                             sensitive   BattleChar in BattleScene.ActiveCharsList
                             hovered     TooltipSetUI(GetItemDesc(ItemID, BattleChar = BattleChar))
                             unhovered   TooltipClearUI()
-                            if player_inv[ItemID] >= 1:
+                            
+                            if player_inv[ItemID] >= 1 and all_items[ItemID]["on_use_battle"] in ItemActionLib:
                                 if Battle_CanExecuteItemAction(ItemActionLib[all_items[ItemID]["on_use_battle"]](Owner_BattleChar = BattleChar, ItemID = ItemID)):
                                     action [Hide("Battle_ItemMenu"), 
                                         Function(Battle_PlayerScheduleActionOrEnterTargetingMode, BattleChar, 
@@ -712,10 +715,8 @@ screen Battle_ItemMenu(BattleChar):
 
                             if ItemNum < 9:
                                 keysym f"K_{ItemNum + 1}"
-                                # text is str(ItemNum + 1)
                             elif ItemNum == 9:
                                 keysym "K_0"
-                                # text is str(0)
 
                         if ItemNum <= 9:
                             add "images/gui/battle/caret_up.webp":
@@ -729,14 +730,12 @@ screen Battle_ItemMenu(BattleChar):
                             text "x" + str(player_inv[ItemID]):
                                 size 20
                                 align (1.0, 0.9)
-                            
 
             textbutton _("(e) Close"):
                 text_size 40
                 action [TooltipClearUI(), Hide("Battle_ItemMenu")]
                 keysym ["K_e", "game_menu"]
-################################################################################################################
-################################################################################################################
+
 ################################################################################################################
 
 screen Battle_NewTurnEffect():

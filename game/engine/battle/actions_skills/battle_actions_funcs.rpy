@@ -1,4 +1,20 @@
 init python:
+    def Battle_GetAllTargetsList(ActionInstance):
+        Owner = ActionInstance.Owner_BattleChar
+        
+        # Check if the action specifically targets dead/fallen allies
+        if getattr(ActionInstance, "AllowDeadTargets", False):
+            # Target dead allies on the owner's side
+            return [Char for Char in BattleScene.BattleChars[Owner.BattleSide] if not Char.IsAlive]
+        
+        # Standard targeting logic for living allies/enemies
+        if ActionInstance.ValidTargets == BATTLE_TARGETS.ANY_ALLY:
+            return Battle_GetAllAlliesOfChar(Owner)
+        elif ActionInstance.ValidTargets == BATTLE_TARGETS.ANY_ENEMY:
+            return Battle_GetAllEnemiesOfChar(Owner)
+        else:
+            return Battle_GetAliveCharsOnSide(Owner.BattleSide)
+
     def Battle_TryLandStrike(attacker, target, GuaranteedHit = False):
         if GuaranteedHit == True:
             return True
@@ -37,6 +53,25 @@ init python:
         ActionTarget = None
 
         OwnSide = BattleChar.BattleSide
+        
+        # Fetch potential targets (respects AllowDeadTargets)
+        PotentialTargets = Battle_GetAllTargetsList(ActionInstance)
+
+        if ActionInstance.ValidTargets == BATTLE_TARGETS.SELF:
+            ActionTarget = ActionInstance.Owner_BattleChar
+        elif ActionInstance.ValidTargets in [BATTLE_TARGETS.ANY_ALLY, BATTLE_TARGETS.ALLY_NOT_SELF, BATTLE_TARGETS.ANY_ENEMY]:
+            if len(PotentialTargets) == 1:
+                ActionTarget = PotentialTargets[0]
+        elif ActionInstance.ValidTargets in [BATTLE_TARGETS.ALL_ENEMIES, BATTLE_TARGETS.ALL_ALLIES, BATTLE_TARGETS.EVERYONE, BATTLE_TARGETS.ALL_ALLIES_NOT_SELF]:
+            if len(PotentialTargets) > 0:
+                ActionTarget = PotentialTargets[0]
+
+        if ActionTarget is not None:
+            Battle_SetCharAction(BattleChar, ActionInstance, ActionTarget)
+        else:
+            BattleScene.ActionAwaitingTarget = ActionInstance
+            BattleScene.ActionAwaitingTarget_PotentialTargetsList = PotentialTargets
+        return
 
         Alive_Allies = Battle_GetAliveCharsOnSide(Side = (0 if OwnSide == 0 else 1))
         Alive_Enemies = Battle_GetAliveCharsOnSide(Side = (1 if OwnSide == 0 else 0))
@@ -90,6 +125,10 @@ init python:
     def Battle_GetAllTargetsList(SkillInstance):    
         OwnSide = SkillInstance.Owner_BattleChar.BattleSide
         OpposingSide = (0 if OwnSide == 1 else 1)
+        # Handle revival / dead target actions
+        if getattr(SkillInstance, "AllowDeadTargets", False):
+            return [Char for Char in BattleScene.BattleChars[OwnSide] if not Char.IsAlive]
+
         if SkillInstance.ValidTargets == BATTLE_TARGETS.SELF:
             return [SkillInstance.Owner_BattleChar]
         elif SkillInstance.ValidTargets == BATTLE_TARGETS.ANY_ALLY:

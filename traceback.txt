@@ -5,57 +5,23 @@ While running game code:
     call processDialogue("dev_root") from _call_processDialogue_46
   File "game/engine/dialogue/labels.rpy", line 15, in script call
     $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script call
+  File "game/devtools/devroom.rpy", line 60, in script call
     $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/engine/battle/MainLoop.rpy", line 509, in script
-    call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 659, in execute
-    frame:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 662, in execute
-    vbox:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 663, in execute
-    vpgrid:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 666, in execute
-    for SkillIndex, SkillInstance in enumerate(BattleChar.Skills):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 667, in execute
-    if SkillIndex < 9:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 668, in execute
-    use Battle_SkillIcon(SkillInstance, HotKey = f"K_{SkillIndex + 1}", HotKeyText = str(SkillIndex + 1), FromSkillMenu = True, WaitForPlayerInput= WaitForPlayerInput)
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 112, in execute
-    fixed:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in execute
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in keywords
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 122, in keywords
-    if (SkillInstance.OncePerTurn and SkillInstance.UsedThisTurn):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 127, in keywords
-    else:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in keywords
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in <module>
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-                                                    ~~~~~~~~~~~~~~~~~~~~~~~~^^ 
-  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
-    if not super(BattleSkill_SummonerSummon, self).CanExecute():
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^                     
-NameError: name 'BattleSkill_SummonerSummon' is not defined
+  File "game/engine/battle/MainLoop.rpy", line 530, in script
+    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+  File "game/engine/battle/MainLoop.rpy", line 530, in <module>
+    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "game/engine/battle/actions_skills/ScheduledItemUse.rpy", line 68, in ExecuteAction
+    OnHitEffect.ApplyEffect(Target)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "game/data/battle_effects/BattleEffect.rpy", line 218, in ApplyEffect
+    Battle_RestoreHealth(Target, self.RestoreValue)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 103, in Battle_RestoreHealth
+    Value = Value * Battle_GetHealthRecoveryMod(BattleChar)
+            ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
 
 -- Full Traceback ------------------------------------------------------------
 
@@ -64,117 +30,31 @@ Traceback (most recent call last):
     call processDialogue("dev_root") from _call_processDialogue_46
   File "game/engine/dialogue/labels.rpy", line 15, in script call
     $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script call
+  File "game/devtools/devroom.rpy", line 60, in script call
     $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/engine/battle/MainLoop.rpy", line 509, in script
-    call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
-  File "renpy/ast.py", line 2251, in execute
-    self.call("execute")
-    ~~~~~~~~~^^^^^^^^^^^
-  File "renpy/ast.py", line 2205, in call
-    return renpy.statements.call(method, parsed, *args, **kwargs)
-           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/statements.py", line 381, in call
-    return method(parsed, *args, **kwargs)
-           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/common/000statements.rpy", line 698, in execute_call_screen
-    store._return = renpy.call_screen(name, *args, **kwargs)
-                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/exports/statementexports.py", line 341, in call_screen
-    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
-         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/ui.py", line 306, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/core.py", line 2163, in interact
-    repeat, rv = self.interact_core(
-                 ~~~~~~~~~~~~~~~~~~^
-        preloads=preloads,
-        ^^^^^^^^^^^^^^^^^^
-    ...<4 lines>...
-        **kwargs,
-        ^^^^^^^^^
-    )
-    ^
-  File "renpy/display/core.py", line 2709, in interact_core
-    root_widget.visit_all(lambda d: d.per_interact())
-    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/screen.py", line 503, in visit_all
-    callback(self)
-    ~~~~~~~~^^^^^^
-  File "renpy/display/core.py", line 2709, in <lambda>
-    root_widget.visit_all(lambda d: d.per_interact())
-                                    ~~~~~~~~~~~~~~^^ 
-  File "renpy/display/screen.py", line 514, in per_interact
-    self.update()
-    ~~~~~~~~~~~^^
-  File "renpy/display/screen.py", line 715, in update
-    self.screen.function(**self.scope)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 659, in execute
-    frame:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 662, in execute
-    vbox:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 663, in execute
-    vpgrid:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 666, in execute
-    for SkillIndex, SkillInstance in enumerate(BattleChar.Skills):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 667, in execute
-    if SkillIndex < 9:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 668, in execute
-    use Battle_SkillIcon(SkillInstance, HotKey = f"K_{SkillIndex + 1}", HotKeyText = str(SkillIndex + 1), FromSkillMenu = True, WaitForPlayerInput= WaitForPlayerInput)
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 112, in execute
-    fixed:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in execute
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in keywords
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 122, in keywords
-    if (SkillInstance.OncePerTurn and SkillInstance.UsedThisTurn):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 127, in keywords
-    else:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in keywords
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-  File "renpy/python.py", line 1308, in py_eval
-    return py_eval_bytecode(code, globals, locals)
-           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1301, in py_eval_bytecode
-    return eval(bytecode, globals, locals)
-           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in <module>
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-                                                    ~~~~~~~~~~~~~~~~~~~~~~~~^^ 
-  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
-    if not super(BattleSkill_SummonerSummon, self).CanExecute():
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^                     
-NameError: name 'BattleSkill_SummonerSummon' is not defined
+  File "game/engine/battle/MainLoop.rpy", line 530, in script
+    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 530, in <module>
+    $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "game/engine/battle/actions_skills/ScheduledItemUse.rpy", line 68, in ExecuteAction
+    OnHitEffect.ApplyEffect(Target)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "game/data/battle_effects/BattleEffect.rpy", line 218, in ApplyEffect
+    Battle_RestoreHealth(Target, self.RestoreValue)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 103, in Battle_RestoreHealth
+    Value = Value * Battle_GetHealthRecoveryMod(BattleChar)
+            ~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Mon Sep  7 13:55:00 2026
+Tue Sep  8 20:32:52 2026

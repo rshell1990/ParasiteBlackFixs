@@ -1,252 +1,35 @@
-2026-09-07 18:44:01 UTC
+2026-09-09 02:48:56 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 507 ms
-Loading error handling took 2652 ms
+Early init took 437 ms
+Loading error handling took 2194 ms
 10846 script files skipped.
-Loading script took 7782 ms
-Loading save slot metadata took 60 ms
-Loading persistent took 0 ms
-Initialized steam.
-Running init code took 622 ms
-Loading analysis data took 18 ms
-Analyze and compile ATL took 32 ms
-Reloading save slot metadata took 10 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 158 ms
-Cleaning cache took 1 ms
-Making clean stores took 0 ms
-Initial gc took 144 ms
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 6 ms
-Init translation took 9 ms
-Cleaning stores took 0 ms
-Load screen analysis took 0 ms
-Analyze screens took 31 ms
-Save screen analysis took 50 ms
-Save pyanalysis took 0 ms
-Save bytecode took 247 ms
-Running _start took 1 ms
-Interface start took 787 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-
-Full traceback:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "renpy/ast.py", line 1193, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1276, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 29, in BattleCharFromCharID
-    AutoAllocateAttributes(StoryChar)
-    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "game/engine/char_template/functions_stats_attrs.rpy", line 317, in AutoAllocateAttributes
-    weights = sorted(list(attr_allocation_weights[auto_attr_allocation].keys()))
-                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^         
-KeyError: 'summoner'
-
-While running game code:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 29, in BattleCharFromCharID
-    AutoAllocateAttributes(StoryChar)
-    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "game/engine/char_template/functions_stats_attrs.rpy", line 317, in AutoAllocateAttributes
-    weights = sorted(list(attr_allocation_weights[auto_attr_allocation].keys()))
-                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^         
-KeyError: 'summoner'
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed
-Resetting cache.
-Early init took 500 ms
-Loading error handling took 3333 ms
-10846 script files skipped.
-Loading script took 2122 ms
-Loading save slot metadata took 50 ms
-Loading persistent took 2 ms
-Initialized steam.
-Running init code took 295 ms
-Loading analysis data took 19 ms
-Analyze and compile ATL took 36 ms
-Reloading save slot metadata took 9 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 171 ms
+Loading script took 1729 ms
+Loading save slot metadata took 56 ms
+Loading persistent took 8 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 437 ms
+Loading analysis data took 16 ms
+Analyze and compile ATL took 31 ms
+Reloading save slot metadata took 16 ms
+Dump and make backups took 0 ms
 Cleaning cache took 0 ms
 Making clean stores took 0 ms
-Initial gc took 164 ms
+Initial gc took 80 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0 ms
-Init translation took 14 ms
+Creating interface object took 16 ms
+Init translation took 0 ms
 Cleaning stores took 0 ms
-Load screen analysis took 2 ms
-Analyze screens took 31 ms
-Save screen analysis took 42 ms
-Save pyanalysis took 0 ms
-Save bytecode took 1 ms
-Running _start took 1 ms
-Interface start took 969 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "renpy/ast.py", line 1193, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1276, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 29, in BattleCharFromCharID
-    AutoAllocateAttributes(StoryChar)
-    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "game/engine/char_template/functions_stats_attrs.rpy", line 317, in AutoAllocateAttributes
-    weights = sorted(list(attr_allocation_weights[auto_attr_allocation].keys()))
-                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^         
-KeyError: 'summoner'
-
-While running game code:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 29, in BattleCharFromCharID
-    AutoAllocateAttributes(StoryChar)
-    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "game/engine/char_template/functions_stats_attrs.rpy", line 317, in AutoAllocateAttributes
-    weights = sorted(list(attr_allocation_weights[auto_attr_allocation].keys()))
-                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^         
-KeyError: 'summoner'
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed
-Resetting cache.
-Early init took 500 ms
-Loading error handling took 3410 ms
-10846 script files skipped.
-Loading script took 2242 ms
-Loading save slot metadata took 66 ms
-Loading persistent took 1 ms
-Initialized steam.
-Running init code took 307 ms
-Loading analysis data took 32 ms
-Analyze and compile ATL took 52 ms
-Reloading save slot metadata took 9 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 169 ms
-Cleaning cache took 1 ms
-Making clean stores took 0 ms
-Initial gc took 198 ms
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0 ms
-Init translation took 20 ms
-Cleaning stores took 1 ms
-Load screen analysis took 108 ms
-Analyze screens took 7 ms
+Load screen analysis took 62 ms
+Analyze screens took 3 ms
 Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
 Save bytecode took 0 ms
-Running _start took 3 ms
-Interface start took 1036 ms
+Running _start took 2 ms
+Interface start took 1561 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -261,100 +44,33 @@ Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
 Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
 Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "renpy/ast.py", line 1193, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1276, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 29, in BattleCharFromCharID
-    AutoAllocateAttributes(StoryChar)
-    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "game/engine/char_template/functions_stats_attrs.rpy", line 317, in AutoAllocateAttributes
-    weights = sorted(list(attr_allocation_weights[auto_attr_allocation].keys()))
-                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^         
-KeyError: 'summoner'
-
-While running game code:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 29, in BattleCharFromCharID
-    AutoAllocateAttributes(StoryChar)
-    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
-  File "game/engine/char_template/functions_stats_attrs.rpy", line 317, in AutoAllocateAttributes
-    weights = sorted(list(attr_allocation_weights[auto_attr_allocation].keys()))
-                          ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^         
-KeyError: 'summoner'
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed
 Resetting cache.
-Early init took 499 ms
-Loading error handling took 3340 ms
+Early init took 398 ms
+Loading error handling took 2586 ms
 10846 script files skipped.
-Loading script took 2195 ms
-Loading save slot metadata took 55 ms
+Loading script took 2131 ms
+Loading save slot metadata took 41 ms
 Loading persistent took 1 ms
-Initialized steam.
-Running init code took 325 ms
-Loading analysis data took 27 ms
-Analyze and compile ATL took 42 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 296 ms
+Loading analysis data took 37 ms
+Analyze and compile ATL took 52 ms
 Reloading save slot metadata took 11 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 162 ms
+Dump and make backups took 0 ms
 Cleaning cache took 0 ms
 Making clean stores took 1 ms
-Initial gc took 213 ms
+Initial gc took 181 ms
 DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 1 ms
-Init translation took 16 ms
-Cleaning stores took 0 ms
-Load screen analysis took 0 ms
-Analyze screens took 35 ms
-Save screen analysis took 80 ms
+Creating interface object took 0 ms
+Init translation took 13 ms
+Cleaning stores took 1 ms
+Load screen analysis took 55 ms
+Analyze screens took 3 ms
+Save screen analysis took 0 ms
 Save pyanalysis took 0 ms
-Save bytecode took 1 ms
-Running _start took 3 ms
-Interface start took 962 ms
+Save bytecode took 0 ms
+Running _start took 1 ms
+Interface start took 1320 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -367,332 +83,60 @@ Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 25
 Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Resetting cache.
+Early init took 412 ms
+Loading error handling took 2443 ms
+12164 script files skipped.
+Loading script took 120 ms
+Loading save slot metadata took 18 ms
+Loading persistent took 0 ms
+
+File "game/data/battle_skills_actions/ItemActions.rpy", line 421: invalid syntax. Perhaps you forgot a comma?
+    HEALTH_RECOVERED = self.RestoreBaseAmount
+                           ^
+DPI scale factor: 1.000000
+Interface start took 453 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
 Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
 Maximum texture size: 4096x4096
-
-Full traceback:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "renpy/ast.py", line 1193, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1276, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
-    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
-    Battle_SetBattleCharSkillPool(self, "Normal")
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-                         ~~~~~~~~^^^^^^^^^                                                                                                                          
-KeyError: 'Summon'
-
-While running game code:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/devtools/devroom.rpy", line 58, in <module>
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 204, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 56, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
-    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
-    Battle_SetBattleCharSkillPool(self, "Normal")
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in Battle_SetBattleCharSkillPool
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 160, in <lambda>
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-                         ~~~~~~~~^^^^^^^^^                                                                                                                          
-KeyError: 'Summon'
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
 Resetting cache.
-Early init took 484 ms
-Loading error handling took 3354 ms
+Early init took 423 ms
+Loading error handling took 2627 ms
 10846 script files skipped.
-Loading script took 2235 ms
-Loading save slot metadata took 52 ms
+Loading script took 2258 ms
+Loading save slot metadata took 41 ms
 Loading persistent took 0 ms
-Initialized steam.
-Running init code took 307 ms
-Loading analysis data took 21 ms
-Analyze and compile ATL took 46 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 372 ms
+Loading analysis data took 17 ms
+Analyze and compile ATL took 34 ms
 Reloading save slot metadata took 10 ms
 Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 165 ms
+Dump and make backups took 35 ms
 Cleaning cache took 1 ms
 Making clean stores took 0 ms
-Initial gc took 197 ms
+Initial gc took 129 ms
 DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
 Creating interface object took 0 ms
-Init translation took 17 ms
-Cleaning stores took 0 ms
-Load screen analysis took 0 ms
-Analyze screens took 34 ms
-Save screen analysis took 50 ms
-Save pyanalysis took 0 ms
-Save bytecode took 1 ms
-Running _start took 2 ms
-Interface start took 1012 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-
-Full traceback:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script call
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/engine/battle/MainLoop.rpy", line 509, in script
-    call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
-  File "renpy/ast.py", line 2251, in execute
-    self.call("execute")
-    ~~~~~~~~~^^^^^^^^^^^
-  File "renpy/ast.py", line 2205, in call
-    return renpy.statements.call(method, parsed, *args, **kwargs)
-           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/statements.py", line 381, in call
-    return method(parsed, *args, **kwargs)
-           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/common/000statements.rpy", line 698, in execute_call_screen
-    store._return = renpy.call_screen(name, *args, **kwargs)
-                    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/exports/statementexports.py", line 341, in call_screen
-    rv = renpy.ui.interact(mouse="screen", type="screen", roll_forward=roll_forward)
-         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/ui.py", line 306, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/core.py", line 2163, in interact
-    repeat, rv = self.interact_core(
-                 ~~~~~~~~~~~~~~~~~~^
-        preloads=preloads,
-        ^^^^^^^^^^^^^^^^^^
-    ...<4 lines>...
-        **kwargs,
-        ^^^^^^^^^
-    )
-    ^
-  File "renpy/display/core.py", line 2709, in interact_core
-    root_widget.visit_all(lambda d: d.per_interact())
-    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/screen.py", line 503, in visit_all
-    callback(self)
-    ~~~~~~~~^^^^^^
-  File "renpy/display/core.py", line 2709, in <lambda>
-    root_widget.visit_all(lambda d: d.per_interact())
-                                    ~~~~~~~~~~~~~~^^ 
-  File "renpy/display/screen.py", line 514, in per_interact
-    self.update()
-    ~~~~~~~~~~~^^
-  File "renpy/display/screen.py", line 715, in update
-    self.screen.function(**self.scope)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 659, in execute
-    frame:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 662, in execute
-    vbox:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 663, in execute
-    vpgrid:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 666, in execute
-    for SkillIndex, SkillInstance in enumerate(BattleChar.Skills):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 667, in execute
-    if SkillIndex < 9:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 668, in execute
-    use Battle_SkillIcon(SkillInstance, HotKey = f"K_{SkillIndex + 1}", HotKeyText = str(SkillIndex + 1), FromSkillMenu = True, WaitForPlayerInput= WaitForPlayerInput)
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 112, in execute
-    fixed:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in execute
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in keywords
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 122, in keywords
-    if (SkillInstance.OncePerTurn and SkillInstance.UsedThisTurn):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 127, in keywords
-    else:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in keywords
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-  File "renpy/python.py", line 1308, in py_eval
-    return py_eval_bytecode(code, globals, locals)
-           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1301, in py_eval_bytecode
-    return eval(bytecode, globals, locals)
-           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in <module>
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-                                                    ~~~~~~~~~~~~~~~~~~~~~~~~^^ 
-  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
-    if not super(BattleSkill_SummonerSummon, self).CanExecute():
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^                     
-NameError: name 'BattleSkill_SummonerSummon' is not defined
-
-While running game code:
-  File "game/devtools/devroom.rpy", line 16, in script call
-    call processDialogue("dev_root") from _call_processDialogue_46
-  File "game/engine/dialogue/labels.rpy", line 15, in script call
-    $ renpy.call(currentDNode.label)
-  File "game/devtools/devroom.rpy", line 58, in script call
-    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
-  File "game/engine/battle/MainLoop.rpy", line 509, in script
-    call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 653, in execute
-    screen Battle_SkillMenu(BattleChar, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 659, in execute
-    frame:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 662, in execute
-    vbox:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 663, in execute
-    vpgrid:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 666, in execute
-    for SkillIndex, SkillInstance in enumerate(BattleChar.Skills):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 667, in execute
-    if SkillIndex < 9:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 668, in execute
-    use Battle_SkillIcon(SkillInstance, HotKey = f"K_{SkillIndex + 1}", HotKeyText = str(SkillIndex + 1), FromSkillMenu = True, WaitForPlayerInput= WaitForPlayerInput)
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 111, in execute
-    screen Battle_SkillIcon(SkillInstance, HotKey = None, HotKeyText = None, FromSkillMenu = False, WaitForPlayerInput = False):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 112, in execute
-    fixed:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in execute
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 114, in keywords
-    imagebutton:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 119, in keywords
-    if WaitForPlayerInput:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 120, in keywords
-    if SkillInstance.Owner_BattleChar in BattleScene.ActiveCharsList:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 122, in keywords
-    if (SkillInstance.OncePerTurn and SkillInstance.UsedThisTurn):
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 127, in keywords
-    else:
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in keywords
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-  File "game/engine/battle/ui/battle_ui_screens.rpy", line 129, in <module>
-    if SkillInstance.OwnerCharCanPaySkillCost() and SkillInstance.CanExecute():
-                                                    ~~~~~~~~~~~~~~~~~~~~~~~~^^ 
-  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
-    if not super(BattleSkill_SummonerSummon, self).CanExecute():
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^                     
-NameError: name 'BattleSkill_SummonerSummon' is not defined
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed
-Resetting cache.
-Early init took 516 ms
-Loading error handling took 3603 ms
-10846 script files skipped.
-Loading script took 2260 ms
-Loading save slot metadata took 63 ms
-Loading persistent took 0 ms
-Initialized steam.
-Running init code took 311 ms
-Loading analysis data took 21 ms
-Analyze and compile ATL took 41 ms
-Reloading save slot metadata took 10 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 192 ms
-Cleaning cache took 0 ms
-Making clean stores took 1 ms
-Initial gc took 255 ms
-DPI scale factor: 1.000000
-nvdrs: Loaded, about to disable thread optimizations.
-nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 0 ms
-Init translation took 25 ms
+Init translation took 11 ms
 Cleaning stores took 0 ms
 Load screen analysis took 1 ms
-Analyze screens took 65 ms
-Save screen analysis took 56 ms
+Analyze screens took 28 ms
+Save screen analysis took 38 ms
 Save pyanalysis took 0 ms
-Save bytecode took 1 ms
-Running _start took 2 ms
-Interface start took 928 ms
+Save bytecode took 118 ms
+Running _start took 3 ms
+Interface start took 1274 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -707,7 +151,87 @@ Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
 Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
 Maximum texture size: 4096x4096
-INFO:renpy_warp_service:connected to renpy warp socket server on :40111
-INFO:renpy_warp_service:closing websocket connection :40111
-INFO:renpy_warp_service:connection replaced, service exiting
-INFO:renpy_warp_service:service closed
+Resetting cache.
+Early init took 412 ms
+Loading error handling took 2476 ms
+10846 script files skipped.
+Loading script took 1947 ms
+Loading save slot metadata took 41 ms
+Loading persistent took 0 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 346 ms
+Loading analysis data took 16 ms
+Analyze and compile ATL took 33 ms
+Reloading save slot metadata took 13 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
+Dump and make backups took 44 ms
+Cleaning cache took 0 ms
+Making clean stores took 0 ms
+Initial gc took 136 ms
+DPI scale factor: 1.000000
+Creating interface object took 0 ms
+Init translation took 10 ms
+Cleaning stores took 0 ms
+Load screen analysis took 1 ms
+Analyze screens took 25 ms
+Save screen analysis took 33 ms
+Save pyanalysis took 0 ms
+Save bytecode took 1 ms
+Running _start took 2 ms
+Interface start took 1252 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 429 ms
+Loading error handling took 2521 ms
+10846 script files skipped.
+Loading script took 2238 ms
+Loading save slot metadata took 42 ms
+Loading persistent took 0 ms
+Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
+Running init code took 321 ms
+Loading analysis data took 18 ms
+Analyze and compile ATL took 39 ms
+Reloading save slot metadata took 10 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
+Dump and make backups took 36 ms
+Cleaning cache took 0 ms
+Making clean stores took 1 ms
+Initial gc took 181 ms
+DPI scale factor: 1.000000
+Creating interface object took 0 ms
+Init translation took 12 ms
+Cleaning stores took 0 ms
+Load screen analysis took 1 ms
+Analyze screens took 27 ms
+Save screen analysis took 46 ms
+Save pyanalysis took 0 ms
+Save bytecode took 1 ms
+Running _start took 2 ms
+Interface start took 1167 ms
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1600, 900)
+swap interval: 1 frames
+Windowed mode.
+Vendor: 'ATI Technologies Inc.'
+Renderer: 'Radeon RX550/550 Series'
+Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
+Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096
+INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+Screen sizes: virtual=(1920, 1080) physical=(1600, 829) drawable=(1600, 829)
+Maximum texture size: 4096x4096

@@ -38,12 +38,16 @@ init python:
         return
     def Battle_GetScene():
         return BattleScene
+
     def Battle_GetAliveCharsOnSide(Side):
         return [BattleChar for BattleChar in BattleScene.BattleChars[Side] if BattleChar.IsAlive]
+
     def Battle_GetAllCharsOnSide(Side):
         return BattleScene.BattleChars[Side]
+
     def Battle_GetAllChars():
         return BattleScene.BattleChars[0] + BattleScene.BattleChars[1]
+
     def Battle_GetStatusEffect(BattleChar, StatusEffectID):
         for StatusEffect in BattleChar.StatusEffects:
             if StatusEffect.ID == StatusEffectID:
@@ -54,6 +58,14 @@ init python:
             if StatusEffect.ID == StatusEffectID:
                 return True
         return False
+    def Battle_GetAllCharsWhoCanAct(Side = None):
+        # Only alive characters without stun can enter the action turn queue
+        ReturnList = Battle_GetAliveCharsOnSide(Side)
+
+        for BattleChar in reversed(ReturnList):
+            if Battle_HasStatusEffect(BattleChar, "stun"):
+                ReturnList.remove(BattleChar)
+        return ReturnList
     def Battle_SetCharAction(BattleChar, ActionInstance, Target):
         BattleScene.SelectedActionToProcess = BattleActionInstance(BattleChar, ActionInstance, Target)
         return
@@ -443,7 +455,7 @@ label Battle_Start:
     hide screen Battle_BottomPanel
     hide screen Battle_CharInfoOnBattlefield
     hide screen Battle_TurnCounter
-    hide screen Battle_CharSelectionPanels
+    hide screen Battle_CharSelectionPanelsBattle_CharSelectionPanels
     scene black 
     with dissolve
 
@@ -526,12 +538,14 @@ label Battle_Loop:
 
                     while len(BattleScene.ScheduledAttackQueue) > 0:
                         $ BattleScene.ScheduledActionToExecute = BattleScene.ScheduledAttackQueue.pop()
-                        if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and any([BattleChar.IsAlive for BattleChar in BattleScene.ScheduledActionToExecute.TargetList]):
+                        # Check if action allows dead targets
+                        $ ActionAllowsDead = getattr(BattleScene.ScheduledActionToExecute, "AllowDeadTargets", False)
+                        $ ValidTargetPresent = any([BattleChar.IsAlive or ActionAllowsDead for BattleChar in BattleScene.ScheduledActionToExecute.TargetList])
+
+                        if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and ValidTargetPresent:
                             $ BattleScene.ScheduledActionToExecute.ExecuteAction()
                             $ BattleScene.ScheduledActionToExecute = None
 
-                        # reason this exists is, if you enable autobattle and shift+r 
-                        # or load a battle-save that had autobattle enabled, renpy chokes up
                         if BattleScene.AIControlSide[0] == True:
                             call screen Battle_AvoidEmptyLoopSpin()
                 $ Battle_EndIfEitherSideDefeated(BattleScene)

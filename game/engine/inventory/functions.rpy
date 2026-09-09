@@ -104,8 +104,12 @@ init -1 python:
 ######## story/battle desc
         if IsPlayerInBattle() and BattleScene.PostBattleFlag == False:
             # in battle only care for items that are displayed
-            if item_dict["on_use_battle"] is not None:
-                text_strings.append(ItemActionLib[item_dict["on_use_battle"]](Owner_BattleChar = BattleChar, ItemID = ItemID).GetDesc())
+            action_key = item_dict.get("on_use_battle")
+            if action_key is not None:
+                if action_key in ItemActionLib:
+                    text_strings.append(ItemActionLib[action_key](Owner_BattleChar = BattleChar, ItemID = ItemID).GetDesc())
+                else:
+                    text_strings.append("{color=#ff5555}Missing action handler: " + str(action_key) + "{/color}")
         else:
             if item_dict["on_use_story"] is not None:
                 for Entry in item_dict["on_use_story"]:
@@ -128,10 +132,13 @@ init -1 python:
                         text_strings.append(BonusColor + tra(_("Cures poisoning")) + "{/color}")
             else:
                 if item_dict["show_battle_desc_in_story_mode"] == True:
-                    #text_strings.append("\n")
                     text_strings.append(tra(_("In battle:")))
-                    ItemActionInstance = ItemActionLib[item_dict["on_use_battle"]](ItemID = ItemID, Owner_PBCharID = "mc")
-                    text_strings.append(ItemActionInstance.GetDesc())
+                    action_key = item_dict.get("on_use_battle")
+                    if action_key in ItemActionLib:
+                        ItemActionInstance = ItemActionLib[action_key](ItemID = ItemID, Owner_PBCharID = "mc")
+                        text_strings.append(ItemActionInstance.GetDesc())
+                    else:
+                        text_strings.append("{color=#ff5555}Missing action handler: " + str(action_key) + "{/color}")
                 ## full on cheese mode
                 if "battle_perma_effects" in item_dict:
                     if item_dict["battle_perma_effects"]:
@@ -142,7 +149,57 @@ init -1 python:
                             elif EffID == "FaymoreBladeRegenParty":
                                 Str = tra(_("In battle, heals 5% of current HP for the party every turn"))
                                 text_strings.append(BonusColor + Str + "{/color}")
-                                # 
+
+################## attributes
+        for AddAttribute, AttributeID in [
+            ("add_attr_barter", "Barter"),
+            ("add_attr_dex",    "Dexterity"),
+            ("add_attr_str",    "Strength"),
+            ("add_attr_luck",   "Luck"),
+            ("add_attr_end",    "Endurance"),
+            ("add_attr_agi",    "Agility")]:
+            if item_dict[AddAttribute] != 0:
+                if item_dict[AddAttribute] > 0:
+                    text_strings.append(BonusColor + "%s: %s" % (tra(GUI_STAT_NAME_MAP[AttributeID]), item_dict[AddAttribute]) + "{/color}")
+                else:
+                    text_strings.append(MalusColor + "%s: %s" % (tra(GUI_STAT_NAME_MAP[AttributeID]), item_dict[AddAttribute]) + "{/color}")
+
+################# derived stats
+### damage
+        if item_dict["Damage"] != 0:
+            text_strings.append(BonusColor + tra(_("Damage: %s")) % item_dict["Damage"] + "{/color}")
+### armor
+        if item_dict["Armor"] != 0:
+            text_strings.append(BonusColor + tra(_("Armor: %s")) % item_dict["Armor"] + "{/color}")
+
+### mres
+        if item_dict["add_stat_mres"] != 0:
+            text_strings.append(BonusColor + tra(_("Magic res.: %s")) % item_dict["add_stat_mres"] + "{/color}")
+
+### crit chance
+        if item_dict["add_stat_crit_chance"] != 0:
+            text_strings.append(BonusColor + tra(_("Critical chance: %s%%")) % item_dict["add_stat_crit_chance"] + "{/color}")
+
+################################
+        if item_dict["cannot_lose"]:
+            text_strings.append("{color=#ffc4c4}" + tra(_("Cannot transfer")) + "{/color}")
+        else:
+            if ShopNotInterestedFlag and ItemID != "gold":
+                text_strings.append("{size=27}{color=#c2c2c2}" + tra(_("{i}They are not interested in that item.{/i}")) + "{/size}{/color}")
+            elif ShopCannotAffordFlag:
+                text_strings.append("{size=27}{color=#c2c2c2}" + tra(_("{i}They cannot afford to buy that item from you.{/i}")) + "{/size}{/color}")
+            else:
+                if Amount == 1:
+                    text_strings.append("{color=#fff7cc}" + tra(_("Value: %s")) % str(item_value) + "{/color}")
+                else:
+                    text_strings.append("{color=#fff7cc}" + tra(_("Value: %s (%s)")) % (str(item_value), str(item_value * Amount)) + "{/color}")
+
+        if DEV_VARIABLES["HOVER_ITEM_IDS_AND_ORIG_VALUE"]:
+            text_strings.append(tra(_("{color=#949494}(DEV) ItemID: %s{/color}")) % ItemID)
+            if ShopLM:
+                text_strings.append(tra(_("{color=#949494}(DEV) original item value: %s (%s){/color}")) % (str(item_dict["value_per_unit"]), str(item_dict["value_per_unit"] * Amount)))
+
+        return "\n".join(text_strings)
 
 ################## attributes
         for AddAttribute, AttributeID in [

@@ -180,4 +180,40 @@ init python:
         "shop_category":"magecraft",
 
         "sort_order":10,
+        }
+    static_item_defs["potion_lowrevival"] = {
+        "name":_("LowRevival"),
+        "plural":_("LowRevival"),
+        "desc":_("A small golden, creamy liquid in a bottle."),
+        "icon":"images/items/consum/revival.webp",
+        "value_per_unit":140,
+        "on_use_battle":"PotionRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+
+        "sort_order":10,
+    }
+    static_item_defs["potion_medrevival"] = {
+        "name":_("MedRevival"),
+        "plural":_("MedRevival"),
+        "desc":_("A refined golden, creamy liquid in a bottle."),
+        "icon":"images/items/consum/medrevival.webp",
+        "value_per_unit":500,
+        "on_use_battle":"PotionMedRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+
+        "sort_order":10,
+    }
+    static_item_defs["potion_highrevival"] = {
+        "name":_("HighRevival"),
+        "plural":_("HighRevival"),
+        "desc":_("An ultra refined golden, creamy liquid in a bottle."),
+        "icon":"images/items/consum/highrevival.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+
+        "sort_order":10,
     }
