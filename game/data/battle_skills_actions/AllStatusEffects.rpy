@@ -1,4 +1,4 @@
-init 1 python:
+init 2 python:
     # cheat sheet of hard-coded stat eff ids.
     # stat effs such as DamageIn have varied status effect ID based on their causing skill.
     # bleed/poison/burn :: lose hp per turn

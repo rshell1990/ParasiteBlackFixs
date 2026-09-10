@@ -1,1 +1,1 @@
-{"action": "heartbeat", "status": "ok", "label": "main_recheck", "scene": "['bg_dynamic']", "time": 1788971097.932055}
+{"action": "heartbeat", "status": "ok", "label": "Battle_Loop", "scene": "['BattleCharInfoScreen_441452160', 'BattleCharInfoScreen_441627712', 'BattleCharSprite_441452160', 'BattleCharSprite_441627712', 'Battle_CharInfoOnBattlefield', 'Battle_CharSelectionPanels', 'Battle_VfxImpact441452160', 'Battle_VfxImpact441627712', 'pbat_mansion_basement']", "time": 1789007418.5153472}

@@ -7,7 +7,7 @@ init python:
         RelTextIDs = {"initial"},
 
         BattleSkin =  "valchek",
-        CharSkills = {"NeutralDodgeThis":1, "NeutralFastAndDeadly":1, "NeutralSmokeBomb":1},
+        CharSkills = {"Madness":1, "Summon":1, "Freeze":4},
 
         base_health = 90,
         base_damage = 15,
@@ -23,7 +23,7 @@ init python:
         experience = ExpSetToLevel(10), 
 
         base_xp_value = 20,
-        auto_attr_allocation = "rogue",
+        auto_attr_allocation = "summoner",
 
         ExtraData = {
             "clothes":"rags", # rags / ???

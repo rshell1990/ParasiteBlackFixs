@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/engine/save_update/save_file_repairer.rpy", line 785: invalid syntax
-    SaveGameVersion = "0.200"R
-                                       ^
+File "game/data/battle_skills_actions/SkillsSummoner/Off/Freeze.rpy", line 85: unexpected indent
+    if hasattr(store, "BattleScene") and Target in store.BattleScene.ActiveCharsList:
+       ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Wed Sep  9 11:24:01 2026
+Wed Sep  9 20:50:42 2026

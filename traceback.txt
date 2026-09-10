@@ -1,95 +1,45 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-AttributeError: Can't get attribute 'BattleItemAction_PotionHealMinor' on <renpy.python.StoreModule object at 0x00000000052014f0>
+  File "game/devtools/devroom.rpy", line 16, in script call
+    call processDialogue("dev_root") from _call_processDialogue_46
+  File "game/engine/dialogue/labels.rpy", line 15, in script call
+    $ renpy.call(currentDNode.label)
+  File "game/devtools/devroom.rpy", line 64, in script call
+    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
+  File "game/engine/battle/MainLoop.rpy", line 547, in script
+    if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and ValidTargetPresent:
+  File "game/engine/battle/MainLoop.rpy", line 547, in <module>
+    if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and ValidTargetPresent:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                            
+AttributeError: 'NoneType' object has no attribute 'UserBattleChar'
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
-  File "renpy/common/00gamemenu.rpy", line 179, in script
-    $ ui.interact()
-  File "renpy/ast.py", line 1193, in execute
-    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1276, in py_exec_bytecode
-    exec(bytecode, globals, locals)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/common/00gamemenu.rpy", line 179, in <module>
-    $ ui.interact()
-      ~~~~~~~~~~~^^
-  File "renpy/ui.py", line 306, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/core.py", line 2163, in interact
-    repeat, rv = self.interact_core(
-                 ~~~~~~~~~~~~~~~~~~^
-        preloads=preloads,
-        ^^^^^^^^^^^^^^^^^^
-    ...<4 lines>...
-        **kwargs,
-        ^^^^^^^^^
-    )
-    ^
-  File "renpy/display/core.py", line 3263, in interact_core
-    rv = root_widget.event(ev, x, y, 0)
-         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1281, in event
-    rv = i.event(ev, x - xo, y - yo, cst)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1281, in event
-    rv = i.event(ev, x - xo, y - yo, cst)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1281, in event
-    rv = i.event(ev, x - xo, y - yo, cst)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/screen.py", line 805, in event
-    rv = self.child.event(ev, x, y, st)
-         ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1281, in event
-    rv = i.event(ev, x - xo, y - yo, cst)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1510, in event
-    rv = super(Window, self).event(ev, x, y, st)
-         ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 273, in event
-    rv = d.event(ev, x - xo, y - yo, st)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1281, in event
-    rv = i.event(ev, x - xo, y - yo, cst)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/layout.py", line 1281, in event
-    rv = i.event(ev, x - xo, y - yo, cst)
-         ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/behavior.py", line 1189, in event
-    return handle_click(self.clicked)
-           ~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "renpy/display/behavior.py", line 1111, in handle_click
-    rv = run(action)
-         ~~~^^^^^^^^
-  File "renpy/display/behavior.py", line 404, in run
-    new_rv = run(i, *args, **kwargs)
-             ~~~^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/behavior.py", line 411, in run
-    return action(*args, **kwargs)
-           ~~~~~~^^^^^^^^^^^^^^^^^
-  File "renpy/common/00action_file.rpy", line 499, in __call__
-    renpy.load(fn)
-    ~~~~~~~~~~^^^^
-  File "renpy/loadsave.py", line 636, in load
-    roots, log = loads(log_data)
-                 ~~~~~^^^^^^^^^^
-  File "renpy/compat/pickle.py", line 307, in loads
-    return load(io.BytesIO(s))
-           ~~~~^^^^^^^^^^^^^^^
-  File "renpy/compat/pickle.py", line 299, in load
-    return Unpickler(f, fix_imports=True, encoding="utf-8", errors="surrogateescape").load()
-           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "renpy/compat/pickle.py", line 291, in find_class
-    return super().find_class(module, name)
-           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-AttributeError: Can't get attribute 'BattleItemAction_PotionHealMinor' on <renpy.python.StoreModule object at 0x00000000052014f0>
+  File "game/devtools/devroom.rpy", line 16, in script call
+    call processDialogue("dev_root") from _call_processDialogue_46
+  File "game/engine/dialogue/labels.rpy", line 15, in script call
+    $ renpy.call(currentDNode.label)
+  File "game/devtools/devroom.rpy", line 64, in script call
+    $ StartBattle(BattleData(BackgroundImage = _return[0], CharIDList_Left = _return[1], CharIDList_Right = _return[2], AutoNightBackground = False))
+  File "game/engine/battle/MainLoop.rpy", line 547, in script
+    if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and ValidTargetPresent:
+  File "renpy/ast.py", line 2089, in execute
+    if renpy.python.py_eval(condition):
+       ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^ 
+  File "renpy/python.py", line 1308, in py_eval
+    return py_eval_bytecode(code, globals, locals)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1301, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/MainLoop.rpy", line 547, in <module>
+    if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and ValidTargetPresent:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^                            
+AttributeError: 'NoneType' object has no attribute 'UserBattleChar'
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Wed Sep  9 11:00:20 2026
+Wed Sep  9 20:46:21 2026

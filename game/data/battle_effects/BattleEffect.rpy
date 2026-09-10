@@ -74,6 +74,16 @@ init python:
             if self.StatusEffect.StatusEffectID == "protect":
                 NewStatEff.ProtectedBy = self.StatusEffect.ProtectedBy
             Battle_ApplyStatusEffect(Target, NewStatEff)
+#############################
+#Madness for good or bad        
+        def Execute(self, Target):
+            Caster = self.Owner_BattleChar
+            Duration = self.DurationByLevel[self.Level]
+            ErraticChance = self.ErraticChanceByLevel[self.Level]
+
+            # Replace with your engine's status application function
+            Battle_ApplyStatusEffect(Target, "madness", Duration, ErraticChance)
+            return
 
 ########################
     # this is more like a wrapper for sanity, to have "grant another turn" as cast/attack effect

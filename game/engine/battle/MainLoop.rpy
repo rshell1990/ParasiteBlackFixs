@@ -7,11 +7,45 @@ default BattleChar_ScreenPositions_Offset_Anim_Active = {0: {0: (0, 0), 1: (0, 0
 default BattleScene_ActiveChar = None
 default BattleScene_ActiveChar_Anim = None
 
+# Real-time countdown battle timer state variables
+default battle_realtime_timer = 0.0
+default battle_realtime_timer_active = False
+
+# Screen for rendering and driving the real-time battle countdown
+screen Battle_RealtimeCountdown():
+    zorder 100
+    
+    if store.battle_realtime_timer_active:
+        timer 0.1 repeat True action SetVariable("battle_realtime_timer", max(0.0, store.battle_realtime_timer - 0.1))
+
+        frame:
+            align (0.5, 0.02)
+            padding (20, 10)
+            background "#000000aa"
+            text _("TIME REMAINING: [battle_realtime_timer:.1f]s") size 26 color "#FF4444" bold True align (0.5, 0.5)
+
+        if store.battle_realtime_timer <= 0.0:
+            timer 0.01 action [
+                Function(Battle_StopRealtimeTimer),
+                Function(Battle_Lose)
+            ]
+
 init python:
-    # the function you start a battle with, from script. needs a valid BattleData object, full of various stuff. for examples, search
     BattleData = None
     BattleSceneClass = None
     BattleSetup_GetAllCharsWithSkin = None
+
+    def Battle_StartRealtimeTimer(seconds):
+        """Starts a real-time battle countdown for the specified duration in seconds."""
+        store.battle_realtime_timer = float(seconds)
+        store.battle_realtime_timer_active = True
+        renpy.show_screen("Battle_RealtimeCountdown")
+
+    def Battle_StopRealtimeTimer():
+        """Stops and clears the real-time countdown screen."""
+        store.battle_realtime_timer_active = False
+        renpy.hide_screen("Battle_RealtimeCountdown")
+
     def Battle_ReinitializeScene(BattleScene):
         BattleScene.BattleChars = [[], []]
         BattleScene.BattleLog = []
@@ -26,16 +60,16 @@ init python:
         BattleScene.ScheduledAttackQueue = []
         BattleScene.ScheduledActionToExecute = None
         BattleScene.SelectedActionToProcess = None
+        BattleScene.ActionAwaitingTarget = None
         return
-    def Battle_Setup(BattleDataObj, BattleSceneClassObj, BattleSetup_GetAllCharsWithSkinFunc):
-        global BattleData
-        global BattleSceneClass
-        global BattleSetup_GetAllCharsWithSkin
 
+    def Battle_Setup(BattleDataObj, BattleSceneClassObj, BattleSetup_GetAllCharsWithSkinFunc):
+        global BattleData, BattleSceneClass, BattleSetup_GetAllCharsWithSkin
         BattleData = BattleDataObj
         BattleSceneClass = BattleSceneClassObj
         BattleSetup_GetAllCharsWithSkin = BattleSetup_GetAllCharsWithSkinFunc
         return
+
     def Battle_GetScene():
         return BattleScene
 
@@ -53,40 +87,48 @@ init python:
             if StatusEffect.ID == StatusEffectID:
                 return StatusEffect
         return None
+
     def Battle_HasStatusEffect(BattleChar, StatusEffectID):
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.ID == StatusEffectID:
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "ID", None) == StatusEffectID:
                 return True
         return False
-    def Battle_GetAllCharsWhoCanAct(Side = None):
-        # Only alive characters without stun can enter the action turn queue
-        ReturnList = Battle_GetAliveCharsOnSide(Side)
 
+    def Battle_GetAllCharsWhoCanAct(Side = None):
+        ReturnList = Battle_GetAliveCharsOnSide(Side)
         for BattleChar in reversed(ReturnList):
-            if Battle_HasStatusEffect(BattleChar, "stun"):
+            if Battle_HasStatusEffect(BattleChar, "stun") or Battle_HasStatusEffect(BattleChar, "freeze"):
                 ReturnList.remove(BattleChar)
         return ReturnList
+
     def Battle_SetCharAction(BattleChar, ActionInstance, Target):
         BattleScene.SelectedActionToProcess = BattleActionInstance(BattleChar, ActionInstance, Target)
         return
+
     def Battle_ScheduleAttack(BattleActionInstanceObj):
         BattleScene.ScheduledAttackQueue.append(BattleActionInstanceObj)
         return
+
     def Battle_RunCharAnim(BattleChar, AnimName):
         BattleChar.BattleSkin.PlayAnim(AnimName)
         return
+
     def Battle_RestoreEnergy(BattleChar, Amount):
         BattleChar.Energy = min(BattleChar.Energy + Amount, BattleChar.EnergyMax)
         return
+
     def Battle_RestoreMana(BattleChar, Amount):
         BattleChar.Mana = min(BattleChar.Mana + Amount, BattleChar.ManaMax)
         return
+
     def Battle_AddLogEntry(Text):
         BattleScene.BattleLog.append(Text)
         return
+
     def Battle_ClearLog():
         BattleScene.BattleLog = []
         return
+
     def Battle_PlacePermaStatusEffects():
         for BattleChar in BattleScene.BattleChars[0] + BattleScene.BattleChars[1]:
             for StatusEffect in BattleChar.StatusEffects:
@@ -98,120 +140,83 @@ init python:
                         _tag = "BattleCharStatusEffect_%s_%s" % (id(BattleChar), StatusEffect.ID),
                         _layer = "master")
         return
+
     def Battle_RemovePermaStatusEffects():
         for BattleChar in BattleScene.BattleChars[0] + BattleScene.BattleChars[1]:
             for StatusEffect in BattleChar.StatusEffects:
                 if StatusEffect.IsPermanent:
                     renpy.hide_screen("BattleCharStatusEffect_%s_%s" % (id(BattleChar), StatusEffect.ID))
         return
+
     def Battle_TickStatusEffectDuration(Side, AtEnd = False):
-        for BattleChar in Battle_GetAliveCharsOnSide(Side):
+        for BattleChar in Battle_GetAllCharsOnSide(Side):
             for StatusEffect in copy.copy(BattleChar.StatusEffects):
-                if AtEnd:
-                    StatusEffect.TickDuration(AtEnd = True)
-                else:
-                    StatusEffect.TickDuration(AtEnd = False)
+                StatusEffect.TickDuration(AtEnd)
         return
+
     def Battle_StatusEffect_OnTurnStart(Side):
-        for BattleChar in Battle_GetAliveCharsOnSide(Side):
+        for BattleChar in Battle_GetAllCharsOnSide(Side):
             for StatusEffect in copy.copy(BattleChar.StatusEffects):
                 StatusEffect.OnTurnStart()
         return
+
     def Battle_StatusEffect_OnTurnEnd(Side):
         for BattleChar in Battle_GetAliveCharsOnSide(Side):
             for StatusEffect in copy.copy(BattleChar.StatusEffects):
                 StatusEffect.OnTurnEnd()
+
     def Battle_DoAITurn(BattleChar):
-        pass
+        if Battle_HasStatusEffect(BattleChar, "freeze") or Battle_HasStatusEffect(BattleChar, "stun"):
+            Battle_ForceEndTurnForChar(BattleChar)
+            return
+
     def Battle_ForceEndTurnForChar(BattleChar):
         if BattleChar in BattleScene.ActiveCharsList:
             BattleScene.ActiveCharsList.remove(BattleChar)
         return
+
     def Battle_ForceEndTurnForSide(Side):
         BattleScene.ActiveCharsList = []
         return
+
     def Battle_ForceEndTurnForAll():
         BattleScene.ActiveCharsList = []
+
     def Battle_ForceEndTurnForAllExcept(BattleChar):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if Char != BattleChar:
                 BattleScene.ActiveCharsList.remove(Char)
+
     def Battle_ForceEndTurnForAllExceptSide(Side):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if Char.BattleSide != Side:
                 BattleScene.ActiveCharsList.remove(Char)
+
     def Battle_ForceEndTurnForAllExceptSideAndChar(Side, BattleChar):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if Char.BattleSide != Side and Char != BattleChar:
                 BattleScene.ActiveCharsList.remove(Char)
+
     def Battle_ForceEndTurnForAllExceptSideAndCharList(Side, CharList):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if Char.BattleSide != Side and Char not in CharList:
                 BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptCharList(CharList):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char not in CharList:
-                BattleScene.ActiveCharsList.remove(Char)
+
     def Battle_ForceEndTurnForAllExceptSideAndCharListAndStatusEffect(Side, CharList, StatusEffectID):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if Char.BattleSide != Side and Char not in CharList and not Battle_HasStatusEffect(Char, StatusEffectID):
                 BattleScene.ActiveCharsList.remove(Char)
+
     def Battle_ForceEndTurnForAllExceptSideAndStatusEffect(Side, StatusEffectID):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if Char.BattleSide != Side and not Battle_HasStatusEffect(Char, StatusEffectID):
                 BattleScene.ActiveCharsList.remove(Char)
+
     def Battle_ForceEndTurnForAllExceptStatusEffect(StatusEffectID):
         for Char in copy.copy(BattleScene.ActiveCharsList):
             if not Battle_HasStatusEffect(Char, StatusEffectID):
                 BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndChar(Side, BattleChar):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char != BattleChar:
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndCharList(Side, CharList):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char not in CharList:
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndCharListAndStatusEffect(Side, CharList, StatusEffectID):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char not in CharList and not Battle_HasStatusEffect(Char, StatusEffectID):
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndStatusEffect(Side, StatusEffectID):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and not Battle_HasStatusEffect(Char, StatusEffectID):
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptStatusEffect(StatusEffectID):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if not Battle_HasStatusEffect(Char, StatusEffectID):
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndChar(Side, BattleChar):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char != BattleChar:
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndCharList(Side, CharList):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char not in CharList:
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndCharListAndStatusEffect(Side, CharList, StatusEffectID):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char not in CharList and not Battle_HasStatusEffect(Char, StatusEffectID):
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndStatusEffect(Side, StatusEffectID):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and not Battle_HasStatusEffect(Char, StatusEffectID):
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptStatusEffect(StatusEffectID):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if not Battle_HasStatusEffect(Char, StatusEffectID):
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndChar(Side, BattleChar):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char != BattleChar:
-                BattleScene.ActiveCharsList.remove(Char)
-    def Battle_ForceEndTurnForAllExceptSideAndCharList(Side, CharList):
-        for Char in copy.copy(BattleScene.ActiveCharsList):
-            if Char.BattleSide != Side and Char not in CharList:
-                BattleScene.ActiveCharsList.remove(Char)
+
     def StartBattle(BattleDataObj):
         store.BattleScene = BattleSceneClass(BattleDataObj)
         renpy.call("Battle_Start")
@@ -220,11 +225,6 @@ init python:
     def IsPlayerInBattle():
         return store.BattleScene is not None
 
-
-############################### internals 
-######## funcs
-# all these are very varied and used in "top-ish level" battle code.
-# more specialized b.related functions can be found in other files
     def Battle_Win():
         BattleScene.Outcome = "victory"
         renpy.jump("Battle_Over")
@@ -247,7 +247,6 @@ init python:
 
     def Battle_LoopStep(Value):
         if persistent.BattlePref_FastLoop:
-            # some delay otherwise it looks wack and is hard 2debug
             renpy.pause(0.016)
         else:
             renpy.pause(Value)
@@ -310,20 +309,16 @@ init python:
         return
 
     def Battle_StoreEnemyMatchupAndGrantVictoryExp(BattleScene):
-        # early out if we dont give xp
         if BattleScene.GrantXp == False:
             return 
 
         NewCharIDList_Right = []
-        # examine all entries and build a new ID list
         for Entry in BattleScene.CharIDList_Right:
-            ### to-level case
             if isinstance(Entry, dict):
                 AsList = list(Entry.keys())
                 CharID = AsList[0]
                 TargetLevel = Entry[CharID]
                 NewCharIDList_Right.append(CharID + "_lv" + str(TargetLevel))
-            ### plain id case
             else:
                 NewCharIDList_Right.append(Entry)
         if sorted(NewCharIDList_Right) not in Playthrough_FoughtEnemyTeams:
@@ -336,19 +331,16 @@ init python:
         if len(BattleScene.ItemsToBeDroppedOnVictory) > 0:
             TemporaryLootContainer = {}
             for ItemEntry in BattleScene.ItemsToBeDroppedOnVictory:
-                # kringe pighat
                 for ItemID, Qty in ItemEntry.items():
                     AddItemTo(TemporaryLootContainer, ItemID, Amount = Qty)
             if persistent.BattlePref_AutoLootAll:
                 TakeAllItems(TemporaryLootContainer, Silent = False)
             else:
                 renpy.call_screen("container", TemporaryLootContainer, ContainerName = _("Battle loot"), DoReturn = True, DoReturnOnTakeAll = True)
-                # mandatory! deletion of leftover items
                 if len(TemporaryLootContainer) > 0:
                     for ItemID, ItemQty in copy.copy(TemporaryLootContainer).items():
                         RemItemFrom(TemporaryLootContainer, ItemID, Amount = ItemQty)
-    
-    # this is here just bc its big
+
     def Battle_GatherAllTauntedCharsForSide(Side):
         BattleScene.TauntedCharsForCurrentlyActiveSide = [BattleChar for BattleChar in Battle_GetAliveCharsOnSide(Side) if (Battle_HasStatusEffect(BattleChar, "taunt") and BattleChar in BattleScene.ActiveCharsList)]
         return
@@ -357,15 +349,6 @@ init python:
         Battle_SetCharAction(BattleChar, BattleChar.Skill_Attack, Battle_GetStatusEffect(BattleChar, "taunt").TauntedBy)
         return
 
-    def Battle_GetAllCharsWhoCanAct(Side = None):
-        ReturnList = Battle_GetAliveCharsOnSide(Side)
-
-        for BattleChar in reversed(ReturnList):
-            if Battle_HasStatusEffect(BattleChar, "stun"):
-                ReturnList.remove(BattleChar)
-        return ReturnList
-
-    
     def Battle_TurnStartRestoreEnergyOrMana(SideIndex):
         for Char in BattleScene.BattleChars[SideIndex]:
             Battle_RestoreEnergy(Char, int(Char.EnergyMax / 10))
@@ -381,47 +364,15 @@ init python:
 
     def Battle_SetCharPositionsAndZorder():
         for CharList in [BattleScene.BattleChars[0], BattleScene.BattleChars[1]]:
-            # count chars
             BattleCharsAmt = len(CharList)
 
-            # assign positions dep on amount
-            if BattleCharsAmt == 1:
-                CharList[0].PositionSlotIndex = 0
+            for idx in range(min(BattleCharsAmt, 6)):
+                CharList[idx].PositionSlotIndex = idx
 
-            elif BattleCharsAmt == 2:
-                CharList[0].PositionSlotIndex = 0
-                CharList[1].PositionSlotIndex = 1
-
-            elif BattleCharsAmt == 3:
-                CharList[0].PositionSlotIndex = 0
-                CharList[1].PositionSlotIndex = 1
-                CharList[2].PositionSlotIndex = 2
-
-            elif BattleCharsAmt == 4:
-                CharList[0].PositionSlotIndex = 0
-                CharList[1].PositionSlotIndex = 1
-                CharList[2].PositionSlotIndex = 2
-                CharList[3].PositionSlotIndex = 3
-            elif BattleCharsAmt == 5:
-                CharList[0].PositionSlotIndex = 0
-                CharList[1].PositionSlotIndex = 1
-                CharList[2].PositionSlotIndex = 2
-                CharList[3].PositionSlotIndex = 3
-                CharList[4].PositionSlotIndex = 4
-            elif BattleCharsAmt == 6:
-                CharList[0].PositionSlotIndex = 0
-                CharList[1].PositionSlotIndex = 1
-                CharList[2].PositionSlotIndex = 2
-                CharList[3].PositionSlotIndex = 3
-                CharList[4].PositionSlotIndex = 4
-                CharList[5].PositionSlotIndex = 5
-
-            # set sprite zorders
             for Char in CharList:
                 Char.SpriteZorder = BattleChar_SpriteZorder[Char.BattleSide][Char.PositionSlotIndex][0]
                 Char.HudZorder = BattleChar_SpriteZorder[Char.BattleSide][Char.PositionSlotIndex][1]
 
-            # set audio channels
             for Char in CharList:
                 NewPanValue = round((1.0 - (BattleChar_ScreenPositions[Char.BattleSide][Char.PositionSlotIndex][0] / (1920 / 2))), 2)
                 NewPanValue *= 0.5
@@ -445,31 +396,25 @@ init python:
                 _tag = "BattleCharInfoScreen_%s" % id(BattleChar),
                 _layer = "master")
         return
-    
 
-
-########## labels
-# start (and restart) battle 
 label Battle_Start:
     $ TooltipClear()
     hide screen Battle_BottomPanel
     hide screen Battle_CharInfoOnBattlefield
     hide screen Battle_TurnCounter
-    hide screen Battle_CharSelectionPanelsBattle_CharSelectionPanels
+    hide screen Battle_CharSelectionPanels
     scene black 
     with dissolve
 
     $ Battle_ReinitializeScene(BattleScene)
 
     scene expression BattleScene.BackgroundImage    
-    # show all dudes
     $ Battle_SetCharPositionsAndZorder()
     $ Battle_OnStartShowChars()
 
     $ Battle_SelectLeftChar(BattleScene.BattleChars[0][0])
     $ Battle_SelectRightChar(BattleScene.BattleChars[1][0])
 
-    # place perma status effs (faymore gear)
     $ Battle_PlacePermaStatusEffects()
 
     show screen Battle_BottomPanel()
@@ -479,54 +424,45 @@ label Battle_Start:
     
     jump Battle_Loop
 
-# loop through battle until either Win, Lose or Retreat is achieved
 label Battle_Loop:
     $ Battle_AddLogEntry(tra(_("{color=[BATTLE_COLORS_LOG.BATTLE_STATUS]}Battle starts!{/color}")))
     while BattleScene.Outcome == None:
-        # new turn
         $ BattleScene.Turn += 1
-
-        # 0 == left, 1 == right
         $ BattleScene.ActingSide = 0 
-        while BattleScene.ActingSide != 2:
+        
+        while BattleScene.ActingSide < 2:
             $ Battle_TurnStartResetSkillsUsed(BattleScene.ActingSide)
             $ Battle_TurnStartRestoreEnergyOrMana(BattleScene.ActingSide)
 
-            # do the status effect' effects
             $ Battle_StatusEffect_OnTurnStart(BattleScene.ActingSide)
-            # tick all status effects duration
             $ Battle_TickStatusEffectDuration(BattleScene.ActingSide)
             $ Battle_LoopStep(0.15)
+            
             if BattleScene.Turn != 1 and BattleScene.ActingSide == 0:
                 $ Battle_AddLogEntry(tra(_("{color=[BATTLE_COLORS_LOG.BATTLE_STATUS]}New turn: %s!{/color}")) % BattleScene.Turn)
                 hide screen Battle_NewTurnEffect
                 show screen Battle_NewTurnEffect()
                 $ renpy.music.play(renpy.random.choice(soundLib["BattleNewTurn"]), channel = "sound", loop = False, relative_volume = 0.55)
-            # gather all chars of this side who will act
+            
             $ BattleScene.ActiveCharsList = Battle_GetAllCharsWhoCanAct(Side = BattleScene.ActingSide)
             $ Battle_UIAutoSelectIfOneAliveOnSide(Side = BattleScene.ActingSide)
-            # run until all chars of this side has acted
+            
             while len(BattleScene.ActiveCharsList) > 0:
-                # only do turn if there's someone alive on the opposite side
                 if len(Battle_GetAliveCharsOnSide(Side = (0 if BattleScene.ActingSide == 1 else 1))) > 0:
                     $ Battle_GatherAllTauntedCharsForSide(BattleScene.ActingSide)
                     if len(BattleScene.TauntedCharsForCurrentlyActiveSide) > 0:
                         $ Battle_AutoScheduleTauntedAttackForChar(BattleScene.TauntedCharsForCurrentlyActiveSide.pop())
                     else:
                         if BattleScene.AIControlSide[BattleScene.ActingSide] == True:
-                            # ai controlled side
                             $ Battle_DoAITurn(renpy.random.choice(BattleScene.ActiveCharsList))
                         else:
-                            # player-controlled
                             call screen Battle_ActionSelectPanel(WaitForPlayerInput = True)
                             show screen Battle_ActionSelectPanel()
 
-                            # check if we need to pick skill target and enter targeting loop
                             while BattleScene.ActionAwaitingTarget is not None:
                                 call screen Battle_CharSelectionPanels(SelectSkillTarget = True)
+                                $ BattleScene.ActionAwaitingTarget = None
                             show screen Battle_CharSelectionPanels()
-                # skip any remaining char's turn if no alive enemies present
-                # acts like a "break"
                 else:
                     $ BattleScene.ActiveCharsList.pop()
 
@@ -536,28 +472,35 @@ label Battle_Loop:
                     $ BattleScene.SelectedActionToProcess.ActionInstance.UsedThisTurn = BattleScene.SelectedActionToProcess.ActionInstance.OncePerTurn
                     $ BattleScene.SelectedActionToProcess = None
 
-                    while len(BattleScene.ScheduledAttackQueue) > 0:
-                        $ BattleScene.ScheduledActionToExecute = BattleScene.ScheduledAttackQueue.pop()
-                        # Check if action allows dead targets
+                while len(BattleScene.ScheduledAttackQueue) > 0:
+                    $ BattleScene.ScheduledActionToExecute = BattleScene.ScheduledAttackQueue.pop()
+
+                    if BattleScene.ScheduledActionToExecute is not None:
                         $ ActionAllowsDead = getattr(BattleScene.ScheduledActionToExecute, "AllowDeadTargets", False)
                         $ ValidTargetPresent = any([BattleChar.IsAlive or ActionAllowsDead for BattleChar in BattleScene.ScheduledActionToExecute.TargetList])
 
                         if BattleScene.ScheduledActionToExecute.UserBattleChar.IsAlive and ValidTargetPresent:
-                            $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+                            $ Attacker = BattleScene.ScheduledActionToExecute.UserBattleChar
+                            
+                            if Battle_HasStatusEffect(Attacker, "freeze") or Battle_HasStatusEffect(Attacker, "stun"):
+                                $ AttackerName = getattr(Attacker, "DisplayName", getattr(Attacker, "CharID", "Unit"))
+                                $ Battle_AddLogEntry(tra(_("%s is frozen and cannot act!")) % AttackerName)
+                            else:
+                                $ BattleScene.ScheduledActionToExecute.ExecuteAction()
+
                             $ BattleScene.ScheduledActionToExecute = None
 
-                        if BattleScene.AIControlSide[0] == True:
-                            call screen Battle_AvoidEmptyLoopSpin()
+                    if BattleScene.AIControlSide[0] == True:
+                        call screen Battle_AvoidEmptyLoopSpin()
                 $ Battle_EndIfEitherSideDefeated(BattleScene)
 
-            # tick all status effects duration
             $ Battle_TickStatusEffectDuration(BattleScene.ActingSide, AtEnd = True)
             $ BattleScene.ActingSide += 1
     jump Battle_Over
 
-# battle has concluded, will handle either of 3 outcomes
 label Battle_Over:
     $ TooltipClear()
+    $ Battle_StopRealtimeTimer() # Cleans up and stops the countdown timer
     hide screen Battle_ActionSelectPanel
     hide screen Battle_BottomPanel
     $ Battle_HideCharInfoScreens()
