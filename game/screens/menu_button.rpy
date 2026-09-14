@@ -16,7 +16,7 @@ screen menu_button():
                 selected_idle Transform("images/gui/top_right/hist_s.webp", size = gui.button_size)
                 selected_hover Transform("images/gui/top_right/hist_s.webp", size = gui.button_size)
                 if not renpy.get_screen("input"):
-                    keysym config.keymap["dialogue_history"]
+                    keysym config.keymap.get("dialogue_history", "K_h")
         add "images/gui/top_right/under.webp":
             anchor (1.0, 0.0)
             pos (1.0, 0.0)

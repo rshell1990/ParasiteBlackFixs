@@ -62,7 +62,7 @@ screen Battle_ActionSelectPanel(WaitForPlayerInput = False):
                                 use Battle_SkillIcon(BattleScene.SelectedLeft.Skill_ExtraTransform, HotKey = "K_x", HotKeyText = "x", FromSkillMenu = False, WaitForPlayerInput = WaitForPlayerInput)
 
             vbox:
-                if BattleScene.CanUseItems:
+                if getattr(BattleScene, 'CanUseItems', True):
                     textbutton _("(e) Items"):
                         yalign 0.5
                         style "battle_itemskills_button"

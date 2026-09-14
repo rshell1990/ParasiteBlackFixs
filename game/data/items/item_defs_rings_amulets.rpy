@@ -94,7 +94,21 @@ init python:
 
         "sort_order":50,
     }
+    static_item_defs["irridian_insignia_ring"] = {
+        "name":_("Irridian insignia ring"),
+        "plural":_("Irridian insignia rings"),
+        "desc":_("A ring the power of Irridian"),
+        "icon":"images/items/jewelry/ring_irridian.webp",
 
+        "add_attr_agi":99999,
+        "add_attr_dex":99999,
+
+        "eqp_slots":EQP_SLOTS.RINGS,
+        "value_per_unit":75,
+        "shop_category":"jewelry",
+
+        "sort_order":50,
+    }
     
     static_item_defs["orc_tribal_necklace"] = {
         "name":_("Orc tribal necklace"),
@@ -148,5 +162,19 @@ init python:
         "value_per_unit":250,
         "shop_category":"jewelry",
 
+        "sort_order":50,
+    }
+    static_item_defs["irridians_eye"] = {
+        "name":_("Irridians Eye"),
+        "plural":_("Irridians Eyes"),
+        "desc":_("A mysterious eye-shaped amulet said to be imbued with the power of Irridian."),
+        "icon":"images/items/jewelry/irridians_eye.webp",
+        "eqp_slots":EQP_SLOTS.NECK,
+        "value_per_unit":250,
+        "shop_category":"jewelry",
+        "add_attr_will":99999,
+        "add_attr_luck":99999,
+        "add_attr_mp":99999,
+        "add_attr_mpr":99999,
         "sort_order":50,
     }

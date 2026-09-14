@@ -1,4 +1,4 @@
-init python:
+init -2 python:
     # silently fails if no item or cant eqp
     def PlayerPartyCharEquipItem(CharID, ItemID, DirectSlotID = None):
         VerboseLog_General = False
@@ -54,21 +54,55 @@ init python:
     def EquipItem(char_index, ItemID, slot_ID, SetMTTToItemDesc = True):
         Char = worldChars[player_party[char_index]]
 
-        # calc orig hp %
         OrigHealthFactor = Char["Health"] / Char["HealthMax"]
-        # equip item
         Char[slot_ID] = ItemID
-        # scale hp to that orig factor
+
+        item_def = all_items.get(ItemID, {})
+        if "grants_skill" in item_def:
+            skill = item_def["grants_skill"]
+            
+            # 1. Update CharSkills dict
+            if "CharSkills" in Char:
+                Char["CharSkills"][skill] = Char["CharSkills"].get(skill, 0) + 1
+
+            # 2. Update learned_skills as a dictionary (SkillID: Level)
+            if "learned_skills" in Char:
+                if not isinstance(Char["learned_skills"], dict):
+                    Char["learned_skills"] = {}
+                Char["learned_skills"][skill] = Char["learned_skills"].get(skill, 0) + 1
+
         Char["Health"] = min(max(math.ceil(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
 
-        # this is important for inv screens
         if SetMTTToItemDesc:
             TooltipSet(GetItemDesc(ItemID))
         return
 
-    def UnequipItem_CharIndex(char_index, slot_ID):
-        Char = worldChars[player_party[char_index]]
-        UnequipItem(Char, slot_ID)
+    def UnequipItem(Char, Slot_ID):
+        ItemID = Char.get(Slot_ID)
+
+        if ItemID and ItemID in all_items:
+            item_def = all_items[ItemID]
+            if "grants_skill" in item_def:
+                skill = item_def["grants_skill"]
+                
+                # 1. Cleanup CharSkills
+                if "CharSkills" in Char and skill in Char["CharSkills"]:
+                    Char["CharSkills"][skill] -= 1
+                    if Char["CharSkills"][skill] <= 0:
+                        del Char["CharSkills"][skill]
+                
+                # 2. Cleanup learned_skills dict
+                if "learned_skills" in Char and isinstance(Char["learned_skills"], dict):
+                    if skill in Char["learned_skills"]:
+                        Char["learned_skills"][skill] -= 1
+                        if Char["learned_skills"][skill] <= 0:
+                            del Char["learned_skills"][skill]
+
+        OrigHealthFactor = Char["Health"] / Char["HealthMax"]
+        Char[Slot_ID] = None
+        Char["Health"] = min(max(int(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
+
+        TooltipClear()
         return
 
     def UnequipItem_CharID(Char_ID, slot_ID):
@@ -76,15 +110,9 @@ init python:
         UnequipItem(Char, slot_ID)
         return
 
-    def UnequipItem(Char, Slot_ID):
-        # calc orig hp %
-        OrigHealthFactor = Char["Health"] / Char["HealthMax"]
-        # unequip item
-        Char[Slot_ID] = None
-        # scale hp to that orig factor
-        Char["Health"] = min(max(int(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
-
-        TooltipClear()
+    def UnequipItem_CharIndex(char_index, slot_ID):
+        Char = worldChars[player_party[char_index]]
+        UnequipItem(Char, slot_ID)
         return
 
     def GetEquippedQty(ItemID):
@@ -101,7 +129,7 @@ init python:
             for char_ID in player_party:
                 for slot_ID in EQP_SLOTS.ALL:
                     if worldChars[char_ID][slot_ID] == ItemID:
-                        worldChars[char_ID][slot_ID] = None
+                        UnequipItem(worldChars[char_ID], slot_ID)
 
         # case 2, SOME eqp. items left in inv: strip SOME party eqp slots at random
         else:
@@ -114,4 +142,4 @@ init python:
                         if worldChars[char_ID][slot_ID] == ItemID:
                             char_slotID.append((char_ID, slot_ID))
                 for i in range(0, amount_to_strip):
-                    worldChars[char_slotID[i][0]][char_slotID[i][1]] = None
+                    UnequipItem(worldChars[char_slotID[i][0]], char_slotID[i][1])

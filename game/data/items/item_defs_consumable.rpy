@@ -13,7 +13,6 @@ init python:
 
         "sort_order":10,
     }
-
     static_item_defs["potion_heal_regular"] = {
         "name":_("Regular Health Potion"),
         "plural":_("Regular Health Potions"),
@@ -28,7 +27,6 @@ init python:
 
         "sort_order":10,
     }
-
     static_item_defs["potion_heal_large"] = {
         "name":_("Large Health Potion"),
         "plural":_("Large Health Potions"),
@@ -43,7 +41,6 @@ init python:
 
         "sort_order":10,
     }
-
     static_item_defs["potion_heal_vlarge"] = {
         "name":_("Very Large Health Potion"),
         "plural":_("Very Large Health Potions"),
@@ -58,7 +55,6 @@ init python:
 
         "sort_order":10,
     }
-
     static_item_defs["goblin_bomb"] = {
         "name":         _("Goblin bomb"),
         "plural":       _("Goblin bombs"),
@@ -68,10 +64,20 @@ init python:
         "on_use_battle":"GoblinBomb",
         "show_battle_desc_in_story_mode":True,
         "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["goblin_scrapnelbomb"] = {
+        "name":         _("Goblin Scrapnel bomb"),
+        "plural":       _("Goblin Scrapnel bombs"),
+        "desc":         _("Ka-booms with BLADES!"),
+        "icon":         "images/items/consum/goblin_bomb.webp",
+        "value_per_unit":150,
+        "on_use_battle":"GoblinBomb",
+        "show_battle_desc_in_story_mode":True,
+        "shop_category":"magecraft",
 
         "sort_order":10,
     }
-
     static_item_defs["grapes"] = {
         "name":_("Bunch of grapes"),
         "plural":_("Bunch of grapes"),
@@ -83,10 +89,8 @@ init python:
         "on_use_story":[[ItemHealUserStory, 5]],
         "AI_heal": True,
         "shop_category":"food",
-
         "sort_order":10,
     }
-
     static_item_defs["goblin_stims"] = {
         "name":_("Goblin Stimulants"),
         "plural":_("Goblin Stimulants"),
@@ -97,10 +101,8 @@ init python:
         "show_battle_desc_in_story_mode":True,
         "AI_restore_energy": True,
         "shop_category":"magecraft",
-        
         "sort_order":10,
     }
-
     static_item_defs["elena_gift_book"] = {
         "name":_("The dreams of Ashara - A love story"),
         "plural":_("The dreams of Ashara - A love story"),
@@ -109,10 +111,8 @@ init python:
         "value_per_unit":250,
         "on_use_story":[[ItemRaiseAttStory, ("Charisma", 1)]],
         "shop_category":"book",
-
         "sort_order":10,
     }
-
     static_item_defs["myu_gift_jar"] = {
         "name":_("A small slime jar"),
         "plural":_("A small slime jar"),
@@ -121,12 +121,8 @@ init python:
         "value_per_unit":350,
         "on_use_story":[[ItemClearInfectionStory]],
         "shop_category":"magecraft",
-
         "sort_order":10,
     }
-
-    
-    
     static_item_defs["ramonian_twister"] = {
         "name":_("Ramonian Twister"),
         "plural":_("Ramonian Twisters"),
@@ -138,10 +134,8 @@ init python:
         "on_use_story":[[ItemHealUserStory, 100]],
         "AI_heal": True,
         "shop_category":"food",
-
         "sort_order":10,
     }
-
     static_item_defs["raza_seed"] = {
         "name":_("Raza seed"),
         "plural":_("Raza seeds"),
@@ -151,10 +145,8 @@ init python:
         "on_use_story":[[ItemRazaEffectUser]],
         "value_per_unit": 12,
         "shop_category":"illegal",
-
         "sort_order":10,
-        }
-
+    }
     static_item_defs["strange_meat"] = {
         "name":_("Strange meat"),
         "plural":_("Strange meats"),
@@ -164,10 +156,8 @@ init python:
         "icon":"images/items/consum/strange_meat.webp",
         "value_per_unit":2,
         "shop_category":"food",
-
         "sort_order":10,
-        }
-
+    }
     static_item_defs["potion_antidote"] = {
         "name":_("Antidote"),
         "plural":_("Antidote"),
@@ -178,9 +168,8 @@ init python:
         "on_use_story":[[ItemAntidoteStory]],
         "AI_heal": True,
         "shop_category":"magecraft",
-
         "sort_order":10,
-        }
+    }
     static_item_defs["potion_lowrevival"] = {
         "name":_("LowRevival"),
         "plural":_("LowRevival"),
@@ -190,7 +179,6 @@ init python:
         "on_use_battle":"PotionRevival",
         "AI_heal": True,
         "shop_category":"magecraft",
-
         "sort_order":10,
     }
     static_item_defs["potion_medrevival"] = {
@@ -202,7 +190,6 @@ init python:
         "on_use_battle":"PotionMedRevival",
         "AI_heal": True,
         "shop_category":"magecraft",
-
         "sort_order":10,
     }
     static_item_defs["potion_highrevival"] = {
@@ -214,6 +201,170 @@ init python:
         "on_use_battle":"PotionHighRevival",
         "AI_heal": True,
         "shop_category":"magecraft",
-
+        "sort_order":10,
+    }
+    static_item_defs["potion_ether"] = {
+        "name":_("Ether"),
+        "plural":_("Ether"),
+        "desc":_("A green liquid in a bottle."),
+        "icon":"images/items/consum/ether.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionEther",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["potion_midether"] = {
+        "name":_("MidEther"),
+        "plural":_("MidEther"),
+        "desc":_("A medium green liquid in a Medium bottle."),
+        "icon":"images/items/consum/midether.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionBigEther",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["potion_highether"] = {
+        "name":_("HighEther"),
+        "plural":_("HighEther"),
+        "desc":_("An ultra refined green liquid in a bottle."),
+        "icon":"images/items/consum/highether.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["potion_smallelixer"] = {
+        "name":_("SmallElixer"),
+        "plural":_("SmallElixer"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smallelixer.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["potion_midelixer"] = {
+        "name":_("MidElixer"),
+        "plural":_("MidElixer"),
+        "desc":_("An ultra refined green liquid in a bottle."),
+        "icon":"images/items/consum/midelixer.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["potion_highelixer"] = {
+        "name":_("HighElixer"),
+        "plural":_("HighElixer"),
+        "desc":_("An ultra refined green liquid in a bottle."),
+        "icon":"images/items/consum/highelixer.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["potion_highelixer"] = {
+        "name":_("HighElixer"),
+        "plural":_("HighElixer"),
+        "desc":_("An ultra refined green liquid in a bottle."),
+        "icon":"images/items/consum/highelixer.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["smellingsalts"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["tranquilizer"] = {
+        "name":_("Tranquilizer"),
+        "plural":_("Tranquilizer"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["strengthup"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["enduranceup"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["dexterityup"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["luckup"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["defenseup"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
+        "sort_order":10,
+    }
+    static_item_defs["magicstaminaup"] = {
+        "name":_("SmellingSalts"),
+        "plural":_("SmellingSalts"),
+        "desc":_("A small vial of a mysterious green liquid."),
+        "icon":"images/items/consum/smellingsalts.webp",
+        "value_per_unit":999,
+        "on_use_battle":"PotionHighRevival",
+        "AI_heal": True,
+        "shop_category":"magecraft",
         "sort_order":10,
     }

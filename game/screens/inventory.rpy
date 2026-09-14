@@ -92,8 +92,16 @@ screen inventory(charID = "mc"):
                             keysym "K_d"
                         textbutton _("Use"):
                             if SelItemID is not None:
-                                if all_items[SelItemID]["on_use_story"] is not None:
-                                    action [SetLocalVariable("SelItemID", None), Function(UseItemStory, Char_ID, SelItemID)]
+                                if all_items[SelItemID].get("teaches_skill") is not None:
+                                    action [
+                                        Function(UseSkillBook, Char_ID, SelItemID),
+                                        SetLocalVariable("SelItemID", None)
+                                    ]
+                                elif all_items[SelItemID]["on_use_story"] is not None:
+                                    action [
+                                        SetLocalVariable("SelItemID", None), 
+                                        Function(UseItemStory, Char_ID, SelItemID)
+                                    ]
                     if int(len(list(player_inv.keys())) / (PartyInvXGrid * PartyInvYGrid)) > 0:
                         textbutton _("Next page >>"):
                             action If(CurrentPage < int((len(list(player_inv.keys())) - 1) / (PartyInvXGrid * PartyInvYGrid)), 
@@ -331,7 +339,7 @@ screen equipment_slot(char_index, SelItemID, slot_ID):
                 action NullAction()
 
                 if SelItemID is None:
-                    action Function(UnequipItem_CharIndex, char_index, slot_ID)
+                    action Function(UnequipItem, worldChars[player_party[char_index]], slot_ID)
             else:
                 idle Transform("images/gui/blank.webp", matrixcolor = IdentityMatrix(), fit = "contain")
                 hover Transform("images/gui/blank.webp", matrixcolor = BrightnessMatrix(0.2), fit = "contain")

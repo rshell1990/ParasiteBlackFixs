@@ -685,10 +685,97 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillIcon(CharID, CharClassID, "support", "AssassinBleedingHearts")
                     use CharacterScreenSkillEmptySpace()
                     use CharacterScreenSkillIcon(CharID, CharClassID, "support", "AssassinALovingKissOfDeath")
+################################################################################
+######## LEARNED SKILLS (Tome Skills)
+    if TabID == "learned":
+        python:
+            learned_skills = []
+            char_obj = worldChars[CharID]
+            
+            # 1. Fetch permanent/tome skills
+            if isinstance(char_obj, dict):
+                char_skills = char_obj.get("CharSkills", {}) or {}
+            else:
+                char_skills = getattr(char_obj, "CharSkills", {}) or {}
+            if isinstance(char_skills, dict):
+                for sk in char_skills.keys():
+                    if sk and str(sk).lower() not in learned_skills:
+                        learned_skills.append(str(sk))
+                        
+            # 2. Check direct equipped item attributes
+            equip_slots = ["armor", "weapon", "accessory", "acc1", "acc2", "offhand", "head", "chest", "legs", "body"]
+            for slot_name in equip_slots:
+                item_val = getattr(char_obj, slot_name, None)
+                if isinstance(char_obj, dict) and item_val is None:
+                    item_val = char_obj.get(slot_name)
+                    
+                if item_val:
+                    item_id = getattr(item_val, "id", getattr(item_val, "item_id", item_val))
+                    if isinstance(item_id, str) and item_id in all_items:
+                        item_def = all_items[item_id]
+                        granted = item_def.get("grants_skill") or item_def.get("teaches_skill") or item_def.get("skill_key")
+                        if granted and str(granted) not in learned_skills:
+                            learned_skills.append(str(granted))
 
+            # 3. Check nested equipment dictionaries
+            eqp_container = getattr(char_obj, "equipment", getattr(char_obj, "Eqp", None))
+            if isinstance(char_obj, dict) and eqp_container is None:
+                eqp_container = char_obj.get("equipment") or char_obj.get("Eqp")
+
+            if isinstance(eqp_container, dict):
+                for item_val in eqp_container.values():
+                    if item_val:
+                        item_id = getattr(item_val, "id", getattr(item_val, "item_id", item_val))
+                        if isinstance(item_id, str) and item_id in all_items:
+                            item_def = all_items[item_id]
+                            granted = item_def.get("grants_skill") or item_def.get("teaches_skill") or item_def.get("skill_key")
+                            if granted and str(granted) not in learned_skills:
+                                learned_skills.append(str(granted))
+
+        # --- UI DISPLAY ADDITION HERE ---
+        if len(learned_skills) > 0:
+            viewport:
+                scrollbars "vertical"
+                mousewheel True
+                draggable True
+                xfill True
+                yfill True
+                
+                vpgrid:
+                    cols 8
+                    spacing 15
+                    xalign 0.5
+                    yalign 0.0
+                    for skill_id in learned_skills:
+                        use CharacterScreenLearnedSkillIcon(CharID, skill_id)
+        else:
+            text _("No learned skills available.") align (0.5, 0.5) color "#8d918e"
 screen CharacterScreenSkillEmptySpace():
     null width 100
+screen CharacterScreenLearnedSkillIcon(CharID, SkillID):
+    $ SkillInstance = SkillLib[SkillID](Owner_PBCharID = CharID, ToLevel = 1)
+    
+    frame:
+        xysize (100, 100)
+        align (0.5, 0.5)
+        background Frame(Transform("images/gui/frames/frame1.webp", matrixcolor = TintMatrix((255, 255, 255))), Borders(12,12,12,12))
+        
+        fixed:
+            xfill True
+            yfill True
+            imagebutton:
+                idle Transform(SkillInstance.Icon, matrixcolor = IdentityMatrix(), fit = "contain")
+                hover Transform(SkillInstance.Icon, matrixcolor = BrightnessMatrix(0.15), fit = "contain")
+                hovered TooltipSetUI(Text(GetSkillDesc(SkillInstance)))
+                action NullAction()
 
+            # Optional: Display Passive / Active Tag
+            add "black":
+                size (90, 24)
+                align (0.5, 1.0)
+                fit "fill"
+                matrixcolor OpacityMatrix(0.5)
+            text _("Learned") size 18 xalign 0.5 text_align 0.5 yalign 1.0 color "#ffea9f"
 screen CharacterScreenSkillArrowRight(Flip = False):
     frame:
         background Null()
@@ -827,7 +914,19 @@ init python:
                     if ReqSkillID not in worldChars[CharID]["CharSkills"]:
                         return False
         return True
+    def TeachSkillToChar(char_id, skill_id):
+        # Ensure 'CharSkills' exists as a dict
+        if "CharSkills" not in worldChars[char_id]:
+            worldChars[char_id]["CharSkills"] = {}
 
+        # Add skill ID as learned (level 1)
+        worldChars[char_id]["CharSkills"][skill_id] = 1
+
+        # Fallback: keep list format if another system relies on it
+        if "skills" not in worldChars[char_id]:
+            worldChars[char_id]["skills"] = []
+        if skill_id not in worldChars[char_id]["skills"]:
+            worldChars[char_id]["skills"].append(skill_id)
     def CharCanLevelUpSkill(CharID, CharClassID, SkillTabID, SkillID, SkillInstance, AltFormSkill = False):
         if SkillInstance.Level >= SkillInstance.Level_Max:
             return False

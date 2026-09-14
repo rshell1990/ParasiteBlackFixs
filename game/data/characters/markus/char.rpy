@@ -21,7 +21,7 @@ init python:
         BattleClass = "warrior",
 
         HasAltForm = True,
-
+        CharSkills = {},
         AltForm_BattleClass = "parasiteWhite",
         AltForm_CharSkills = {"ParasiteWhiteFireballCharge":1},
         AltForm_BattleSkin = "markus_transformed",

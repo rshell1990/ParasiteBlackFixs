@@ -229,4 +229,4 @@ init -1 python:
                 Battle_RunCharAnim(target, "defeat")
 
             Battle_AddLogEntry(_("{color=#FF0000}%s unleashes Power Surge on %s for %d damage!{/color}") 
-                               % (actor.DisplayName, target.DisplayName, damage_dealt))
+                            % (actor.DisplayName, target.DisplayName, damage_dealt))

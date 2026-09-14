@@ -255,3 +255,16 @@ init python:
 
         "sort_order":30,
     }
+### Test and Skill Grant Example
+    static_item_defs["irridian_blade"] = {
+        "name":_("Irridian blade"),
+        "plural":_("Irridian blades"),
+        "desc":_("A blade forged by Irridian, known for its exceptional sharpness and the mysterious energy it seems to hold."),
+        "Damage":99999,
+        "grants_skill": "Summon",
+        "icon":"images/items/weapons/irridian_blade.webp",
+        "eqp_slots":EQP_SLOTS.HANDS,
+        "value_per_unit":99999999999,
+        "shop_category":"weapon",
+        "sort_order":30,
+    }

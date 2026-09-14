@@ -30,10 +30,10 @@ init python:
         OwnAccuracy = Attacker.AttackRating
         EnemyDodge = Target.DodgeRating
 
-        hit_prob = 1 - (0.99 * (1 - math.exp(-0.052 * ( EnemyDodge - OwnAccuracy ))))
         if int( OwnAccuracy ) >= int( EnemyDodge ):
-            hit_prob = 1.0
+            return 85
 
+        hit_prob = 1 - (0.99 * (1 - math.exp(-0.052 * ( EnemyDodge - OwnAccuracy ))))
         return int(15 + 70 * hit_prob)
 
     def Battle_GrantExtraTurn(BattleChar, OnlyIfHasActed = False, IgnoreDebuffs = False):

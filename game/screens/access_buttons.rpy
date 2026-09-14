@@ -22,7 +22,7 @@ screen access_buttons(): # a row of buttons to access various screens
                     selected_idle Transform("images/gui/access_panel/map_s.webp", size = gui.button_size)
                     selected_hover Transform("images/gui/access_panel/map_s.webp", size = gui.button_size)
                     if not renpy.get_screen("input"):
-                        keysym config.keymap["map"]
+                        keysym config.keymap.get("map", "K_m")
 
             if gui_parts["relations"]:
                 imagebutton:
@@ -33,7 +33,7 @@ screen access_buttons(): # a row of buttons to access various screens
                     selected_idle Transform("images/gui/access_panel/rel_s.webp", size = gui.button_size)
                     selected_hover Transform("images/gui/access_panel/rel_s.webp", size = gui.button_size)
                     if not renpy.get_screen("input"):
-                        keysym config.keymap["relations"]
+                        keysym config.keymap.get("relations", "K_r")
 
             if gui_parts["journal"]:
                 imagebutton:
@@ -44,7 +44,7 @@ screen access_buttons(): # a row of buttons to access various screens
                     selected_idle Transform("images/gui/access_panel/jrn_s.webp", size = gui.button_size)
                     selected_hover Transform("images/gui/access_panel/jrn_s.webp", size = gui.button_size)
                     if not renpy.get_screen("input"):
-                        keysym config.keymap["journal"]
+                        keysym config.keymap.get("journal", "K_j")
 
             if gui_parts["inventory"]:
                 imagebutton:
@@ -54,7 +54,7 @@ screen access_buttons(): # a row of buttons to access various screens
                     selected_idle Transform("images/gui/access_panel/inv_s.webp", size = gui.button_size)
                     selected_hover Transform("images/gui/access_panel/inv_s.webp", size = gui.button_size)
                     if not renpy.get_screen("input"):
-                        keysym config.keymap["inventory"]
+                        keysym config.keymap.get("inventory", "K_i")
 
                     action ToggleScreen("inventory", transition = Dissolve(0.15))
 
@@ -68,7 +68,7 @@ screen access_buttons(): # a row of buttons to access various screens
                         selected_idle Transform("images/gui/access_panel/char_s.webp", size = gui.button_size)
                         selected_hover Transform("images/gui/access_panel/char_s.webp", size = gui.button_size)
                         if not renpy.get_screen("input"):
-                            keysym config.keymap["characters"]
+                            keysym config.keymap.get("characters", "K_c")
                         action Show("characters", transition = Dissolve(0.15))
 
                         if not renpy.showing("characters", "screens") and [Char_ID for Char_ID in player_party if worldChars[Char_ID]["lvlPoints"] > 0 or len(GetNextPerkBunch()) > 0 or worldChars[Char_ID]["skillPoints"] > 0 or (worldChars[Char_ID]["HasAltForm"] and worldChars[Char_ID]["AltForm_SkillPoints"] > 0)]:

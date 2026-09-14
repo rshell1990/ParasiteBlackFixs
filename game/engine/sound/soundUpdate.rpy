@@ -1,4 +1,4 @@
-default SoundUpdate_LastAt = 0
+default SoundUpdate_LastAt = 0.0
 define SoundUpdate_Every = 1.0
 init python:
     PeriodicTickCallbacks = []
@@ -16,7 +16,7 @@ init python:
             store.dynamicMusic.update()
 
     def SoundTick():
-        if renpy.time.time() - store.SoundUpdate_LastAt > SoundUpdate_Every:
-            soundUpdate()
+        last_at = getattr(store, "SoundUpdate_LastAt", 0.0)
+        sound_every = getattr(store, "SoundUpdate_Every", 0.1)
 
     PeriodicTickCallbacks.append(SoundTick)

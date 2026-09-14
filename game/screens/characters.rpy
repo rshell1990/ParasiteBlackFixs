@@ -28,21 +28,23 @@ screen characters():
                     textbutton "<<":
                         align (0.0, 0.5)
                         if player_party.index(Char_ID) > 0:
-                            action [SetDict(worldChars, Char_ID, copy.deepcopy(CharCopy)),
-                                    SetLocalVariable("CharCopy", copy.deepcopy(worldChars[player_party[player_party.index(Char_ID) - 1]])), 
-                                    SetLocalVariable("Char_ID", player_party[player_party.index(Char_ID) - 1]),
-                                    If(player_party[player_party.index(Char_ID) - 1] != "mc" and tab_page == "perks", true = SetLocalVariable("tab_page", "sheet")),
-                                    If(worldChars[player_party[player_party.index(Char_ID) - 1]]["HasAltForm"] == False and tab_page == "AltFormSkills", true = SetLocalVariable("tab_page", "sheet"))]
+                            action [
+                                SetLocalVariable("Char_ID", player_party[player_party.index(Char_ID) - 1]),
+                                SetLocalVariable("CharCopy", copy.deepcopy(worldChars[player_party[player_party.index(Char_ID) - 1]])),
+                                If(player_party[player_party.index(Char_ID) - 1] != "mc" and tab_page == "perks", true = SetLocalVariable("tab_page", "sheet")),
+                                If(worldChars[player_party[player_party.index(Char_ID) - 1]]["HasAltForm"] == False and tab_page == "AltFormSkills", true = SetLocalVariable("tab_page", "sheet"))
+                            ]
                 label "%s" % worldChars[Char_ID]["name"] align (0.5, 0.5)
                 if GetPartySize() > 1:
                     textbutton ">>":
                         align (1.0, 0.5)
                         if player_party.index(Char_ID) + 1 < GetPartySize():
-                            action [SetDict(worldChars, Char_ID, copy.deepcopy(CharCopy)),
-                                    SetLocalVariable("CharCopy", copy.deepcopy(worldChars[player_party[player_party.index(Char_ID) + 1]])), 
-                                    SetLocalVariable("Char_ID", player_party[player_party.index(Char_ID) + 1]),
-                                    If(player_party[player_party.index(Char_ID) + 1] != "mc" and tab_page == "perks", true = SetLocalVariable("tab_page", "sheet")),
-                                    If(worldChars[player_party[player_party.index(Char_ID) + 1]]["HasAltForm"] == False and tab_page == "AltFormSkills", true = SetLocalVariable("tab_page", "sheet"))]
+                            action [
+                                SetLocalVariable("Char_ID", player_party[player_party.index(Char_ID) + 1]),
+                                SetLocalVariable("CharCopy", copy.deepcopy(worldChars[player_party[player_party.index(Char_ID) + 1]])),
+                                If(player_party[player_party.index(Char_ID) + 1] != "mc" and tab_page == "perks", true = SetLocalVariable("tab_page", "sheet")),
+                                If(worldChars[player_party[player_party.index(Char_ID) + 1]]["HasAltForm"] == False and tab_page == "AltFormSkills", true = SetLocalVariable("tab_page", "sheet"))
+                            ]
             null height 5
             hbox:
                 xsize 1400
@@ -95,6 +97,11 @@ screen characters():
                                 action [SetLocalVariable("tab_page", "AltFormSkills"), 
                                         SetDict(worldChars, Char_ID, copy.deepcopy(CharCopy)),
                                         ]
+                #### learned skills tab btn
+                textbutton _("Learned Skills"):
+                    selected tab_page == "learned"
+                    style "button_tab"
+                    action SetLocalVariable("tab_page", "learned")
                 #### perks tab btn
                 if Char_ID == "mc":
                     if len(GetNextPerkBunch()) > 0 or len(worldChars["mc"]["perks"]) > 0:
@@ -359,7 +366,16 @@ screen characters():
                                     action SetLocalVariable("CharCopy", copy.deepcopy(worldChars[Char_ID]))
                                     at eye_catching_flash
                         null height 30
-
+################# learned skills tab
+            if tab_page == "learned":
+                vbox:
+                    xalign 0.5
+                    vbox:
+                        label _("Learned Tome Skills") xalign 0.5
+                        frame:
+                            ysize 550
+                            xsize 1350
+                            use SkillTab(Char_ID, "learned", CharClassID = worldChars[Char_ID]["BattleClass"])
 #################  perks tab
             if tab_page == "perks":
                 hbox:

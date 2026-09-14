@@ -1,4 +1,4 @@
-init python:
+init 1 python:
 ######### novaras lib
     static_item_defs["book_dragonwars"] = {
         "name":     STR_BOOK.DRAGONWARS_NAME,
@@ -42,16 +42,25 @@ init python:
     }
 
 ######### hamun
+init python:
     static_item_defs["book_prince_onji"] = {
-        "name":     STR_BOOK.PRINCE_ONJI_NAME,
-        "plural":   STR_BOOK.PRINCE_ONJI_NAME,
-        "desc":     STR_BOOK.PRINCE_ONJI_DESC,
-        "icon":"images/items/books/book.webp",
-        "value_per_unit":100,
-        "on_use_story":[[ItemOpenBook, STR_BOOK.PRINCE_ONJI]],
-        "shop_category":"book",
-        "shop_flag":"hamun_lib",
-        "sort_order":70,
+        "name":     _("The Prince of Onji"),
+        "plural":   _("The Prince of Onji"),
+        "desc":     _("A historical storybook recounting the legend of Prince Onji."),
+        "icon":     "images/items/books/book.webp",
+        "value_per_unit": 50,
+        "shop_category": "book",
+        "sort_order": 10,
+    }
+
+    static_item_defs["book_legends_far_wide"] = {
+        "name":     _("Legends Far & Wide"),
+        "plural":   _("Legends Far & Wide"),
+        "desc":     _("A collection of myths and folklore from distant lands."),
+        "icon":     "images/items/books/book.webp",
+        "value_per_unit": 75,
+        "shop_category": "book",
+        "sort_order": 15,
     }
     static_item_defs["book_legends_far_wide"] = {
         "name":     STR_BOOK.LEGENDS_FAR_WIDE_NAME,
@@ -118,4 +127,15 @@ init python:
         "on_use_story":[[ItemOpenBook, STR_BOOK.LOVING_OPHELIA]],
         "shop_category":"book",
         "sort_order":70,
+    }
+    static_item_defs["skill_book_summoner"] = {
+        "name":     _("Summoner Skill Book"),
+        "plural":   _("Summoner Skill Books"),
+        "desc":     _("A dusty tome containing secrets on how to manifest spectral guardians."),
+        "teaches_skill": "Summon",
+        "icon":     "images/items/books/book.webp",
+        "value_per_unit": 150,
+        "on_use_story": None,
+        "shop_category": "book",
+        "sort_order": 70,
     }

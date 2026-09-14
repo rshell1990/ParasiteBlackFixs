@@ -4,10 +4,11 @@ init python:
         def __init__(self):
             super().__init__()
             self.WillNotBuyCategories   = GetAllItemShopCats() - {"book"}
-            self.WillNotBuyItemIDs      = {"book_prince_onji", "book_legends_far_wide"}
+            self.WillNotBuyItemIDs      = {"book_prince_onji", "book_legends_far_wide" }
         
         def onStart(self):
             AddItemTo(self.Items, "gold", 300)
+            AddItemTo(self.Items, "skill_book_summoner", 1)
             self.onMidnight() # 1st restock is manual
 
         # daily restock 
@@ -25,9 +26,10 @@ init python:
             self.AskedWhatAreYou = False
             self.AskedAboutBooks = False
             self.SeenFirstMeet   = False
+            self.BoughtSummonerBook = False
 
         def extraDialogue(self):
-            yield ("numa_root", DNode(_("I have books to trade."), "numa_books_trade"))
+            yield ("numa_root", DNode(_("I have books to trade."), "numa_books_trade"))   
             if not self.AskedWhatAreYou:
                 yield ("numa_root", DNode(_("I hate to ask but... What are you?"), "numa_whatareyou"))
 
@@ -60,7 +62,6 @@ init python:
 
         def onStart(self):
             QstStart(ShopHamunLibrary)
-
 label numa_moreaboutpeople:
     NUMA @talk "Speak the wave, and I shall answer."
     menu numa_moreaboutpeople_menu:

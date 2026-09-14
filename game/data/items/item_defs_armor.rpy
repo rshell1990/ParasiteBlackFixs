@@ -12,7 +12,58 @@ init python:
 
         "sort_order":40,
     }
+    static_item_defs["mythril_armor"] = {
+        "name":_("Mythril armor"),
+        "plural":_("Mythril armors"),
+        "desc":_("An armor set made from mythril, a rare and valuable metal."),
+        "Armor":12,
+        "icon":"images/items/armor/armor_mythril.webp",
+        "eqp_slots":EQP_SLOTS.CHEST,
+        "value_per_unit":200,
+        "shop_category":"armor",
 
+        "sort_order":40,
+    }
+    static_item_defs["golden_armor"] = {
+        "name":_("Golden armor"),
+        "plural":_("Golden armors"),
+        "desc":_("An armor set made from golden metal."),
+        "Armor":6,
+        "icon":"images/items/armor/armor_leather.webp",
+        "eqp_slots":EQP_SLOTS.CHEST,
+        "value_per_unit":200,
+        "shop_category":"armor",
+
+        "sort_order":40,
+    }
+    static_item_defs["adamantite_armor"] = {
+        "name":_("Adamantite armor"),
+        "plural":_("Adamantite armors"),
+        "desc":_("An armor set made from adamantite, a rare and valuable metal."),
+        "Armor":12,
+        "icon":"images/items/armor/armor_adamantite.webp",
+        "eqp_slots":EQP_SLOTS.CHEST,
+        "value_per_unit":200,
+        "shop_category":"armor",
+
+        "sort_order":40,
+    }
+    static_item_defs["Irridian_armor"] = {
+        "name":_("Irridian armor"),
+        "plural":_("Irridian armors"),
+        "desc":_("An armor set made by Irridian, Even looking at it makes you feel well defended."),
+        "Armor":99999,
+        "add_attr_dex":99999,
+        "add_attr_agi":99999,
+        "add_attr_hp":99999,
+        "add_attr_str":99999,
+        "icon":"images/items/armor/armor_irridian.webp",
+        "eqp_slots":EQP_SLOTS.CHEST,
+        "value_per_unit":200,
+        "shop_category":"armor",
+
+        "sort_order":40,
+    }
     static_item_defs["scout_armor"] = {
         "name":_("Scout armor"),
         "plural":_("Scout armors"),
@@ -209,7 +260,7 @@ init python:
 ### dreamhouse reward
     static_item_defs["faymore_armor"] = {
         "name":_("Faymore armor"),
-        "plural":_("Faymore armor"),
+        "plural":_("Faymore armors"),
         "desc":_("The Faymore family armor, worn by Strigon Faymore, wearing it gives a sense that the darkness of the world recedes every so slightly…"),
         # Every round, heals 10% of current HP for the wearer
         "battle_perma_effects":["FaymoreArmorRegenWearer"],
@@ -220,4 +271,17 @@ init python:
         "shop_category":"armor",
         "sort_order":40,
     }
-
+    # Make sure this string ID matches the item key assigned during equip
+    static_item_defs["summoner_armor"] = {
+        "name":_("Summoner Armor"),
+        "plural":_("Summoner Armors"),
+        "desc":_("Strange armor etched with sigils of binding. Wearing it, one feels the presence of unseen allies waiting just beyond the veil."),
+        "Armor":8,
+        "grants_skill":"Summon", # must match the SkillLib key registered via RegisterBattleSkill
+        "icon":"images/items/armor/armor_steel.webp", # TODO: replace with dedicated icon when art is available
+        "eqp_slots":EQP_SLOTS.CHEST,
+        "value_per_unit": 9500,
+        "cannot_lose":True,
+        "shop_category":"armor",
+        "sort_order":30,
+    }

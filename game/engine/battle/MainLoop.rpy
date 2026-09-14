@@ -34,7 +34,48 @@ init python:
     BattleData = None
     BattleSceneClass = None
     BattleSetup_GetAllCharsWithSkin = None
+    def ItemLearnSkill(SkillID):
+        # Teach skill to the active player character
+        if "player" in store.worldChars:
+            player_data = store.worldChars["player"]
+            if "skills" not in player_data:
+                player_data["skills"] = []
+                
+            if SkillID not in player_data["skills"]:
+                player_data["skills"].append(SkillID)
+                renpy.notify(_("Learned new skill: %s") % SkillID)
+            else:
+                renpy.notify(_("You already know this skill."))
+    def Battle_PopulateLearnedTomeSkills(BattleChar):
+        """
+        Scans worldChars for learned book/tome skills and dynamically instantiates 
+        them into the character's active combat skill array.
+        """
+        CharID = getattr(BattleChar, "CharID", None)
+        if not CharID or CharID not in store.worldChars:
+            return
 
+        char_data = store.worldChars[CharID]
+        learned_skills = char_data.get("skills", [])
+
+        # Prevent duplicate skill instances
+        existing_skill_ids = [getattr(s, "ID", "") for s in getattr(BattleChar, "Skills", [])]
+
+        for skill_id in learned_skills:
+            if skill_id not in existing_skill_ids and skill_id in store.SkillLib:
+                # Instantiate skill class from SkillLib registry
+                SkillClass = store.SkillLib[skill_id]
+                new_skill_instance = SkillClass(Owner_PBCharID=CharID, ToLevel=1)
+                
+                # Append skill to character's active combat skill array
+                if hasattr(BattleChar, "Skills"):
+                    BattleChar.Skills.append(new_skill_instance)
+
+    def Battle_SyncPartyTomeSkills():
+        """Applies learned tome skills to all player-side party characters in combat."""
+        if store.BattleScene and store.BattleScene.BattleChars:
+            for battle_char in store.BattleScene.BattleChars[0]:  # Player side (Side 0)
+                Battle_PopulateLearnedTomeSkills(battle_char)
     def Battle_StartRealtimeTimer(seconds):
         """Starts a real-time battle countdown for the specified duration in seconds."""
         store.battle_realtime_timer = float(seconds)
@@ -223,7 +264,7 @@ init python:
         return
 
     def IsPlayerInBattle():
-        return store.BattleScene is not None
+        return getattr(store, "BattleScene", None) is not None
 
     def Battle_Win():
         BattleScene.Outcome = "victory"
@@ -396,7 +437,14 @@ init python:
                 _tag = "BattleCharInfoScreen_%s" % id(BattleChar),
                 _layer = "master")
         return
-
+    
+    def GetItemCount(ItemID, TargetContainer = None):
+        if TargetContainer is None:
+            TargetContainer = store.worldChars.get("player", {})
+            
+        if isinstance(TargetContainer, dict):
+            return TargetContainer.get(ItemID, 0)
+        return 0
 label Battle_Start:
     $ TooltipClear()
     hide screen Battle_BottomPanel
@@ -410,6 +458,10 @@ label Battle_Start:
 
     scene expression BattleScene.BackgroundImage    
     $ Battle_SetCharPositionsAndZorder()
+
+    # DYNAMICALLY INJECT LEARNED TOME SKILLS INTO COMBAT CHARACTERS
+    $ Battle_SyncPartyTomeSkills()
+
     $ Battle_OnStartShowChars()
 
     $ Battle_SelectLeftChar(BattleScene.BattleChars[0][0])

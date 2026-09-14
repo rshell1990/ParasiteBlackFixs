@@ -65,7 +65,7 @@ screen time_tracker():
                     selected_idle Transform("images/gui/top_left/rest_s.webp", size = gui.button_size)
                     selected_hover Transform("images/gui/top_left/rest_s.webp", size = gui.button_size)
 
-                    keysym config.keymap["gui_rest_menu"]
+                    keysym config.keymap.get("gui_rest_menu", "K_g")
 
                 else:
                     idle Transform("images/gui/top_left/rest_b_gray.webp", size = gui.button_size)
