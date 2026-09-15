@@ -5,7 +5,7 @@ init python:
         "plural":_("Void armor"),
         "desc":_("Powerful, beautifully crafted armor reeking of old god magecraft... Whatever being made this, did so to give it to their champion..."),
         "Armor":13,
-        "grants_skill":"Summon",
+        "grants_skill":"Summon2",
         "icon":"images/items/armor/void_armor.webp",
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 35000,

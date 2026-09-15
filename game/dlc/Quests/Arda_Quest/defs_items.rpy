@@ -5,7 +5,7 @@ init python:
         "desc": _("Stunning armor radiating power... Simply looking at it gives a sense of something holy."),
         "Armor": 13,
         "icon": "images/items/armor/champion_armor.webp",
-        "grants_skill":"Summon",
+        "grants_skill":"Summon1",
         "eqp_slots": EQP_SLOTS.CHEST,
         "value_per_unit": 35000,
         "can_lose": False,
