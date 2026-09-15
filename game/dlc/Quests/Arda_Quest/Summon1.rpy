@@ -1,6 +1,6 @@
 init python:
     @RegisterBattleSkill("Summon1")
-    class BattleSkill_Summon(BattleSkill):
+    class BattleSkill_Summon1(BattleSkill):
         DisplayName = _("Summon")
         Icon = "images/battle_skill_icons/no_icon.webp"
 
@@ -13,7 +13,7 @@ init python:
         SummonStatMultiplier = {1: 1.00, 2: 1.25, 3: 1.50, 4: 1.75}
 
         def CanExecute(self):
-            if not super(BattleSkill_Summon, self).CanExecute():
+            if not super(BattleSkill_Summon1, self).CanExecute():
                 return False
 
             Allies = BattleScene.BattleChars[self.Owner_BattleChar.BattleSide]

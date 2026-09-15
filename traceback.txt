@@ -3,76 +3,86 @@
 While running game code:
   File "game/engine/locations/coreLoop.rpy", line 52, in script call
     call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
-  File "game/engine/locations/coreLoop.rpy", line 52, in script call
-    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
-  File "game/dlc/Quests/Arda_Quest/arda_scr.rpy", line 92, in script
-    $ StartBattle(BattleData(BackgroundImage = "bg_palam_garden", CharIDList_Left = ["mc"], CharIDList_Right = ["void_spirit"], CanTransform = False))
-  File "game/dlc/Quests/Arda_Quest/arda_scr.rpy", line 92, in <module>
-    $ StartBattle(BattleData(BackgroundImage = "bg_palam_garden", CharIDList_Left = ["mc"], CharIDList_Right = ["void_spirit"], CanTransform = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 262, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
-    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
-    Battle_SetBattleCharSkillPool(self, "Normal")
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 169, in Battle_SetBattleCharSkillPool
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 169, in <lambda>
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-                         ~~~~~~~~^^^^^^^^^                                                                                                                          
-KeyError: 'Summon1'
+  File "game/engine/world_map/world_map_aio.rpy", line 142, in script call
+    $ Travel_CallEventLabel(TravelState.RouteID, TravelState.NodeIndex_Current)
+  File "game/data/travel_node_logic/aio.rpy", line 7, in script call
+    call travel_event_battle_demorai from _call_travel_event_battle_demorai
+  File "game/data/travel_events/demorai_battle.rpy", line 23, in script call
+    $ StartBattle(BattleData(BackgroundImage = TravelRoutes[TravelState.RouteID]["image_battle_bg"], CharIDList_Right = tmpvar))
+  File "game/engine/battle/MainLoop.rpy", line 509, in script
+    $ Battle_DoAITurn(renpy.random.choice(BattleScene.ActiveCharsList))
+  File "game/engine/battle/MainLoop.rpy", line 509, in <module>
+    $ Battle_DoAITurn(renpy.random.choice(BattleScene.ActiveCharsList))
+      ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/battle_do_ai_turn.rpy", line 19, in Battle_DoAITurn
+    if Skill.CanExecute() and len(Battle_GetAllTargetsList(Skill)) > 0 and Skill.OwnerCharCanPaySkillCost():
+       ~~~~~~~~~~~~~~~~^^                                                                                   
+  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
+    if not super(BattleSkill_Summon, self).CanExecute():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
+TypeError: super(type, obj): obj must be an instance or subtype of type
+
+During handling of the above exception, another exception occurred:
+
+_pickle.PicklingError: Can't pickle <class 'store.BattleSkill_Summon'>: it's not the same object as store.BattleSkill_Summon
+Perhaps bad reduction in renpy.game.log.__getstate__()['log'][112].__getstate__()['objects'][2][0]['_kwargs']['BattleChar'].__getstate__()['CharRef'].__getstate__()['TemplateRef']['_derived']['HealthMax'] = <function healthMaxCalc at 0x000000001997f1a0>
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
   File "game/engine/locations/coreLoop.rpy", line 52, in script call
     call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
-  File "game/engine/locations/coreLoop.rpy", line 52, in script call
-    call expression Story_NavLoop_PotentialEventLabels[0] from _call_expression_4
-  File "game/dlc/Quests/Arda_Quest/arda_scr.rpy", line 92, in script
-    $ StartBattle(BattleData(BackgroundImage = "bg_palam_garden", CharIDList_Left = ["mc"], CharIDList_Right = ["void_spirit"], CanTransform = False))
+  File "game/engine/world_map/world_map_aio.rpy", line 142, in script call
+    $ Travel_CallEventLabel(TravelState.RouteID, TravelState.NodeIndex_Current)
+  File "game/data/travel_node_logic/aio.rpy", line 7, in script call
+    call travel_event_battle_demorai from _call_travel_event_battle_demorai
+  File "game/data/travel_events/demorai_battle.rpy", line 23, in script call
+    $ StartBattle(BattleData(BackgroundImage = TravelRoutes[TravelState.RouteID]["image_battle_bg"], CharIDList_Right = tmpvar))
+  File "game/engine/battle/MainLoop.rpy", line 509, in script
+    $ Battle_DoAITurn(renpy.random.choice(BattleScene.ActiveCharsList))
   File "renpy/ast.py", line 1193, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "renpy/python.py", line 1276, in py_exec_bytecode
     exec(bytecode, globals, locals)
     ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/dlc/Quests/Arda_Quest/arda_scr.rpy", line 92, in <module>
-    $ StartBattle(BattleData(BackgroundImage = "bg_palam_garden", CharIDList_Left = ["mc"], CharIDList_Right = ["void_spirit"], CanTransform = False))
-      ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/MainLoop.rpy", line 262, in StartBattle
-    store.BattleScene = BattleSceneClass(BattleDataObj)
-                        ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
-  File "game/engine/battle/battlescene/battle_scene_data_class_init.rpy", line 181, in __init__
-    self.BattleChars[0] = Battle_ConvertCharIDListToBattleChars(self.CharIDList_Left)
-                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 51, in Battle_ConvertCharIDListToBattleChars
-    BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
-                          ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^ 
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 45, in BattleCharFromCharID
-    return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
-           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_class.rpy", line 32, in __init__
-    Battle_SetBattleCharSkillPool(self, "Normal")
-    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 169, in Battle_SetBattleCharSkillPool
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-  File "game/engine/battle/bchar/battle_char_funcs.rpy", line 169, in <lambda>
-    BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
-                         ~~~~~~~~^^^^^^^^^                                                                                                                          
-KeyError: 'Summon1'
+  File "game/engine/battle/MainLoop.rpy", line 509, in <module>
+    $ Battle_DoAITurn(renpy.random.choice(BattleScene.ActiveCharsList))
+      ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/engine/battle/battle_do_ai_turn.rpy", line 19, in Battle_DoAITurn
+    if Skill.CanExecute() and len(Battle_GetAllTargetsList(Skill)) > 0 and Skill.OwnerCharCanPaySkillCost():
+       ~~~~~~~~~~~~~~~~^^                                                                                   
+  File "game/data/battle_skills_actions/SkillsSummoner/Off/Summon.rpy", line 16, in CanExecute
+    if not super(BattleSkill_Summon, self).CanExecute():
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   
+TypeError: super(type, obj): obj must be an instance or subtype of type
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "renpy/common/00keymap.rpy", line 504, in script
+    python hide:
+  File "renpy/ast.py", line 1193, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/python.py", line 1276, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/common/00keymap.rpy", line 504, in <module>
+    python hide:
+  File "renpy/common/00keymap.rpy", line 531, in _execute_python_hide
+    renpy.save("_reload-1", "reload save game")
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/loadsave.py", line 184, in save
+    dump((roots, renpy.game.log), logf)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "renpy/compat/pickle.py", line 319, in dump
+    pickle.dump(o, f, pickle.HIGHEST_PROTOCOL if highest else PROTOCOL)
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_pickle.PicklingError: Can't pickle <class 'store.BattleSkill_Summon'>: it's not the same object as store.BattleSkill_Summon
+Perhaps bad reduction in renpy.game.log.__getstate__()['log'][112].__getstate__()['objects'][2][0]['_kwargs']['BattleChar'].__getstate__()['CharRef'].__getstate__()['TemplateRef']['_derived']['HealthMax'] = <function healthMaxCalc at 0x000000001997f1a0>
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Tue Sep 15 06:26:42 2026
+Tue Sep 15 08:56:37 2026
