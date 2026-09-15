@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-09 21:50
+# TODO: Translation updated at 2026-06-09 21:50
 
 translate tr strings:
 
@@ -67,11 +67,11 @@ translate tr strings:
     new "Bu karaktere dağıtılacak yetenek puanların var."
 
     # game/screens/characters.rpy:295
-    old "Offence"
+    old "Offense"
     new "Saldırı"
 
     # game/screens/characters.rpy:295
-    old "Defence"
+    old "Defense"
     new "Savunma"
 
     # game/screens/characters.rpy:295

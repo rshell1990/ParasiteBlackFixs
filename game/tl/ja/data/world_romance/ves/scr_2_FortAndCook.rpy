@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:2
 translate ja rom_Ves_2_FortAndCook_Rev_e399c0fc:
@@ -9,7 +9,7 @@ translate ja rom_Ves_2_FortAndCook_Rev_e399c0fc:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:3
 translate ja rom_Ves_2_FortAndCook_Rev_33e02ec9:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
     VES @ talk "周囲にちょっとした境界防御を設けるつもりだ。ただの鈴と、ワイヤーに通しておく程度のものだが、誰かがここに忍び込もうとしたら鳴る仕掛けになっている。"
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:9
@@ -27,7 +27,7 @@ translate ja rom_Ves_2_FortAndCook_94bfba8b:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:19
 translate ja rom_Ves_2_FortAndCook_1bb29bdd:
 
-    # "Over the next hour or so, Ves and I began to set up some primitive defences around her camp."
+    # "Over the next hour or so, Ves and I began to set up some primitive defenses around her camp."
     "それから一時間ほど、ヴェスと私は彼女のキャンプ周りに原始的な防衛設備を設け始めた。"
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:21

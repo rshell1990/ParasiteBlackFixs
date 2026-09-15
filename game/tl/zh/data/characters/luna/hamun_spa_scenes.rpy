@@ -1,4 +1,4 @@
-﻿
+
 
 # game/data/characters/luna/hamun_spa_scenes.rpy:4
 translate zh hamun_spa_use_main_79c353c1:
@@ -1065,7 +1065,7 @@ translate zh hamun_spa_tf_solo_c9d4a374:
 # game/data/characters/luna/hamun_spa_scenes.rpy:364
 translate zh hamun_spa_tf_solo_ba0bd0dc:
 
-    # MARBELLA "No offence, of course."
+    # MARBELLA "No offense, of course."
     MARBELLA "当然，没有冒犯的意思。"
 
 # game/data/characters/luna/hamun_spa_scenes.rpy:365

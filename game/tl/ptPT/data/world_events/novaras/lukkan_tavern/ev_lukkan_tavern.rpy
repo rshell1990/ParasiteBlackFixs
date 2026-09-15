@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-07 02:02
+# TODO: Translation updated at 2026-07-07 02:02
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:24
 translate ptPT ev_lukkan_tavern_talk_d33c877c:
@@ -597,7 +597,7 @@ translate ptPT ev_lukkan_tavern_talk_2_menu2_6ea0c11a:
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:143
 translate ptPT ev_lukkan_tavern_talk_2_menu2_00be4855:
 
-    # LUKKAN @ talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defence line deeper in-land to stop the Demorai and help the straggling forces there."
+    # LUKKAN @ talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defense line deeper in-land to stop the Demorai and help the straggling forces there."
     LUKKAN @ talk "Tivemos que abandonar nossos planos de nos encontrar no Forte Rook e nos mover rapidamente para reformar uma nova linha de defesa mais para o interior para deter os Demorai e ajudar as forças dispersas lá."
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:144

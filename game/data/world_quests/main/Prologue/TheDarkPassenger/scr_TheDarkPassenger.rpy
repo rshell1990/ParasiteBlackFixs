@@ -990,7 +990,7 @@ label qst_TheDarkPass_TalkToMarkusInAbandFort:
     MARKUS 'I think it’s a lot of bad news...'
     menu:
         'About what happened to Borras...':
-            MARKUS 'No offence, [player_name!t], but the last thing I want to think about right now is that.'
+            MARKUS 'No offense, [player_name!t], but the last thing I want to think about right now is that.'
             MC 'Right, sorry.'
             MARKUS ' ... {i}His face...{/i}'
             'Markus shook his head as if to push the thought away.'

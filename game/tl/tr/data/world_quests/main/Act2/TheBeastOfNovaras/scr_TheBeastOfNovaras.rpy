@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-09 21:50
+# TODO: Translation updated at 2026-06-09 21:50
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:6
 translate tr qst_TheBeastOfNovaras_IntroWakeUp_56025c5b:
@@ -3375,13 +3375,13 @@ translate tr qst_TheBeastOfNovaras_ParasiteShipFlashback_d1d140f9:
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:874
 translate tr qst_TheBeastOfNovaras_ParasiteShipFlashback_3631c7d6:
 
-    # "The cities inner defences were little match for the speed of the Zarpod."
+    # "The cities inner defenses were little match for the speed of the Zarpod."
     "Şehrin iç savunmaları Zarpod'un hızına çok az rakipti."
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:875
 translate tr qst_TheBeastOfNovaras_ParasiteShipFlashback_620e1748:
 
-    # "If their orbital defences couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
+    # "If their orbital defenses couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
     "Eğer yörüngesel savunmaları onları durduramazsa, kara kuvvetlerine karşı savunmak için inşa edilmiş çaresiz toplar çok yavaştı."
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:876

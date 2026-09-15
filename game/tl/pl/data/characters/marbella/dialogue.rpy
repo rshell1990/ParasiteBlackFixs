@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-06 18:05
+# TODO: Translation updated at 2026-08-06 18:05
 
 # game/data/characters/marbella/dialogue.rpy:114
 translate pl marbella_aboutexp_0207b47b:
@@ -813,8 +813,8 @@ translate pl marbella_expedition_copper_choice_2927c5f9_1:
 # game/data/characters/marbella/dialogue.rpy:403
 translate pl marbella_expedition_copper_choice_2dcfa46e:
 
-    # MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
-    MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    # MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
 
 # game/data/characters/marbella/dialogue.rpy:404
 translate pl marbella_expedition_copper_choice_2927c5f9_2:
@@ -999,8 +999,8 @@ translate pl strings:
     new "A rune of power"
 
     # game/data/characters/marbella/dialogue.rpy:400
-    old "A rune of defence"
-    new "A rune of defence"
+    old "A rune of defense"
+    new "A rune of defense"
 
     # game/data/characters/marbella/dialogue.rpy:411
     old "Actually, I've changed my mind..."

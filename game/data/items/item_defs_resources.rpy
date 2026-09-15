@@ -209,11 +209,11 @@ init python:
 
         "sort_order":60,
     }
-    static_item_defs["rune_of_defence"] = {
-        "name":_("Rune of Defence"),
-        "plural":_("Runes of Defence"),
+    static_item_defs["rune_of_defense"] = {
+        "name":_("Rune of Defense"),
+        "plural":_("Runes of Defense"),
         "desc":_("A runestone with some kind of insignia marking, it emits some form of magecraft energy - this one seems focused on helping one with defending themselves from attacks."),
-        "icon":"images/items/res/rune_of_defence.webp",
+        "icon":"images/items/res/rune_of_defense.webp",
         "value_per_unit":850,
         "shop_category":"magecraft",
 

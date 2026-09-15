@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:7
 translate ptBR qst_dreamhouse_primer_letter_6eb8ca0a:
@@ -4077,7 +4077,7 @@ translate ptBR qst_dreamhouse_l4_start_354c0991:
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1653
 translate ptBR qst_dreamhouse_l4_start_4b99b1f8:
 
-    # KIARA @ think "... No offence."
+    # KIARA @ think "... No offense."
     KIARA @ think "... Sem ofensa."
 
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1654

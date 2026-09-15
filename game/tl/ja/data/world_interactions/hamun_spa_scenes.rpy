@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:4
 translate ja hamun_spa_use_main_79c353c1:
@@ -1066,7 +1066,7 @@ translate ja hamun_spa_tf_solo_c9d4a374:
 # game/data/world_interactions/hamun_spa_scenes.rpy:364
 translate ja hamun_spa_tf_solo_ba0bd0dc:
 
-    # MARBELLA "No offence, of course."
+    # MARBELLA "No offense, of course."
     MARBELLA "悪気はない、もちろん。"
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:365

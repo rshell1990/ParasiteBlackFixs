@@ -361,7 +361,7 @@ label hamun_spa_tf_solo:
         NUMA "It's fine."
         NUMA "I prefer some companionship when in the pools here."
         MARBELLA "Why {i}do{/i} ya invite me instead of one of ya fishy friends?"
-        MARBELLA "No offence, of course."
+        MARBELLA "No offense, of course."
         NUMA "It's... complicated."
         NUMA "Females of my species can be quite... {i}territorial.{/i}"
         NUMA "There are all sorts of politics and things."

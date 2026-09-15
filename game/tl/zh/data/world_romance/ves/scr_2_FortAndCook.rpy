@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-01 22:08
+# TODO: Translation updated at 2025-07-01 22:08
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:2
 translate zh rom_Ves_2_FortAndCook_Rev_e399c0fc:
@@ -10,7 +10,7 @@ translate zh rom_Ves_2_FortAndCook_Rev_e399c0fc:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:3
 translate zh rom_Ves_2_FortAndCook_Rev_33e02ec9:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
     VES @ talk "我打算设置一些周边防御，就是在电线上挂些铃铛之类的东西，如果有人想偷偷溜进来，就会叮当作响。"
     
 
@@ -31,7 +31,7 @@ translate zh rom_Ves_2_FortAndCook_94bfba8b:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:20
 translate zh rom_Ves_2_FortAndCook_1bb29bdd:
 
-    # "Over the next hour or so, 维斯 and I began to set up some primitive defences around her camp."
+    # "Over the next hour or so, 维斯 and I began to set up some primitive defenses around her camp."
     "在接下来的一个小时左右，维斯和我开始在她的营地周围设置一些原始的防御措施。"
     
 

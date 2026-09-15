@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:7
 translate ja qst_TheDarkPass_MarchOut_43d50239:
@@ -6010,7 +6010,7 @@ translate ja qst_TheDarkPass_SleepAndMorningScene_8940695b:
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:993
 translate ja qst_TheDarkPass_TalkToMarkusInAbandFort_927553e4:
 
-    # MARKUS "No offence, [player_name!t], but the last thing I want to think about right now is that."
+    # MARKUS "No offense, [player_name!t], but the last thing I want to think about right now is that."
     MARKUS "悪気はないけど、[player_name!t]、今それを考えるのは一番嫌なんだ。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1004

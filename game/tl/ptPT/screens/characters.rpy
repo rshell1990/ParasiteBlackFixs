@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-07 02:03
+# TODO: Translation updated at 2026-07-07 02:03
 
 translate ptPT strings:
 
@@ -67,11 +67,11 @@ translate ptPT strings:
     new "Você tem pontos de vantagens para distribuir a este personagem."
 
     # game/screens/characters.rpy:299
-    old "Offence"
+    old "Offense"
     new "Ofensa"
 
     # game/screens/characters.rpy:299
-    old "Defence"
+    old "Defense"
     new "Defesa"
 
     # game/screens/characters.rpy:299

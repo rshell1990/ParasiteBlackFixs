@@ -271,7 +271,6 @@ init python:
         "shop_category":"armor",
         "sort_order":40,
     }
-    # Make sure this string ID matches the item key assigned during equip
     static_item_defs["summoner_armor"] = {
         "name":_("Summoner Armor"),
         "plural":_("Summoner Armors"),

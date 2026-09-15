@@ -487,7 +487,7 @@ label Battle_Loop:
             $ Battle_TurnStartRestoreEnergyOrMana(BattleScene.ActingSide)
 
             $ Battle_StatusEffect_OnTurnStart(BattleScene.ActingSide)
-            $ Battle_TickStatusEffectDuration(BattleScene.ActingSide)
+            $ Battle_TickStatusEffectDuration(BattleScene.ActingSide, AtEnd = False)
             $ Battle_LoopStep(0.15)
             
             if BattleScene.Turn != 1 and BattleScene.ActingSide == 0:

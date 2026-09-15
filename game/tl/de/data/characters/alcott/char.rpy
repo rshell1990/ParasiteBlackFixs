@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-04 03:41
+# TODO: Translation updated at 2026-08-04 03:41
 
 translate de strings:
 
@@ -7,6 +7,6 @@ translate de strings:
     new "Emperor Alcott"
 
     # game/data/characters/alcott/char.rpy:10
-    old "The defacto leader of Alderay, a once former general under king Mesamore who led Novaras' defence during the great siege. Turned usurper, he overthrew Mesamore and now rules with an iron fist over all of us."
-    new "The defacto leader of Alderay, a once former general under king Mesamore who led Novaras' defence during the great siege. Turned usurper, he overthrew Mesamore and now rules with an iron fist over all of us."
+    old "The defacto leader of Alderay, a once former general under king Mesamore who led Novaras' defense during the great siege. Turned usurper, he overthrew Mesamore and now rules with an iron fist over all of us."
+    new "The defacto leader of Alderay, a once former general under king Mesamore who led Novaras' defense during the great siege. Turned usurper, he overthrew Mesamore and now rules with an iron fist over all of us."
 

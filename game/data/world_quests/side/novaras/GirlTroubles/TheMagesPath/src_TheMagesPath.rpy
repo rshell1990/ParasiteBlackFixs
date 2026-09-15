@@ -26,7 +26,7 @@ label qst_the_mages_path_meet_1:
             scene black with dissolve
             $ AutoMus(True)
             "The sparring session went well,"
-            "Mika was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defence."
+            "Mika was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defense."
             "While there was still a long way to go, there had been remarkable progress."
             $ TimeAdvBy(TIME_2H)
             $ LocFlush()

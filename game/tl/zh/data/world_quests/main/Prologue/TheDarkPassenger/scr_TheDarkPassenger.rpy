@@ -1,4 +1,4 @@
-﻿# game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:7
+# game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:7
 translate zh qst_TheDarkPass_MarchOut_43d50239:
 
     # "With the sounds of iron and steel reverberating into the sky, we marched towards the gate into the city."
@@ -5980,7 +5980,7 @@ translate zh qst_TheDarkPass_SleepAndMorningScene_8940695b:
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:993
 translate zh qst_TheDarkPass_TalkToMarkusInAbandFort_927553e4:
 
-    # MARKUS "No offence, [player_name!t], but the last thing I want to think about right now is that."
+    # MARKUS "No offense, [player_name!t], but the last thing I want to think about right now is that."
     MARKUS "无意冒犯，[player_name!t]，但我现在最不想想的就是那件事。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1004

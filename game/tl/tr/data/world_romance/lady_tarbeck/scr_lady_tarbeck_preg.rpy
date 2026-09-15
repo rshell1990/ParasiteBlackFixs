@@ -455,7 +455,7 @@ translate tr rom_tarbeck_darkmage_impreg_first_885a1e56:
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:194
 translate tr rom_tarbeck_darkmage_impreg_first_4942acd3:
 
-    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
+    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
     LADY_TARBECK "Kocaman, ağır taşakların zavallı savunmasız rahmimi dölledi."
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:195

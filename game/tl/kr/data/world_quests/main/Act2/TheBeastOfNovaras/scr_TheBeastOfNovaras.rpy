@@ -3214,12 +3214,12 @@ translate kr qst_TheBeastOfNovaras_ParasiteShipFlashback_d1d140f9:
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:874
 translate kr qst_TheBeastOfNovaras_ParasiteShipFlashback_3631c7d6:
 
-    # "The cities inner defences were little match for the speed of the Zarpod."
+    # "The cities inner defenses were little match for the speed of the Zarpod."
     "도시의 내부 방어는 자포드의 속도에 제대로 맞서지 못했다."
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:875
 translate kr qst_TheBeastOfNovaras_ParasiteShipFlashback_620e1748:
 
-    # "If their orbital defences couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
+    # "If their orbital defenses couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
     "궤도 방어선이 그들을 막지 못한다면, 지상군에 대항해 만들어진 절망적인 대포들은 너무 느렸다."
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:876

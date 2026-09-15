@@ -1,10 +1,10 @@
 init python:
     soundLib["BattleSkill_Expose_Use"] = ["audio/battle/skillExpose.ogg"]
     soundLib["BattleSkill_Defend_Use"] = [
-        "audio/battle/skillDefend/defence_1.ogg",
-        "audio/battle/skillDefend/defence_2.ogg",
-        "audio/battle/skillDefend/defence_3.ogg",
-        "audio/battle/skillDefend/defence_4.ogg"]
+        "audio/battle/skillDefend/defense_1.ogg",
+        "audio/battle/skillDefend/defense_2.ogg",
+        "audio/battle/skillDefend/defense_3.ogg",
+        "audio/battle/skillDefend/defense_4.ogg"]
 
     soundLib["BattleNewTurn"] = [
         "audio/battle/newTurn/turn1.ogg",

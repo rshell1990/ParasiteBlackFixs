@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["banshee"] = {
         "name":             _("Banshee"),
         "skills_string":    _("Banshee skills"),
-        "offence":{
+        "offense":{
             "BansheeASongOfPain":{
                 "Reqs_Attributes":{"Strength": 8, "Agility": 10},
                 "Reqs_SkillIDs":{},
@@ -24,7 +24,7 @@ init python:
                 "Reqs_SkillIDs":{},
             },
         },
-        "defence":{
+        "defense":{
             "BansheeWingShield":{
                 "Reqs_Attributes":{"Endurance": 7},
                 "Reqs_SkillIDs":{},

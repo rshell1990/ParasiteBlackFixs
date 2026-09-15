@@ -871,8 +871,8 @@ label qst_TheBeastOfNovaras_ParasiteShipFlashback:
     play sound "audio/cfx/explosion.ogg"
     play ambience "audio/ambience_scenes/merlanian_city_alarm.ogg" fadein 2.0
     play ambience2 "audio/ambience_scenes/merlanian_city_battle_1.ogg" fadein 2.0
-    "The cities inner defences were little match for the speed of the Zarpod."
-    "If their orbital defences couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
+    "The cities inner defenses were little match for the speed of the Zarpod."
+    "If their orbital defenses couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
     "The city, already hanging on by a thread from the assault outside, descended into full blown chaos."
     "My Zarpod slammed into a tower, stone shattering, fire blossoming."
     "Rubble engulfed me as others crashed nearby, entire streets erased in a rain of monsters."

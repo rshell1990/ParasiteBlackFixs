@@ -23,15 +23,32 @@ import re
 import os
 from pathlib import Path
 import logging
+from typing import Any, Callable, Iterator, Mapping, Optional, Protocol, Tuple
+
+def _resolve_log_level():
+    """Resolve WARP_LOGLEVEL to a logging level, defaulting to INFO."""
+    value = os.getenv('WARP_LOGLEVEL')
+    if not value:
+        return logging.INFO
+    level = logging.getLevelName(value.upper())
+    return level if isinstance(level, int) else logging.INFO
+
 
 logging.basicConfig()
 
 logger = logging.getLogger("renpy_warp_service")
 
-try:
-    logger.setLevel(level=os.getenv('WARP_LOGLEVEL', logging.INFO))
-except ValueError:
-    logger.setLevel(level=logging.INFO)
+logger.setLevel(level=_resolve_log_level())
+
+
+class WebsocketConnection(Protocol):
+    """Minimal structural interface of a websockets sync connection."""
+
+    def send(self, message: str) -> None: ...
+
+    def close(self, code: int = 1000, reason: str = "") -> None: ...
+
+    def __iter__(self) -> Iterator[str]: ...
 
 
 class RenpyWarpQuitAction(renpy.ui.Action):
@@ -71,50 +88,60 @@ def py_exec(text):
     renpy.exports.invoke_in_main_thread(fn)
 
 
-def socket_send(message, websocket):
+def socket_send(message: Mapping[str, Any], websocket: WebsocketConnection) -> None:
     """sends a message to the socket server"""
     stringified = json.dumps(message)
     websocket.send(stringified)
     logger.debug(f"sent message: {stringified}")
 
 
-def socket_listener(websocket):
+def socket_listener(websocket: WebsocketConnection) -> None:
     """listens for messages from the socket server"""
     for message in websocket:
         logger.debug(f"receive message: {message}")
-        payload = json.loads(message)
 
-        if payload["type"] == "warp_to_line":
-            file = payload["file"]
-            line = payload["line"]
+        try:
+            payload = json.loads(message)
+            payload_type = payload["type"]
+        except (json.JSONDecodeError, KeyError, TypeError):
+            logger.warning(f"malformed message received: {message!r}")
+            continue
 
-            py_exec(f"renpy.warp_to_line('{file}:{line}')")
+        try:
+            if payload_type == "warp_to_line":
+                file = payload["file"]
+                line = payload["line"]
 
-        elif payload["type"] == "set_autoreload":
-            script = textwrap.dedent("""
-                if renpy.get_autoreload() == False:
-                    renpy.set_autoreload(True)
-                    renpy.reload_script()
-            """)
-            py_exec(script)
+                py_exec(f"renpy.warp_to_line('{file}:{line}')")
 
-        elif payload["type"] == "jump_to_label":
-            label = payload["label"]
+            elif payload_type == "set_autoreload":
+                script = textwrap.dedent("""
+                    if renpy.get_autoreload() == False:
+                        renpy.set_autoreload(True)
+                        renpy.reload_script()
+                """)
+                py_exec(script)
 
-            script = textwrap.dedent(f"""
-                if renpy.context_nesting_level() > 0:
-                    renpy.jump_out_of_context('{label}')
-                else:
-                    renpy.jump('{label}')
-            """)
+            elif payload_type == "jump_to_label":
+                label = payload["label"]
 
-            py_exec(script)
+                script = textwrap.dedent(f"""
+                    if renpy.context_nesting_level() > 0:
+                        renpy.jump_out_of_context('{label}')
+                    else:
+                        renpy.jump('{label}')
+                """)
 
-        else:
-            logger.warning(f"unhandled message type '{payload['type']}'")
+                py_exec(script)
+
+            else:
+                logger.warning(f"unhandled message type '{payload_type}'")
+        except KeyError as e:
+            logger.warning(
+                f"message of type '{payload_type}' missing required key {e}")
 
 
-def socket_producer(websocket):
+def socket_producer(websocket: WebsocketConnection) -> None:
     """produces messages to the socket server"""
     from websockets.exceptions import ConnectionClosed  # type: ignore
 
@@ -126,38 +153,93 @@ def socket_producer(websocket):
             return
 
         if event == "begin":
-            filename, line = renpy.exports.get_filename_line()
-            relative_filename = Path(filename).relative_to('game')
-            filename_abs = Path(renpy.config.gamedir, relative_filename)
+            try:
+                filename, line = renpy.exports.get_filename_line()
+                relative_filename = Path(filename).relative_to('game')
+                filename_abs = Path(renpy.config.gamedir, relative_filename)
 
-            message = {
-                "type": "current_line",
-                "line": line,
-                "path": filename_abs.resolve().as_posix(),
-                "relative_path": relative_filename.resolve().as_posix(),
-            }
+                message = {
+                    "type": "current_line",
+                    "line": line,
+                    "path": filename_abs.resolve().as_posix(),
+                    "relative_path": relative_filename.resolve().as_posix(),
+                }
+            except ValueError:
+                # filename is not under the game dir, fall back to raw name
+                logger.warning(
+                    f"could not resolve script path '{filename}' relative to game dir")
+                message = {
+                    "type": "current_line",
+                    "line": line,
+                    "path": filename,
+                    "relative_path": filename,
+                }
 
             try:
                 send(message)
-            except ConnectionClosed:
-                # socket is closed, remove the callback
-                renpy.config.all_character_callbacks.remove(fn)
+            except Exception:  # noqa: BLE001 - any failure means the socket is unusable
+                # socket is closed or broken, remove the callback
+                logger.debug("producer send failed, removing callback", exc_info=True)
+                if fn in renpy.config.all_character_callbacks:
+                    renpy.config.all_character_callbacks.remove(fn)
 
     renpy.config.all_character_callbacks.append(fn)
 
     def label_callback(name, abnormal):
         try:
             send({"type": "current_label", "label": name})
-        except ConnectionClosed:
-            # socket is closed, remove the callback
-            renpy.config.label_callbacks.remove(label_callback)
+        except Exception:  # noqa: BLE001 - any failure means the socket is unusable
+            # socket is closed or broken, remove the callback
+            logger.debug("label send failed, removing callback", exc_info=True)
+            if label_callback in renpy.config.label_callbacks:
+                renpy.config.label_callbacks.remove(label_callback)
 
     renpy.config.label_callbacks.append(label_callback)
 
     send({"type": "list_labels", "labels": list(renpy.exports.get_all_labels())})
 
 
-def socket_service(port, version, checksum):
+def _build_headers(version: str, checksum: Optional[str]) -> dict:
+    """Build the handshake headers sent to the warp socket server."""
+    headers = {
+        "pid": str(os.getpid()),
+        "warp-project-root": Path(renpy.config.gamedir).parent.resolve().as_posix(),
+        "warp-version": version,
+        "warp-checksum": checksum,
+    }
+
+    if os.getenv("WARP_WS_NONCE"):
+        headers["warp-nonce"] = os.getenv("WARP_WS_NONCE")
+
+    return headers
+
+
+def _register_quit_handlers(
+    websocket: WebsocketConnection,
+    port: int,
+    on_quit: Callable[[], None],
+) -> Callable[[], None]:
+    """Register quit callback/action for the warp connection.
+
+    Returns a cleanup callable that undoes the registration.
+    """
+    def renpy_warp_quit_callback():
+        on_quit()
+        logger.info(f"closing websocket connection :{port}")
+        websocket.close(4000, 'renpy quit')
+
+    renpy.config.quit_callbacks.append(renpy_warp_quit_callback)
+    renpy.config.quit_action = RenpyWarpQuitAction()
+
+    def cleanup() -> None:
+        if renpy_warp_quit_callback in renpy.config.quit_callbacks:
+            renpy.config.quit_callbacks.remove(renpy_warp_quit_callback)
+        renpy.config.quit_action = original_quit_action
+
+    return cleanup
+
+
+def socket_service(port: int, version: str, checksum: Optional[str]) -> bool:
     """connects to the socket server. returns True if the connection has completed its lifecycle"""
     # websockets module is bundled with renpy on versions >=8.2.0
     from websockets.sync.client import connect  # type: ignore
@@ -170,15 +252,7 @@ def socket_service(port, version, checksum):
     logger.debug(f"try port {port}")
 
     try:
-        headers = {
-            "pid": str(os.getpid()),
-            "warp-project-root": Path(renpy.config.gamedir).parent.resolve().as_posix(),
-            "warp-version": version,
-            "warp-checksum": checksum,
-        }
-
-        if os.getenv("WARP_WS_NONCE"):
-            headers["warp-nonce"] = os.getenv("WARP_WS_NONCE")
+        headers = _build_headers(version, checksum)
 
         with connect(
             f"ws://localhost:{port}",
@@ -188,23 +262,21 @@ def socket_service(port, version, checksum):
         ) as websocket:
             quitting = False
 
-            def renpy_warp_quit_callback():
+            def set_quitting() -> None:
                 nonlocal quitting
                 quitting = True
-                logger.info(f"closing websocket connection :{port}")
-                websocket.close(4000, 'renpy quit')
 
-            renpy.config.quit_callbacks.append(renpy_warp_quit_callback)
-            renpy.config.quit_action = RenpyWarpQuitAction()
+            cleanup = _register_quit_handlers(websocket, port, set_quitting)
 
-            logger.info(f"connected to renpy warp socket server on :{port}")
-            py_exec("renpy.notify(\"Connected to Ren'Py Launch and Sync\")")
+            try:
+                logger.info(f"connected to renpy warp socket server on :{port}")
+                py_exec("renpy.notify(\"Connected to Ren'Py Launch and Sync\")")
 
-            socket_producer(websocket)
-            socket_listener(websocket)  # this blocks until socket is closed
+                socket_producer(websocket)
+                socket_listener(websocket)  # this blocks until socket is closed
+            finally:
+                cleanup()
 
-            renpy.config.quit_callbacks.remove(renpy_warp_quit_callback)
-            renpy.config.quit_action = original_quit_action
             logger.info(f"socket service on :{port} exited")
 
             if not quitting:
@@ -229,7 +301,7 @@ def socket_service(port, version, checksum):
     return False
 
 
-def try_socket_ports_forever():
+def try_socket_ports_forever() -> None:
     version, checksum = get_meta()
     service_closed = False
 

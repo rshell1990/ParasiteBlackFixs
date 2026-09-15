@@ -67,16 +67,16 @@ init python:
         BattleSkin =  "demorai_frog",
 
 
-        base_health = 400,
-        base_damage = 45,
+        base_health = 200,
+        base_damage = 15,
         base_energy = 80,
 
-        Strength = 0,
-        Endurance = 30,
+        Strength = 5,
+        Endurance = 15,
         Willpower = 0,
-        Agility = 14,
+        Agility = 8,
         Dexterity = 4,
-        Luck = 5,
+        Luck = 2,
 
         base_xp_value = 55,
         experience = ExpSetToLevel(6),
@@ -91,15 +91,15 @@ init python:
         IsMob = True,
         BattleSkin =  "bigSlimelark",
         
-        base_health = 860,
-        base_damage = 30,
-        base_energy = 155,
+        base_health = 400,
+        base_damage = 10,
+        base_energy = 100,
 
-        Strength = 0,
-        Endurance = 28,
-        Willpower = 0,
-        Agility = 15,
-        Dexterity = 0,
+        Strength = 5,
+        Endurance = 10,
+        Willpower = 5,
+        Agility = 10,
+        Dexterity = 10,
         Luck = 0,
 
         base_xp_value = 60,
@@ -191,16 +191,16 @@ init python:
         IsMob = True,
         BattleSkin =  "man_in_black",
         
-        base_health = 1100,
-        base_damage = 60,
+        base_health = 550,
+        base_damage = 20,
         base_energy = 240,
         
-        Strength = 0,
-        Endurance = 55,
-        Willpower = 0,
-        Agility = 60,
-        Dexterity = 80,
-        Luck = 30,
+        Strength = 10,
+        Endurance = 15,
+        Willpower = 10,
+        Agility = 6,
+        Dexterity = 10,
+        Luck = 5,
 
         experience = ExpShowLevelAsUnknown(),
         base_xp_value = 55,
@@ -262,15 +262,15 @@ init python:
 
 
         base_health = 180,
-        base_damage = 12,
+        base_damage = 5,
         base_energy = 70,
 
-        Strength = 0,
+        Strength = 5,
         Endurance = 8,
         Willpower = 1,
-        Agility = 10,
-        Dexterity = 10,
-        Luck = 0,
+        Agility = 8,
+        Dexterity = 6,
+        Luck = 2,
 
         experience = ExpSetToLevel(5),
 
@@ -333,16 +333,16 @@ init python:
         IsMob = True,
         BattleSkin =  "spiderman", 
 
-        base_health = 1005,
-        base_damage = 55,
-        base_energy = 95,
+        base_health = 400,
+        base_damage = 18,
+        base_energy = 75,
         
-        Strength = 0,
+        Strength = 5,
         Endurance = 8,
-        Willpower = 0,
-        Agility = 16,
+        Willpower = 5,
+        Agility = 12,
         Dexterity = 10,
-        Luck = 5,
+        Luck = 2,
 
         experience = ExpSetToLevel(8),
 
@@ -422,13 +422,13 @@ init python:
         IsMob = True,
         BattleSkin =  "bear", 
 
-        base_health = 300,
+        base_health = 150,
         base_energy = 85,
-        base_damage = 38,
+        base_damage = 5,
 
-        Strength = 0,
-        Endurance = 18,
-        Willpower = 0,
+        Strength = 8,
+        Endurance = 10,
+        Willpower = 5,
         Agility = 8,
         Dexterity = 4,
         Luck = 5,
@@ -482,16 +482,16 @@ init python:
         IsMob = True,
         BattleSkin =  "lizard_red", 
 
-        base_health = 90,
-        base_energy = 85,
-        base_damage = 15,
+        base_health = 70,
+        base_energy = 65,
+        base_damage = 6,
 
-        Strength = 0,
-        Endurance = 16,
-        Willpower = 0,
-        Agility = 12,
-        Dexterity = 6,
-        Luck = 5,
+        Strength = 2,
+        Endurance = 3,
+        Willpower = 1,
+        Agility = 6,
+        Dexterity = 5,
+        Luck = 2,
 
         base_xp_value = 20,
         auto_attr_allocation = "hulk",
@@ -570,10 +570,10 @@ init python:
         base_energy = 65,
         base_damage = 14,
 
-        Strength = 0,
-        Endurance = 8,
-        Willpower = 0,
-        Agility = 12,
+        Strength = 3,
+        Endurance = 5,
+        Willpower = 2,
+        Agility = 6,
         Dexterity = 8,
         Luck = 10,
 
@@ -726,7 +726,7 @@ init python:
 
 init 3 python:
     # goes over all the skills in mc-transformed skill tree and adds all skills at max level to shyahtan
-    for SkillBranch in ["offence", "defence", "support"]:
+    for SkillBranch in ["offense", "defense", "support"]:
         for SkillID in Lib_BattleSkillTrees["parasiteBlack"][SkillBranch]:
             CharDefs["shyahtan"]["CharSkills"][SkillID] = SkillLib[SkillID].Level_Max
 

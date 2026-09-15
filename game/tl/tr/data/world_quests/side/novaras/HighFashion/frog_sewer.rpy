@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-09 21:50
+# TODO: Translation updated at 2026-06-09 21:50
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:4
 translate tr palam_sewer_2a5939df:
@@ -719,6 +719,6 @@ translate tr strings:
     new "Artık geceleri Palam Kulesi'ne girebilirsin."
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:155
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} Aslında pek benim tipim değilsin... Alınma."
 

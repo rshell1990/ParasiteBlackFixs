@@ -1,4 +1,4 @@
-﻿translate ru strings:
+translate ru strings:
 
     # game/screens/characters.rpy:49
     old "Character sheet (%s)"
@@ -65,11 +65,11 @@
     new "У вас есть очки перков для распределения этому персонажу."
 
     # game/screens/characters.rpy:295
-    old "Offence"
+    old "Offense"
     new "Нападение"
 
     # game/screens/characters.rpy:295
-    old "Defence"
+    old "Defense"
     new "Защита"
 
     # game/screens/characters.rpy:295

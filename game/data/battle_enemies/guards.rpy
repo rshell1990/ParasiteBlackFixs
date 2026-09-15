@@ -39,15 +39,15 @@ init python:
         BattleSkin =  "guard", 
 
         base_health = 70,
-        base_damage = 15,
+        base_damage = 8,
         base_energy = 50,
 
-        Strength = 0,
-        Endurance = 14,
-        Willpower = 0,
-        Agility = 8,
+        Strength = 5,
+        Endurance = 8,
+        Willpower = 5,
+        Agility = 6,
         Dexterity = 4,
-        Luck = 10,
+        Luck = 5,
 
         base_xp_value = 30,
         auto_attr_allocation = "fighter",

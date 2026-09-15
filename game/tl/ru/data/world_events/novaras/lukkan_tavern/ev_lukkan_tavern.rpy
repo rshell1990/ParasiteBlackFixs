@@ -1,4 +1,4 @@
-﻿# game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:24
+# game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:24
 translate ru ev_lukkan_tavern_talk_d33c877c:
 
     # LUKKAN @ talk "Oh no... Not when I'm off work kid."
@@ -595,7 +595,7 @@ translate ru ev_lukkan_tavern_talk_2_menu2_6ea0c11a:
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:143
 translate ru ev_lukkan_tavern_talk_2_menu2_00be4855:
 
-    # LUKKAN @ talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defence line deeper in-land to stop the Demorai and help the straggling forces there."
+    # LUKKAN @ talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defense line deeper in-land to stop the Demorai and help the straggling forces there."
     LUKKAN @ talk "Нам пришлось отказаться от планов встречи у Форта Руук и быстро отойти, чтобы сформировать новую линию обороны в глубине территории, чтобы остановить Деморай и помочь отставшим силам там."
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:144

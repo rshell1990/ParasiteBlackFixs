@@ -5,14 +5,14 @@ init python:
                                         name = _("Tarek"),
                                         BattleSkin = "skin_tarek",
                                         
-                                        base_health = 200,
+                                        base_health = 40,
                                         base_energy = 80,
-                                        base_damage = 35,
+                                        base_damage = 6,
                                         
-                                        Strength = 0,
-                                        Endurance = 14,
-                                        Willpower = 0,
-                                        Agility = 10,
+                                        Strength = 10,
+                                        Endurance = 8,
+                                        Willpower = 8,
+                                        Agility = 8,
                                         Dexterity = 8,
                                         Luck = 6,
 

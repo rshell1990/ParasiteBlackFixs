@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:4
 translate ja palam_sewer_2a5939df:
@@ -727,7 +727,7 @@ translate ja strings:
 
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:155
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} あなたはあまり私のタイプじゃないの… 悪気はないんだ。"
 
 

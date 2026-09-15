@@ -1,4 +1,4 @@
-﻿translate ru strings:
+translate ru strings:
 
     # game/data/items/item_defs_resources.rpy:2
     old "Bronze scraps"
@@ -181,11 +181,11 @@
     new "Рунический камень с каким-то символом, он излучает энергию магического искусства — этот, кажется, сосредоточен на придании большей грубой физической силы."
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "Руна Защиты"
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "Руны Защиты"
 
     # game/data/items/item_defs_resources.rpy:153

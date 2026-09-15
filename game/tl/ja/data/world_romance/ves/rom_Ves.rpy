@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 translate ja strings:
 
@@ -66,7 +66,7 @@ translate ja strings:
 
 
     # game/data/world_romance/ves/rom_Ves.rpy:17
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "ヴェスは陣地の周りに防御陣地を設置したいと思っている。手を貸すこともできる。"
 
 

@@ -1297,7 +1297,7 @@ label rom_tarbeck_darkmage_spell:
         LADY_TARBECK "That's it - Ahh! My beast!"
         LADY_TARBECK "Breed your little bitch good!"
         LADY_TARBECK "Gods... You've stuffed me full."
-        LADY_TARBECK "What's my poor defenceless womb to do, swimming around in your seed now?"
+        LADY_TARBECK "What's my poor defenseless womb to do, swimming around in your seed now?"
         "I playfully slapped her ass, watching the fat jiggle as she giggled."
         scene black with dissolve
         $ AutoMus(True)

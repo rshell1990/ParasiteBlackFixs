@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 translate ptBR strings:
 
@@ -67,12 +67,12 @@ translate ptBR strings:
     new "Você tem pontos de vantagem para distribuir neste personagem."
 
     # game/screens/characters.rpy:299
-    old "Offence"
-    new "Offence"
+    old "Offense"
+    new "Offense"
 
     # game/screens/characters.rpy:299
-    old "Defence"
-    new "Defence"
+    old "Defense"
+    new "Defense"
 
     # game/screens/characters.rpy:299
     old "Support"

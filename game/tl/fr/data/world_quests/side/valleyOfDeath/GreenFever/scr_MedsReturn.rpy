@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:50
+# TODO: Translation updated at 2026-07-01 11:50
 
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:2
 translate fr greenFeverMedsReturn_cbeee127:
@@ -51,7 +51,7 @@ translate fr greenFeverMedsReturn_86049165:
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:13
 translate fr greenFeverMedsReturn_2291f5ac:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp."
     VES @ talk "Je prévois de mettre en place des défenses périmétriques, juste quelques clochettes et autres sur un fil qui tinteront au cas où quelqu'un essaierait de se faufiler dans mon camp."
 
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:14

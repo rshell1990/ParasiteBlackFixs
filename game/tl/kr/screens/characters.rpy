@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-30 02:00
+# TODO: Translation updated at 2026-06-30 02:00
 
 translate kr strings:
 
@@ -67,11 +67,11 @@ translate kr strings:
     new "이 캐릭터에 분배할 특전 포인트가 있습니다."
 
     # game/screens/characters.rpy:299
-    old "Offence"
+    old "Offense"
     new "공격"
 
     # game/screens/characters.rpy:299
-    old "Defence"
+    old "Defense"
     new "방어"
 
     # game/screens/characters.rpy:299

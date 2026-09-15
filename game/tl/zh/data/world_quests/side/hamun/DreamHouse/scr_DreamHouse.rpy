@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-12 17:56
+# TODO: Translation updated at 2026-06-12 17:56
 
 #################################################################
 # Wandering the streets, the player is approached by a city guard.
@@ -4980,7 +4980,7 @@ translate zh qst_dreamhouse_l4_start_354c0991:
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1596
 translate zh qst_dreamhouse_l4_start_4b99b1f8:
 
-    # KIARA @ think "... No offence."
+    # KIARA @ think "... No offense."
     KIARA @ think "……无意冒犯。"
 
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1597

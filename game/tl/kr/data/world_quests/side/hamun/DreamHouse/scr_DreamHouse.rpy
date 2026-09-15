@@ -3888,7 +3888,7 @@ translate kr qst_dreamhouse_l4_start_354c0991:
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1667
 translate kr qst_dreamhouse_l4_start_4b99b1f8:
 
-    # KIARA @ think "... No offence."
+    # KIARA @ think "... No offense."
     KIARA @ think "... 악의는 없어."
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1668
 translate kr qst_dreamhouse_l4_start_5b0e87c2:

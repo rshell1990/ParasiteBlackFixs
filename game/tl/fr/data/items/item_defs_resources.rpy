@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:50
+# TODO: Translation updated at 2026-07-01 11:50
 
 translate fr strings:
 
@@ -183,11 +183,11 @@ translate fr strings:
     new "Une pierre runique avec une sorte de marque d'insigne, elle émet une forme d'énergie magique - celle-ci semble concentrée sur le don d'un pouvoir brut et physique supplémentaire."
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "Rune de Défense"
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "Runes de Défense"
 
     # game/data/items/item_defs_resources.rpy:212

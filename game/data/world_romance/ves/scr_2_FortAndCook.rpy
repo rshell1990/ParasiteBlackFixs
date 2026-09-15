@@ -1,6 +1,6 @@
 label rom_Ves_2_FortAndCook_Rev:
     VES @talk "Yes, sure!"
-    VES @talk 'I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak in here.'
+    VES @talk 'I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak in here.'
     menu:
         "{image=[ICON.CLOCK]} Let's do this.":
             $ NoteLock("VesHelpCamp")
@@ -16,7 +16,7 @@ label rom_Ves_2_FortAndCook:
     scene black with dissolve
     $ LocSet("ves_camp")
     $ TimeAdvBy(TIME_05H)
-    'Over the next hour or so, Ves and I began to set up some primitive defences around her camp.'
+    'Over the next hour or so, Ves and I began to set up some primitive defenses around her camp.'
     $ TimeAdvBy(TIME_05H)
     'A few spikes in the ground here and there alongside a wire running the camp’s perimeter...'
     $ TimeAdvBy(TIME_05H)

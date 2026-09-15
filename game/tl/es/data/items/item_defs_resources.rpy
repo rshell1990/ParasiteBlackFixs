@@ -1,4 +1,4 @@
-﻿
+
 
 translate es strings:
 
@@ -163,11 +163,11 @@ translate es strings:
     new "Una piedra rúnica con algún tipo de inscripción, que emite algún tipo de energía mágica, esta parece centrada en dar más poder físico."
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "Runa de defensa"
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "Runas de defensa"
 
     # game/data/items/item_defs_resources.rpy:153

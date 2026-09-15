@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 translate ptBR strings:
 
@@ -39,7 +39,7 @@ translate ptBR strings:
     new "Ves poderia precisar de ajuda"
 
     # game/data/world_romance/ves/rom_Ves.rpy:17
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "Ves quer montar algumas defesas ao redor de seu acampamento. Eu poderia dar uma mão."
 
     # game/data/world_romance/ves/rom_Ves.rpy:20

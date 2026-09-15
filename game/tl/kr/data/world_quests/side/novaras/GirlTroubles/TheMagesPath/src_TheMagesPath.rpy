@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-30 02:00
+# TODO: Translation updated at 2026-06-30 02:00
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:3
 translate kr qst_the_mages_path_meet_1_1c515142:
@@ -63,7 +63,7 @@ translate kr qst_the_mages_path_meet_1_cb7f5ecc:
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:29
 translate kr qst_the_mages_path_meet_1_70b9d761:
 
-    # "Mika was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defence."
+    # "Mika was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defense."
     "미카는 겁에 질렸지만, 부드러운 격려로 인해 내 공격을 피하고 기본적인 마법 방어를 펼칠 수 있을 정도로 스스로를 통제할 수 있었다."
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:30

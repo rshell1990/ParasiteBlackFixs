@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-04 01:23
+# TODO: Translation updated at 2026-07-04 01:23
 
 # game/data/characters/marbella/dialogue.rpy:114
 translate kr marbella_aboutexp_0207b47b:
@@ -813,7 +813,7 @@ translate kr marbella_expedition_copper_choice_2927c5f9_1:
 # game/data/characters/marbella/dialogue.rpy:403
 translate kr marbella_expedition_copper_choice_2dcfa46e:
 
-    # MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    # MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
     MARBELLA @ talk "방어의 룬? 좋아, 다음 탐사 때 찾아서 처리한 다음 여기로 가져오게 할게."
 
 # game/data/characters/marbella/dialogue.rpy:404
@@ -999,7 +999,7 @@ translate kr strings:
     new "힘의 룬"
 
     # game/data/characters/marbella/dialogue.rpy:400
-    old "A rune of defence"
+    old "A rune of defense"
     new "방어의 룬"
 
     # game/data/characters/marbella/dialogue.rpy:411

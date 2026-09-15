@@ -397,10 +397,10 @@ label marbella_expedition:
                     MARBELLA @talk "It should take about... {b}one week.{/b}"
                     jump marbella_expedition_rootmenu
 
-                "A rune of defence" (Req_Gold = 2000):
+                "A rune of defense" (Req_Gold = 2000):
                     $ PlayerRemItem("gold", 2000)
-                    $ DialogueMarbella().MiningExpedition(ItemID = "rune_of_defence", ItemAmount = 1, ExpDelay = 7)
-                    MARBELLA @talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+                    $ DialogueMarbella().MiningExpedition(ItemID = "rune_of_defense", ItemAmount = 1, ExpDelay = 7)
+                    MARBELLA @talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
                     MARBELLA @talk "It should take about... {b}one week.{/b}"
                     jump marbella_expedition_rootmenu
 

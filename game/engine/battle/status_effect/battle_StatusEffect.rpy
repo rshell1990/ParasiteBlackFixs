@@ -62,3 +62,12 @@ init python:
             self.ResRecoverMod_Health = None                            # if not none, alters resource recovery. 1.0 == 100%
             self.ResRecoverMod_Energy = None
             self.ResRecoverMod_Mana = None
+
+        # default duration tick, subclasses only need to override this if they need custom behavior (e.g. self-managed duration)
+        def TickDuration(self, AtEnd = False):
+            if self.Permanent:
+                return
+            self.Duration -= 1
+            if self.Duration <= 0:
+                if self.Owner_BattleChar is not None and self in self.Owner_BattleChar.StatusEffects:
+                    self.Owner_BattleChar.StatusEffects.remove(self)

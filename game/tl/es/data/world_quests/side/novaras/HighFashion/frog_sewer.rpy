@@ -1,4 +1,4 @@
-﻿
+
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:9
 translate es palam_sewer_2a5939df:
@@ -715,7 +715,7 @@ translate es strings:
     new "{image=[ICON.HEART]} Bueno, cuando lo dices así... ({b}¡Advertencia, FUTA!{/b})"
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:141
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} No eres realmente mi tipo... Sin ánimo de ofender."
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:151

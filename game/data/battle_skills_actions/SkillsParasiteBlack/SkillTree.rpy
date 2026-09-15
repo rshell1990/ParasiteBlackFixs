@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["parasiteBlack"] = {
         "name":             _("Parasite Black"),
         "skills_string":    _("Parasite skills"),
-        "offence":{
+        "offense":{
             "ParasiteBlackRazorSlash":{
                 "Reqs_Attributes":{"Strength" : 5, "Agility" : 4},
                 "Reqs_SkillIDs":{},
@@ -28,7 +28,7 @@ init python:
                 "Reqs_SkillIDs":{"ParasiteBlackRazorSlash"},
             },
         },
-        "defence":{
+        "defense":{
             "ParasiteBlackTerrifyingScream":{
                 "Reqs_Attributes":{"Strength" : 6, "Agility" : 4},
                 "Reqs_SkillIDs":{},

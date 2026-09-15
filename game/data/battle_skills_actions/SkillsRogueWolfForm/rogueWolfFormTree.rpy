@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["rogueWolfForm"] = {
         "name":             _("Wolf form"),
         "skills_string":    _("Wolf form skills"),
-        "offence":{
+        "offense":{
             "RogueWolfRipNTear":{
                 "Reqs_Attributes":{"Strength" : 2, "Agility": 5},
                 "Reqs_SkillIDs":{},
@@ -24,7 +24,7 @@ init python:
                 "Reqs_SkillIDs":{"RogueWolfRipNTear"},
             },
         },
-        "defence":{
+        "defense":{
             "RogueWolfDanceOfTheWolves":{
                 "Reqs_Attributes":{"Dexterity" : 8, "Agility": 6},
                 "Reqs_SkillIDs":{},

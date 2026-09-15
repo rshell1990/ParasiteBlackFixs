@@ -1,4 +1,4 @@
-﻿
+
 
 # game/data/characters/marbella/dialogue.rpy:110
 translate es marbella_aboutexp_0207b47b:
@@ -813,7 +813,7 @@ translate es marbella_expedition_copper_choice_2927c5f9_1:
 # game/data/characters/marbella/dialogue.rpy:396
 translate es marbella_expedition_copper_choice_2dcfa46e:
 
-    # MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    # MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
     MARBELLA @ talk "¿Una runa defensiva? Muy bien, en la próxima expedición la encontraré y la trataré antes de traerla aquí."
 
 # game/data/characters/marbella/dialogue.rpy:397
@@ -983,7 +983,7 @@ translate es strings:
     new "Una runa de poder"
 
     # game/data/characters/marbella/dialogue.rpy:393
-    old "A rune of defence"
+    old "A rune of defense"
     new "Una runa de defensa"
 
     # game/data/characters/marbella/dialogue.rpy:404

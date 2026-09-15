@@ -1,47 +1,45 @@
 screen SkillTab(CharID, TabID, CharClassID = None):
-############################################
-############################################
 ######## MC & MARKUS #######################
     if CharClassID == "warrior":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "WarriorHeavySlash")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorHeavySlash")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "WarriorObliteratingBlow")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorObliteratingBlow")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "WarriorDualStrike")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorDualStrike")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "WarriorFinalBlow")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorFinalBlow")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "WarriorFlailingStrikes")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorFlailingStrikes")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "WarriorWhirlwindOfSteel")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorWhirlwindOfSteel")
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "WarriorDodge")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "WarriorDodge")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "WarriorTheDodgeMaster")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "WarriorTheDodgeMaster")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "WarriorDefensiveStance")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "WarriorDefensiveStance")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "WarriorWarriorStance")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "WarriorWarriorStance")
 
         elif TabID == "support":
             vbox:
@@ -57,16 +55,16 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ##################################################################################
 ######## PARA BLACK (mc)
     elif CharClassID == "parasiteBlack":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteBlackRazorSlash", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteBlackRazorSlash", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteBlackVenomousStrike", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteBlackVenomousStrike", AltFormSkill = True)
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -74,9 +72,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteBlackParasiteAttack", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteBlackParasiteAttack", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteBlackAcidicBurst", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteBlackAcidicBurst", AltFormSkill = True)
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillEmptySpace()
@@ -84,26 +82,26 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillArrowDown()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteBlackWindBreaker", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteBlackWindBreaker", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight(Flip = True)
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteBlackUnstoppable", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteBlackUnstoppable", AltFormSkill = True)
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteBlackTerrifyingScream", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteBlackTerrifyingScream", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteBlackParasiticSwarm", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteBlackParasiticSwarm", AltFormSkill = True)
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteBlackPassiveAggressiveMode", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteBlackPassiveAggressiveMode", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteBlackHealingWorms", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteBlackHealingWorms", AltFormSkill = True)
 
         elif TabID == "support":
             vbox:
@@ -119,16 +117,16 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ##################################################################################
 ######## PARA WHITE (markus) 
     elif CharClassID == "parasiteWhite":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteWhiteFireballCharge", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteWhiteFireballCharge", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteWhiteParasiteCurse", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteWhiteParasiteCurse", AltFormSkill = True)
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -136,9 +134,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteWhiteScorchedEarth", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteWhiteScorchedEarth", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteWhiteCursedConnection", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteWhiteCursedConnection", AltFormSkill = True)
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -146,26 +144,26 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteWhiteCrimsonSky", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteWhiteCrimsonSky", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ParasiteWhiteEternalFire", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ParasiteWhiteEternalFire", AltFormSkill = True)
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteWhiteFieryCounter", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteWhiteFieryCounter", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteWhiteRegenerativeCocoon", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteWhiteRegenerativeCocoon", AltFormSkill = True)
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteWhiteInfernalParasite", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteWhiteInfernalParasite", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ParasiteWhiteAllForOne", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ParasiteWhiteAllForOne", AltFormSkill = True)
 
         elif TabID == "support":
             vbox:
@@ -181,16 +179,16 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## ELENA
     elif CharClassID == "rogue":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RoguePiercingShot")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RoguePiercingShot")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueFeralStrike")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueFeralStrike")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -199,9 +197,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueSquall")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueSquall")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueVenomousStrike")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueVenomousStrike")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -209,21 +207,21 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueWipe")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueWipe")
                     use CharacterScreenSkillEmptySpace()
                     use CharacterScreenSkillEmptySpace()
 
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueResilience")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueResilience")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueCalmStep")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueCalmStep")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -231,9 +229,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueDarkening")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueDarkening")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueForbiddenPower")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueForbiddenPower")
                     
         elif TabID == "support":
             vbox:
@@ -259,16 +257,16 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## ELENA WOLF
     elif CharClassID == "rogueWolfForm":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueWolfRipNTear", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueWolfRipNTear", AltFormSkill = True)
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueWolfPoisonedFangs", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueWolfPoisonedFangs", AltFormSkill = True)
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -276,24 +274,24 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueWolfFeralStrikes", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueWolfFeralStrikes", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueWolfRecklessBeast", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueWolfRecklessBeast", AltFormSkill = True)
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "RogueWolfSuddenStrike", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "RogueWolfSuddenStrike", AltFormSkill = True)
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueWolfDanceOfTheWolves", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueWolfDanceOfTheWolves", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueWolfFeralProtection", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueWolfFeralProtection", AltFormSkill = True)
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -301,9 +299,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueWolfLupineInstinct", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueWolfLupineInstinct", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "RogueWolfHideNSeek", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "RogueWolfHideNSeek", AltFormSkill = True)
 
         elif TabID == "support":
             vbox:
@@ -323,33 +321,33 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## VES 
     elif CharClassID == "berserker":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BerserkerDeathblow")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BerserkerDeathblow")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BerserkerCrush")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BerserkerCrush")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BerserkerBloodForTheBloodGod")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BerserkerBloodForTheBloodGod")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BerserkerFrenziedState")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BerserkerFrenziedState")
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BerserkerUnbreakable")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BerserkerUnbreakable")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BerserkerWarCry")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BerserkerWarCry")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -357,9 +355,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillArrowDown()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BerserkerHealingWounds")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BerserkerHealingWounds")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BerserkerFuriousWarCry")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BerserkerFuriousWarCry")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillEmptySpace()
@@ -367,9 +365,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillArrowDown()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BerserkerFinalSpirit")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BerserkerFinalSpirit")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BerserkerDeclareWar")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BerserkerDeclareWar")
                     
         elif TabID == "support":
             vbox:
@@ -385,16 +383,16 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## KIARA
     elif CharClassID == "scout":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ScoutFastAndPreciseAttack")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ScoutFastAndPreciseAttack")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ScoutBleedEmDry")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ScoutBleedEmDry")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -402,9 +400,9 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ScoutDanceOfDeath")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ScoutDanceOfDeath")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ScoutRainOfDeath")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ScoutRainOfDeath")
                 hbox:
                     xalign 0.5
                     use CharacterScreenSkillArrowDown()
@@ -412,24 +410,24 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     use CharacterScreenSkillEmptySpace()
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ScoutPerfectStrike")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ScoutPerfectStrike")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "ScoutTheNorthStarStrike")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "ScoutTheNorthStarStrike")
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ScoutPrepare")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ScoutPrepare")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ScoutPreparationFromTheSkilled")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ScoutPreparationFromTheSkilled")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "ScoutDefensiveMode")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "ScoutDefensiveMode")
 
         elif TabID == "support":
             vbox:
@@ -449,31 +447,31 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## MYU
     elif CharClassID == "slime":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "SlimeAcidicSplash")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "SlimeAcidicSplash")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "SlimeCorrosiveCascade")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "SlimeCorrosiveCascade")
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "SlimeAdaptiveDefense")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "SlimeAdaptiveDefense")
                     use CharacterScreenSkillArrowRight()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "SlimeMalleableForm")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "SlimeMalleableForm")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "SlimeExpandShape")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "SlimeExpandShape")
 
         elif TabID == "support":
             vbox:
@@ -515,38 +513,38 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## Kiara banshee
     elif CharClassID == "banshee":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BansheeASongOfPain", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BansheeASongOfPain", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BansheeShadowDive", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BansheeShadowDive", AltFormSkill = True)
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BansheeASongOfDeath", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BansheeASongOfDeath", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BansheeTheVampiresSong", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BansheeTheVampiresSong", AltFormSkill = True)
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "BansheeWingsOfDarkness", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "BansheeWingsOfDarkness", AltFormSkill = True)
 
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BansheeWingShield", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BansheeWingShield", AltFormSkill = True)
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "BansheeMoonlightDance", AltFormSkill = True)
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "BansheeMoonlightDance", AltFormSkill = True)
 
 
         elif TabID == "support":
@@ -575,43 +573,43 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## Erika inquisitor
     elif CharClassID == "inquisitor":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "InquisitorBurningJudgement")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "InquisitorBurningJudgement")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "InquisitorBlindingRighteousness")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "InquisitorBlindingRighteousness")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "InquisitorPurgingFire")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "InquisitorPurgingFire")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "InquisitorEyeForAnEye")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "InquisitorEyeForAnEye")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "InquisitorInquisition")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "InquisitorInquisition")
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "InquisitorFirewall")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "InquisitorFirewall")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "InquisitorPhoahsGlory")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "InquisitorPhoahsGlory")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "InquisitorGreatDodge")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "InquisitorGreatDodge")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "InquisitorNewGodsDeal")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "InquisitorNewGodsDeal")
 
         elif TabID == "support":
             vbox:
@@ -633,41 +631,41 @@ screen SkillTab(CharID, TabID, CharClassID = None):
 ################################################################################
 ######## sypha assassin
     elif CharClassID == "assassin":
-        if TabID == "offence":
+        if TabID == "offense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "AssassinDeathByAThousandCuts")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "AssassinDeathByAThousandCuts")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "AssassinRecklessBackstab")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "AssassinRecklessBackstab")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "AssassinCalculatingSwipe")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "AssassinCalculatingSwipe")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "AssassinTreacherousSlice")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "AssassinTreacherousSlice")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "offence", "AssassinCriticalBlows")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "AssassinCriticalBlows")
 
-        elif TabID == "defence":
+        elif TabID == "defense":
             vbox:
                 align (0.5, 0.0)
                 xfill True
                 null height 20
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "AssassinAcrobaticDance")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "AssassinAcrobaticDance")
                     use CharacterScreenSkillEmptySpace()
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "AssassinRecover")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "AssassinRecover")
                 null height 40
                 hbox:
                     xalign 0.5
-                    use CharacterScreenSkillIcon(CharID, CharClassID, "defence", "AssassinDarkSwap")
+                    use CharacterScreenSkillIcon(CharID, CharClassID, "defense", "AssassinDarkSwap")
 
         elif TabID == "support":
             vbox:
@@ -702,8 +700,8 @@ screen SkillTab(CharID, TabID, CharClassID = None):
                     if sk and str(sk).lower() not in learned_skills:
                         learned_skills.append(str(sk))
                         
-            # 2. Check direct equipped item attributes
-            equip_slots = ["armor", "weapon", "accessory", "acc1", "acc2", "offhand", "head", "chest", "legs", "body"]
+            # 2. Check canonical inventory slots, plus legacy direct attributes.
+            equip_slots = EQP_SLOTS.ALL + ["armor", "weapon", "accessory", "acc1", "acc2", "offhand", "head", "chest", "legs", "body"]
             for slot_name in equip_slots:
                 item_val = getattr(char_obj, slot_name, None)
                 if isinstance(char_obj, dict) and item_val is None:

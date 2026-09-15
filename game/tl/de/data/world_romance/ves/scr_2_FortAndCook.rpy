@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-04 03:41
+# TODO: Translation updated at 2026-08-04 03:41
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:2
 translate de rom_Ves_2_FortAndCook_Rev_e399c0fc:
@@ -9,8 +9,8 @@ translate de rom_Ves_2_FortAndCook_Rev_e399c0fc:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:3
 translate de rom_Ves_2_FortAndCook_Rev_33e02ec9:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
-    VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
+    VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:9
 translate de rom_Ves_2_FortAndCook_Rev_f515fabb:
@@ -27,8 +27,8 @@ translate de rom_Ves_2_FortAndCook_94bfba8b:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:19
 translate de rom_Ves_2_FortAndCook_1bb29bdd:
 
-    # "Over the next hour or so, Ves and I began to set up some primitive defences around her camp."
-    "Over the next hour or so, Ves and I began to set up some primitive defences around her camp."
+    # "Over the next hour or so, Ves and I began to set up some primitive defenses around her camp."
+    "Over the next hour or so, Ves and I began to set up some primitive defenses around her camp."
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:21
 translate de rom_Ves_2_FortAndCook_c0c4d85f:

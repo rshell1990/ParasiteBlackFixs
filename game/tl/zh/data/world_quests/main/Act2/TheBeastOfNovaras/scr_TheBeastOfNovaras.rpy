@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-18 02:39
+# TODO: Translation updated at 2026-03-18 02:39
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:6
 translate zh qst_TheBeastOfNovaras_IntroWakeUp_56025c5b:
@@ -3345,13 +3345,13 @@ translate zh qst_TheBeastOfNovaras_ParasiteShipFlashback_d1d140f9:
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:874
 translate zh qst_TheBeastOfNovaras_ParasiteShipFlashback_3631c7d6:
 
-    # "The cities inner defences were little match for the speed of the Zarpod."
+    # "The cities inner defenses were little match for the speed of the Zarpod."
     "城市内部防御在扎波德的速度面前不堪一击。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:875
 translate zh qst_TheBeastOfNovaras_ParasiteShipFlashback_620e1748:
 
-    # "If their orbital defences couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
+    # "If their orbital defenses couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
     "若轨道防御都无力阻挡，为应对地面部队而建的绝望炮台更是迟缓无比。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:876

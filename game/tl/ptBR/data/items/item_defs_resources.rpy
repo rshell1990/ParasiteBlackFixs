@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 translate ptBR strings:
 
@@ -183,11 +183,11 @@ translate ptBR strings:
     new "Uma pedra rúnica com algum tipo de marca de insígnia, emite alguma forma de energia arcana - esta parece focada em conceder força."
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "Runa de Defesa"
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "Runas de Defesa"
 
     # game/data/items/item_defs_resources.rpy:212

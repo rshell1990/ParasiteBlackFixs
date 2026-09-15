@@ -1,4 +1,4 @@
-﻿
+
 translate zh strings:
 
     # game/screens/characters.rpy:49
@@ -62,11 +62,11 @@ translate zh strings:
     new "你有特长点可分配给此角色。"
 
     # game/screens/characters.rpy:277
-    old "Offence"
+    old "Offense"
     new "进攻"
 
     # game/screens/characters.rpy:277
-    old "Defence"
+    old "Defense"
     new "防御"
 
     # game/screens/characters.rpy:277

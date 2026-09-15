@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["scout"] = {
         "name":             _("Scout"),
         "skills_string":    _("Scout skills"),
-        "offence":{
+        "offense":{
             "ScoutFastAndPreciseAttack":{
                 "Reqs_Attributes":{"Strength" : 3, "Agility" : 3},
                 "Reqs_SkillIDs":{},
@@ -28,7 +28,7 @@ init python:
                 "Reqs_SkillIDs":{"ScoutPerfectStrike"},
             },
         },
-        "defence":{
+        "defense":{
             "ScoutDefensiveMode":{
                 "Reqs_Attributes":{"Agility" : 2, "Endurance" : 2},
                 "Reqs_SkillIDs":{},

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-09 22:27
+# TODO: Translation updated at 2025-09-09 22:27
 
 # game/data/characters/marbella/dialogue.rpy:111
 translate zh marbella_aboutexp_0207b47b:
@@ -801,7 +801,7 @@ translate zh marbella_expedition_copper_choice_2927c5f9_1:
 # game/data/characters/marbella/dialogue.rpy:397
 translate zh marbella_expedition_copper_choice_2dcfa46e:
 
-    # MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    # MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
     MARBELLA @ talk "防御符文？好的，下次远征我会找到并处理它，然后带回这里。"
 
 # game/data/characters/marbella/dialogue.rpy:398
@@ -971,7 +971,7 @@ translate zh strings:
     new "力量符文"
 
     # game/data/characters/marbella/dialogue.rpy:394
-    old "A rune of defence"
+    old "A rune of defense"
     new "防御符文"
 
     # game/data/characters/marbella/dialogue.rpy:405

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:50
+# TODO: Translation updated at 2026-07-01 11:50
 
 translate fr strings:
 
@@ -67,11 +67,11 @@ translate fr strings:
     new "Vous avez des points d'atout à distribuer à ce personnage."
 
     # game/screens/characters.rpy:299
-    old "Offence"
+    old "Offense"
     new "Attaque"
 
     # game/screens/characters.rpy:299
-    old "Defence"
+    old "Defense"
     new "Défense"
 
     # game/screens/characters.rpy:299

@@ -120,9 +120,12 @@ style button_sel_text is button_text
 
 # used by characters screen
 style button_tab is button_sel: # fixed xsize, experimental
-    xsize 350
+    xsize 260
+    ysize 36
+    padding (8, 0)
     xalign 0.5
 style button_tab_text is button_text:
+    size 22
     xalign 0.5
 
 ################# main menu #################

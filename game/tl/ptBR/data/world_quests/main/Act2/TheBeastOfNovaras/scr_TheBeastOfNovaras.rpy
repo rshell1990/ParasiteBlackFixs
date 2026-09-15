@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:6
 translate ptBR qst_TheBeastOfNovaras_IntroWakeUp_56025c5b:
@@ -3375,13 +3375,13 @@ translate ptBR qst_TheBeastOfNovaras_ParasiteShipFlashback_d1d140f9:
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:874
 translate ptBR qst_TheBeastOfNovaras_ParasiteShipFlashback_3631c7d6:
 
-    # "The cities inner defences were little match for the speed of the Zarpod."
+    # "The cities inner defenses were little match for the speed of the Zarpod."
     "As defesas internas da cidade eram pouco páreo para a velocidade do Zarpod."
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:875
 translate ptBR qst_TheBeastOfNovaras_ParasiteShipFlashback_620e1748:
 
-    # "If their orbital defences couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
+    # "If their orbital defenses couldn't stop them, the desperate cannons built to defend against ground forces were far too slow."
     "Se suas defesas orbitais não podiam detê-los, os canhões desesperados construídos para defender contra forças terrestres eram muito lentos."
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:876

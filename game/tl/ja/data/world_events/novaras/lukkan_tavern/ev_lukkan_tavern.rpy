@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:24
 translate ja ev_lukkan_tavern_talk_d33c877c:
@@ -600,7 +600,7 @@ translate ja ev_lukkan_tavern_talk_2_menu2_6ea0c11a:
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:143
 translate ja ev_lukkan_tavern_talk_2_menu2_00be4855:
 
-    # LUKKAN @ talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defence line deeper in-land to stop the Demorai and help the straggling forces there."
+    # LUKKAN @ talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defense line deeper in-land to stop the Demorai and help the straggling forces there."
     LUKKAN @ talk "我々は、ルーク要塞での会合計画を断念せざるを得ず、内陸深くに新たな防衛線を迅速に再構築し、デモライを阻止するとともに、そこで落伍した部隊を救援することとなった。"
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:144

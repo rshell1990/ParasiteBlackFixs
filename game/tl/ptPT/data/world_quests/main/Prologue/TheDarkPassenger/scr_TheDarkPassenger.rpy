@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-07 02:02
+# TODO: Translation updated at 2026-07-07 02:02
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:7
 translate ptPT qst_TheDarkPass_MarchOut_43d50239:
@@ -3507,7 +3507,7 @@ translate ptPT qst_TheDarkPass_TalkToMarkusInAbandFort_b23ea5da:
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:993
 translate ptPT qst_TheDarkPass_TalkToMarkusInAbandFort_927553e4:
 
-    # MARKUS "No offence, [player_name!t], but the last thing I want to think about right now is that."
+    # MARKUS "No offense, [player_name!t], but the last thing I want to think about right now is that."
     MARKUS "Sem ofensa, [player_name!t], mas a última coisa em que quero pensar agora é isso."
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:994

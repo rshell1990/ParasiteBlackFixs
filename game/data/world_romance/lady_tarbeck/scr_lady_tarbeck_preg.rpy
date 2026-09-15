@@ -191,7 +191,7 @@ label rom_tarbeck_darkmage_impreg_first:
     MC @shock "... Is it-"
     LADY_TARBECK @blush "Yes... It is."
     "Lady Tarbeck stepped closer, her hands cupping over my balls as she whispered in my ear."
-    LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
+    LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
     "She ever so slyly ran her tongue along my neck before retreating."
     MC @shock "Does Lord Tarbeck know?"
     LADY_TARBECK @smile "Of course, he's delighted."

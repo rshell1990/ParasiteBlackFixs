@@ -454,7 +454,7 @@ translate ptPT rom_tarbeck_darkmage_impreg_first_885a1e56:
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:194
 translate ptPT rom_tarbeck_darkmage_impreg_first_4942acd3:
 
-    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
+    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
     LADY_TARBECK "Os teus grandes e pesados tomates engravidaram o meu pobre útero indefeso."
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:195

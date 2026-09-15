@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-09 21:50
+# TODO: Translation updated at 2026-06-09 21:50
 
 # game/data/characters/marbella/dialogue.rpy:114
 translate tr marbella_aboutexp_0207b47b:
@@ -813,7 +813,7 @@ translate tr marbella_expedition_copper_choice_2927c5f9_1:
 # game/data/characters/marbella/dialogue.rpy:403
 translate tr marbella_expedition_copper_choice_2dcfa46e:
 
-    # MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    # MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
     MARBELLA @ talk "Bir savunma rünü mü? Pekala, bir sonraki sefer bulunup işlendikten sonra buraya geri getirilmesini sağlayacağım."
 
 # game/data/characters/marbella/dialogue.rpy:404
@@ -999,7 +999,7 @@ translate tr strings:
     new "Bir güç rünü"
 
     # game/data/characters/marbella/dialogue.rpy:400
-    old "A rune of defence"
+    old "A rune of defense"
     new "Bir savunma rünü"
 
     # game/data/characters/marbella/dialogue.rpy:411

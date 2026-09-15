@@ -1,4 +1,7 @@
 init python:
+    import math
+    import random
+
     def Battle_GetAllTargetsList(ActionInstance):
         Owner = ActionInstance.Owner_BattleChar
         
@@ -30,11 +33,24 @@ init python:
         OwnAccuracy = Attacker.AttackRating
         EnemyDodge = Target.DodgeRating
 
-        if int( OwnAccuracy ) >= int( EnemyDodge ):
-            return 85
+        # Base Hit Probability Calculation
+        if int(OwnAccuracy) >= int(EnemyDodge):
+            base_prob = 85.0
+        else:
+            hit_prob_curve = 1.0 - (0.99 * (1.0 - math.exp(-0.052 * (EnemyDodge - OwnAccuracy))))
+            base_prob = 15.0 + 70.0 * hit_prob_curve
 
-        hit_prob = 1 - (0.99 * (1 - math.exp(-0.052 * ( EnemyDodge - OwnAccuracy ))))
-        return int(15 + 70 * hit_prob)
+        # Apply Luck Multiplier (e.g., +1.5% hit chance per point of Luck advantage)
+        attacker_luck = getattr(Attacker, "Luck", 0)
+        defender_luck = getattr(Target, "Luck", 0)
+        luck_diff = attacker_luck - defender_luck
+        
+        luck_multiplier = 1.0 + (luck_diff * 0.015)
+        final_prob = base_prob * luck_multiplier
+
+        # Clamp final probability between 5% and 95%
+        clamped_prob = max(5, min(95, int(round(final_prob))))
+        return clamped_prob
 
     def Battle_GrantExtraTurn(BattleChar, OnlyIfHasActed = False, IgnoreDebuffs = False):
         if not IgnoreDebuffs:

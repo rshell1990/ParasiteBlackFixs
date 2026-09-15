@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-30 02:00
+# TODO: Translation updated at 2026-06-30 02:00
 
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:2
 translate kr greenFeverMedsReturn_cbeee127:
@@ -51,7 +51,7 @@ translate kr greenFeverMedsReturn_86049165:
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:13
 translate kr greenFeverMedsReturn_2291f5ac:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp."
     VES @ talk "주변에 경계 방어선을 칠 계획이야. 누군가 내 야영지에 몰래 들어오려 할 때 딸랑거릴 방울 같은 걸 철사에 달아두려고."
 
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:14

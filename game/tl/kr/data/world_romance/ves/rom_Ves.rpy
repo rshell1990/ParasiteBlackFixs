@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-30 02:00
+# TODO: Translation updated at 2026-06-30 02:00
 
 translate kr strings:
 
@@ -39,7 +39,7 @@ translate kr strings:
     new "베스가 도움을 필요로 한다"
 
     # game/data/world_romance/ves/rom_Ves.rpy:17
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "베스가 캠프 주변에 방어 시설을 설치하고 싶어 한다. 내가 도움을 줄 수 있을 것 같다."
 
     # game/data/world_romance/ves/rom_Ves.rpy:20

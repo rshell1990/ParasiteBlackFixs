@@ -735,6 +735,6 @@ translate kr strings:
     new "이제 밤에 팔람 탑에 들어갈 수 있습니다."
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:155
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} 내 타입은 아니야... 악의는 없어."
 

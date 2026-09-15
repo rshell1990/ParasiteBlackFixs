@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-06 18:05
+# TODO: Translation updated at 2026-08-06 18:05
 
 translate pl strings:
 
@@ -67,12 +67,12 @@ translate pl strings:
     new "You have perk points to distribute to this character."
 
     # game/screens/characters.rpy:299
-    old "Offence"
-    new "Offence"
+    old "Offense"
+    new "Offense"
 
     # game/screens/characters.rpy:299
-    old "Defence"
-    new "Defence"
+    old "Defense"
+    new "Defense"
 
     # game/screens/characters.rpy:299
     old "Support"

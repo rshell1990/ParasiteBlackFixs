@@ -2736,7 +2736,7 @@ label qst_JudgementDay_TrialStart:
             NYX @talk "And in a moment of desperation, or perhaps madness, I took a risk on the two of you."
             MARION @angry "She admits it!"
             JUDGE_FALWIND "Order! Inquisitor Marion!"
-            JUDGE_FALWIND "The defence is not done with it's line of questioning."
+            JUDGE_FALWIND "The defense is not done with it's line of questioning."
             MARION @angry "Tsch..."
             JUDGE_FALWIND "Captain Nyx, you do understand you are admitting to forgery and-"
             NYX @angry "If I could go back, I would make the exact same choices!"

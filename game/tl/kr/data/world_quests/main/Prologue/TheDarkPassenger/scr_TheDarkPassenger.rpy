@@ -3507,7 +3507,7 @@ translate kr qst_TheDarkPass_TalkToMarkusInAbandFort_b23ea5da:
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:993
 translate kr qst_TheDarkPass_TalkToMarkusInAbandFort_927553e4:
 
-    # MARKUS "No offence, [player_name!t], but the last thing I want to think about right now is that."
+    # MARKUS "No offense, [player_name!t], but the last thing I want to think about right now is that."
     MARKUS "\"악의는 없지만, [player_name!t], 지금 당장 그 얘기는 전혀 생각하고 싶지 않아.\""
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:994

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:4
 translate ptBR hamun_spa_use_main_79c353c1:
@@ -1071,7 +1071,7 @@ translate ptBR hamun_spa_tf_solo_c9d4a374:
 # game/data/world_interactions/hamun_spa_scenes.rpy:364
 translate ptBR hamun_spa_tf_solo_ba0bd0dc:
 
-    # MARBELLA "No offence, of course."
+    # MARBELLA "No offense, of course."
     MARBELLA "Sem ofensa, claro."
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:365

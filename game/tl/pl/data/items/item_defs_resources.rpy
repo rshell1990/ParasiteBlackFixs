@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-06 18:05
+# TODO: Translation updated at 2026-08-06 18:05
 
 translate pl strings:
 
@@ -183,12 +183,12 @@ translate pl strings:
     new "A runestone with some kind of insignia marking, it emits some form of magecraft energy - this one seems focused on giving one more raw, physical power."
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Rune of Defence"
-    new "Rune of Defence"
+    old "Rune of Defense"
+    new "Rune of Defense"
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Runes of Defence"
-    new "Runes of Defence"
+    old "Runes of Defense"
+    new "Runes of Defense"
 
     # game/data/items/item_defs_resources.rpy:212
     old "A runestone with some kind of insignia marking, it emits some form of magecraft energy - this one seems focused on helping one with defending themselves from attacks."

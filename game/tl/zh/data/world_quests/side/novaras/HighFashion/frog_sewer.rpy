@@ -1,4 +1,4 @@
-﻿
+
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:4
 translate zh palam_sewer_2a5939df:
@@ -715,7 +715,7 @@ translate zh strings:
     new "{image=[ICON.HEART]} 既然你这么说了..."
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:134
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} 你不是我喜欢的类型...无意冒犯。"
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:144

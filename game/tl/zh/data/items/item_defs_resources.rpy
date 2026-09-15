@@ -1,4 +1,4 @@
-﻿translate zh strings:
+translate zh strings:
 
     # game/data/items/item_defs_resources.rpy:2
     old "Bronze scraps"
@@ -191,11 +191,11 @@ translate zh strings:
     new "一块带有某种徽记的符文石，散发着某种魔法能量——这个似乎专注于赋予更原始、更强大的肉体力量。"
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "防御符文"
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "防御符文"
 
     # game/data/items/item_defs_resources.rpy:153

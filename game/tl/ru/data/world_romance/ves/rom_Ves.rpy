@@ -1,4 +1,4 @@
-﻿translate ru strings:
+translate ru strings:
 
     # game/data/world_romance/ves/rom_Ves.rpy:2
     old "Ves is out hunting"
@@ -37,7 +37,7 @@
     new "Вес могла бы понадобиться помощь"
 
     # game/data/world_romance/ves/rom_Ves.rpy:17
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "Вес хочет установить защиту вокруг своего лагеря. Я мог бы помочь."
 
     # game/data/world_romance/ves/rom_Ves.rpy:20

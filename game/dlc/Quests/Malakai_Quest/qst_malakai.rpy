@@ -6,9 +6,12 @@ init python:
             self.isActive = active
 
         def onEnter(self):
-            if GetLocID() == "mc_house_bedroom" and QstIsComplete(QstTwoEmperors):
-                self.finish()
-                return TriggeredEvent("malakai_intro")
+            if not QstIsComplete(QstTwoEmperors):
+                return
+            if GetLocID() == "mc_house_bedroom" and not QstIsOver(QstMalakai):
+                # call directly instead of returning a TriggeredEvent, so a same-priority
+                # competing onEnter (elena/nijah/etc.) can't win the tie-break and silently eat this trigger
+                renpy.call("malakai_intro")
 
     @AppendToAllQuests
     class QstMalakai(BaseQuest):

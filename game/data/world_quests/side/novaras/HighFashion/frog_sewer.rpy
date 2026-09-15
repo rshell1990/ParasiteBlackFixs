@@ -152,7 +152,7 @@ label palam_sewer:
             'Along the way, I noticed Sister Divine kept looking back at me, perhaps contemplating what was to come between us.'
             scene black with dissolve
             'As I changed back into my human form, Divine remarked I should get dressed before making my way out of the basement, scrambling to locate the clothes I had left on my way in, we finally returned to the main halls of the tower.'
-        '{image=[ICON.HEART_CROSS]} You’re not really my type... No offence.':
+        '{image=[ICON.HEART_CROSS]} You’re not really my type... No offense.':
             $ CharChangeRel("divine", -1)
             DIVINE 'Hmm... A shame.'
             DIVINE 'Then I guess our business has concluded.'

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-30 08:40
+# TODO: Translation updated at 2026-07-30 08:40
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:114
 translate ja rom_tarbeck_birth_first_b87bb50b:
@@ -455,7 +455,7 @@ translate ja rom_tarbeck_darkmage_impreg_first_885a1e56:
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:194
 translate ja rom_tarbeck_darkmage_impreg_first_4942acd3:
 
-    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
+    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
     LADY_TARBECK "あなたの大きくて重い玉が、可哀想な無防備な私の子宮を孕ませたのよ。"
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:195

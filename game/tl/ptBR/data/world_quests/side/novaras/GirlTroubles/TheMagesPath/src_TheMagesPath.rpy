@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:57
+# TODO: Translation updated at 2026-07-01 11:57
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:3
 translate ptBR qst_the_mages_path_meet_1_1c515142:
@@ -63,7 +63,7 @@ translate ptBR qst_the_mages_path_meet_1_cb7f5ecc:
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:29
 translate ptBR qst_the_mages_path_meet_1_70b9d761:
 
-    # "Mika was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defence."
+    # "Mika was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defense."
     "Mika estava aterrorizada, mas com algum encorajamento gentil, ela conseguiu se orientar o suficiente para pelo menos desviar dos meus ataques e lançar alguma defesa básica de magia."
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:30

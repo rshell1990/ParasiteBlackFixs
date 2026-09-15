@@ -140,7 +140,7 @@ label ev_lukkan_tavern_talk_2:
                             LUKKAN @talk "What they were never concerned with though, was considering the amount of {i}food{/i} they'd need to send to these massive forces day to day."
                             LUKKAN @talk "They never considered the possibility that this 'counter offensive' could drag on into the long winter, and that the men would need Winter uniforms."
                             LUKKAN @talk "And that's exactly what happened... Just some half-starved, poorly-equipped nearly frozen to death men in the West."
-                            LUKKAN @talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defence line deeper in-land to stop the Demorai and help the straggling forces there."
+                            LUKKAN @talk "We had to abandon our plans to meet at Fort Rook and move quickly to reform a new defense line deeper in-land to stop the Demorai and help the straggling forces there."
                             MC @talk "And that's when Alcott had enough?"
                             LUKKAN @talk 'No... The final straw was when Mesamor ordered Alcott to try the same thing {i}again.{/i}'
                             LUKKAN @talk 'He was delusional, telling everyone in Court that we {i}actually{/i} were on the verge of pushing through in the West and should have never retreated, that we should have ordered those men to wait till reinforcements arrived.'

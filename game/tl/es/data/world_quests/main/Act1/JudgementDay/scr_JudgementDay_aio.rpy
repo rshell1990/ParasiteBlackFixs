@@ -1,4 +1,4 @@
-﻿
+
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:18
 translate es qst_JudgementDay_SiegeStart_5c55ea21:
@@ -8354,7 +8354,7 @@ translate es qst_JudgementDay_Trial_questions_4c6570b9:
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2739
 translate es qst_JudgementDay_Trial_questions_a06822ef:
 
-    # JUDGE_FALWIND "The defence is not done with it's line of questioning."
+    # JUDGE_FALWIND "The defense is not done with it's line of questioning."
     JUDGE_FALWIND "La defensa no ha terminado con su línea de interrogatorio."
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2740

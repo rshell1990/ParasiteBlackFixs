@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-30 08:41
+# TODO: Translation updated at 2026-07-30 08:41
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:114
 translate kr rom_tarbeck_birth_first_b87bb50b:
@@ -479,7 +479,7 @@ translate kr rom_tarbeck_darkmage_impreg_first_885a1e56:
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:194
 translate kr rom_tarbeck_darkmage_impreg_first_4942acd3:
 
-    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
+    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
     LADY_TARBECK "네 크고 무거운 불알이 내 불쌍하고 무방비한 자궁을 임신시켰어."
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:195

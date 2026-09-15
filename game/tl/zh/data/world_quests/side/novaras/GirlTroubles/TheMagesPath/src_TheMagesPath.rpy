@@ -1,4 +1,4 @@
-﻿# game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:3
+# game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:3
 translate zh qst_the_mages_path_meet_1_1c515142:
 
     # MIKA @ talk "I-I'm ready to train when you are!"
@@ -61,7 +61,7 @@ translate zh qst_the_mages_path_meet_1_cb7f5ecc:
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:30
 translate zh qst_the_mages_path_meet_1_70b9d761:
 
-    # "美嘉 was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defence."
+    # "美嘉 was terrified, but with some gentle encouragement, she managed to steer herself enough to actually at least dodge my attacks and cast some basic magecraft defense."
     "美嘉虽然害怕，但在温和的鼓励下，她成功控制住自己，至少能躲开我的攻击并施展一些基础法术防御。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:31

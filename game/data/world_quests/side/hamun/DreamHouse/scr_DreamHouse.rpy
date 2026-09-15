@@ -1650,7 +1650,7 @@ label qst_dreamhouse_l4_start:
             KIARA @talk "Most of our horror stories involve snow orcs stealing children in the night."
             if CharInParty("ves"):
                 "Ves raised a brow at the comment."
-                KIARA @think "... No offence."
+                KIARA @think "... No offense."
                 VES @think "What is a snow orc?"
                 VES @angry "We are not made of snow! We are orcs!"
                 KIARA @talk "I..."

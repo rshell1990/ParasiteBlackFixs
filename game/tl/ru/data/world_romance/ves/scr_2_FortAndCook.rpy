@@ -1,4 +1,4 @@
-﻿
+
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:2
 translate ru rom_Ves_2_FortAndCook_Rev_e399c0fc:
 
@@ -8,7 +8,7 @@ translate ru rom_Ves_2_FortAndCook_Rev_e399c0fc:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:3
 translate ru rom_Ves_2_FortAndCook_Rev_33e02ec9:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak in here."
     VES @ talk "Я планирую установить периметральную защиту, просто колокольчики и тому подобное на проволоке, которые будут звенеть, если кто-то попытается подкрасться сюда."
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:9
@@ -26,7 +26,7 @@ translate ru rom_Ves_2_FortAndCook_94bfba8b:
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:19
 translate ru rom_Ves_2_FortAndCook_1bb29bdd:
 
-    # "Over the next hour or so, Ves and I began to set up some primitive defences around her camp."
+    # "Over the next hour or so, Ves and I began to set up some primitive defenses around her camp."
     "В течение следующего часа или около того, Вес и я начали устанавливать примитивную защиту вокруг её лагеря."
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:21

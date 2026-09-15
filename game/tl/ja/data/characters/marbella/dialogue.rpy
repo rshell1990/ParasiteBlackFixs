@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 # game/data/characters/marbella/dialogue.rpy:111
 translate ja marbella_aboutexp_0207b47b:
@@ -802,7 +802,7 @@ translate ja marbella_expedition_copper_choice_2927c5f9_1:
 # game/data/characters/marbella/dialogue.rpy:395
 translate ja marbella_expedition_copper_choice_2dcfa46e:
 
-    # MARBELLA @ talk "A defence rune? Alright, next expedition I'll have it found and treated before being brought back here."
+    # MARBELLA @ talk "A defense rune? Alright, next expedition I'll have it found and treated before being brought back here."
     MARBELLA @ talk "防御ルーン？わかった、次の探索では見つけて、処理した上でここに連れ戻すよ。"
 
 # game/data/characters/marbella/dialogue.rpy:396
@@ -1138,7 +1138,7 @@ translate ja strings:
 
 
     # game/data/characters/marbella/dialogue.rpy:392
-    old "A rune of defence"
+    old "A rune of defense"
     new "防御のルーン"
 
 

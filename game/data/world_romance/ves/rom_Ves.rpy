@@ -16,7 +16,7 @@ init python:
         _("I think I should slow my courting down. Perhaps visit Ves another time. Maybe try after dark?"))
     notesLib["VesHelpCamp"] = Note(
         _("Ves could use some help"),
-        _("Ves wants to set up some defences around her camp. I could lend a hand."))
+        _("Ves wants to set up some defenses around her camp. I could lend a hand."))
     notesLib["VesLingerie"] = Note(
         _("A gift for Ves"),
         _("I should get Ves a gift. A set of lingerie?"))

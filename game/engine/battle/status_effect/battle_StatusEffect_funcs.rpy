@@ -104,9 +104,7 @@ init python:
     def Battle_TickStatusEffectDuration(ActingSide, AtEnd=True):
         # Handle both integer side indices and character lists
         if isinstance(ActingSide, int):
-            left_party = getattr(BattleScene, "CharList_Left", getattr(BattleScene, "Party_Left", []))
-            right_party = getattr(BattleScene, "CharList_Right", getattr(BattleScene, "Party_Right", []))
-            char_list = left_party if ActingSide == 0 else right_party
+            char_list = BattleScene.BattleChars[ActingSide]
         else:
             char_list = ActingSide
 

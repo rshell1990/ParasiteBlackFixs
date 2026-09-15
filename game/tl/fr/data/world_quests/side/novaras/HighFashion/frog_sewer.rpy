@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-07-01 11:50
+# TODO: Translation updated at 2026-07-01 11:50
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:4
 translate fr palam_sewer_2a5939df:
@@ -719,6 +719,6 @@ translate fr strings:
     new "Vous pouvez désormais entrer dans la tour Palam la nuit."
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:155
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} Tu n’es pas vraiment mon genre... Sans vouloir t’offenser."
 

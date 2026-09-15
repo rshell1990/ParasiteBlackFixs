@@ -7,7 +7,7 @@ init python:
 
         def onEnter(self):
             # Check if player is anywhere in Novaras (starts with "novaras_") and QstTwoEmperors is finished
-            if GetLocID().startswith("novaras_") and QstIsComplete(QstTwoEmperors) and not QstIsActive(QstArda):
+            if GetLocID().startswith("novaras_") and QstIsComplete(QstTwoEmperors) and not QstIsOver(QstArda):
                 # arda_intro starts the quest itself (QstStart + QstSetProgress live there)
                 renpy.call("arda_intro")
 

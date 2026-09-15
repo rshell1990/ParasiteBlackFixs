@@ -1,4 +1,4 @@
-﻿
+
 
 translate es strings:
 
@@ -39,7 +39,7 @@ translate es strings:
     new "Ves podría necesitar algo de ayuda"
 
     # game/data/world_romance/ves/rom_Ves.rpy:10
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "Ves quiere montar algunas defensas alrededor de su campamento. Yo podría ayudar."
 
     # game/data/world_romance/ves/rom_Ves.rpy:12

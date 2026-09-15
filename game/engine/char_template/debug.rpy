@@ -25,7 +25,7 @@ init -1 python:
         for CharID in CharsWithClass:
             WorldChar = worldChars[CharID]
 
-            for SkillBranch in ["offence", "defence", "support"]:
+            for SkillBranch in ["offense", "defense", "support"]:
                 for SkillID in Lib_BattleSkillTrees[WorldChar["BattleClass"]][SkillBranch]:
                     # add skill id if its not there (also add level)
                     if SkillID not in WorldChar["CharSkills"]:

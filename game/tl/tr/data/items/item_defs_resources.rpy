@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-09 21:50
+# TODO: Translation updated at 2026-06-09 21:50
 
 translate tr strings:
 
@@ -183,11 +183,11 @@ translate tr strings:
     new "Bir tür amblem işaretli bir rün taşı, bir tür büyücülük enerjisi yayar - bu kişiye daha fazla ham, fiziksel güç vermeye odaklanmış gibi görünüyor."
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "Savunma Rünü"
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "Savunma Rünleri"
 
     # game/data/items/item_defs_resources.rpy:212

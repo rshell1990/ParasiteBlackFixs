@@ -1,4 +1,4 @@
-﻿
+
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:2
 translate ru greenFeverMedsReturn_cbeee127:
 
@@ -50,7 +50,7 @@ translate ru greenFeverMedsReturn_86049165:
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:13
 translate ru greenFeverMedsReturn_2291f5ac:
 
-    # VES @ talk "I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp."
+    # VES @ talk "I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp."
     VES @ talk "Я планирую установить периметральную защиту, просто колокольчики и тому подобное на проволоке, которые будут звенеть, если кто-то попытается пробраться в мой лагерь."
 
 # game/data/world_quests/side/valleyOfDeath/GreenFever/scr_MedsReturn.rpy:14

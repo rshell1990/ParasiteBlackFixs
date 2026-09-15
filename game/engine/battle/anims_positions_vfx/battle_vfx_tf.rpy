@@ -14,10 +14,9 @@ init python:
         # Retrieve the animation sequence/data and assign to AnimObj
         AnimObj = BattleChar.BattleSkin.AnimsDict[AnimID]
 
-        # Check if the object is a container/list vs a direct displayable anim object
+        # Some skins define a list of variant BattleAnimations for a given key; pick one at random
         if isinstance(AnimObj, list):
-            # If the animation data is a list of steps/images
-            pass
+            AnimObj = renpy.random.choice(AnimObj)
 
         # Safely evaluate looping and displayable properties
         if getattr(AnimObj, "AnimLoop", False):

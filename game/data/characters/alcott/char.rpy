@@ -9,4 +9,4 @@ init python:
     RelText["alcott"] = {}
     RelText["alcott"]["initial"] = {
         "order":0,
-        "text":_("The defacto leader of Alderay, a once former general under king Mesamore who led Novaras' defence during the great siege. Turned usurper, he overthrew Mesamore and now rules with an iron fist over all of us.")}
+        "text":_("The defacto leader of Alderay, a once former general under king Mesamore who led Novaras' defense during the great siege. Turned usurper, he overthrew Mesamore and now rules with an iron fist over all of us.")}

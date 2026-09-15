@@ -1,4 +1,4 @@
-﻿
+
 
 translate es strings:
 
@@ -67,11 +67,11 @@ translate es strings:
     new "Energía: %s/%s"
 
     # game/screens/characters.rpy:256
-    old "Offence"
+    old "Offense"
     new "Ofensa"
 
     # game/screens/characters.rpy:256
-    old "Defence"
+    old "Defense"
     new "Defensa"
 
     # game/screens/characters.rpy:256

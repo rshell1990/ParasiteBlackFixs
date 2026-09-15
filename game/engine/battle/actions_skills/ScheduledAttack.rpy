@@ -252,6 +252,28 @@ init python:
                     # deal dmg          
                     Battle_DealDamage(Target, ResultDamageValue, IgnoreArmor = True, IsCrit = IsCrit)
 
+                    if Target.IsAlive:
+                        if Battle_HasStatusEffect(self.UserBattleChar, "star_bringers_stealmanastrike"):
+                            ManaStolen = min(max(round(ResultDamageValue * 0.15), 1), Target.Mana)
+                            if ManaStolen > 0:
+                                Battle_BurnMana(Target, ManaStolen)
+                                Battle_RestoreMana(self.UserBattleChar, ManaStolen)
+                                Battle_AddLogEntry_Autoformat(
+                                    USER = self.UserBattleChar,
+                                    TARGET = Target,
+                                    MANA_STOLEN = ManaStolen,
+                                    String = tra(_("USER_NAME steals MANA_STOLEN mana from TARGET_NAME with Star Bringer!")))
+
+                        if Battle_HasStatusEffect(self.UserBattleChar, "shadowreach_stealhpstrike"):
+                            HealthStolen = min(max(round(ResultDamageValue * 0.15), 1), Target.Health)
+                            if HealthStolen > 0:
+                                Battle_RestoreHealth(self.UserBattleChar, HealthStolen)
+                                Battle_AddLogEntry_Autoformat(
+                                    USER = self.UserBattleChar,
+                                    TARGET = Target,
+                                    HEALTH_STOLEN = HealthStolen,
+                                    String = tra(_("USER_NAME steals HEALTH_STOLEN health from TARGET_NAME with Shadowreach!")))
+
                     # absorb
                     if self.DamageRecoversAttackerEnergy is not None:
                         Battle_RestoreEnergy(self.UserBattleChar, round(ResultDamageValue * self.DamageRecoversAttackerEnergy))

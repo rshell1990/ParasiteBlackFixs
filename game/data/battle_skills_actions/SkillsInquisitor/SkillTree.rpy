@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["inquisitor"] = {
         "name":             _("Inquisitor"),
         "skills_string":    _("Inquisitor skills"),
-        "offence":{
+        "offense":{
             "InquisitorBurningJudgement":{
                 "Reqs_Attributes":{"Agility" : 6, "Willpower" : 5},
                 "Reqs_SkillIDs":{},
@@ -24,7 +24,7 @@ init python:
                 "Reqs_SkillIDs":{},
             },
         },
-        "defence":{
+        "defense":{
             "InquisitorFirewall":{
                 "Reqs_Attributes":{"Willpower":6, "Endurance" : 6},
                 "Reqs_SkillIDs":{},

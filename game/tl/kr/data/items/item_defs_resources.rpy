@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-30 02:00
+# TODO: Translation updated at 2026-06-30 02:00
 
 translate kr strings:
 
@@ -183,11 +183,11 @@ translate kr strings:
     new "문장이 새겨진 각종 룬스톤, 어떤 형태의 마법 에너지를 발산한다 - 이 룬은 착용자에게 더 많은 순수한 육체적 힘을 부여하는 데 초점을 둔 듯하다."
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "방어의 룬"
 
     # game/data/items/item_defs_resources.rpy:212
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "방어의 룬"
 
     # game/data/items/item_defs_resources.rpy:212

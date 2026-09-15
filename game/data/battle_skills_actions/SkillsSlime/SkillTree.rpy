@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["slime"] = {
         "name":             _("Slime"),
         "skills_string":    _("Slime skills"),
-        "offence":{
+        "offense":{
             "SlimeAcidicSplash":{
                 "Reqs_Attributes":{"Strength" : 2, "Willpower" : 5},
                 "Reqs_SkillIDs":{},
@@ -12,7 +12,7 @@ init python:
                 "Reqs_SkillIDs":{"SlimeAcidicSplash"},
             },
         },
-        "defence":{
+        "defense":{
             "SlimeAdaptiveDefense":{
                 "Reqs_Attributes":{"Endurance" : 2, "Willpower" : 5},
                 "Reqs_SkillIDs":{},

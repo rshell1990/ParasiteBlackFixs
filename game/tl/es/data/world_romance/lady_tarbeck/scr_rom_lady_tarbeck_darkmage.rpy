@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-16 14:37
+# TODO: Translation updated at 2026-08-16 14:37
 
 # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_darkmage.rpy:56
 translate es rom_tarbeck_darkmage_meet_manor_7c9eb03b:
@@ -4089,8 +4089,8 @@ translate es replay_tarbeck_darkmage_spell_vag_15dbd9f0:
 # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_darkmage.rpy:1300
 translate es replay_tarbeck_darkmage_spell_vag_b3779603:
 
-    # LADY_TARBECK "What's my poor defenceless womb to do, swimming around in your seed now?"
-    LADY_TARBECK "What's my poor defenceless womb to do, swimming around in your seed now?"
+    # LADY_TARBECK "What's my poor defenseless womb to do, swimming around in your seed now?"
+    LADY_TARBECK "What's my poor defenseless womb to do, swimming around in your seed now?"
 
 # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck_darkmage.rpy:1301
 translate es replay_tarbeck_darkmage_spell_vag_7cb900e8:

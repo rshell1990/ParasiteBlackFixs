@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-08-16 19:39
+# TODO: Translation updated at 2026-08-16 19:39
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:75
 translate es rom_tarbeck_impreg_first_87ac6402:
@@ -453,8 +453,8 @@ translate es rom_tarbeck_darkmage_impreg_first_885a1e56:
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:191
 translate es rom_tarbeck_darkmage_impreg_first_4942acd3:
 
-    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
-    LADY_TARBECK "Your big, heavy balls knocked up my poor defenceless womb."
+    # LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
+    LADY_TARBECK "Your big, heavy balls knocked up my poor defenseless womb."
 
 # game/data/world_romance/lady_tarbeck/scr_lady_tarbeck_preg.rpy:192
 translate es rom_tarbeck_darkmage_impreg_first_e02c5ae0:

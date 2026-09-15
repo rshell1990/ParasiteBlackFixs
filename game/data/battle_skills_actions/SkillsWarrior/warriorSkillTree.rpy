@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["warrior"] = {
         "name":             _("Warrior"),
         "skills_string":    _("Warrior skills"),
-        "offence":{
+        "offense":{
             "WarriorHeavySlash":{
                 "Reqs_Attributes":{"Strength" : 5},
                 "Reqs_SkillIDs":{},
@@ -28,7 +28,7 @@ init python:
                 "Reqs_SkillIDs":{"WarriorFlailingStrikes"},
             },
         },
-        "defence":{
+        "defense":{
             "WarriorDodge":{
                 "Reqs_Attributes":{"Agility" : 4},
                 "Reqs_SkillIDs":{},

@@ -1,4 +1,4 @@
-﻿
+
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:4
 translate ru palam_sewer_2a5939df:
 
@@ -718,6 +718,6 @@ translate ru strings:
     new "Теперь ты можешь входить в Башню Палам ночью."
 
     # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:155
-    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offence."
+    old "{image=[ICON.HEART_CROSS]} You’re not really my type... No offense."
     new "{image=[ICON.HEART_CROSS]} Ты не совсем в моём вкусе... Без обид."
 

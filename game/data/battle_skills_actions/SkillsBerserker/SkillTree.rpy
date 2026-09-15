@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["berserker"] = {
         "name":             _("Berserker"),
         "skills_string":    _("Berserker skills"),
-        "offence":{
+        "offense":{
             "BerserkerDeathblow":{
                 "Reqs_Attributes":{"Strength" : 6, "Endurance" : 6},
                 "Reqs_SkillIDs":{},
@@ -20,7 +20,7 @@ init python:
                 "Reqs_SkillIDs":{},
             },
         },
-        "defence":{
+        "defense":{
             "BerserkerUnbreakable":{
                 "Reqs_Attributes":{"Endurance" : 6},
                 "Reqs_SkillIDs":{},

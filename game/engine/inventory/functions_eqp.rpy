@@ -75,6 +75,7 @@ init -2 python:
 
         if SetMTTToItemDesc:
             TooltipSet(GetItemDesc(ItemID))
+        renpy.restart_interaction()
         return
 
     def UnequipItem(Char, Slot_ID):
@@ -103,6 +104,7 @@ init -2 python:
         Char["Health"] = min(max(int(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
 
         TooltipClear()
+        renpy.restart_interaction()
         return
 
     def UnequipItem_CharID(Char_ID, slot_ID):

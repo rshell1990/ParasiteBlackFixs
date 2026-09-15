@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-07-01 22:08
+# TODO: Translation updated at 2025-07-01 22:08
 
 translate zh strings:
 
@@ -48,7 +48,7 @@ translate zh strings:
    
 
     # game/data/world_romance/ves/rom_Ves.rpy:10
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "维斯想在她的营地周围设置一些防御。我可以帮把手。"
    
 

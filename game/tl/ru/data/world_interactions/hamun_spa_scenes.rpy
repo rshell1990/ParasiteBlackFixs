@@ -1,4 +1,4 @@
-﻿# game/data/world_interactions/hamun_spa_scenes.rpy:4
+# game/data/world_interactions/hamun_spa_scenes.rpy:4
 translate ru hamun_spa_use_main_79c353c1:
 
     # LUNA @ smile "Wonderful!"
@@ -1069,7 +1069,7 @@ translate ru hamun_spa_tf_solo_c9d4a374:
 # game/data/world_interactions/hamun_spa_scenes.rpy:364
 translate ru hamun_spa_tf_solo_ba0bd0dc:
 
-    # MARBELLA "No offence, of course."
+    # MARBELLA "No offense, of course."
     MARBELLA "Без обид, конечно."
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:365

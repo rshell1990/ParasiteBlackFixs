@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 translate ja strings:
 
@@ -408,7 +408,7 @@ translate ja strings:
 
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Rune of Defence"
+    old "Rune of Defense"
     new "防御のルーン"
 
 
@@ -417,7 +417,7 @@ translate ja strings:
 
 
     # game/data/items/item_defs_resources.rpy:153
-    old "Runes of Defence"
+    old "Runes of Defense"
     new "防衛のルーン"
 
 

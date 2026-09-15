@@ -1,4 +1,4 @@
-﻿# game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:7
+# game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:7
 translate ru qst_TheDarkPass_MarchOut_43d50239:
 
     # "With the sounds of iron and steel reverberating into the sky, we marched towards the gate into the city."
@@ -3505,7 +3505,7 @@ translate ru qst_TheDarkPass_TalkToMarkusInAbandFort_b23ea5da:
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:993
 translate ru qst_TheDarkPass_TalkToMarkusInAbandFort_927553e4:
 
-    # MARKUS "No offence, [player_name!t], but the last thing I want to think about right now is that."
+    # MARKUS "No offense, [player_name!t], but the last thing I want to think about right now is that."
     MARKUS "Без обид, [player_name!t], но последнее о чём я хочу сейчас думать, это вот это."
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:994

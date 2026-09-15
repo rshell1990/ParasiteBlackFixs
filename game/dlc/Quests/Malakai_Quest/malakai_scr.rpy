@@ -3,6 +3,7 @@ define MALAKAI = Character("???")
 label malakai_intro: 
 #Malakai armor DLC
 #IMPLEMENTATION: One-time scene. Available after completing 'Two Emperors'. Auto-triggers when entering the player's bedroom.
+    $ PrimerMalakai().finish() # burn the one-shot primer only once the intro actually plays
     show mc at center with easeinleft
     "Entering my room, my eyes were drawn immediately to the strange, black envelope placed carefully on my bed."
     "The envelope was expensive, scented with lavender, with a red seal on the back marked M.B. I carefully opened it to read the letter inside."
@@ -46,7 +47,7 @@ label malakai_intro:
 #IMPLEMENTATION: Start 'Sweet dreams...' here. Sleeping while this quest stage is active triggers the following scene.
 label malakai:
     "As I lay down on my bed and closed my eyes... I began to feel myself sink into it."
-    show game/images/gui/unsorted/black_under.webp with dissolve
+    show bg_black with dissolve
     "The world slowly became black around me, and suddenly, there was an eerie silence... As though the world outside simply ceased to be."
     "The bed was gone. I found myself standing in a starless realm of darkness, where red lightning boomed and cracked across the sky."
     "Ahead... A great temple."
@@ -99,7 +100,7 @@ label malakai:
     hide mc
     "The voice doesn't answer; the very cathedral itself falls deathly silent."
     "The walls begin to buckle, and all at once, the floor opens up beneath my feet as I fall... and fall... and fall."
-    show game/images/gui/unsorted/black_under.webp with fade
+    show bg_bedroom with fade
     #The player wakes up
     MC @shock "...!"
     "Sweat poured from me as I looked down towards my trembling hands."

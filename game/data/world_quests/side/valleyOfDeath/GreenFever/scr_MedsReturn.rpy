@@ -10,7 +10,7 @@ label greenFeverMedsReturn:
     VES '...'
     'Ves pondered the thought for a moment, before reluctantly remarking.'
     VES @talk 'Well... I suppose if you are offering...'
-    VES @talk 'I plan to set up some perimeter defences, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp.'
+    VES @talk 'I plan to set up some perimeter defenses, just some bells and such on a wire that will jingle in case anyone tries to sneak into my camp.'
     VES @talk 'I could use some help setting it up if you’re willing...'
     menu:
         '{image=[ICON.CLOCK]} No problem.':

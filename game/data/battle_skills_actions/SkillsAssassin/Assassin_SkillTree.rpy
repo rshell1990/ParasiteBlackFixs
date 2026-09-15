@@ -2,7 +2,7 @@ init python:
     Lib_BattleSkillTrees["assassin"] = {
         "name":             _("Assassin"),
         "skills_string":    _("Assassin skills"),
-        "offence":{
+        "offense":{
             "AssassinDeathByAThousandCuts":{
                 "Reqs_Attributes":{}, # <these can or can not be present, theres an "in" check anyway
                 "Reqs_SkillIDs":{},
@@ -24,7 +24,7 @@ init python:
                 "Reqs_SkillIDs":{},
             }
         },
-        "defence":{
+        "defense":{
             "AssassinAcrobaticDance":{
                 "Reqs_Attributes":{"Agility":7, "Dexterity":8},
                 "Reqs_SkillIDs":{},

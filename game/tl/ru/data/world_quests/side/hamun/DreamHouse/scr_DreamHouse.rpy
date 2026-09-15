@@ -1,4 +1,4 @@
-﻿# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:7
+# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:7
 translate ru qst_dreamhouse_primer_letter_6eb8ca0a:
 
     # GUARD "Ladies Anya and Chanyi of Faymore estate wish to speak with you."
@@ -4075,7 +4075,7 @@ translate ru qst_dreamhouse_l4_start_354c0991:
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1663
 translate ru qst_dreamhouse_l4_start_4b99b1f8:
 
-    # KIARA @ think "... No offence."
+    # KIARA @ think "... No offense."
     KIARA @ think "... Без обид."
 
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1664

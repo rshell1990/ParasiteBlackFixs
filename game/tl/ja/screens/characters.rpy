@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-01-19 18:56
+# TODO: Translation updated at 2026-01-19 18:56
 
 translate ja strings:
 
@@ -115,14 +115,14 @@ translate ja strings:
 
 
     # game/screens/characters.rpy:295
-    old "Offence"
+    old "Offense"
     new "攻撃"
 
 
 
 
     # game/screens/characters.rpy:295
-    old "Defence"
+    old "Defense"
     new "防御"
 
 

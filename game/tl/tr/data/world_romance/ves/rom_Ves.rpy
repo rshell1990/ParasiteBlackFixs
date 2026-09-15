@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-09 21:50
+# TODO: Translation updated at 2026-06-09 21:50
 
 translate tr strings:
 
@@ -39,7 +39,7 @@ translate tr strings:
     new "Ves'in biraz yardıma ihtiyacı olabilir"
 
     # game/data/world_romance/ves/rom_Ves.rpy:17
-    old "Ves wants to set up some defences around her camp. I could lend a hand."
+    old "Ves wants to set up some defenses around her camp. I could lend a hand."
     new "Ves kampının etrafına bazı savunmalar kurmak istiyor. Yardım edebilirim."
 
     # game/data/world_romance/ves/rom_Ves.rpy:20

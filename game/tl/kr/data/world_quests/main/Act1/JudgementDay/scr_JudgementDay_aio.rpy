@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-06-30 02:00
+# TODO: Translation updated at 2026-06-30 02:00
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:18
 translate kr qst_JudgementDay_SiegeStart_5c55ea21:
@@ -8355,7 +8355,7 @@ translate kr qst_JudgementDay_Trial_questions_4c6570b9:
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2733
 translate kr qst_JudgementDay_Trial_questions_a06822ef:
 
-    # JUDGE_FALWIND "The defence is not done with it's line of questioning."
+    # JUDGE_FALWIND "The defense is not done with it's line of questioning."
     JUDGE_FALWIND "변호 측의 심문은 아직 끝나지 않았습니다."
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2734

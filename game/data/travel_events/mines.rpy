@@ -20,6 +20,18 @@ init python:
             self.MineKind = None # rolls "iron", "gem", "copper", "syax". changes some stuff accordingly
             self.HasBeenMined = True # set to False on enter. as player "clicks" mine, turns True
 
+        def Dig(self):
+            if renpy.random.randint(0, 2) == 0:
+                self.HasBeenMined = True
+            if self.MineKind == "iron":
+                PlayerAddItem("iron_ore")
+            elif self.MineKind == "syax":
+                PlayerAddItem("syax_ore")
+            elif self.MineKind == "gems":
+                PlayerAddItem("raw_gems")
+            elif self.MineKind == "copper":
+                PlayerAddItem("copper_ore")
+
         def OverrideLocBg(self):
             Result = {}            
             if TravelMine().MineKind == "iron":
@@ -111,17 +123,17 @@ label travel_event_mine_ask_enter:
             return
 
 label travel_event_mine_dig:
-    "Slamming my pickaxe against the rocks for some time, I managed to gather and chip away at the material I wanted."
-    if renpy.random.randint(0, 2) == 0:
-        $ TravelMine().HasBeenMined = True
-    if TravelMine().MineKind == "iron":
-        $ PlayerAddItem("iron_ore")
-    if TravelMine().MineKind == "syax":
-        $ PlayerAddItem("syax_ore")
-    if TravelMine().MineKind == "gems":
-        $ PlayerAddItem("raw_gems")
-    if TravelMine().MineKind == "copper":
-        $ PlayerAddItem("copper_ore")
+    menu:
+        "Mine":
+            $ TravelMine().Dig()
+            "Slamming my pickaxe against the rocks for some time, I managed to gather and chip away at the material I wanted."
+
+        "Mine all":
+            $ MinedBatches = 0
+            while not TravelMine().HasBeenMined:
+                $ TravelMine().Dig()
+                $ MinedBatches += 1
+            "Working the rocks over and over, I kept mining until the vein finally gave out, gathering [MinedBatches] batches of material along the way."
     $ LocEnterQ()
 
 label travel_event_mine_dig_empty:
