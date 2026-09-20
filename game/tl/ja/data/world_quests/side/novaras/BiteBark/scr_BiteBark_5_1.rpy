@@ -94,9 +94,7 @@ translate ja qst_BiteBark_5_SeenWolfKennelMaster_ac431a22:
 translate ja qst_BiteBark_5_SeenWolfKennelMaster_650c7255:
 
     # KENNELMASTER "Maybe she was looking for someone? Maybe she could just smell food? Who knows..."
-    KENNELMASTER "もしかして誰かを探しているのか？
-それともただ食べ物の匂いを嗅ぎつけただけ？
-誰にもわからない…"
+    KENNELMASTER "もしかして誰かを探しているのか？それともただ食べ物の匂いを嗅ぎつけただけ？誰にもわからない…"
 
 # game/data/world_quests/side/novaras/BiteBark/scr_BiteBark_5_1.rpy:33
 translate ja qst_BiteBark_5_SeenWolfKennelMaster_5b4858dc:
@@ -144,6 +142,5 @@ translate ja qst_BiteBark_5_SeenWolfDivine_c8788d57:
 translate ja qst_BiteBark_5_SeenWolfDivine_eaba67c5:
 
     # DIVINE "Odd... Don't you think?"
-    DIVINE "おかしい...
-と思わない？"
+    DIVINE "おかしい...と思わない？"
 

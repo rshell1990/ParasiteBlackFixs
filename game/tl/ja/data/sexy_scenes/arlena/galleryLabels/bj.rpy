@@ -154,10 +154,7 @@ translate ja gallery_arlena_bj_12d41c24:
 translate ja gallery_arlena_bj_60d968d2:
 
     # "I could feel the head of my cock as it hit the back of her throat, I had to ease off before the animal in me took over, I didn’t want to choke her."
-    "亀頭が彼女の喉奥に当たる感触、  
-俺は自制を緩めなければならなかった。  
-内なる獣が騒ぎだす前に、  
-彼女を息の根止めるわけにはいかない。"
+    "亀頭が彼女の喉奥に当たる感触、  俺は自制を緩めなければならなかった。  内なる獣が騒ぎだす前に、  彼女を息の根止めるわけにはいかない。"
 
 # game/data/sexy_scenes/arlena/galleryLabels/bj.rpy:42
 translate ja gallery_arlena_bj_b8edf3fb:
@@ -211,8 +208,7 @@ translate ja gallery_arlena_bj_eb88753a:
 translate ja gallery_arlena_bj_8ecca98f:
 
     # ARLENA "Almost, but I think I can handle you... I’d like to carry on if you would."
-    ARLENA "あと少し…もう少しで倒せそうな気がします。
-このまま続けていただけますか？"
+    ARLENA "あと少し…もう少しで倒せそうな気がします。このまま続けていただけますか？"
 
 # game/data/sexy_scenes/arlena/galleryLabels/bj.rpy:58
 translate ja gallery_arlena_bj_2386936a:

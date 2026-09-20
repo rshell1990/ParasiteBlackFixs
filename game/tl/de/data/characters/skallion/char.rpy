@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/skallion/char.rpy:12
     old "Markus' brother, a somewhat withered individual, his years working in the mines have done irreparable damage to his body."
-    new "Markus' brother, a somewhat withered individual, his years working in the mines have done irreparable damage to his body."
+    new "Markus' Bruder, ein etwas verfallener Mensch, seine jahrelange Arbeit in den Minen hat seinem Körper irreparablen Schaden zugefügt."
 

@@ -394,8 +394,7 @@ translate ja rom_winward_divorce_visit_after_some_time_sexmenu_08b50319:
 translate ja rom_winward_divorce_visit_after_some_time_sexmenu_74949891:
 
     # MRS_WINWARD "Oh... {i}Oh m-my...{/i}"
-    MRS_WINWARD "ああ…  
-{i}あ、あの…{/i}"
+    MRS_WINWARD "ああ…  {i}あ、あの…{/i}"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:107
 translate ja rom_winward_divorce_visit_after_some_time_sexmenu_c35b61e7:
@@ -581,8 +580,7 @@ translate ja rom_winward_divorce_initiate_sex_menu_d97d8c0a:
 translate ja rom_winward_divorce_initiate_sex_menu_7844aa0e:
 
     # MRS_WINWARD @ lewd "Oh my... That was nice."
-    MRS_WINWARD @ lewd "あら…
-気持ちよかったわ"
+    MRS_WINWARD @ lewd "あら…気持ちよかったわ"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:181
 translate ja rom_winward_divorce_initiate_sex_menu_12e5e617:
@@ -1116,8 +1114,7 @@ translate ja rom_winward_divorce_rep_doggy_wall_sexmenu_d9f44742_1:
 translate ja rom_winward_divorce_rep_doggy_wall_sexmenu_f780b1cc:
 
     # MRS_WINWARD "I-It's like you're - Hrghhh! Re-shaping all my insides!"
-    MRS_WINWARD "あ、あんたが… ぐっ…!
-体の内側を… 作り変えてるみたいに…!"
+    MRS_WINWARD "あ、あんたが… ぐっ…!体の内側を… 作り変えてるみたいに…!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:380
 translate ja rom_winward_divorce_rep_doggy_wall_sexmenu_17571c34_1:
@@ -1159,8 +1156,7 @@ translate ja rom_winward_divorce_rep_doggy_wall_sexmenu_a9295df1:
 translate ja rom_winward_divorce_rep_doggy_wall_sexmenu_ffdbd2ca:
 
     # MRS_WINWARD "I don't know how much more I can - Mhhhfhh! Take!"
-    MRS_WINWARD "これ以上、どれだけ耐えられるか…　
-くっ…!受け止めて!"
+    MRS_WINWARD "これ以上、どれだけ耐えられるか…　くっ…!受け止めて!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:387
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:388
@@ -1401,8 +1397,7 @@ translate ja rom_winward_divorce_visit_bedroom_miss_e86b7bff:
 translate ja rom_winward_divorce_visit_bedroom_miss_d40c6db0:
 
     # MRS_WINWARD "Oooh! We have all night dear! No need to hurry! Mhmm!"
-    MRS_WINWARD "ううん!今夜はたっぷり時間があるから!ゆっくりしていきなさい!
-んん!"
+    MRS_WINWARD "ううん!今夜はたっぷり時間があるから!ゆっくりしていきなさい!んん!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:496
 translate ja rom_winward_divorce_visit_bedroom_miss_f1e1b113:
@@ -1510,8 +1505,7 @@ translate ja rom_winward_divorce_visit_bedroom_miss_sexmenu_ed719459:
 translate ja rom_winward_divorce_visit_bedroom_miss_sexmenu_de26cd54:
 
     # MRS_WINWARD "Y-Yours! Your cock is so much - Mhmm! Better!"
-    MRS_WINWARD "あ、あなたの…あなたのちんぽ、すごく…
-んっ…気持ちいい…"
+    MRS_WINWARD "あ、あなたの…あなたのちんぽ、すごく…んっ…気持ちいい…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:531
 translate ja rom_winward_divorce_visit_bedroom_miss_sexmenu_d47637cf:
@@ -1823,8 +1817,7 @@ translate ja rom_winward_divorce_visit_bedroom_miss_sexmenu_4248276c:
 translate ja rom_winward_divorce_visit_bedroom_miss_sexmenu_66adee0d:
 
     # MRS_WINWARD "A-Ahhh! It still - Mhmm! Feels like it burns but-"
-    MRS_WINWARD "あ、ああっ…!　まだ…　んんっ…!  
-熱くて…でも…"
+    MRS_WINWARD "あ、ああっ…!　まだ…　んんっ…!  熱くて…でも…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:647
 translate ja rom_winward_divorce_visit_bedroom_miss_sexmenu_f0697d8e:
@@ -2208,8 +2201,7 @@ translate ja rom_winward_divorce_rep_bj_d90c0bf9:
 translate ja rom_winward_divorce_rep_bj_6d59468b:
 
     # "With her eyes she told me clearly, {i}'You're going to cum down my throat whether you like it or not!'{/i}"
-    "彼女は目で私にはっきりと告げた。
-{i}「あなたが望むと望まざるとに関わらず、喉奥でイかせるからね!」{/i}"
+    "彼女は目で私にはっきりと告げた。{i}「あなたが望むと望まざるとに関わらず、喉奥でイかせるからね!」{/i}"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:785
 translate ja rom_winward_divorce_rep_bj_f00baac3:
@@ -3217,8 +3209,7 @@ translate ja rom_winward_divorce_enter_at_night_door_sex_first_time_59d7766d:
 translate ja rom_winward_divorce_enter_at_night_door_sex_first_time_dbc8a848:
 
     # MRS_WINWARD "Urghhhh! S-Shut up you miserable old - Mhfhghh! B-BASTARD!"
-    MRS_WINWARD "うぎゃああっ!だ、黙れクソじじいっ──
-むふぐっ!ク、クソがっ!"
+    MRS_WINWARD "うぎゃああっ!だ、黙れクソじじいっ──むふぐっ!ク、クソがっ!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1061
 translate ja rom_winward_divorce_enter_at_night_door_sex_first_time_0ae1202d:
@@ -4364,8 +4355,7 @@ translate ja rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_69fd09ff_1:
 translate ja rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_03c18280_1:
 
     # MRS_WINWARD "{i}*Huff* *Huff*{/i} By the gods..."
-    MRS_WINWARD "{i}*ハァ* *ハァ*{/i}
-神様…"
+    MRS_WINWARD "{i}*ハァ* *ハァ*{/i}神様…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1368
 translate ja rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_721125d7_1:

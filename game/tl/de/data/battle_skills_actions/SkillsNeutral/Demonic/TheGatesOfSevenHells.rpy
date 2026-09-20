@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/Demonic/TheGatesOfSevenHells.rpy:4
     old "The Gates of Seven Hells"
-    new "The Gates of Seven Hells"
+    new "Die Tore der Sieben Höllen"
 

@@ -82,8 +82,7 @@ translate ja qst_HumanExp_0_checkup_0d786271:
 translate ja qst_HumanExp_0_checkup_7ed7ce5c:
 
     # MC @ surprised "Easy! Not so fast!"
-    MC @ surprised "やった!
-待った!"
+    MC @ surprised "やった!待った!"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:22
 translate ja qst_HumanExp_0_checkup_e9d242d0:
@@ -323,8 +322,7 @@ translate ja qst_HumanExp_3_grabBook_atLibrary_9b101baa:
 translate ja qst_HumanExp_3_grabBook_atLibrary_df7a811d:
 
     # VALA "How old are the students? Are they perhaps younger relatives of yours?"
-    VALA "生徒たちは何歳ですか？
-もしかして、あなたの年下の親戚ですか？"
+    VALA "生徒たちは何歳ですか？もしかして、あなたの年下の親戚ですか？"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:92
 translate ja qst_HumanExp_3_grabBook_atLibrary_d96a0689:
@@ -516,8 +514,7 @@ translate ja qst_HumanExp_3_grabBook_atLibrary_revisit_4f5efc7e:
 translate ja qst_HumanExp_3_grabBook_atLibrary_revisit_menu_e8c0c2aa:
 
     # VALA "I... There is a slightly damaged copy of the collection that I could sell it to you at a slight discount?"
-    VALA "あの…
-少し傷がついたコレクションなら、少しお安くできますが？"
+    VALA "あの…少し傷がついたコレクションなら、少しお安くできますが？"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:153
 translate ja qst_HumanExp_3_grabBook_atLibrary_revisit_menu_a8baf491:
@@ -1015,8 +1012,7 @@ translate ja qst_HumanExp_6_cityTour_7ba86b3d:
 translate ja qst_HumanExp_6_cityTour_092e4223:
 
     # MYU "...Why?"
-    MYU "……
-どうして？"
+    MYU "……どうして？"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:295
 translate ja qst_HumanExp_6_cityTour_11278e26:
@@ -1196,8 +1192,7 @@ translate ja qst_HumanExp_6_cityTour_b0674f86:
 translate ja qst_HumanExp_6_cityTour_d3335976:
 
     # MC @ talk "There's a lot of rules to magic, all of which, I don't even fully understand myself."
-    MC @ talk "魔法には様々なルールがあるが、
-そのすべてを、私自身すら完全には理解していない。"
+    MC @ talk "魔法には様々なルールがあるが、そのすべてを、私自身すら完全には理解していない。"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:333
 translate ja qst_HumanExp_6_cityTour_0dc3a2f7:
@@ -1611,8 +1606,7 @@ translate ja qst_HumanExp_6_cityTour_cf3fc960:
 translate ja qst_HumanExp_6_cityTour_2fbffba8:
 
     # MYU "So, people here work to make others happy?"
-    MYU "じゃあ、ここの人たちは他の人を
-幸せにするために働いているんだ？"
+    MYU "じゃあ、ここの人たちは他の人を幸せにするために働いているんだ？"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:428
 translate ja qst_HumanExp_6_cityTour_354a0016:
@@ -2350,8 +2344,7 @@ translate ja qst_HumanExp_8_shayGetBetterFood_1fb61035:
 translate ja qst_HumanExp_8_shayGetBetterFood_71a9b09a:
 
     # MC "Thanks for the food! Talk soon!"
-    MC "いただきます!
-またね!"
+    MC "いただきます!またね!"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:612
 translate ja qst_HumanExp_8_shayGetBetterFood_47794d20:
@@ -3089,9 +3082,7 @@ translate ja qst_HumanExp_11_returnFlowers_d8c8a264:
 translate ja qst_HumanExp_11_returnFlowers_83dd4c14:
 
     # REGINA @ talk "Is there any real difference in nobility between you killing people and her eating them?"
-    REGINA @ talk "貴方様が人を殺すことと
-彼女が人を召し上がることと
-貴族としての本質に違いなどございましょうか？"
+    REGINA @ talk "貴方様が人を殺すことと彼女が人を召し上がることと貴族としての本質に違いなどございましょうか？"
 
 # game/data/world_quests/side/novaras/TheHumanExperience/scr.rpy:788
 translate ja qst_HumanExp_11_returnFlowers_71c402fc:

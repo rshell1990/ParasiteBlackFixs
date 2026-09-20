@@ -148,9 +148,7 @@ translate ja ev_blackDiamondFawhaOnReturn_729736f0:
 translate ja ev_blackDiamondFawhaOnReturn_ba19b5e9:
 
     # FAWHA @ talk "You have found a friend in the Vulshan, they also wanted me to let you know they have prepared a private room for you to stay in... Should you wish."
-    FAWHA @ talk "ブルシャンにて友を見つけたのですね。  
-また、あなたのために私室を用意しているとのこと…  
-もしそう望むなら。"
+    FAWHA @ talk "ブルシャンにて友を見つけたのですね。  また、あなたのために私室を用意しているとのこと…  もしそう望むなら。"
 
 # game/data/world_events/novaras/blackDiamondFawhaOnReturn/scr_blackDiamondFawhaOnReturn.rpy:42
 translate ja ev_blackDiamondFawhaOnReturn_c9cc4525:

@@ -1842,13 +1842,6 @@ translate es qst_TheTarbecks_Room_Temptations_markus_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "Los observadores sonrieron, divertidos por la escena, mientras las piernas de Marcia se retorcían lastimosamente debajo de mí."
 
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:463
-translate es qst_TheTarbecks_Room_Temptations_markus_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "Despojada de sus fuerzas, lo único que podía hacer era mirar impotente cómo mi polla se clavaba entre sus tetas."
-
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:464
 translate es qst_TheTarbecks_Room_Temptations_markus_33ede3c9:
 
     # MC "F-Fuckkkk!"

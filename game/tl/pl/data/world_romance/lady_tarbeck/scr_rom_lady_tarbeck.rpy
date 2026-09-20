@@ -918,13 +918,6 @@ translate pl replay_tarbeck_romance_library_hj_c2d4166f:
     # LADY_TARBECK "{i}Lady Calicross found herself in an unusual position, or perhaps, a familiar one.{/i}"
     LADY_TARBECK "{i}Lady Calicross found herself in an unusual position, or perhaps, a familiar one.{/i}"
 
-# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck.rpy:285
-translate pl replay_tarbeck_romance_library_hj_e5355918:
-
-    # LADY_TARBECK "{i}Legs bent towards her head as her lower, Imana, thrust his member into her tightness.{/i}"
-    LADY_TARBECK "{i}Legs bent towards her head as her lower, Imana, thrust his member into her tightness.{/i}"
-
-# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck.rpy:286
 translate pl replay_tarbeck_romance_library_hj_a7d382af:
 
     # LADY_TARBECK "{i}It was a good thing Lord Calicross was so very, very far away.{/i}"
@@ -3521,4 +3514,3 @@ translate pl strings:
     # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck.rpy:97
     old "My lady, perhaps it is in everyone's interest that we just stay friends."
     new "My lady, perhaps it is in everyone's interest that we just stay friends."
-

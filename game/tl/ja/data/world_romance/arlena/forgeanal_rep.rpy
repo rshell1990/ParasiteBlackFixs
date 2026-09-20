@@ -172,8 +172,7 @@ translate ja rom_ArlenaForgeAnalRep_479b1a58:
 translate ja rom_ArlenaForgeAnalRep_2f3e1072:
 
     # "She felt my hard cock resting between her cheeks and she looked forward, tentatively pushing herself against me."
-    "彼女は頬の間に私の硬く勃起したペニスを感じると、  
-前を向いたまま、ためらいがちに体を押し付けてきた。"
+    "彼女は頬の間に私の硬く勃起したペニスを感じると、  前を向いたまま、ためらいがちに体を押し付けてきた。"
 
 # game/data/world_romance/arlena/forgeanal_rep.rpy:54
 translate ja rom_ArlenaForgeAnalRep_c7eedbd1:

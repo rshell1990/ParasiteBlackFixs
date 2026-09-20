@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/babazhul/char.rpy:14
     old "A mysterious soothsayer who offers a glimpse at her powers in return for coin..."
-    new "A mysterious soothsayer who offers a glimpse at her powers in return for coin..."
+    new "Eine geheimnisvolle Wahrsagerin, die für Münze einen Einblick in ihre Kräfte gewährt..."
 

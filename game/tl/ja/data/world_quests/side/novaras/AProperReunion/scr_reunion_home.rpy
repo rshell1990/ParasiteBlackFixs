@@ -64,8 +64,7 @@ translate ja qst_reunion_home_ff6701e5:
 translate ja qst_reunion_home_e1467d9d:
 
     # "As soon as I opened the door, a hand reached out sharply to push the door wide open. Adara stood before me, breathing heavily as she glared at me."
-    "扉を開けた途端、鋭く手が伸びて扉を押し広げられた。
-荒い息遣いで私を睨みつけるアドラが、そこに立っていた。"
+    "扉を開けた途端、鋭く手が伸びて扉を押し広げられた。荒い息遣いで私を睨みつけるアドラが、そこに立っていた。"
 
 # game/data/world_quests/side/novaras/AProperReunion/scr_reunion_home.rpy:23
 translate ja qst_reunion_home_b41514c9:

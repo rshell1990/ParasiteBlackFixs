@@ -148,7 +148,7 @@ translate zh travel_event_jackal_girl_normal_variant_701233ce:
 translate zh travel_event_jackal_girl_normal_variant_1130db1c:
 
     # "She waited a couple seconds to confirm I was not giving chase, then fled, cackling as she ran towards distant dunes."
-    "她等待几秒确认我没有追击， then fled, cackling as she ran towards distant dunes."
+    "她等待几秒确认我没有追击，随后便逃走了，一边咯咯笑着一边朝远处的沙丘跑去。"
 
 # game/data/travel_events/jackal_girl.rpy:83
 translate zh travel_event_jackal_girl_normal_variant_d39250f7:
@@ -370,7 +370,7 @@ translate zh jackal_girl_sexscene_cfa785c8:
 translate zh jackal_girl_sexscene_65be4d85:
 
     # JACKAL_GIRL "{i}*Pant* *Pant!*{/i}"
-    JACKAL_GIRL "{i}*喘息* *喘息!*{/i}"
+    JACKAL_GIRL "{i}*喘息* *喘息！*{/i}"
 
 # game/data/travel_events/jackal_girl.rpy:190
 translate zh jackal_girl_sexscene_41b29744:

@@ -64,8 +64,7 @@ translate ja scr_SharedInThorns_babazhulClue_40bb1387:
 translate ja scr_SharedInThorns_babazhulClue_4b083d31:
 
     # BABAZHUL @ talk "How long you have spent hiding your true self? Come girl."
-    BABAZHUL @ talk "いったいどれだけの間、本当の自分を隠し続けてきたのですか？
-さあ、おいで、少女。"
+    BABAZHUL @ talk "いったいどれだけの間、本当の自分を隠し続けてきたのですか？さあ、おいで、少女。"
 
 # game/data/world_quests/side/novaras/SharedInThorns/scr_SharedInThorns_ClueBaba.rpy:16
 translate ja scr_SharedInThorns_babazhulClue_745de6fa:

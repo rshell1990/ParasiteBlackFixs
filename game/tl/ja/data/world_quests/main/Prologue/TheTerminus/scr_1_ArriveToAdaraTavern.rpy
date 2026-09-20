@@ -76,8 +76,7 @@ translate ja qst_Terminus_ArriveToAdaraTavern_c0b3646e:
 translate ja qst_Terminus_ArriveToAdaraTavern_7e0ee0ee:
 
     # ADARA @ talk "{i}I also get to spend some time at the palace!{/i} Isn’t that cool?"
-    ADARA @ talk "{i}私も宮殿で少し時間を過ごせるんだ!{/i}
-すごいでしょ？"
+    ADARA @ talk "{i}私も宮殿で少し時間を過ごせるんだ!{/i}すごいでしょ？"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_1_ArriveToAdaraTavern.rpy:21
 translate ja qst_Terminus_ArriveToAdaraTavern_9793e2bd:

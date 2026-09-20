@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/TeamUp.rpy:4
     old "Team Up"
-    new "Team Up"
+    new "Zusammenarbeit"
 
     # game/data/battle_skills_actions/SkillsNeutral/TeamUp.rpy:42
     old "Team up with a random ally to do a basic attack against the target enemy. This character's attack will deal %s damage."
-    new "Team up with a random ally to do a basic attack against the target enemy. This character's attack will deal %s damage."
+    new "Verbünde dich mit einem zufälligen Verbündeten, um einen Basisangriff gegen den Zielgegner auszuführen. Der Angriff dieses Charakters verursacht %s Schaden."
 

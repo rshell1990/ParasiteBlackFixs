@@ -100,8 +100,7 @@ translate ja qst_DamzelDizzt_2_frontal_cb4922bc:
 translate ja qst_DamzelDizzt_2_frontal_a6530312:
 
     # NIJAH "I... No."
-    NIJAH "私…
-ダメだ。"
+    NIJAH "私…ダメだ。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_2_1.rpy:19
 translate ja qst_DamzelDizzt_2_frontal_b11ddb34:

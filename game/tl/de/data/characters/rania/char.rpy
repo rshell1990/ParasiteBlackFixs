@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/rania/char.rpy:14
     old "A keeper of the Pale Dragon hookah bar in Hamun."
-    new "A keeper of the Pale Dragon hookah bar in Hamun."
+    new "Eine Hüterin der Pale Dragon Shisha-Bar in Hamun."
 

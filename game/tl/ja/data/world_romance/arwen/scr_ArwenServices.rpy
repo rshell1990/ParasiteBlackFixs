@@ -58,8 +58,7 @@ translate ja dialogue_arwen_postSex_9b12b11f:
 translate ja dialogue_arwen_postSex_40d56127:
 
     # ARWEN @ talk "Trust me, most of the clients don't even come close to making me break a sweat."
-    ARWEN @ talk "言っとくけど、大抵の相手は
-本気出すまでもないからな。"
+    ARWEN @ talk "言っとくけど、大抵の相手は本気出すまでもないからな。"
 
 # game/data/world_romance/arwen/scr_ArwenServices.rpy:30
 translate ja dialogue_arwen_postSex_eed4dc32:

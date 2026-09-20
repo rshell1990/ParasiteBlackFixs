@@ -64,61 +64,61 @@ translate de gallery_nijah_missionary_42a119c3:
 translate de gallery_nijah_missionary_e25b59f7:
 
     # "Enveloped by her, wet and tight, we both gasped a little as she grabbed me by my ass, pulling me all the way inside her."
-    "Enveloped by her, wet and tight, we both gasped a little as she grabbed me by my ass, pulling me all the way inside her."
+    "Von ihr umhüllt, nass und eng, keuchten wir beide ein wenig, als sie mich am Hintern packte und mich ganz in sie hineinzog."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:27
 translate de gallery_nijah_missionary_e36b99d0:
 
     # NIJAH "Mmm! Yis..."
-    NIJAH "Mmm! Yis..."
+    NIJAH "Mmm! Ja..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:28
 translate de gallery_nijah_missionary_a9a23a1a:
 
     # MC "Ahh... You’re really tight..."
-    MC "Ahh... You’re really tight..."
+    MC "Ahh... Du bist wirklich eng..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:29
 translate de gallery_nijah_missionary_0cbff367:
 
     # NIJAH "Take me!"
-    NIJAH "Take me!"
+    NIJAH "Nimm mich!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:30
 translate de gallery_nijah_missionary_a53c6bf0:
 
     # "She {b}was{/b} tight, yet I felt her immense passion, a craving for more of me inside her..."
-    "She {b}was{/b} tight, yet I felt her immense passion, a craving for more of me inside her..."
+    "Sie {b}war{/b} eng, doch ich spürte ihre immense Leidenschaft, ein Verlangen nach mehr von mir in ihr..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:31
 translate de gallery_nijah_missionary_d8a6a4be:
 
     # "So I gave it to her."
-    "So I gave it to her."
+    "Also gab ich es ihr."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:32
 translate de gallery_nijah_missionary_6ffc1c5e:
 
     # "The sound of our flesh colliding amped up as I began to steadily thrust into her."
-    "The sound of our flesh colliding amped up as I began to steadily thrust into her."
+    "Das Geräusch unserer aufeinanderprallenden Körper wurde lauter, als ich begann, gleichmäßig in sie zu stoßen."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:33
 translate de gallery_nijah_missionary_1a620446:
 
     # NIJAH "Yi-i-is! Don't you zlow down..."
-    NIJAH "Yi-i-is! Don't you zlow down..."
+    NIJAH "Ja-a-a! Werd nicht langsamer..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:34
 translate de gallery_nijah_missionary_bd7b42fa:
 
     # "Nijah soon wrapped her legs around me, pulling me deeper inside her as she began to moan under her breath."
-    "Nijah soon wrapped her legs around me, pulling me deeper inside her as she began to moan under her breath."
+    "Nijah schlang bald ihre Beine um mich, zog mich tiefer in sie hinein, während sie begann, leise zu stöhnen."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:35
 translate de gallery_nijah_missionary_1108060f:
 
     # NIJAH "Mmm! Zis is... g-good!"
-    NIJAH "Mmm! Zis is... g-good!"
+    NIJAH "Mmm! Das ist... g-gut!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:36
 translate de gallery_nijah_missionary_28ce3362:
@@ -184,55 +184,55 @@ translate de gallery_nijah_missionary_ba13952c:
 translate de gallery_nijah_missionary_89fc86e1:
 
     # "Did I..."
-    "Did I..."
+    "Habe ich..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:58
 translate de gallery_nijah_missionary_1c4f3059:
 
     # "Instinctively, Nijah pulled me in closer and I released deeply into her..."
-    "Instinctively, Nijah pulled me in closer and I released deeply into her..."
+    "Instinktiv zog Nijah mich näher heran und ich kam tief in ihr..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:59
 translate de gallery_nijah_missionary_79ad6e94:
 
     # "A hot moan escaped her lips as my warm seed poured into her and I slowly began to soften inside of her."
-    "A hot moan escaped her lips as my warm seed poured into her and I slowly began to soften inside of her."
+    "Ein heißes Stöhnen entkam ihren Lippen, als mein warmer Samen in sie strömte und ich langsam in ihr weich wurde."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:64
 translate de gallery_nijah_missionary_b416eaa1:
 
     # "Pulling out of Nijah's tight pussy, I stroked my cock for a few moments as I covered her in my hot load."
-    "Pulling out of Nijah's tight pussy, I stroked my cock for a few moments as I covered her in my hot load."
+    "Beim Herausziehen aus Nijahs enger Muschi rieb ich meinen Schwanz noch ein paar Augenblicke und bedeckte sie dabei mit meiner heißen Ladung."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:65
 translate de gallery_nijah_missionary_92dab223:
 
     # "Nijah moaned as she felt the hot splash on her skin, giggling as she scopped up a little and pressed it into her mouth."
-    "Nijah moaned as she felt the hot splash on her skin, giggling as she scopped up a little and pressed it into her mouth."
+    "Nijah stöhnte, als sie den heißen Spritzer auf ihrer Haut spürte, kicherte, während sie ein wenig aufsammelte und es sich in den Mund schob."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:67
 translate de gallery_nijah_missionary_1c4f3059_1:
 
     # "Instinctively, Nijah pulled me in closer and I released deeply into her..."
-    "Instinctively, Nijah pulled me in closer and I released deeply into her..."
+    "Instinktiv zog Nijah mich näher heran und ich kam tief in ihr..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:68
 translate de gallery_nijah_missionary_79ad6e94_1:
 
     # "A hot moan escaped her lips as my warm seed poured into her and I slowly began to soften inside of her."
-    "A hot moan escaped her lips as my warm seed poured into her and I slowly began to soften inside of her."
+    "Ein heißes Stöhnen entkam ihren Lippen, als mein warmer Samen in sie strömte und ich langsam in ihr weich wurde."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:74
 translate de gallery_nijah_missionary_b416eaa1_1:
 
     # "Pulling out of Nijah's tight pussy, I stroked my cock for a few moments as I covered her in my hot load."
-    "Pulling out of Nijah's tight pussy, I stroked my cock for a few moments as I covered her in my hot load."
+    "Beim Herausziehen aus Nijahs enger Muschi rieb ich meinen Schwanz noch ein paar Augenblicke und bedeckte sie dabei mit meiner heißen Ladung."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:75
 translate de gallery_nijah_missionary_92dab223_1:
 
     # "Nijah moaned as she felt the hot splash on her skin, giggling as she scopped up a little and pressed it into her mouth."
-    "Nijah moaned as she felt the hot splash on her skin, giggling as she scopped up a little and pressed it into her mouth."
+    "Nijah stöhnte, als sie den heißen Spritzer auf ihrer Haut spürte, kicherte, während sie ein wenig aufsammelte und es sich in den Mund schob."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:80
 translate de gallery_nijah_missionary_1a0a2541:
@@ -244,15 +244,15 @@ translate de gallery_nijah_missionary_1a0a2541:
 translate de gallery_nijah_missionary_04ae9527:
 
     # "Trembling with subsiding waves of pleasure I pulled out and rolled over besides her."
-    "Trembling with subsiding waves of pleasure I pulled out and rolled over besides her."
+    "Zitternd vor abklingenden Lustwellen zog ich mich zurück und rollte mich neben sie."
 
 translate de strings:
 
     # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:54
     old "Finish inside of Nijah?"
-    new "Finish inside of Nijah?"
+    new "In Nijah kommen?"
 
     # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:60
     old "Cum on Nijah?"
-    new "Cum on Nijah?"
+    new "Auf Nijah kommen?"
 

@@ -454,8 +454,7 @@ translate ja rom_winward_pimp_returnnextday_sexmenu_09309c18:
 translate ja rom_winward_pimp_returnnextday_sexmenu_db06d394:
 
     # MRS_WINWARD "Just need a little... A little..."
-    MRS_WINWARD "あと少し…  
-もう少し…"
+    MRS_WINWARD "あと少し…  もう少し…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:139
 translate ja rom_winward_pimp_returnnextday_sexmenu_565f2829:
@@ -1043,8 +1042,7 @@ translate ja rom_winward_pimp_rep_doggy_wall_sexmenu_e4eb8f20:
 translate ja rom_winward_pimp_rep_doggy_wall_sexmenu_4b94420c:
 
     # MRS_WINWARD @ blush "G-Get home safe now, deary, I don't think I'll be able to keep standing much longer."
-    MRS_WINWARD @ blush "そ、そろそろお家に帰った方がいいわ、お嬢ちゃん
-私…このまま立ち続けていられそうにないから"
+    MRS_WINWARD @ blush "そ、そろそろお家に帰った方がいいわ、お嬢ちゃん私…このまま立ち続けていられそうにないから"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:359
 translate ja rom_winward_pimp_rep_doggy_wall_sexmenu_2167780a:
@@ -1056,8 +1054,7 @@ translate ja rom_winward_pimp_rep_doggy_wall_sexmenu_2167780a:
 translate ja rom_winward_pimp_rep_doggy_wall_sexmenu_2bea71d1:
 
     # MC @ smile "I shall return soon, goodnight... Kionni."
-    MC @ smile "すぐに戻ります、おやすみ…
-キオンニ。"
+    MC @ smile "すぐに戻ります、おやすみ…キオンニ。"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:379
 translate ja rom_winward_pimp_rep_doggy_wall_sexmenu_d2524537:
@@ -2150,8 +2147,7 @@ translate ja rom_winward_pimp_rep_bj_443357ac:
 translate ja rom_winward_pimp_rep_bj_06813f30:
 
     # MRS_WINWARD @ lewd "Come around here, deary, let me take care of that for you, fufu {image=[ICON.HEART]}"
-    MRS_WINWARD @ lewd "ほらほら、こちらにおいで、お嬢さん  
-そのお世話、私にさせてね、ふふ {image=[ICON.HEART]}"
+    MRS_WINWARD @ lewd "ほらほら、こちらにおいで、お嬢さん  そのお世話、私にさせてね、ふふ {image=[ICON.HEART]}"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:774
 translate ja rom_winward_pimp_rep_bj_af0ec84c:
@@ -2187,8 +2183,7 @@ translate ja rom_winward_pimp_rep_bj_a977f269:
 translate ja rom_winward_pimp_rep_bj_9ef1840c:
 
     # MRS_WINWARD "You and your {i}wonderful{/i} cock. {image=[ICON.HEART]}"
-    MRS_WINWARD "あなたとその{i}最高{/i}のチンコ。  
-{image=[ICON.HEART]}"
+    MRS_WINWARD "あなたとその{i}最高{/i}のチンコ。  {image=[ICON.HEART]}"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:791
 translate ja rom_winward_pimp_rep_bj_b547ee56:
@@ -2470,8 +2465,7 @@ translate ja rom_winward_pimp_rep_bj_d90c0bf9:
 translate ja rom_winward_pimp_rep_bj_cfb8ba1d:
 
     # "With her eyes she told me clearly, {i}'You're going to cum down my throat in front of my prick of a husband, whether you like it or not now!{/i}"
-    "彼女は目で、はっきりとそう伝えてきた。
-{i}私のクソッ夫の前で、喉にザーメン注いでもらうのよ、あなたが嫌でもね!{/i}"
+    "彼女は目で、はっきりとそう伝えてきた。{i}私のクソッ夫の前で、喉にザーメン注いでもらうのよ、あなたが嫌でもね!{/i}"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:866
 translate ja rom_winward_pimp_rep_bj_e4f8391c:
@@ -2507,8 +2501,7 @@ translate ja rom_winward_pimp_rep_bj_d8f1216c:
 translate ja rom_winward_pimp_rep_bj_9ea696be:
 
     # MRS_WINWARD "{i}*Glug!*{/i} Mfhghhh?!"
-    MRS_WINWARD "{i}*ゴクゴク!*{/i}  
-むぐっ？!"
+    MRS_WINWARD "{i}*ゴクゴク!*{/i}  むぐっ？!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:888
 translate ja rom_winward_pimp_rep_bj_6823f518:
@@ -3894,8 +3887,7 @@ translate ja rom_winward_pimp_markus_bj_b9987bbe:
 translate ja rom_winward_pimp_markus_bj_1a35b8da:
 
     # MRS_WINWARD "{i}*Slurp* *Slurp*{/i} Mhhfhhh..."
-    MRS_WINWARD "{i}*ちゅーちゅー* *ちゅーちゅー*{/i}
-んんん…"
+    MRS_WINWARD "{i}*ちゅーちゅー* *ちゅーちゅー*{/i}んんん…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_pimp.rpy:1309
 translate ja rom_winward_pimp_markus_bj_082b8733:

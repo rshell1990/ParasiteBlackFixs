@@ -262,8 +262,7 @@ translate ja qst_lets_celebrate_meet_0_e3453c36:
 translate ja qst_lets_celebrate_meet_0_7947f762:
 
     # MIKA @ blush "H-Hello, um, are you-"
-    MIKA @ blush "あ、あの…  
-あなたは…"
+    MIKA @ blush "あ、あの…  あなたは…"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:61
 translate ja qst_lets_celebrate_meet_0_3792831b:
@@ -365,9 +364,7 @@ translate ja qst_lets_celebrate_meet_0_b96e38ad:
 translate ja qst_lets_celebrate_meet_0_b52c0864:
 
     # VALA @ talk "And, of course... With enough notice, I could open this library to you late in the evening, giving you some space and alone time should you wish."
-    VALA @ talk "そして、もちろん…  
-事前にご連絡いただければ、夜遅くまで図書館を開放することもできます。  
-お一人になりたい時には、どうぞご自由に。"
+    VALA @ talk "そして、もちろん…  事前にご連絡いただければ、夜遅くまで図書館を開放することもできます。  お一人になりたい時には、どうぞご自由に。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:79
 translate ja qst_lets_celebrate_meet_0_2bf42a54:
@@ -415,8 +412,7 @@ translate ja qst_lets_celebrate_meet_0_2644f7df:
 translate ja qst_lets_celebrate_meet_0_6ac892f0:
 
     # VALA @ talk "Now, if you'll excuse me, I shall make the necessary arrangements."
-    VALA @ talk "それでは失礼して、
-必要な手配を致します。"
+    VALA @ talk "それでは失礼して、必要な手配を致します。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:91
 translate ja qst_lets_celebrate_meet_0_3cfe140d:
@@ -1076,8 +1072,7 @@ translate ja qst_lets_celebrate_meet_0_1007d0da_1:
 translate ja qst_lets_celebrate_meet_0_038345c3_1:
 
     # MIKA @ talk "Thank you... How much for it?"
-    MIKA @ talk "ありがとう…
-いくらですか？"
+    MIKA @ talk "ありがとう…いくらですか？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:267
 translate ja qst_lets_celebrate_meet_0_3645994b_1:
@@ -1149,8 +1144,7 @@ translate ja qst_lets_celebrate_meet_0_bcb9b7e3_1:
 translate ja qst_lets_celebrate_meet_0_f453639f_1:
 
     # DROS @ talk "Now, if that will be all, I need some time alone to begin preparations..."
-    DROS @ talk "さて、よろしければこれで失礼させていただきます。
-準備を始めますので…"
+    DROS @ talk "さて、よろしければこれで失礼させていただきます。準備を始めますので…"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:285
 translate ja qst_lets_celebrate_meet_0_cb78b9fc_1:
@@ -1294,8 +1288,7 @@ translate ja qst_lets_celebrate_meet_0_2902c10e:
 translate ja qst_lets_celebrate_meet_0_e9ffd13f:
 
     # MIKA @ smile "I'll see you later! Okay!"
-    MIKA @ smile "またあとでね!
-オッケー!"
+    MIKA @ smile "またあとでね!オッケー!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:328
 translate ja qst_lets_celebrate_meet_1_580df889:
@@ -1667,8 +1660,7 @@ translate ja qst_lets_celebrate_meet_1_b9ce9490:
 translate ja qst_lets_celebrate_meet_1_ab5cd3a8:
 
     # "As Mika leaves, I'm left alone wondering if I should have said or done something different back there..."
-    "美香が去り、俺は一人きりだ。
-あの時、何か別のことを言うべきだったのか、あるいは違う行動を取るべきだったのかと考えずにはいられない…"
+    "美香が去り、俺は一人きりだ。あの時、何か別のことを言うべきだったのか、あるいは違う行動を取るべきだったのかと考えずにはいられない…"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:412
 translate ja qst_lets_celebrate_meet_1_6ef07e4b:
@@ -1911,8 +1903,7 @@ translate ja qst_lets_celebrate_meet_3_e4d9561e:
 translate ja qst_lets_celebrate_meet_3_fcc5cb7d:
 
     # DIVINE @ sad "Why did you never say? Were you so afraid I would yell at you?"
-    DIVINE @ sad "どうして言ってくれなかったの？
-私が怒ると思ったの？"
+    DIVINE @ sad "どうして言ってくれなかったの？私が怒ると思ったの？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:473
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:474
@@ -2183,8 +2174,7 @@ translate ja qst_lets_celebrate_meet_4_d413877c:
 translate ja qst_lets_celebrate_meet_4_4d8a0b57:
 
     # MIKA "Y-Yes! Mmhmm! It f-feels..."
-    MIKA "は、はい!ううん!
-そ、それが…"
+    MIKA "は、はい!ううん!そ、それが…"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LetsCelebrate/src_LetsCelebrate.rpy:551
 translate ja qst_lets_celebrate_meet_4_1c0cd26f:

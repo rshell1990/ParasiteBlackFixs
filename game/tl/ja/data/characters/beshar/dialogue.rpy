@@ -4,8 +4,7 @@
 translate ja beshar_questions_8ed67f5c:
 
     # BESHAR @ angry "... No."
-    BESHAR @ angry "…
-いや。"
+    BESHAR @ angry "…いや。"
 
 # game/data/characters/beshar/dialogue.rpy:57
 translate ja beshar_talk_cce21281:
@@ -23,8 +22,7 @@ translate ja beshar_craft_15d59134:
 translate ja beshar_trade_3d20a187:
 
     # BESHAR "A few things. Come look."
-    BESHAR "いくつかあるんだけど。
-見に来て。"
+    BESHAR "いくつかあるんだけど。見に来て。"
 
 # game/data/characters/beshar/dialogue.rpy:80
 translate ja beshar_bye_6048f12e:

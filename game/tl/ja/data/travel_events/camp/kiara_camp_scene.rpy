@@ -484,8 +484,7 @@ translate ja travel_event_kiara_camp_scene_firsttime_99fd29a1:
 translate ja travel_event_kiara_camp_scene_firsttime_5dc7a41e:
 
     # "No one can change the past, I can't look back."
-    "誰も過去を変えられない、
-俺は振り返れない。"
+    "誰も過去を変えられない、俺は振り返れない。"
 
 # game/data/travel_events/camp/kiara_camp_scene.rpy:113
 translate ja travel_event_kiara_camp_scene_firsttime_1b1b7357:
@@ -593,8 +592,7 @@ translate ja travel_event_kiara_camp_scene_firsttime_deffb6a4_1:
 translate ja travel_event_kiara_camp_scene_firsttime_e5537bf6:
 
     # KIARA @ sad "I'll be here for you... whenever you're ready."
-    KIARA @ sad "いつでも…そばにいるから。  
-用意ができたら。"
+    KIARA @ sad "いつでも…そばにいるから。  用意ができたら。"
 
 # game/data/travel_events/camp/kiara_camp_scene.rpy:153
 translate ja travel_event_kiara_camp_scene_firsttime_801c461f:
@@ -606,8 +604,7 @@ translate ja travel_event_kiara_camp_scene_firsttime_801c461f:
 translate ja travel_event_kiara_camp_scene_firsttime_a61f031c:
 
     # "Nothingness washed over as she left... And nothingness turned quickly to regret."
-    "無の感覚が押し寄せた、彼女が去るとともに…
-そして、それはすぐに後悔へと変わっていった。"
+    "無の感覚が押し寄せた、彼女が去るとともに…そして、それはすぐに後悔へと変わっていった。"
 
 # game/data/travel_events/camp/kiara_camp_scene.rpy:156
 translate ja travel_event_kiara_camp_scene_firsttime_da752e02:
@@ -853,8 +850,7 @@ translate ja travel_event_kiara_camp_sex_scene_9d31d577:
 translate ja travel_event_kiara_camp_sex_scene_64e22d80:
 
     # MC "{i}*Huff*{/i} Kiara..."
-    MC "{i}*フッ*{/i}
-キアラ…"
+    MC "{i}*フッ*{/i}キアラ…"
 
 # game/data/travel_events/camp/kiara_camp_scene.rpy:240
 translate ja travel_event_kiara_camp_sex_scene_c9c6336a:

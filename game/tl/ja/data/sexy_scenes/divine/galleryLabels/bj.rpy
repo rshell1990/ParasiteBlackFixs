@@ -418,8 +418,7 @@ translate ja gallery_divine_bj_scene_44041a33:
 translate ja gallery_divine_bj_scene_8826a804:
 
     # DIVINE "(Mhff! He's close! I c-can feel him throbbing in my mouth!)"
-    DIVINE "(むっ…! 彼、もうダメ…!
-口の中で、脈打ってる…!)"
+    DIVINE "(むっ…! 彼、もうダメ…!口の中で、脈打ってる…!)"
 
 # game/data/sexy_scenes/divine/galleryLabels/bj.rpy:217
 translate ja gallery_divine_bj_scene_dbc72d8b:

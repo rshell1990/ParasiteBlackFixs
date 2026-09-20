@@ -87,7 +87,6 @@ init python:
         "icon":"images/items/res/iron_ore.webp",
         "value_per_unit":35,
         "shop_category":"crafting",
-
         "sort_order":60,
     }
     static_item_defs["copper_ore"] = {
@@ -97,7 +96,6 @@ init python:
         "icon":"images/items/res/copper_ore.webp",
         "value_per_unit":35,
         "shop_category":"crafting",
-
         "sort_order":60,
     }
     static_item_defs["leather"] = {
@@ -107,7 +105,6 @@ init python:
         "icon":"images/items/res/leather.webp",
         "value_per_unit":25,
         "shop_category":"crafting",
-
         "sort_order":60,
     }
    
@@ -118,7 +115,6 @@ init python:
         "icon":"images/items/res/syax_ore.webp",
         "value_per_unit":45,
         "shop_category":"crafting",
-
         "sort_order":60,
     }
 
@@ -129,7 +125,6 @@ init python:
         "icon":"images/items/res/cowhide.webp",
         "value_per_unit":120,
         "shop_category":"crafting",
-
         "sort_order":60,
     }
 
@@ -142,7 +137,6 @@ init python:
         "value_per_unit":0,
         "cannot_lose":True,
         "shop_category":"crafting",
-
         "sort_order":60,
     }
 
@@ -155,7 +149,6 @@ init python:
         "icon":"images/items/res/pick_bronze.webp",
         "value_per_unit":850,
         "shop_category":"crafting",
-
         "sort_order":59,
     }
     static_item_defs["iron_pickaxe"] = {
@@ -165,7 +158,6 @@ init python:
         "icon":"images/items/res/pick_iron.webp",
         "value_per_unit":2250,
         "shop_category":"crafting",
-
         "sort_order":59,
     }
     static_item_defs["syax_pickaxe"] = {
@@ -175,7 +167,6 @@ init python:
         "icon":"images/items/res/pick_syax.webp",
         "value_per_unit":4500,
         "shop_category":"crafting",
-
         "sort_order":59,
     }
     static_item_defs["spaceship_crystal"] = {
@@ -185,7 +176,6 @@ init python:
         "icon":"images/items/res/spaceship_crystal.webp",
         "value_per_unit":2000,
         "shop_category":"magecraft",
-
         "sort_order":60,
     }
     ############## runes
@@ -196,7 +186,6 @@ init python:
         "icon":"images/items/res/rune_of_quickness.webp",
         "value_per_unit":750,
         "shop_category":"magecraft",
-
         "sort_order":60,
     }
     static_item_defs["rune_of_power"] = {
@@ -206,7 +195,6 @@ init python:
         "icon":"images/items/res/rune_of_power.webp",
         "value_per_unit":750,
         "shop_category":"magecraft",
-
         "sort_order":60,
     }
     static_item_defs["rune_of_defense"] = {
@@ -216,6 +204,5 @@ init python:
         "icon":"images/items/res/rune_of_defense.webp",
         "value_per_unit":850,
         "shop_category":"magecraft",
-
         "sort_order":60,
     }

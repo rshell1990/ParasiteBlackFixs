@@ -52,8 +52,7 @@ translate ja preg_Nijah_secondPreg_43ba64e3:
 translate ja preg_Nijah_secondPreg_f2c2b4bc:
 
     # NIJAH @ smile "I have missed you much, come... Let me serve you food."
-    NIJAH @ smile "会いたかったわ、来て…
-ご飯を用意するね。"
+    NIJAH @ smile "会いたかったわ、来て…ご飯を用意するね。"
 
 # game/data/world_romance/nijah/scr_secondpreg.rpy:14
 translate ja preg_Nijah_secondPreg_0ff7edaf:

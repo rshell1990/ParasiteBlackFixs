@@ -39,7 +39,7 @@ translate zh gallery_nijah_house_bj_7ba76175:
 translate zh gallery_nijah_house_bj_fa49098d:
 
     # MC @ talk "Ahh! NIJAH!"
-    MC @ talk "啊！NIJAH！"
+    MC @ talk "啊！妮雅！"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_bj.rpy:20
 translate zh gallery_nijah_house_bj_e7894ce8:
@@ -135,7 +135,7 @@ translate zh gallery_nijah_house_bj_3dd3e618:
 translate zh gallery_nijah_house_bj_df490bd3:
 
     # "Nijah did as she was told, pulling back once she was done to desperately gasp for air before opening her mouth to show me she had done it."
-    "N妮雅照做了，完成后她猛地抽身后退，贪婪地大口喘气，随后张开嘴向我证明她已经吞下去了。"
+    "妮雅照做了，完成后她猛地抽身后退，贪婪地大口喘气，随后张开嘴向我证明她已经吞下去了。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_bj.rpy:39
 translate zh gallery_nijah_house_bj_ca0b90c4:

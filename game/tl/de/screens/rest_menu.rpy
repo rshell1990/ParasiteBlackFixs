@@ -8,21 +8,21 @@ translate de strings:
 
     # game/screens/rest_menu.rpy:19
     old " of"
-    new " of"
+    new "von"
 
     # game/screens/rest_menu.rpy:19
     old "You are currently in"
-    new "You are currently in"
+    new "Du befindest dich derzeit in"
 
     # game/screens/rest_menu.rpy:27
     old "You can wait for"
-    new "You can wait for"
+    new "Du kannst warten auf"
 
     # game/screens/rest_menu.rpy:40
     old "Wait (e)"
-    new "Wait (e)"
+    new "Warten (e)"
 
     # game/screens/rest_menu.rpy:48
     old "Rest"
-    new "Rest"
+    new "Ruhen"
 

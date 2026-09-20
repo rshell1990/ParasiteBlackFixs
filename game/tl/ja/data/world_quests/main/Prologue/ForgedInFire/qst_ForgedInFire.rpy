@@ -256,8 +256,7 @@ translate ja qst_ForgedInFire_TalkKiaraSuicidePill_c398b803:
 translate ja qst_ForgedInFire_TalkKiaraSuicidePill_9bae01fe:
 
     # "It was a small type of vial with some liquid sloshing about inside that I'd seen only on the women scouts."
-    "それは、小さな小瓶で、中には液体が入っている。
-そんなものは、女性スカウトたちにしか見たことがない。"
+    "それは、小さな小瓶で、中には液体が入っている。そんなものは、女性スカウトたちにしか見たことがない。"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/qst_ForgedInFire.rpy:221
 translate ja qst_ForgedInFire_TalkKiaraSuicidePill_d4ba20bf:

@@ -4,31 +4,31 @@
 translate de bed_choice_mc_house_bfbc0a09:
 
     # "My bed."
-    "My bed."
+    "Mein Bett."
 
 # game/data/world_locations/novaras/district_housing/mc_house_bedroom.rpy:44
 translate de bed_choice_mc_house_095dad92:
 
     # MC "(I am not tired enough to sleep right now.)"
-    MC "(I am not tired enough to sleep right now.)"
+    MC "(Ich bin nicht müde genug, um jetzt zu schlafen.)"
 
 # game/data/world_locations/novaras/district_housing/mc_house_bedroom.rpy:45
 translate de bed_choice_mc_house_cb509e28:
 
     # MC "({i}And I won't be until afternoon.{/i})"
-    MC "({i}And I won't be until afternoon.{/i})"
+    MC "({i}Und ich werde es erst am Nachmittag sein.{/i})"
 
 translate de strings:
 
     # game/data/world_locations/novaras/district_housing/mc_house_bedroom.rpy:5
     old "Training Sword"
-    new "Training Sword"
+    new "Übungsschwert"
 
     # game/data/world_locations/novaras/district_housing/mc_house_bedroom.rpy:5
     old "Father bought me these to practice with in case there’s a siege... Me and Markus mostly just mess around with them in private though."
-    new "Father bought me these to practice with in case there’s a siege... Me and Markus mostly just mess around with them in private though."
+    new "Vater hat sie mir gekauft, um für den Fall einer Belagerung zu üben... Aber Markus und ich albern meistens nur privat damit herum."
 
     # game/data/world_locations/novaras/district_housing/mc_house_bedroom.rpy:29
     old "Your stash"
-    new "Your stash"
+    new "Dein Versteck"
 

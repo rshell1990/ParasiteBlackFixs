@@ -216,13 +216,6 @@ translate tr fortress_inn_betty_talk_menu_287ae85c:
     # BETTY @ talk "I guessed adventuring parties were a lot more open now than when I lived in the capital!"
     BETTY @ talk "Sanırım maceracı gruplar artık başkentte yaşadığım zamankinden çok daha açık fikirli!"
 
-# game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:72
-translate tr fortress_inn_betty_talk_menu_8c6c1bf2:
-
-    # BETTY @ talk "Loved his milk and playing with my tits."
-    BETTY @ talk "Sütünü ve memelerimle oynamayı çok severdi."
-
-# game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:73
 translate tr fortress_inn_betty_talk_menu_47750900:
 
     # "Betty's eyes fluttered as she looked at me alluringly."
@@ -1765,4 +1758,3 @@ translate tr fortress_inn_betty_talk_menu_4c4d78bc:
 
     # BETTY @ talk "Loves their milk and sucking on my tits."
     BETTY @ talk "Sütünü ve memelerimi emmeyi seviyor."
-

@@ -40,8 +40,7 @@ translate ja qst_FromAnotherWorld_GoToValleyWithMarkus_57421384:
 translate ja qst_FromAnotherWorld_GoToValleyWithMarkus_57f6ae64:
 
     # MARKUS "We're not going to the guild. Not yet."
-    MARKUS "ギルドへは行かない。
-まだだ。"
+    MARKUS "ギルドへは行かない。まだだ。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr04.rpy:15
 translate ja qst_FromAnotherWorld_GoToValleyWithMarkus_e1a9bffd:
@@ -773,8 +772,7 @@ translate ja qst_FromAnotherWorld_GoToValleyWithMarkus_80ff883a:
 translate ja qst_FromAnotherWorld_GoToValleyWithMarkus_26079539:
 
     # MC "It doesn’t matter! They’re going to rip her apart!"
-    MC "どうでもいい!
-彼女を引き裂くんだ!"
+    MC "どうでもいい!彼女を引き裂くんだ!"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr04.rpy:214
 translate ja qst_FromAnotherWorld_GoToValleyWithMarkus_3fea1c49:

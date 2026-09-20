@@ -5148,13 +5148,6 @@ translate kr qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "공격이 명중해도, 그는 마치 아무것도 아닌 듯이 그냥 어깨를 으쓱일 뿐이었다."
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1909
-translate kr qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "지치고 간신히 버티는 동료들을 힐끗 보며, 나는 소름 끼치는 진실을 깨달았다..."
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1910
 translate kr qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."
@@ -13213,4 +13206,3 @@ translate kr strings:
     # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3795
     old "Do all of the gods look so... {i}different?{/i}"
     new "모든 신들이 그렇게... {i}다르게{/i} 생겼나?"
-

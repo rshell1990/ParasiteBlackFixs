@@ -258,13 +258,6 @@ translate zh gallery_markus_fem_tarbeck_temptations_6380b886:
     # "The watchers smirked, amused by the scene, as 玛西亚的 legs squirmed pitifully beneath me."
     "围观者们咧嘴笑着，对这场景感到有趣，而玛西亚的双腿在我身下可怜地扭动着。"
 
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:73
-translate zh gallery_markus_fem_tarbeck_temptations_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "她的力气被抽干了，只能无助地看着我的肉棒在她双乳间猛烈撞击。"
-
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:74
 translate zh gallery_markus_fem_tarbeck_temptations_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -391,4 +384,3 @@ translate zh gallery_markus_fem_tarbeck_temptations_bf644154:
 
     # "Pinned down onto the table, 玛西亚 looked up at me breathlessly as I tugged down the dress to fully expose her breasts."
     "被按在桌上的玛西娅气喘吁吁地抬头望着我，而我正将她的连衣裙往下拉，让她的双乳完全暴露出来。"
-

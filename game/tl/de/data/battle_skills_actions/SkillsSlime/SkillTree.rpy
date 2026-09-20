@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsSlime/SkillTree.rpy:2
     old "Slime"
-    new "Slime"
+    new "Schleim"
 
     # game/data/battle_skills_actions/SkillsSlime/SkillTree.rpy:2
     old "Slime skills"
-    new "Slime skills"
+    new "Schleim-Fähigkeiten"
 

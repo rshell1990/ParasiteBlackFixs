@@ -287,7 +287,7 @@ translate zh rom_Ves_3_AfterHeat_4a4febb6:
 translate zh rom_Ves_3_AfterHeat_d595c4f8:
 
     # VES @ talk "I don’t even know when... {i}if{/i} I’ll ever get a chance to return to Skarshire again..."
-    VES @ talk "我甚至不知道什么时候……{i}如果{/i}我还能有机会再回到Skarshire……"
+    VES @ talk "我甚至不知道什么时候……{i}如果{/i}我还能有机会再回到斯卡尔郡……"
     
 
 # game/data/world_romance/ves/scr_3_AferHeat.rpy:56

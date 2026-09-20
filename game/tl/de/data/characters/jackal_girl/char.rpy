@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/characters/jackal_girl/char.rpy:1
     old "Jackal girl"
-    new "Jackal girl"
+    new "Schakalmädchen"
 

@@ -4,35 +4,35 @@ translate de strings:
 
     # game/strings/Time.rpy:2
     old "Mona"
-    new "Mona"
+    new "Monta"
 
     # game/strings/Time.rpy:2
     old "Tuesa"
-    new "Tuesa"
+    new "Diensta"
 
     # game/strings/Time.rpy:2
     old "Wedna"
-    new "Wedna"
+    new "Mittwocha"
 
     # game/strings/Time.rpy:2
     old "Thursa"
-    new "Thursa"
+    new "Donnersta"
 
     # game/strings/Time.rpy:2
     old "Frida"
-    new "Frida"
+    new "Freita"
 
     # game/strings/Time.rpy:2
     old "Saturna"
-    new "Saturna"
+    new "Samsta"
 
     # game/strings/Time.rpy:2
     old "Sunna"
-    new "Sunna"
+    new "Sonnta"
 
     # game/strings/Time.rpy:12
     old "Janna"
-    new "Janna"
+    new "Janua"
 
     # game/strings/Time.rpy:13
     old "Jan"
@@ -40,7 +40,7 @@ translate de strings:
 
     # game/strings/Time.rpy:14
     old "Febrala"
-    new "Febrala"
+    new "Februala"
 
     # game/strings/Time.rpy:15
     old "Feb"
@@ -48,11 +48,11 @@ translate de strings:
 
     # game/strings/Time.rpy:16
     old "Martch"
-    new "Martch"
+    new "März"
 
     # game/strings/Time.rpy:17
     old "Mar"
-    new "Mar"
+    new "Mär"
 
     # game/strings/Time.rpy:18
     old "Aprilia"
@@ -84,7 +84,7 @@ translate de strings:
 
     # game/strings/Time.rpy:26
     old "Augusta"
-    new "Augusta"
+    new "August"
 
     # game/strings/Time.rpy:27
     old "Aug"
@@ -92,7 +92,7 @@ translate de strings:
 
     # game/strings/Time.rpy:28
     old "Septembra"
-    new "Septembra"
+    new "September"
 
     # game/strings/Time.rpy:29
     old "Sep"
@@ -100,15 +100,15 @@ translate de strings:
 
     # game/strings/Time.rpy:30
     old "Octobra"
-    new "Octobra"
+    new "Oktober"
 
     # game/strings/Time.rpy:31
     old "Oct"
-    new "Oct"
+    new "Okt"
 
     # game/strings/Time.rpy:32
     old "Novembra"
-    new "Novembra"
+    new "November"
 
     # game/strings/Time.rpy:33
     old "Nov"
@@ -116,37 +116,37 @@ translate de strings:
 
     # game/strings/Time.rpy:34
     old "Decombra"
-    new "Decombra"
+    new "Dezember"
 
     # game/strings/Time.rpy:35
     old "Dec"
-    new "Dec"
+    new "Dez"
 
     # game/strings/Time.rpy:37
     old "Late night"
-    new "Late night"
+    new "Späte Nacht"
 
     # game/strings/Time.rpy:38
     old "Dawn"
-    new "Dawn"
+    new "Morgendämmerung"
 
     # game/strings/Time.rpy:39
     old "Morning"
-    new "Morning"
+    new "Morgen"
 
     # game/strings/Time.rpy:40
     old "Noon"
-    new "Noon"
+    new "Mittag"
 
     # game/strings/Time.rpy:41
     old "Afternoon"
-    new "Afternoon"
+    new "Nachmittag"
 
     # game/strings/Time.rpy:42
     old "Dusk"
-    new "Dusk"
+    new "Abenddämmerung"
 
     # game/strings/Time.rpy:43
     old "Late evening"
-    new "Late evening"
+    new "Später Abend"
 

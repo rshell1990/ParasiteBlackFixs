@@ -4,15 +4,15 @@
 translate de talk_fallback_d0802304:
 
     # "We had an interesting conversation."
-    "We had an interesting conversation."
+    "Wir hatten ein interessantes Gespräch."
 
 translate de strings:
 
     # game/engine/char_template/functions_party.rpy:12
     old "%s joins your party!"
-    new "%s joins your party!"
+    new "%s schließt sich deiner Gruppe an!"
 
     # game/engine/char_template/functions_party.rpy:40
     old "%s leaves your party!"
-    new "%s leaves your party!"
+    new "%s verlässt deine Gruppe!"
 

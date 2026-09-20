@@ -58,8 +58,7 @@ translate ja gallery_mika_double_bj_eae66a85:
 translate ja gallery_mika_double_bj_2cea1a69:
 
     # MARKUS "Ahhh! That's it, girl! Hrghh! Stroke our cocks!"
-    MARKUS "ああっ!そ、そうだ!
-んぐっ!俺たちのチンコをしごいて!"
+    MARKUS "ああっ!そ、そうだ!んぐっ!俺たちのチンコをしごいて!"
 
 # game/data/sexy_scenes/mika/galleryLabels/double_bj.rpy:22
 translate ja gallery_mika_double_bj_c5f11297:
@@ -173,8 +172,7 @@ translate ja gallery_mika_double_bj_9d0bab5c:
 translate ja gallery_mika_double_bj_f60f5df2:
 
     # MIKA "{i}*Slurp!* *Slurp!*{/i} Mhhfhh!"
-    MIKA "{i}*ズルズル!* *ズルズル!*{/i}
-んふふっ!"
+    MIKA "{i}*ズルズル!* *ズルズル!*{/i}んふふっ!"
 
 # game/data/sexy_scenes/mika/galleryLabels/double_bj.rpy:62
 translate ja gallery_mika_double_bj_6be25d32:
@@ -198,8 +196,7 @@ translate ja gallery_mika_double_bj_d098fb68:
 translate ja gallery_mika_double_bj_ac1c4eb5:
 
     # "Mika's lips continued to glide over Markus's cock, coating it in her saliva as she tried to swallow as much of his {i}sword{/i} as she could."
-    "美香の唇はマーカスの男根を覆い続け、唾液で滑らかにしながら、彼の{i}剣{/i}を
-できるだけ深く飲み込もうとした。"
+    "美香の唇はマーカスの男根を覆い続け、唾液で滑らかにしながら、彼の{i}剣{/i}をできるだけ深く飲み込もうとした。"
 
 # game/data/sexy_scenes/mika/galleryLabels/double_bj.rpy:66
 translate ja gallery_mika_double_bj_704fe7b1:

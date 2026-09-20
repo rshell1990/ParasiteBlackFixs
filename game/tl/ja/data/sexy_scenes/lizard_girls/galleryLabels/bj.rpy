@@ -131,8 +131,7 @@ translate ja gallery_lizard_bj_1e2be837:
 translate ja gallery_lizard_bj_fcfbcc3a:
 
     # "Did she even know what was happening to her body at this point? Or did that part of her brain cease to care?"
-    "この時点で、彼女は自分の体に何が起きているか理解していたのだろうか？  
-それとも、脳のその部分はもはや関心を失ったのだろうか？"
+    "この時点で、彼女は自分の体に何が起きているか理解していたのだろうか？  それとも、脳のその部分はもはや関心を失ったのだろうか？"
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:104
 translate ja gallery_lizard_bj_3a2861e6:
@@ -186,8 +185,7 @@ translate ja gallery_lizard_bj_19bd879c:
 translate ja gallery_lizard_bj_ad4a700a:
 
     # "As I let my tentacles go slack, the Skalith, standing back on her feet, scurried away into the tall grass, but not before taking one last look at me before she vanished completely."
-    "触手の力を抜くと、スケイリスは再び立ち上がり、深い草むらへと急ぎ足で逃げ去った。
-完全に姿を消す前に、彼女が私を最後にもう一度見つめたのは言うまでもない。"
+    "触手の力を抜くと、スケイリスは再び立ち上がり、深い草むらへと急ぎ足で逃げ去った。完全に姿を消す前に、彼女が私を最後にもう一度見つめたのは言うまでもない。"
 
 # TODO: Translation updated at 2026-03-27 22:43
 

@@ -34,8 +34,7 @@ translate ja hamun_spa_use_main_d1afe2f8:
 translate ja hamun_spa_use_main_7311206b:
 
     # SYPHA @ happy "Mmm... A bath sounds pleasant."
-    SYPHA @ happy "うーん...
-お風呂、いいかも"
+    SYPHA @ happy "うーん...お風呂、いいかも"
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:18
 translate ja hamun_spa_use_main_89e2e3ec:
@@ -1373,8 +1372,7 @@ translate ja hamun_spa_tf_solo_410ed763:
 translate ja hamun_spa_tf_solo_5f389d89:
 
     # FAYE "Booo.... BOOOO!"
-    FAYE "ブー…。  
-ブーーー!"
+    FAYE "ブー…。  ブーーー!"
 
 # game/data/world_interactions/hamun_spa_scenes.rpy:430
 translate ja hamun_spa_tf_solo_0c43ccf2:

@@ -244,13 +244,13 @@ translate zh rom_marbella_gang_preg_share_first_impreg_news_9ae46102:
 translate zh rom_marbella_gang_preg_share_first_impreg_news_af2b5674:
 
     # MARBELLA @ talk "Gavkat and the other guys are basically already planning on helping raise the littlun anyway."
-    MARBELLA @ talk "Gavkat和其他人基本上已经在计划帮忙抚养这个小家伙了。"
+    MARBELLA @ talk "加夫卡特和其他人基本上已经在计划帮忙抚养这个小家伙了。"
 
 # game/data/world_romance/marbella/PregMarbella.rpy:124
 translate zh rom_marbella_gang_preg_share_first_impreg_news_27b569f5:
 
     # MARBELLA @ think "Andddd the Khazah are surprisingly supportive."
-    MARBELLA @ think "而且Khazah族人也出乎意料地支持。"
+    MARBELLA @ think "而且卡扎族人也出乎意料地支持。"
 
 # game/data/world_romance/marbella/PregMarbella.rpy:125
 translate zh rom_marbella_gang_preg_share_first_impreg_news_3ccc8b64:
@@ -436,19 +436,19 @@ translate zh rom_marbella_love_preg_share_first_impreg_news_ac21b3dc:
 translate zh rom_marbella_love_preg_share_first_impreg_news_415aea77:
 
     # MC "(A child with 玛贝拉...)"
-    MC "(与玛贝拉的孩子……)"
+    MC "（与玛贝拉的孩子……）"
 
 # game/data/world_romance/marbella/PregMarbella.rpy:168
 translate zh rom_marbella_love_preg_share_first_impreg_news_85a3d508:
 
     # SHYAHTAN "(The correct analysis was 'first' child with 玛贝拉... I sense she is prepared to sire us much more offspring.)"
-    SHYAHTAN "(正确的分析是……与玛贝拉的'第一个'孩子……我能感觉到她已经准备好为我们繁衍更多后代了。)"
+    SHYAHTAN "（正确的分析是……与玛贝拉的'第一个'孩子……我能感觉到她已经准备好为我们繁衍更多后代了。）"
 
 # game/data/world_romance/marbella/PregMarbella.rpy:169
 translate zh rom_marbella_love_preg_share_first_impreg_news_6db575ce:
 
     # MC @ think "(Let's just see how things go with this one, alright?)"
-    MC @ think "(我们先看看这个孩子的情况如何，好吗？)"
+    MC @ think "（我们先看看这个孩子的情况如何，好吗？）"
 
 # game/data/world_romance/marbella/PregMarbella.rpy:179
 translate zh rom_marbella_domlove_preg_share_further_impreg_news_35dbcf53:
@@ -732,7 +732,6 @@ translate zh strings:
     old "Dukant"
     new "杜坎特"
 
-# TODO: Translation updated at 2026-04-21 00:15
 
 # game/data/world_romance/marbella/PregMarbella.rpy:244
 translate zh rom_marbella_shared_preg_howfeeling_ddfaa89b:

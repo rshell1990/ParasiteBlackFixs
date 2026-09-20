@@ -76,8 +76,7 @@ translate ja gallery_markus_fem_spa_wmc_c460a0c8:
 translate ja gallery_markus_fem_spa_wmc_55835905:
 
     # "Our hands explored each other's body, cupping and feeling each other as soft moans escapted our lips."
-    "手が互いの身体を探り、そっと包み込み、触れ合う。
-柔らかな吐息とともに、唇から漏れる甘い声。"
+    "手が互いの身体を探り、そっと包み込み、触れ合う。柔らかな吐息とともに、唇から漏れる甘い声。"
 
 # game/data/sexy_scenes/markus/galleryLabels/fem_spa_wmc.rpy:42
 translate ja gallery_markus_fem_spa_wmc_d0b91114:
@@ -89,8 +88,7 @@ translate ja gallery_markus_fem_spa_wmc_d0b91114:
 translate ja gallery_markus_fem_spa_wmc_dc8dc6a1:
 
     # MARKUS "T-This is just us - Mhmm... Fooling around, alright?"
-    MARKUS "ち、これは私たちが… うん…  
-からかってるだけだからね？"
+    MARKUS "ち、これは私たちが… うん…  からかってるだけだからね？"
 
 # game/data/sexy_scenes/markus/galleryLabels/fem_spa_wmc.rpy:44
 translate ja gallery_markus_fem_spa_wmc_cfb096e9:

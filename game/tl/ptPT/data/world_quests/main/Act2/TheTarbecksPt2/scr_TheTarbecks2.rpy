@@ -180,13 +180,6 @@ translate ptPT qst_TheTarbecks2_enter_manor_847e9558:
     # LADY_TARBECK @ talk "And hopefully this foolishness of his can end and we can all go back to being just miserable again."
     LADY_TARBECK @ talk "E, com sorte, essa tolice dele pode acabar e todos voltemos a ser apenas infelizes novamente."
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:45
-translate ptPT qst_TheTarbecks2_enter_manor_f56d99fb:
-
-    # MC @ talk "... Did you have anywhere you wished to go today, xmy lady?"
-    MC @ talk "... Você desejava ir a algum lugar hoje, xmy lady?"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:46
 translate ptPT qst_TheTarbecks2_enter_manor_a407e266:
 
     # LADY_TARBECK @ talk "Hmph."
@@ -258,13 +251,6 @@ translate ptPT qst_TheTarbecks2_enter_manor_cc37fb0d:
     # MC @ talk "But here-"
     MC @ talk "Mas aqui-"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:71
-translate ptPT qst_TheTarbecks2_enter_manor_fb73c786:
-
-    # LADY_TARBECK @ talk "Your job isn't to speak."
-    LADY_TARBECK @ talk "Seu trabalho não é falar."
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:73
 translate ptPT qst_TheTarbecks2_enter_manor_599d8a10:
 
     # LADY_TARBECK @ talk "It's to follow and protect me... silently."
@@ -6564,13 +6550,6 @@ translate ptPT qst_TheTarbecks2_meetlord_a319ce3a:
     # LORD_BELAMORE @ smile "Well... Missing... Kidnapped... He's not here, is he?"
     LORD_BELAMORE @ smile "Bem... Desaparecido... Sequestrado... Ele não está aqui, está?"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1618
-translate ptPT qst_TheTarbecks2_meetlord_03f8f416:
-
-    # LORD_BELAMORE @ smile "Perhaps Lady Belamore herself simply had enough of him."
-    LORD_BELAMORE @ smile "Talvez a própria Lady Belamore simplesmente tenha se cansado dele."
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1619
 translate ptPT qst_TheTarbecks2_meetlord_f22181d5:
 
     # MC @ smile "Well, as I'm sure you know, my lord."
@@ -8010,13 +7989,6 @@ translate ptPT qst_TheTarbecks2_return_to_manor_once_more_once_more_f636a71d:
     # LADY_TARBECK @ angry "Many have tried... bitch."
     LADY_TARBECK @ angry "Muitos tentaram... vadia."
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1981
-translate ptPT qst_TheTarbecks2_return_to_manor_once_more_once_more_820b7258:
-
-    # MC "(She said near the castle.)"
-    MC "(Ela disse perto do castelo.)"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1982
 translate ptPT qst_TheTarbecks2_return_to_manor_once_more_once_more_d259fa86:
 
     # MC "(There must be an entrance to the sewer works around there somewhere.)"
@@ -9762,4 +9734,3 @@ translate ptPT qst_TheTarbecks2_enter_manor_e2122402:
 
     # LADY_TARBECK @ angry "Your job isn't to speak."
     LADY_TARBECK @ angry "O teu trabalho não é falar."
-

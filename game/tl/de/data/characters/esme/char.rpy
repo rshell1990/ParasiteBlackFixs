@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/esme/char.rpy:15
     old "A playful katai prostitute in the city of Hamun."
-    new "A playful katai prostitute in the city of Hamun."
+    new "Eine verspielte katai Prostituierte in der Stadt Hamun."
 

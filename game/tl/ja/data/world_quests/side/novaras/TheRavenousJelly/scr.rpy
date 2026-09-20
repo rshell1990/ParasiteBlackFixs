@@ -652,8 +652,7 @@ translate ja qst_ravenJelly_enterMyu_804eef85:
 translate ja qst_ravenJelly_enterMyu_7c17d4b2:
 
     # "I pointed towards the container once again Myu smiled and repeated the word."
-    "再び容器を指し示すと  
-ミューは微笑み、その言葉を繰り返した。"
+    "再び容器を指し示すと  ミューは微笑み、その言葉を繰り返した。"
 
 # game/data/world_quests/side/novaras/TheRavenousJelly/scr.rpy:163
 translate ja qst_ravenJelly_enterMyu_5356ac96:

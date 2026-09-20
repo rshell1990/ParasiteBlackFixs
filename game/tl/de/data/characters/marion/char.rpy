@@ -4,7 +4,7 @@ translate de strings:
 
     # game/data/characters/marion/char.rpy:1
     old "Head Inquisitor Lady Marion"
-    new "Head Inquisitor Lady Marion"
+    new "Oberinquisitorin Lady Marion"
 
     # game/data/characters/marion/char.rpy:3
     old "Marion"
@@ -12,5 +12,5 @@ translate de strings:
 
     # game/data/characters/marion/char.rpy:14
     old "The current head of the inquisitors... She views my existence as little more than a blight."
-    new "The current head of the inquisitors... She views my existence as little more than a blight."
+    new "Die derzeitige Leiterin der Inquisitoren... Sie betrachtet meine Existenz kaum mehr als eine Plage."
 

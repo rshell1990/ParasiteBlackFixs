@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2026-07-13 23:41
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:5
 translate zh qst_TheTarbecks2_enter_manor_db0d0daf:
@@ -46,7 +45,7 @@ translate zh qst_TheTarbecks2_enter_manor_13abf134:
 translate zh qst_TheTarbecks2_enter_manor_9e811334:
 
     # LADY_TARBECK @ angry "And I CERTAINLY have no interest in helping those ghoulish GTC monsters."
-    LADY_TARBECK @ angry "而且我{i}绝对{/i}没兴趣帮那些食尸鬼般的GTC怪物。"
+    LADY_TARBECK @ angry "而且我{i}绝对{/i}没兴趣帮那些食尸鬼般的Org,大商会,大商会,OK怪物。"
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:19
 translate zh qst_TheTarbecks2_enter_manor_00a57388:
@@ -180,13 +179,6 @@ translate zh qst_TheTarbecks2_enter_manor_847e9558:
     # LADY_TARBECK @ talk "And hopefully this foolishness of his can end and we can all go back to being just miserable again."
     LADY_TARBECK @ talk "希望他这种愚蠢的行为能结束，我们都能回到只是痛苦的状态。"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:45
-translate zh qst_TheTarbecks2_enter_manor_f56d99fb:
-
-    # MC @ talk "... Did you have anywhere you wished to go today, xmy lady?"
-    MC @ talk "...您今天有什么想去的地方吗，我的夫人？"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:46
 translate zh qst_TheTarbecks2_enter_manor_a407e266:
 
     # LADY_TARBECK @ talk "Hmph."
@@ -258,13 +250,6 @@ translate zh qst_TheTarbecks2_enter_manor_cc37fb0d:
     # MC @ talk "But here-"
     MC @ talk "但在这里——"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:71
-translate zh qst_TheTarbecks2_enter_manor_fb73c786:
-
-    # LADY_TARBECK @ talk "Your job isn't to speak."
-    LADY_TARBECK @ talk "你的职责不是说话。"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:73
 translate zh qst_TheTarbecks2_enter_manor_599d8a10:
 
     # LADY_TARBECK @ talk "It's to follow and protect me... silently."
@@ -1876,7 +1861,7 @@ translate zh qst_TheTarbecks2_prep_to_tour_6e66c0e7:
 translate zh qst_TheTarbecks2_prep_to_tour_975565d5:
 
     # LADY_TARBECK @ blush "Though there was a time I thought I might end up that way."
-    LADY_TARBECK @ blush "不过确实有一段时间我以为自己可能走向那条路。"
+    LADY_TARBECK @ blush "不过确实有一段时间，我以为自己可能会走上那条路。"
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:460
 translate zh qst_TheTarbecks2_prep_to_tour_9f4a7cb6:
@@ -2716,7 +2701,7 @@ translate zh qst_TheTarbecks2_tea_party2_cbed98f0:
 translate zh qst_TheTarbecks2_tea_party2_bdbdf5bd:
 
     # MC @ talk "Whilst others, like this girl I knew, Arlena, began 'pre-vocational training' because her father was already a blacksmith."
-    MC @ talk "而其他人，比如我认识的一个女孩，艾莲娜，则开始了'预备职业培训'，因为她父亲已经是个铁匠。"
+    MC @ talk "而其他人，比如我认识的一个女孩，艾莲娜，则开始了“预备职业培训”，因为她父亲已经是个铁匠。"
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:672
 translate zh qst_TheTarbecks2_tea_party2_85b75da9:
@@ -6564,13 +6549,6 @@ translate zh qst_TheTarbecks2_meetlord_a319ce3a:
     # LORD_BELAMORE @ smile "Well... Missing... Kidnapped... He's not here, is he?"
     LORD_BELAMORE @ smile "呃……失踪……绑架……反正他不在这儿，不是吗？"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1618
-translate zh qst_TheTarbecks2_meetlord_03f8f416:
-
-    # LORD_BELAMORE @ smile "Perhaps Lady Belamore herself simply had enough of him."
-    LORD_BELAMORE @ smile "也许是贝拉莫尔夫人本人受够了他呢。"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1619
 translate zh qst_TheTarbecks2_meetlord_f22181d5:
 
     # MC @ smile "Well, as I'm sure you know, my lord."
@@ -7708,7 +7686,7 @@ translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_d90d35ee:
 translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_fa528d6a:
 
     # LADY_BELAMORE @ sad "The deal is being ratified by - {i}Huff{/i} the Alderian Royal Bank."
-    LADY_BELAMORE @ sad "这笔交易正在由——{i}呼{/i}奥尔德雷皇家银行批准。"
+    LADY_BELAMORE @ sad "{i}呼{/i}这笔交易正在由奥尔德雷皇家银行批准。"
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1925
 translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_cfa17203:
@@ -8010,13 +7988,6 @@ translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_f636a71d:
     # LADY_TARBECK @ angry "Many have tried... bitch."
     LADY_TARBECK @ angry "很多人都试过……贱人。"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1981
-translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_820b7258:
-
-    # MC "(She said near the castle.)"
-    MC "（她说在城堡附近。）"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1982
 translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_d259fa86:
 
     # MC "(There must be an entrance to the sewer works around there somewhere.)"
@@ -9592,7 +9563,6 @@ translate zh strings:
     old "{image=[ICON.SWORDS]} Death."
     new "{image=[ICON.SWORDS]} 死亡。"
 
-# TODO: Translation updated at 2026-07-23 23:40
 
 translate zh strings:
 
@@ -9736,7 +9706,6 @@ translate zh strings:
     old "No, it won't kill them... Let them suffer."
     new "不，这个杀不死他们……让他们受苦吧。"
 
-# TODO: Translation updated at 2026-07-30 08:45
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:45
 translate zh qst_TheTarbecks2_enter_manor_f93acea7:
@@ -9756,11 +9725,9 @@ translate zh qst_TheTarbecks2_return_to_manor_once_more_once_more_bcff4aa0:
     # MC "(She said beneath the castle.)"
     MC "（她说在城堡下面。）"
 
-# TODO: Translation updated at 2026-08-18 18:28
 
 # game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:71
 translate zh qst_TheTarbecks2_enter_manor_e2122402:
 
     # LADY_TARBECK @ angry "Your job isn't to speak."
     LADY_TARBECK @ angry "你的职责不是开口说话。"
-

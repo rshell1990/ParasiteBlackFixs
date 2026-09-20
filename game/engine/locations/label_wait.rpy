@@ -1,3 +1,4 @@
+
 label wait:
     $ BlockWaitDynamic(True)
     $ PlaySoundRandom("clockWind", Channel = "guisfx", Volume = 0.7)
@@ -43,18 +44,9 @@ screen WaitClickToStop():
         ysize 1080
         mouse "default"
         hovered TooltipSetUI(_("Waiting.\n(Click to stop)"))
-        keysym ["K_SPACE", "K_RETURN", 
-            config.keymap.get("inventory", ["K_i"])[0], 
-            config.keymap.get("characters", ["K_c"])[0],
-            config.keymap.get("relations", ["K_r"])[0], 
-            config.keymap.get("map", ["K_m"])[0], 
-            config.keymap.get("journal", ["K_j"])[0], 
-            config.keymap.get("gui_rest_menu", ["K_g"])[0], 
-            config.keymap.get("dialogue_history", ["K_d"])[0], 
-            config.keymap.get("game_menu", ["K_ESCAPE"])[0],
-            config.keymap.get("nav_up", ["K_UP"])[0], 
-            config.keymap.get("nav_down", ["K_DOWN"])[0], 
-            config.keymap.get("nav_right", ["K_RIGHT"])[0], 
-            config.keymap.get("nav_left", ["K_LEFT"])[0]]
+        keysym ["K_SPACE", "K_RETURN", config.keymap["inventory"][0], config.keymap["characters"][0], 
+            config.keymap["relations"][0], config.keymap["map"][0], config.keymap["journal"][0], 
+            config.keymap["gui_rest_menu"][0], config.keymap["dialogue_history"][0], config.keymap["game_menu"][0],
+            config.keymap["nav_up"][0], config.keymap["nav_down"][0], config.keymap["nav_right"][0], config.keymap["nav_left"][0]]
 
         action [SetDict(tmpvar, "wait_hours", 0), Hide("WaitClickToStop")]

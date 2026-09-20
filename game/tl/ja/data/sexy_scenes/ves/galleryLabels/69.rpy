@@ -88,9 +88,7 @@ translate ja gallery_ves_69_naked_44e3a501:
 translate ja gallery_ves_69_naked_1eee99f8:
 
     # "Beneath my skin, once again I could feel the creature inside of me desperate to mate, to throw her down and shove my cock into her, see her filled with my seed and listen to her moan while she sired my children."
-    "```
-皮膚の下で、再び俺の中の化け物が激しく交尾を求めてるのが感じられた。彼女を押し倒し、肉棒を押し込み、種を注ぎ込まれて喘ぎながら俺の子を産む姿を見たかった。
-```"
+    "```皮膚の下で、再び俺の中の化け物が激しく交尾を求めてるのが感じられた。彼女を押し倒し、肉棒を押し込み、種を注ぎ込まれて喘ぎながら俺の子を産む姿を見たかった。```"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:36
 translate ja gallery_ves_69_naked_0ebb8edd:

@@ -107,8 +107,7 @@ translate ja nov_mrs_winward_brought_more_hides_2d69d4fa:
 translate ja nov_mrs_winward_brought_more_hides_83de78c6:
 
     # MRS_WINWARD @ angry "It's been like this for a while... He swears down he'll win us enough coin to leave this place."
-    MRS_WINWARD @ angry "しばらく前からずっとこうなんだ…  
-あいつ、ここから出ていけるだけの十分な金を手に入れるって誓ってるんだ。"
+    MRS_WINWARD @ angry "しばらく前からずっとこうなんだ…  あいつ、ここから出ていけるだけの十分な金を手に入れるって誓ってるんだ。"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_shared_general.rpy:27
 translate ja nov_mrs_winward_brought_more_hides_2325e0e3:

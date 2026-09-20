@@ -898,9 +898,7 @@ translate ja rom_winward_invest_rep_doggy_wall_sexmenu_89e67bfc:
 translate ja rom_winward_invest_rep_doggy_wall_sexmenu_c8d0e3a3:
 
     # MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
-    MRS_WINWARD "{i}はぁ……{/i}
-ダーリン、イッて……! {i}はぁ……{/i}
-お願い! プ、プリーズ!!"
+    MRS_WINWARD "{i}はぁ……{/i}ダーリン、イッて……! {i}はぁ……{/i}お願い! プ、プリーズ!!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:292
 translate ja rom_winward_invest_rep_doggy_wall_sexmenu_9abd2618:
@@ -1363,8 +1361,7 @@ translate ja rom_winward_invest_rep_doggy_wall_sexmenu_ae5e3a63:
 translate ja rom_winward_invest_rep_doggy_wall_sexmenu_4b94420c_1:
 
     # MRS_WINWARD @ blush "G-Get home safe now, deary, I don't think I'll be able to keep standing much longer."
-    MRS_WINWARD @ blush "そ、そろそろお家に安全に帰ってね、お嬢さん、
-もうこれ以上立ち続けるのは難しいわ。"
+    MRS_WINWARD @ blush "そ、そろそろお家に安全に帰ってね、お嬢さん、もうこれ以上立ち続けるのは難しいわ。"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:461
 translate ja rom_winward_invest_rep_doggy_wall_sexmenu_2167780a_1:
@@ -1688,8 +1685,7 @@ translate ja rom_winward_invest_visit_bedroom_miss_sexmenu_d3682cc0:
 translate ja rom_winward_invest_visit_bedroom_miss_sexmenu_bd36ef2c:
 
     # MRS_WINWARD "Let him wake up and see your seed - Ahh! Running down my shaking legs!"
-    MRS_WINWARD "目覚めた彼に、君の種を見せてやれ――
-ああっ! 揺れる腿を伝う!"
+    MRS_WINWARD "目覚めた彼に、君の種を見せてやれ――ああっ! 揺れる腿を伝う!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:584
 translate ja rom_winward_invest_visit_bedroom_miss_sexmenu_02bc0617:
@@ -2085,8 +2081,7 @@ translate ja rom_winward_invest_visit_bedroom_miss_sexmenu_d314c4fe:
 translate ja rom_winward_invest_visit_bedroom_miss_sexmenu_ccc2ce9f:
 
     # "As I poured out every last drop of the thick seed into her ass, she quivered and moaned softly, not saying a word as I slowly unsheathed my cock from her now loosened ass."
-    "濃厚な種を最後の一滴まで彼女の尻に注ぎ込むと、彼女は震えながら微かに呻いた。  
-ゆっくりと、緩んだ尻から肉棒を引き抜く間、彼女は一言も発さなかった。"
+    "濃厚な種を最後の一滴まで彼女の尻に注ぎ込むと、彼女は震えながら微かに呻いた。  ゆっくりと、緩んだ尻から肉棒を引き抜く間、彼女は一言も発さなかった。"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:740
 translate ja rom_winward_invest_visit_bedroom_miss_sexmenu_95020e14:
@@ -2338,8 +2333,7 @@ translate ja rom_winward_invest_rep_bj_030aa440:
 translate ja rom_winward_invest_rep_bj_4d91c4c8:
 
     # MC "No, can't say I - ahh! Have!"
-    MC "いや、そうは…
-あっ! そうだった!"
+    MC "いや、そうは…あっ! そうだった!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:824
 translate ja rom_winward_invest_rep_bj_3dfafcfc:
@@ -2363,8 +2357,7 @@ translate ja rom_winward_invest_rep_bj_b154ebf7:
 translate ja rom_winward_invest_rep_bj_d61be65b:
 
     # MC "Ahh! You can't - Mhmm! Seriously be blaming me for that!"
-    MC "ああ! やめてよー うん!
-そんなの私のせいにするの、本気で言ってるの？!"
+    MC "ああ! やめてよー うん!そんなの私のせいにするの、本気で言ってるの？!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:828
 translate ja rom_winward_invest_rep_bj_4d0eb6cd:
@@ -2886,8 +2879,7 @@ translate ja rom_winward_invest_rep_impreg_7ffbe35c:
 translate ja rom_winward_invest_rep_impreg_8e814e25:
 
     # MR_WINWARD "Do you even try? Or can your brain not even think of anything else once a cock is in you?"
-    MR_WINWARD "考えようともしないのか？
-それともチンポが入ったら他に何も考えられなくなるのか？"
+    MR_WINWARD "考えようともしないのか？それともチンポが入ったら他に何も考えられなくなるのか？"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:975
 translate ja rom_winward_invest_rep_impreg_d4446acd:
@@ -2971,8 +2963,7 @@ translate ja rom_winward_invest_rep_impreg_8ef10388:
 translate ja rom_winward_invest_rep_impreg_be9c92c9:
 
     # MRS_WINWARD @ blush "I best get back to work for now, but there'll be plenty of time for us to catch up later."
-    MRS_WINWARD @ blush "ではそろそろ仕事に戻ろう。  
-また後で、ゆっくり話す時間はたっぷりあるから。"
+    MRS_WINWARD @ blush "ではそろそろ仕事に戻ろう。  また後で、ゆっくり話す時間はたっぷりあるから。"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:991
 translate ja rom_winward_invest_rep_impreg_c84311a3:

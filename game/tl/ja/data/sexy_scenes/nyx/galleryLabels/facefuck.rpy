@@ -46,8 +46,7 @@ translate ja gallery_nyx_facefuck_first_54918f8c:
 translate ja gallery_nyx_facefuck_first_35f3f665:
 
     # MC "Now are you going to keep protesting? Or are you going to open those pretty lips and start sucking my cock?"
-    MC "それでもまだ抗うつもり？
-それとも、その可愛い唇を開けて僕のチンポをしゃぶり始める？"
+    MC "それでもまだ抗うつもり？それとも、その可愛い唇を開けて僕のチンポをしゃぶり始める？"
 
 # game/data/sexy_scenes/nyx/galleryLabels/facefuck.rpy:47
 translate ja gallery_nyx_facefuck_first_9d18a1f0:
@@ -1229,8 +1228,7 @@ translate ja gallery_nyx_facefuck_repeat_6fd15286:
 translate ja gallery_nyx_facefuck_repeat_d9c4b807:
 
     # MC "I'm so close! Hrghh!"
-    MC "あと少し…!
-ぐっ…!"
+    MC "あと少し…!ぐっ…!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/facefuck.rpy:274
 translate ja gallery_nyx_facefuck_repeat_22d4654d:

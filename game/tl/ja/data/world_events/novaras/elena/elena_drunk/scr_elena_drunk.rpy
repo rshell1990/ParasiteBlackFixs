@@ -202,8 +202,7 @@ translate ja ev_elena_drunk_5bdc4b74:
 translate ja ev_elena_drunk_88d8fb6b:
 
     # "Elena's eyes were already closed before I finished my sentence, curled up into a ball on my bed, she slept softly."
-    "私が言葉を終えるより早く、エレナはもう目を閉じていた。
-ベッドの上で丸まって、彼女はすやすやと眠っていた。"
+    "私が言葉を終えるより早く、エレナはもう目を閉じていた。ベッドの上で丸まって、彼女はすやすやと眠っていた。"
 
 # game/data/world_events/novaras/elena/elena_drunk/scr_elena_drunk.rpy:47
 translate ja ev_elena_drunk_2d204a49:

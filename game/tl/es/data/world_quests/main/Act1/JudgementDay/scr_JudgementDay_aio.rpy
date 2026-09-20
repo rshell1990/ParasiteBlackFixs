@@ -5147,13 +5147,6 @@ translate es qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "Incluso cuando un ataque lograba impactarle, él simplemente se encogía de hombros como si no fuera nada."
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1915
-translate es qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "Mientras miraba a mis compañeros, exhaustos y apenas aguantando, me di cuenta de la horrible verdad…"
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1916
 translate es qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."

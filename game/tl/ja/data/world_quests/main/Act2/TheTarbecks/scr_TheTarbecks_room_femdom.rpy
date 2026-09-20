@@ -22,8 +22,7 @@ translate ja qst_TheTarbecks_Room_Femdom_main_03bf3b73:
 translate ja qst_TheTarbecks_Room_Femdom_main_967d5e22:
 
     # WATCHER "Welcome. Would you like to play {i}Lady of the house?{/i}"
-    WATCHER "いらっしゃいませ。
-{i}ご主人様の花嫁{/i}を始めますか？"
+    WATCHER "いらっしゃいませ。{i}ご主人様の花嫁{/i}を始めますか？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_femdom.rpy:30
 translate ja qst_TheTarbecks_Room_Femdom_main_72f38616:
@@ -809,8 +808,7 @@ translate ja qst_TheTarbecks_Room_Femdom_kiara_69628019:
 translate ja qst_TheTarbecks_Room_Femdom_kiara_c21417e6:
 
     # KIARA "I bet you've gotten real used to having this ass on call, haven't you?"
-    KIARA "きっとこのケツにすっかり
-慣れちまっただろ？"
+    KIARA "きっとこのケツにすっかり慣れちまっただろ？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_femdom.rpy:254
 translate ja qst_TheTarbecks_Room_Femdom_kiara_d9b09333:
@@ -918,8 +916,7 @@ translate ja qst_TheTarbecks_Room_Femdom_kiara_8fbe11d6:
 translate ja qst_TheTarbecks_Room_Femdom_kiara_9f149a37:
 
     # KIARA "Fuck the mission. It's hotter watching you squirm a bit, love."
-    KIARA "任務なんてどうでもいい。  
-少し焦る君を見てる方が面白いからね、愛しい人。"
+    KIARA "任務なんてどうでもいい。  少し焦る君を見てる方が面白いからね、愛しい人。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_femdom.rpy:274
 translate ja qst_TheTarbecks_Room_Femdom_kiara_39d0a7e4:
@@ -1867,8 +1864,7 @@ translate ja qst_TheTarbecks_Room_Femdom_esme_2d204a49:
 translate ja qst_TheTarbecks_Room_Femdom_esme_4417f864:
 
     # ESME "... I'm waiting."
-    ESME "……
-待ってる。"
+    ESME "……待ってる。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_femdom.rpy:494
 translate ja qst_TheTarbecks_Room_Femdom_esme_c63f40f1:

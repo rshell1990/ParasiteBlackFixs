@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/characters/kennelmaster/char.rpy:1
     old "Kennel Master"
-    new "Kennel Master"
+    new "Zwinger-Meister"
 

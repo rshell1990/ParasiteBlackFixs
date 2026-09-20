@@ -214,7 +214,7 @@ translate zh rom_myu_hug_903aeb6f:
 translate zh rom_myu_hug_8a7fa9be:
 
     # "米尤 came forward to hug me, blushing profusely as she let me fondle her ass."
-    "米尤 走上前来拥抱我，脸涨得通红，任由我抚摸她的臀部。"
+    "米尤走上前来拥抱我，脸涨得通红，任由我抚摸她的臀部。"
     
 
 # game/data/world_romance/myu/scr.rpy:76
@@ -228,14 +228,14 @@ translate zh rom_myu_hug_54f58295:
 translate zh rom_myu_hug_e431f336:
 
     # "米尤 pulled away, still blushing like a young bride."
-    "米尤 抽身离开，仍然脸红得像个小新娘。"
+    "米尤抽身离开，仍然脸红得像个小新娘。"
     
 
 # game/data/world_romance/myu/scr.rpy:78
 translate zh rom_myu_hug_72b40376:
 
     # MYU @ blush "T-That was nice, h-husband."
-    MYU @ blush "那-那感觉真好，老-老公。"
+    MYU @ blush "那——那感觉真好，老——老公。"
     
 
 translate zh strings:

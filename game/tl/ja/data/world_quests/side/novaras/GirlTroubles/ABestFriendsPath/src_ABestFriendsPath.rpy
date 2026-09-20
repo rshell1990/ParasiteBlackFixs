@@ -514,8 +514,7 @@ translate ja qst_a_best_friends_path_4_521df35f:
 translate ja qst_a_best_friends_path_4_475f4bd5:
 
     # MIKA @ smile "I did it! I won!"
-    MIKA @ smile "やった!
-勝った!"
+    MIKA @ smile "やった!勝った!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:147
 translate ja qst_a_best_friends_path_4_0ae0722a:
@@ -929,8 +928,7 @@ translate ja qst_a_best_friends_path_5_join_eae893cb:
 translate ja qst_a_best_friends_path_5_join_d9ed2cd7:
 
     # MIKA @ blush "W-Well, if you both need me {i}that much.{/i}"
-    MIKA @ blush "わ、わかったよ。
-二人に{i}そこまで頼まれると。{/i}"
+    MIKA @ blush "わ、わかったよ。二人に{i}そこまで頼まれると。{/i}"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:315
 translate ja qst_a_best_friends_path_5_join_13be129c:
@@ -1680,8 +1678,7 @@ translate ja qst_a_best_friends_path_7_afc7cf04:
 translate ja qst_a_best_friends_path_7_6566bdac:
 
     # "As I stepped away from the scene, I left them to it, deciding I would speak to Mika in the morning."
-    "場を離れ、二人の前に背を向けた。
-明日ミカと話すことにした。"
+    "場を離れ、二人の前に背を向けた。明日ミカと話すことにした。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:591
 translate ja qst_a_best_friends_path_7_dcc890a1:
@@ -1789,8 +1786,7 @@ translate ja qst_a_best_friends_path_7_join_e7a566cc:
 translate ja qst_a_best_friends_path_7_join_eb28230b:
 
     # MIKA "Mhmm! B-But doesn't that mean he's going to put it in my—"
-    MIKA "む、むう… だ、でもそれって…
-このままじゃ…私の、あそこに…"
+    MIKA "む、むう… だ、でもそれって…このままじゃ…私の、あそこに…"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:638
 translate ja qst_a_best_friends_path_7_join_be0aafc1:
@@ -2042,8 +2038,7 @@ translate ja qst_a_best_friends_path_8_5350920a:
 translate ja qst_a_best_friends_path_8_ed167edb:
 
     # MIKA @ talk "{i}*Huff!* *Huff!*{/i} How did you - {i}*Huff*{/i} move so fast?"
-    MIKA @ talk "{i}はあっ!はあっ!{/i}
-どうやって…{i}はあ{/i}…そんなに速く動いたの？"
+    MIKA @ talk "{i}はあっ!はあっ!{/i}どうやって…{i}はあ{/i}…そんなに速く動いたの？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:731
 translate ja qst_a_best_friends_path_8_57942119:
@@ -2055,8 +2050,7 @@ translate ja qst_a_best_friends_path_8_57942119:
 translate ja qst_a_best_friends_path_8_ffd4438d:
 
     # MIKA @ talk "{i}*Huff*{/i} Figures..."
-    MIKA @ talk "{i}*ふう*{/i}
-そう来るか…"
+    MIKA @ talk "{i}*ふう*{/i}そう来るか…"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:734
 translate ja qst_a_best_friends_path_8_4076c4c4:
@@ -2302,8 +2296,7 @@ translate ja qst_a_best_friends_path_9_0653547a:
 translate ja qst_a_best_friends_path_9_240dcd30:
 
     # DRUNKARD "You mages can't help yerselves; we all know that!"
-    DRUNKARD "魔術師どもはどうしてもやめられん、
-それは分かってんだよ!"
+    DRUNKARD "魔術師どもはどうしてもやめられん、それは分かってんだよ!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:807
 translate ja qst_a_best_friends_path_9_99517147:
@@ -2705,8 +2698,7 @@ translate ja qst_a_best_friends_path_10_1928f7ea:
 translate ja qst_a_best_friends_path_10_1b3a2e03:
 
     # "Dropping to her knees, Mika began to sob openly as Sister Divine gently rubbed at her back."
-    "跪き込むと、ミカは声を上げて泣き始めた。
-聖女ディバインは、そっと彼女の背中を撫でながら。"
+    "跪き込むと、ミカは声を上げて泣き始めた。聖女ディバインは、そっと彼女の背中を撫でながら。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:933
 translate ja qst_a_best_friends_path_10_c4d7691b:
@@ -2760,8 +2752,7 @@ translate ja qst_a_best_friends_path_10_e4d9561e:
 translate ja qst_a_best_friends_path_10_fcc5cb7d:
 
     # DIVINE @ sad "Why did you never say? Were you so afraid I would yell at you?"
-    DIVINE @ sad "なぜ言わなかったの？
-私が怒鳴るのがそんなに怖かったの？"
+    DIVINE @ sad "なぜ言わなかったの？私が怒鳴るのがそんなに怖かったの？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:942
 translate ja qst_a_best_friends_path_10_191c2dcb:
@@ -2866,8 +2857,7 @@ translate ja qst_a_best_friends_path_10_cd44bde4:
 translate ja qst_a_best_friends_path_10_a95a5c84:
 
     # DIVINE @ think "I can sense a great change within Mika... Tomorrow, her training will be complete."
-    DIVINE @ think "ミカの中に大きな変化を感じるからこそ…。
-明日、彼女の修行はついに完了するのだ。"
+    DIVINE @ think "ミカの中に大きな変化を感じるからこそ…。明日、彼女の修行はついに完了するのだ。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/src_ABestFriendsPath.rpy:967
 translate ja qst_a_best_friends_path_10_d789b742:

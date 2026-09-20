@@ -1,4 +1,4 @@
-init 2 python:
+init 1 python:
     # cheat sheet of hard-coded stat eff ids.
     # stat effs such as DamageIn have varied status effect ID based on their causing skill.
     # bleed/poison/burn :: lose hp per turn
@@ -663,3 +663,28 @@ init 2 python:
                 return True
             else:
                 return False
+######################################################################
+    # steal mana on successful attack, forever
+    class BattleStatusEff_StarBringerManaStealPermanent(BattleStatusEff):
+        def __init__(self, SourceName = None):
+            super().__init__(Duration = -1, StatusEffectID = "star_bringers_stealmanastrike", SourceName = SourceName)
+            self.Icon = "images/battle_status_eff_icons/RecoverBuff.webp"
+            self.Permanent = True
+            self.EffectName = _("Mana Steal Strike")
+            self.EffectType = BATTLE_STATUS_EFFECT_TYPE.BUFF
+
+        def GetDesc(self):
+            return tra(_("Successful attacks steal mana from the target."))
+
+######################################################################
+    # steal health on successful attack, forever
+    class BattleStatusEff_ShadowreachHPStealPermanent(BattleStatusEff):
+        def __init__(self, SourceName = None):
+            super().__init__(Duration = -1, StatusEffectID = "shadowreach_stealhpstrike", SourceName = SourceName)
+            self.Icon = "images/battle_status_eff_icons/Regen.webp"
+            self.Permanent = True
+            self.EffectName = _("Health Steal Strike")
+            self.EffectType = BATTLE_STATUS_EFFECT_TYPE.BUFF
+
+        def GetDesc(self):
+            return tra(_("Successful attacks steal health from the target."))

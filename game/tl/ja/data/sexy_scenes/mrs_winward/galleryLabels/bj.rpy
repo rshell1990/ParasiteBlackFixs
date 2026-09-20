@@ -292,8 +292,7 @@ translate ja gallery_winward_bj_not_cuck_watched_7322cdfd:
 translate ja gallery_winward_bj_not_cuck_watched_b42cf3d7:
 
     # MRS_WINWARD "{i}*Slurp!* *Slurp!*{/i} Mhmmfhh!"
-    MRS_WINWARD "{i}*ズルズル!* *ズルズル!*{/i}
-んむっ!"
+    MRS_WINWARD "{i}*ズルズル!* *ズルズル!*{/i}んむっ!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/bj.rpy:144
 translate ja gallery_winward_bj_not_cuck_watched_ade650f0:
@@ -527,8 +526,7 @@ translate ja gallery_winward_bj_not_cuck_watched_307b33ea:
 translate ja gallery_winward_bj_not_cuck_watched_a30e804c:
 
     # "With her eyes, she told me clearly, {i}'You're going to cum down my throat in front of my prick of a husband, whether you like it or not now!{/i}"
-    "彼女は目だけで、はっきりと告げた。
-{i}あんたの精液、私の喉奥で、最低な夫の目の前で吐かせてやる。いいだろうが悪かろうがな!{/i}"
+    "彼女は目だけで、はっきりと告げた。{i}あんたの精液、私の喉奥で、最低な夫の目の前で吐かせてやる。いいだろうが悪かろうがな!{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/bj.rpy:206
 translate ja gallery_winward_bj_not_cuck_watched_de3fb3fd:
@@ -1002,8 +1000,7 @@ translate ja gallery_winward_bj_cuck_d90c0bf9:
 translate ja gallery_winward_bj_cuck_180b3ecd:
 
     # "With her eyes she told me clearly, {i}'You're going to cum down my throat in front of my failure of a husband, whether you like it or not now!{/i}"
-    "彼女は目で、はっきりとそう言った。
-{i}ダメ夫の目の前で、貴方は私の喉に出すんだわ、もう貴方の意思とは関係なくね!{/i}"
+    "彼女は目で、はっきりとそう言った。{i}ダメ夫の目の前で、貴方は私の喉に出すんだわ、もう貴方の意思とは関係なくね!{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/bj.rpy:373
 translate ja gallery_winward_bj_cuck_8ff8b460:

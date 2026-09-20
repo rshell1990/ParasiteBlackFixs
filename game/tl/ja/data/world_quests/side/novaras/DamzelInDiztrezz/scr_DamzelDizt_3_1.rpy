@@ -131,8 +131,7 @@ translate ja qst_DamzelDizzt_2_sneaky_Menu_c6897247:
 translate ja qst_DamzelDizzt_2_sneaky_Menu_14fa5c56:
 
     # MARKUS "Whoa, whoa, whoa, how are we going to get close Tarek? We still need that part of the plan."
-    MARKUS "おい おい おい、どうやって接近するつもりだ タレク？
-その部分はまだ決まってないぞ。"
+    MARKUS "おい おい おい、どうやって接近するつもりだ タレク？その部分はまだ決まってないぞ。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_1.rpy:36
 translate ja qst_DamzelDizzt_2_sneaky_Menu_a1cba0eb:

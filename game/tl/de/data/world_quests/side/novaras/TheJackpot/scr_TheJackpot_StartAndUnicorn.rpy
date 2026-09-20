@@ -4,559 +4,559 @@
 translate de qst_jackpot_unicorn_barati_d1465589:
 
     # MR_WINWARD @ angry "Urghh, what in the hells do you want, lad?"
-    MR_WINWARD @ angry "Urghh, what in the hells do you want, lad?"
+    MR_WINWARD @ angry "Urghh, was zum Teufel willst du, Junge?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:6
 translate de qst_jackpot_unicorn_barati_28ca1a0e:
 
     # MR_WINWARD @ angry "Can't you see me and some friends are about to play a couple of games of {i}Barati?{/i}"
-    MR_WINWARD @ angry "Can't you see me and some friends are about to play a couple of games of {i}Barati?{/i}"
+    MR_WINWARD @ angry "Siehst du nicht, dass ich und ein paar Freunde gleich ein paar Runden {i}Barati?{/i} spielen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:7
 translate de qst_jackpot_unicorn_barati_6737004f:
 
     # "Looking over towards Mr Winward's {i}friends,{/i} they seemed considerably younger than him, smiling and whispering amongst themselves."
-    "Looking over towards Mr Winward's {i}friends,{/i} they seemed considerably younger than him, smiling and whispering amongst themselves."
+    "Als ich zu Mr Winwards {i}Freunden{/i} hinübersah, schienen sie erheblich jünger als er zu sein, lächelten und tuschelten untereinander."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:8
 translate de qst_jackpot_unicorn_barati_5eeb63ad:
 
     # "When I focused in my senses on them, there was a distinct smell to them, a hint of blood on their knuckles and boots that they had tried to wash away and mask with vinegar."
-    "When I focused in my senses on them, there was a distinct smell to them, a hint of blood on their knuckles and boots that they had tried to wash away and mask with vinegar."
+    "Als ich meine Sinne auf sie richtete, hing ihnen ein deutlicher Geruch an, ein Hauch von Blut an ihren Knöcheln und Stiefeln, den sie mit Essig abzuwaschen und zu überdecken versucht hatten."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:9
 translate de qst_jackpot_unicorn_barati_3aa36eaa:
 
     # "Their eyes shifted as they glanced around the tavern, carefully on the lookout for anyone who might approach them."
-    "Their eyes shifted as they glanced around the tavern, carefully on the lookout for anyone who might approach them."
+    "Ihre Blicke schweiften umher, während sie sich in der Taverne umsahen, sorgsam Ausschau haltend nach jedem, der sich ihnen nähern könnte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:10
 translate de qst_jackpot_unicorn_barati_b1c01670:
 
     # MC @ serious "({i}Card sharks and swindlers.{/i})"
-    MC @ serious "({i}Card sharks and swindlers.{/i})"
+    MC @ serious "({i}Falschspieler und Betrüger.{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:11
 translate de qst_jackpot_unicorn_barati_d2e4173b:
 
     # BLACK "({i}Threat,{/i})"
-    BLACK "({i}Threat,{/i})"
+    BLACK "({i}Bedrohung,{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:12
 translate de qst_jackpot_unicorn_barati_59619c56:
 
     # MC "If you play with them, you'll lose."
-    MC "If you play with them, you'll lose."
+    MC "Wenn du mit ihnen spielst, wirst du verlieren."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:13
 translate de qst_jackpot_unicorn_barati_95b97852:
 
     # MR_WINWARD @ think "What are you talking about?"
-    MR_WINWARD @ think "What are you talking about?"
+    MR_WINWARD @ think "Wovon redest du?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:14
 translate de qst_jackpot_unicorn_barati_04672925:
 
     # MC @ angry "Can't you see they're working together? They're going to rip you off!"
-    MC @ angry "Can't you see they're working together? They're going to rip you off!"
+    MC @ angry "Siehst du nicht, dass sie zusammenarbeiten? Die werden dich ausnehmen!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:15
 translate de qst_jackpot_unicorn_barati_bc3a782c:
 
     # MR_WINWARD @ angry "Bah! What do you know?"
-    MR_WINWARD @ angry "Bah! What do you know?"
+    MR_WINWARD @ angry "Bah! Was weißt du schon?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:16
 translate de qst_jackpot_unicorn_barati_b1bc3a8b:
 
     # MR_WINWARD @ laugh "Stay out of my way, boy, a fool like you'd be eaten alive in the games I play! Huehuehue!"
-    MR_WINWARD @ laugh "Stay out of my way, boy, a fool like you'd be eaten alive in the games I play! Huehuehue!"
+    MR_WINWARD @ laugh "Geh mir aus dem Weg, Junge, ein Narr wie du würde in den Spielen, die ich spiele, lebendig gefressen werden! Huehuehue!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:17
 translate de qst_jackpot_unicorn_barati_8521d18c:
 
     # "Laughing smugly to himself, the old man dragged himself over to the table to sit down."
-    "Laughing smugly to himself, the old man dragged himself over to the table to sit down."
+    "Selbstgefällig vor sich hin lachend, schleppte sich der alte Mann zum Tisch, um sich hinzusetzen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:18
 translate de qst_jackpot_unicorn_barati_74c3d0ad:
 
     # MC "(Fuck... This idiot is going to get himself robbed or worse.)"
-    MC "(Fuck... This idiot is going to get himself robbed or worse.)"
+    MC "(Scheiße... Dieser Idiot wird sich noch ausrauben lassen oder Schlimmeres.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:20
 translate de qst_jackpot_unicorn_barati_5b87abdc:
 
     # BLACK "({i}They conspire to force the old man to bet beyond his funds, afterwards, they will likely inflict bodily harm on him.{/i})"
-    BLACK "({i}They conspire to force the old man to bet beyond his funds, afterwards, they will likely inflict bodily harm on him.{/i})"
+    BLACK "({i}Sie verschwören sich, den alten Mann dazu zu bringen, über seine Mittel hinaus zu wetten; danach werden sie ihm wahrscheinlich körperlichen Schaden zufügen.{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:21
 translate de qst_jackpot_unicorn_barati_99c25701:
 
     # BLACK "({i}Once they take him to a secluded spot, it would be our optimal time to intervene.{/i})"
-    BLACK "({i}Once they take him to a secluded spot, it would be our optimal time to intervene.{/i})"
+    BLACK "({i}Sobald sie ihn an einen abgelegenen Ort bringen, wäre der optimale Zeitpunkt für uns, einzugreifen.{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:36
 translate de qst_jackpot_unicorn_ill_play_myself_6c9ed4c7:
 
     # "Heading over towards their table, I pulled out a pouch of coins and dropped them down onto the table."
-    "Heading over towards their table, I pulled out a pouch of coins and dropped them down onto the table."
+    "Ich ging zu ihrem Tisch hinüber, holte einen Beutel mit Münzen heraus und ließ ihn auf den Tisch fallen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:37
 translate de qst_jackpot_unicorn_ill_play_myself_4caab988:
 
     # MC @ smile "Room for one more?"
-    MC @ smile "Room for one more?"
+    MC @ smile "Ist noch Platz für einen mehr?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:38
 translate de qst_jackpot_unicorn_ill_play_myself_261cac1a:
 
     # MR_WINWARD @ shock "What do you think you're doing, lad?"
-    MR_WINWARD @ shock "What do you think you're doing, lad?"
+    MR_WINWARD @ shock "Was glaubst du, was du da tust, Junge?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:39
 translate de qst_jackpot_unicorn_ill_play_myself_14ffe8c9:
 
     # MR_WINWARD @ angry "Get off this table! You're not playing!"
-    MR_WINWARD @ angry "Get off this table! You're not playing!"
+    MR_WINWARD @ angry "Verschwinde von diesem Tisch! Du spielst nicht mit!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:40
 translate de qst_jackpot_unicorn_ill_play_myself_0df0d644:
 
     # "The men looked around the table and nodded to each other, the leader of the group turned to smile towards me."
-    "The men looked around the table and nodded to each other, the leader of the group turned to smile towards me."
+    "Die Männer sahen sich am Tisch um und nickten einander zu, der Anführer der Gruppe drehte sich um und lächelte mir zu."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:41
 translate de qst_jackpot_unicorn_ill_play_myself_85793e32:
 
     # SWINDLER "It's no concern of ours; join us..."
-    SWINDLER "It's no concern of ours; join us..."
+    SWINDLER "Das geht uns nichts an; komm zu uns..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:43
 translate de qst_jackpot_unicorn_ill_play_myself_8dee82c6:
 
     # "(Barati game is under construction!)"
-    "(Barati game is under construction!)"
+    "(Barati-Spiel ist im Aufbau!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:44
 translate de qst_jackpot_unicorn_ill_play_myself_4a2fa784:
 
     # MR_WINWARD @ shock "BUT HE-!"
-    MR_WINWARD @ shock "BUT HE-!"
+    MR_WINWARD @ shock "ABER ER-!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:45
 translate de qst_jackpot_unicorn_ill_play_myself_37ca5d02:
 
     # SWINDLER "As long as he has the coin to play, he can."
-    SWINDLER "As long as he has the coin to play, he can."
+    SWINDLER "Solange er die Münze zum Spielen hat, darf er."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:46
 translate de qst_jackpot_unicorn_ill_play_myself_261d4166:
 
     # "The group chuckled as the old man furiously sat back in his seat, mumbling beneath his breath."
-    "The group chuckled as the old man furiously sat back in his seat, mumbling beneath his breath."
+    "Die Gruppe kicherte, als der alte Mann wütend auf seinen Platz zurücksank und vor sich hin murmelte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:47
 translate de qst_jackpot_unicorn_ill_play_myself_5412c2b8:
 
     # SWINDLER "Are you ready to begin, friend?"
-    SWINDLER "Are you ready to begin, friend?"
+    SWINDLER "Bist du bereit zu beginnen, Freund?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:48
 translate de qst_jackpot_unicorn_ill_play_myself_912de4a0:
 
     # MC @ smile "Of course, {i}friend.{/i}"
-    MC @ smile "Of course, {i}friend.{/i}"
+    MC @ smile "Natürlich, {i}Freund.{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:65
 translate de qst_jackpot_unicorn_ill_play_myself_4c152a72:
 
     # SWINDLER "Thanks for the coin, friends."
-    SWINDLER "Thanks for the coin, friends."
+    SWINDLER "Danke für die Münze, Freunde."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:66
 translate de qst_jackpot_unicorn_ill_play_myself_8dea862b:
 
     # MC "(Shit.)"
-    MC "(Shit.)"
+    MC "(Scheiße.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:67
 translate de qst_jackpot_unicorn_ill_play_myself_7cb66577:
 
     # MR_WINWARD @ angry "Bloody fool! I told you this game was no good for you!"
-    MR_WINWARD @ angry "Bloody fool! I told you this game was no good for you!"
+    MR_WINWARD @ angry "Verdammter Narr! Ich habe dir gesagt, dass dieses Spiel nichts für dich ist!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:68
 translate de qst_jackpot_unicorn_ill_play_myself_686e7012:
 
     # SWINDLER "Shall we keep playing, Mr Winward?"
-    SWINDLER "Shall we keep playing, Mr Winward?"
+    SWINDLER "Sollen wir weiterspielen, Mr Winward?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:69
 translate de qst_jackpot_unicorn_ill_play_myself_bbbba1fc:
 
     # MR_WINWARD "Aye, I've got the coin for a few more rounds!"
-    MR_WINWARD "Aye, I've got the coin for a few more rounds!"
+    MR_WINWARD "Ja, ich habe das Geld für noch ein paar Runden!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:70
 translate de qst_jackpot_unicorn_ill_play_myself_e3a09e63:
 
     # MC "You really shouldn't keep playing with them."
-    MC "You really shouldn't keep playing with them."
+    MC "Sie sollten wirklich nicht weiter mit ihnen spielen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:71
 translate de qst_jackpot_unicorn_ill_play_myself_3711242a:
 
     # MC @ serious "They've nearly bled you dry."
-    MC @ serious "They've nearly bled you dry."
+    MC @ serious "Sie haben Sie fast völlig ausgenommen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:72
 translate de qst_jackpot_unicorn_ill_play_myself_56270ffe:
 
     # MR_WINWARD @ angry "I'll do with my coin as I bloody wish!"
-    MR_WINWARD @ angry "I'll do with my coin as I bloody wish!"
+    MR_WINWARD @ angry "Ich werde mit meinem Geld machen, was ich verdammt noch mal will!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:75
 translate de qst_jackpot_unicorn_ill_play_myself_98f212b3:
 
     # MC @ angry "...Very well then."
-    MC @ angry "...Very well then."
+    MC @ angry "...Na schön, dann."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:76
 translate de qst_jackpot_unicorn_ill_play_myself_a61fe8d6:
 
     # MC "(Hm, well that didn't go to plan.)"
-    MC "(Hm, well that didn't go to plan.)"
+    MC "(Hm, nun, das lief nicht nach Plan.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:77
 translate de qst_jackpot_unicorn_ill_play_myself_f44a3c8c:
 
     # MC "(Perhaps I should stick around though and see how the old man gets on?)"
-    MC "(Perhaps I should stick around though and see how the old man gets on?)"
+    MC "(Vielleicht sollte ich jedoch bleiben und sehen, wie es dem alten Mann ergeht?)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:82
 translate de qst_jackpot_unicorn_player_won_barati_47846cd8:
 
     # SWINDLER "YOU CHEATED!"
-    SWINDLER "YOU CHEATED!"
+    SWINDLER "DU HAST GESCHUMMELT!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:83
 translate de qst_jackpot_unicorn_player_won_barati_d7f0c389:
 
     # MC @ smile "Now, now... You've lost, accept it."
-    MC @ smile "Now, now... You've lost, accept it."
+    MC @ smile "Na, na... Du hast verloren, akzeptier es."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:84
 translate de qst_jackpot_unicorn_player_won_barati_e38fb83e:
 
     # MR_WINWARD @ shock "I ... I don't believe it!"
-    MR_WINWARD @ shock "I ... I don't believe it!"
+    MR_WINWARD @ shock "Ich ... ich glaub's nicht!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:85
 translate de qst_jackpot_unicorn_player_won_barati_b19cd80b:
 
     # MR_WINWARD @ shock "By the gods, lad, how did you-"
-    MR_WINWARD @ shock "By the gods, lad, how did you-"
+    MR_WINWARD @ shock "Bei den Göttern, Junge, wie hast du-"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:86
 translate de qst_jackpot_unicorn_player_won_barati_0f88ad2f:
 
     # SWINDLER "Give us back our fucking coin before we-!"
-    SWINDLER "Give us back our fucking coin before we-!"
+    SWINDLER "Gib uns unser verdammtes Geld zurück, bevor wir-!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:87
 translate de qst_jackpot_unicorn_player_won_barati_0ff31f7c:
 
     # "As he reached for his blade, the group quickly Realized the entire tavern's eyes were drawn to the commotion."
-    "As he reached for his blade, the group quickly Realized the entire tavern's eyes were drawn to the commotion."
+    "Als er nach seiner Klinge griff, bemerkte die Gruppe schnell, dass die Augen der ganzen Taverne auf den Tumult gerichtet waren."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:88
 translate de qst_jackpot_unicorn_player_won_barati_b8daf890:
 
     # "One of the other bandits gently rested his hand on the ones shoulder and whispered something into his ear, as he did so, he let go of his blade quickly."
-    "One of the other bandits gently rested his hand on the ones shoulder and whispered something into his ear, as he did so, he let go of his blade quickly."
+    "Einer der anderen Banditen legte sanft seine Hand auf die Schulter des einen und flüsterte ihm etwas ins Ohr; während er das tat, ließ er schnell seine Klinge los."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:90
 translate de qst_jackpot_unicorn_player_won_barati_ba9f116e:
 
     # "The men departed, glaring at me as they passed by, leaving the coin on the table for me to collect."
-    "The men departed, glaring at me as they passed by, leaving the coin on the table for me to collect."
+    "Die Männer gingen fort, warfen mir im Vorbeigehen finstere Blicke zu und ließen das Geld auf dem Tisch liegen, damit ich es einsammeln konnte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:91
 translate de qst_jackpot_unicorn_player_won_barati_218a95bf:
 
     # MC @ think "(There's a chance they may be waiting outside to jump us.)"
-    MC @ think "(There's a chance they may be waiting outside to jump us.)"
+    MC @ think "(Es besteht die Möglichkeit, dass sie draußen warten, um uns zu überfallen.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:92
 translate de qst_jackpot_unicorn_player_won_barati_68fb5874:
 
     # BLACK "({i}They will die.{/i})"
-    BLACK "({i}They will die.{/i})"
+    BLACK "({i}Sie werden sterben.{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:93
 translate de qst_jackpot_unicorn_player_won_barati_9d7b40c1:
 
     # BLACK "({i}But I can feel their scent moving further away from us... Perhaps they do not wish to draw any more attention than they already have.{/i})"
-    BLACK "({i}But I can feel their scent moving further away from us... Perhaps they do not wish to draw any more attention than they already have.{/i})"
+    BLACK "({i}Aber ich kann spüren, wie sich ihr Duft weiter von uns entfernt ... Vielleicht wollen sie nicht noch mehr Aufmerksamkeit erregen, als sie es ohnehin schon getan haben.{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:94
 translate de qst_jackpot_unicorn_player_won_barati_ffdb368f:
 
     # MC "(One can only hope so.)"
-    MC "(One can only hope so.)"
+    MC "(Man kann nur hoffen.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:96
 translate de qst_jackpot_unicorn_player_won_barati_b243042a:
 
     # MR_WINWARD @ shock "Ho ho! I can't believe it, lad!"
-    MR_WINWARD @ shock "Ho ho! I can't believe it, lad!"
+    MR_WINWARD @ shock "Ho ho! Ich kann es nicht glauben, Junge!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:97
 translate de qst_jackpot_unicorn_player_won_barati_5a1654df:
 
     # MR_WINWARD @ happy "{i}We{/i} sure showed them, eh?"
-    MR_WINWARD @ happy "{i}We{/i} sure showed them, eh?"
+    MR_WINWARD @ happy "{i}Wir{/i} haben es ihnen echt gezeigt, was?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:98
 translate de qst_jackpot_unicorn_player_won_barati_df2599a4:
 
     # MC @ think "...{i}We?{/i}"
-    MC @ think "...{i}We?{/i}"
+    MC @ think "...{i}Wir?{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:99
 translate de qst_jackpot_unicorn_player_won_barati_9d0d0542:
 
     # MR_WINWARD @ happy "{i}*Cough!*{/i} Well, uhh... I clearly threw them off their game!"
-    MR_WINWARD @ happy "{i}*Cough!*{/i} Well, uhh... I clearly threw them off their game!"
+    MR_WINWARD @ happy "{i}*Hust!*{/i} Also, äh... ich habe sie eindeutig aus dem Konzept gebracht!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:100
 translate de qst_jackpot_unicorn_player_won_barati_fe53c265:
 
     # MR_WINWARD "So, how's it about it lad, what's my cut?"
-    MR_WINWARD "So, how's it about it lad, what's my cut?"
+    MR_WINWARD "Also, wie sieht's aus, Kumpel, wie hoch ist mein Anteil?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:104
 translate de qst_jackpot_unicorn_player_won_barati_9baa64c4:
 
     # MR_WINWARD @ angry "BAH! Come on now!"
-    MR_WINWARD @ angry "BAH! Come on now!"
+    MR_WINWARD @ angry "BAH! Komm schon!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:105
 translate de qst_jackpot_unicorn_player_won_barati_10e94f4a:
 
     # MR_WINWARD @ angry "Give us at least a few of those winnings, would ya?!"
-    MR_WINWARD @ angry "Give us at least a few of those winnings, would ya?!"
+    MR_WINWARD @ angry "Gib mir wenigstens ein paar von den Gewinnen, ja?!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:108
 translate de qst_jackpot_unicorn_player_won_barati_92c47b67:
 
     # MR_WINWARD @ angry "Aw come on, lad! Don't be like that!"
-    MR_WINWARD @ angry "Aw come on, lad! Don't be like that!"
+    MR_WINWARD @ angry "Ach komm schon, Junge! Sei nicht so!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:109
 translate de qst_jackpot_unicorn_player_won_barati_7c25a67a:
 
     # MR_WINWARD @ angry "I ain't been nothing but nice to ya!"
-    MR_WINWARD @ angry "I ain't been nothing but nice to ya!"
+    MR_WINWARD @ angry "Ich war doch nur nett zu dir!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:110
 translate de qst_jackpot_unicorn_player_won_barati_b256cf77:
 
     # MC @ think "Why would I give a single coin to you?"
-    MC @ think "Why would I give a single coin to you?"
+    MC @ think "Warum sollte ich dir auch nur eine einzige Münze geben?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:111
 translate de qst_jackpot_unicorn_player_won_barati_f5bbbdf0:
 
     # MC @ angry "You've been nothing but a complete ass since we've met."
-    MC @ angry "You've been nothing but a complete ass since we've met."
+    MC @ angry "Du warst nichts als ein Vollidiot, seit wir uns kennen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:112
 translate de qst_jackpot_unicorn_player_won_barati_2c0e8153:
 
     # MR_WINWARD @ think "Uhh... Well, perhaps I have been a little hard on ya..."
-    MR_WINWARD @ think "Uhh... Well, perhaps I have been a little hard on ya..."
+    MR_WINWARD @ think "Äh... Nun, vielleicht war ich ein wenig hart zu dir..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:113
 translate de qst_jackpot_unicorn_player_won_barati_16f3cafb:
 
     # MR_WINWARD @ shock "But perhaps I've got an idea that might interest you!"
-    MR_WINWARD @ shock "But perhaps I've got an idea that might interest you!"
+    MR_WINWARD @ shock "Aber vielleicht habe ich eine Idee, die dich interessieren könnte!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:114
 translate de qst_jackpot_unicorn_player_won_barati_b993a5c0:
 
     # MC @ think "...Go on."
-    MC @ think "...Go on."
+    MC @ think "...Sprich weiter."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:115
 translate de qst_jackpot_unicorn_player_won_barati_066c397a:
 
     # MR_WINWARD @ happy "I've seen the way you looked at my wife's tits."
-    MR_WINWARD @ happy "I've seen the way you looked at my wife's tits."
+    MR_WINWARD @ happy "Ich habe gesehen, wie du auf die Titten meiner Frau gestarrt hast."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:116
 translate de qst_jackpot_unicorn_player_won_barati_8a8e2710:
 
     # MR_WINWARD @ laugh "Don't know what you see in that used-up hag at this point, but how's about I uhh, {i}push{/i} her towards giving you some relief?"
-    MR_WINWARD @ laugh "Don't know what you see in that used-up hag at this point, but how's about I uhh, {i}push{/i} her towards giving you some relief?"
+    MR_WINWARD @ laugh "Weiß nicht, was du an dieser verbrauchten Schlampe noch findest, aber wie wäre es, wenn ich sie ähm, {i}dränge{/i}, dir etwas Erleichterung zu verschaffen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:117
 translate de qst_jackpot_unicorn_player_won_barati_401f7fbb:
 
     # MC @ serious "...Are you serious?"
-    MC @ serious "...Are you serious?"
+    MC @ serious "...Meinst du das ernst?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:118
 translate de qst_jackpot_unicorn_player_won_barati_62319642:
 
     # MR_WINWARD @ happy "Course I am!"
-    MR_WINWARD @ happy "Course I am!"
+    MR_WINWARD @ happy "Klar bin ich das!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:119
 translate de qst_jackpot_unicorn_player_won_barati_54b4dd6e:
 
     # MR_WINWARD @ happy "In return... I get some of those winnings, and you uhh...perhaps {i}help me out{/i} in my next game."
-    MR_WINWARD @ happy "In return... I get some of those winnings, and you uhh...perhaps {i}help me out{/i} in my next game."
+    MR_WINWARD @ happy "Im Gegenzug... bekomme ich einen Teil dieser Gewinne, und du ähm... vielleicht {i}hilfst du mir{/i} bei meinem nächsten Spiel."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:120
 translate de qst_jackpot_unicorn_player_won_barati_035c0ddd:
 
     # MC "You're planning to do this again?"
-    MC "You're planning to do this again?"
+    MC "Du planst, das noch mal zu tun?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:121
 translate de qst_jackpot_unicorn_player_won_barati_928dec6d:
 
     # MR_WINWARD @ think "I am, with much higher stakes."
-    MR_WINWARD @ think "I am, with much higher stakes."
+    MR_WINWARD @ think "Das tue ich, mit viel höheren Einsätzen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:122
 translate de qst_jackpot_unicorn_player_won_barati_927f5078:
 
     # MR_WINWARD "I ain't tell the wife nothing, {i}but I have been making some small winnings here and there...{/i}"
-    MR_WINWARD "I ain't tell the wife nothing, {i}but I have been making some small winnings here and there...{/i}"
+    MR_WINWARD "Ich hab meiner Frau gar nichts gesagt, {i}aber ich habe hier und da kleine Gewinne gemacht...{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:123
 translate de qst_jackpot_unicorn_player_won_barati_ae871ade:
 
     # MR_WINWARD "Been saving up for a high-stakes game."
-    MR_WINWARD "Been saving up for a high-stakes game."
+    MR_WINWARD "Hab für ein Spiel mit hohen Einsätzen gespart."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:124
 translate de qst_jackpot_unicorn_player_won_barati_ea2407b8:
 
     # MR_WINWARD "Figured though, could use some backup..."
-    MR_WINWARD "Figured though, could use some backup..."
+    MR_WINWARD "Dachte aber, ich könnte etwas Unterstützung gebrauchen..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:125
 translate de qst_jackpot_unicorn_player_won_barati_8ddcec0e:
 
     # MR_WINWARD "So, how about it? You interested?"
-    MR_WINWARD "So, how about it? You interested?"
+    MR_WINWARD "Also, wie wär's? Interessiert?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:126
 translate de qst_jackpot_unicorn_player_won_barati_7afa120f:
 
     # MC @ serious "...I'll think about it."
-    MC @ serious "...I'll think about it."
+    MC @ serious "...Ich werd's mir überlegen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:127
 translate de qst_jackpot_unicorn_player_won_barati_6e74f439:
 
     # MR_WINWARD @ happy "Ahh! Knew you were a smart one! Don't worry, lad, you won't regret a thing!"
-    MR_WINWARD @ happy "Ahh! Knew you were a smart one! Don't worry, lad, you won't regret a thing!"
+    MR_WINWARD @ happy "Ahh! Wusste, dass du ein kluger Kerl bist! Keine Sorge, Junge, du wirst nichts bereuen!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:128
 translate de qst_jackpot_unicorn_player_won_barati_959bd132:
 
     # MR_WINWARD @ happy "Come around in a day or so once I've softened her up, fufu! Don't worry, I'll keep to my end of the deal!"
-    MR_WINWARD @ happy "Come around in a day or so once I've softened her up, fufu! Don't worry, I'll keep to my end of the deal!"
+    MR_WINWARD @ happy "Komm in etwa einem Tag vorbei, sobald ich sie weichgeklopft habe, fufu! Keine Sorge, ich halte mich an meinen Teil der Abmachung!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:129
 translate de qst_jackpot_unicorn_player_won_barati_c0750c43:
 
     # "After handing over another hundred of the coins into Mr Winward's hand, he merrily made his way out of the tavern humming to himself."
-    "After handing over another hundred of the coins into Mr Winward's hand, he merrily made his way out of the tavern humming to himself."
+    "Nachdem er Mr. Winward weitere hundert Münzen in die Hand gegeben hatte, verließ er fröhlich vor sich hin summend die Taverne."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:138
 translate de qst_jackpot_unicorn_player_won_barati_e2608936:
 
     # MC "(You wouldn't think he basically just offered up his wife's ass to us.)"
-    MC "(You wouldn't think he basically just offered up his wife's ass to us.)"
+    MC "(Man würde nicht denken, dass er uns im Grunde gerade den Arsch seiner Frau angeboten hat.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:139
 translate de qst_jackpot_unicorn_player_won_barati_66335a9b:
 
     # BLACK "{i}(This male is weak, but he is convinced he is strong... Humans are... fascinating.){/i}"
-    BLACK "{i}(This male is weak, but he is convinced he is strong... Humans are... fascinating.){/i}"
+    BLACK "{i}(Dieser Mann ist schwach, aber er ist überzeugt, dass er stark ist... Menschen sind... faszinierend.){/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:144
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_a3271565:
 
     # "...Sure enough, I watched as Mr Winward lost hand after hand, the group playing against him, smirking as they obviously worked together."
-    "...Sure enough, I watched as Mr Winward lost hand after hand, the group playing against him, smirking as they obviously worked together."
+    "...Wie zu erwarten, sah ich zu, wie Mr. Winward eine Hand nach der anderen verlor, die Gruppe spielte gegen ihn und grinste, offensichtlich arbeiteten sie zusammen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:145
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_dbc47308:
 
     # "Eventually, the game finally ended, and a defeated Mr Winward buried his face in his hands."
-    "Eventually, the game finally ended, and a defeated Mr Winward buried his face in his hands."
+    "Schließlich endete das Spiel endgültig und ein geschlagener Mr. Winward vergrub sein Gesicht in seinen Händen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:146
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_734f5c14:
 
     # "I watched carefully from the sides as they chatted back and forth a little, the smiles slowly fading from the gang members' faces as Mr. Winward no doubt explained he couldn't pay them."
-    "I watched carefully from the sides as they chatted back and forth a little, the smiles slowly fading from the gang members' faces as Mr. Winward no doubt explained he couldn't pay them."
+    "Ich beobachtete sorgfältig von der Seite, wie sie ein wenig hin und her plauderten, und die Lächeln verschwanden langsam von den Gesichtern der Bandenmitglieder, als Mr. Winward zweifellos erklärte, dass er sie nicht bezahlen konnte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:147
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_3c3c3af4:
 
     # "Suddenly, by the scuff of his neck, Mr Winward was dragged outside the tavern."
-    "Suddenly, by the scuff of his neck, Mr Winward was dragged outside the tavern."
+    "Plötzlich wurde Mr. Winward am Genick gepackt und aus der Taverne geschleift."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:154
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_328f1376:
 
     # "Pushing my way through the merry crowds blocking my way, I headed outside to see the old man was gone."
-    "Pushing my way through the merry crowds blocking my way, I headed outside to see the old man was gone."
+    "Ich drängte mich durch die fröhliche Menge, die mir den Weg versperrte, und ging nach draußen, um festzustellen, dass der alte Mann verschwunden war."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:155
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_2dda49e8:
 
     # MC @ serious "(Which way did he go?)"
-    MC @ serious "(Which way did he go?)"
+    MC @ serious "(In welche Richtung ist er gegangen?)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:156
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_7777450f:
 
     # BLACK "({i}North...{/i})"
-    BLACK "({i}North...{/i})"
+    BLACK "({i}Norden...{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:157
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_c5d21162:
 
     # BLACK "({i}This way...{/i})"
-    BLACK "({i}This way...{/i})"
+    BLACK "({i}Hier entlang...{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:165
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_5f47bb93:
 
     # "Heading down one of the many cramped, dark backstreet alleyways, I found Mr Winward surrounded by the men."
-    "Heading down one of the many cramped, dark backstreet alleyways, I found Mr Winward surrounded by the men."
+    "Als ich eine der vielen engen, dunklen Hintergassen hinunterging, fand ich Mr. Winward, umringt von den Männern."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:167
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_c6f358ed:
 
     # MR_WINWARD @ angry "You can't do this to me! I'm Bilgar Winward of the-"
-    MR_WINWARD @ angry "You can't do this to me! I'm Bilgar Winward of the-"
+    MR_WINWARD @ angry "Ihr könnt mir das nicht antun! Ich bin Bilgar Winward von der-"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:169
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_c1b6bfa9:
 
     # "They pushed him sharply against the damp wall, causing the air to knock out of his lungs."
-    "They pushed him sharply against the damp wall, causing the air to knock out of his lungs."
+    "Sie stießen ihn heftig gegen die feuchte Wand, sodass ihm die Luft aus den Lungen gepresst wurde."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:170
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_58ef4cc5:
@@ -568,397 +568,397 @@ translate de qst_jackpot_unicorn_watchem_lose_then_protect_58ef4cc5:
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_c6a8e707:
 
     # "The one bandit drew his blade and held it up towards Mr Winward's face."
-    "The one bandit drew his blade and held it up towards Mr Winward's face."
+    "Einer der Banditen zog seine Klinge und hielt sie Mr. Winward vors Gesicht."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:172
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_684febe1:
 
     # MR_WINWARD @ scared "I -I'll pay you all as soon as I can! I swear!"
-    MR_WINWARD @ scared "I -I'll pay you all as soon as I can! I swear!"
+    MR_WINWARD @ scared "Ich - ich werde euch alle bezahlen, sobald ich kann! Ich schwöre es!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:173
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_24d8e054:
 
     # SWINDLER "Do I look like a fucking idiot to you?"
-    SWINDLER "Do I look like a fucking idiot to you?"
+    SWINDLER "Hältst du mich für einen verdammten Idioten?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:174
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_b18c35f9:
 
     # "He pressed the blade against Mr Winward's cheek, ever so gently dragging it down."
-    "He pressed the blade against Mr Winward's cheek, ever so gently dragging it down."
+    "Er presste die Klinge an Mr. Winwards Wange und ließ sie ganz langsam nach unten gleiten."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:175
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_08d58fe7:
 
     # MR_WINWARD @ scared "A-AHHH! W-WAIT! Please!"
-    MR_WINWARD @ scared "A-AHHH! W-WAIT! Please!"
+    MR_WINWARD @ scared "A-AAAH! W-WARTE! Bitte!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:176
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_3699c51d:
 
     # "Stepping out into their line of sight, they turned towards me."
-    "Stepping out into their line of sight, they turned towards me."
+    "Als ich in ihr Blickfeld trat, wandten sie sich mir zu."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:179
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_f2c6183d:
 
     # SWINDLER "This doesn't concern you, piss off!"
-    SWINDLER "This doesn't concern you, piss off!"
+    SWINDLER "Das geht dich nichts an, verpiss dich!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:182
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_dac4970b:
 
     # SWINDLER "F-Fuck! What's wrong with you?!"
-    SWINDLER "F-Fuck! What's wrong with you?!"
+    SWINDLER "V-Verdammt! Was ist los mit dir?!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:183
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_6b0c7a2f:
 
     # SWINDLER "Get away from me, you monster!"
-    SWINDLER "Get away from me, you monster!"
+    SWINDLER "Verschwinde von mir, du Monster!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:184
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_ac571311:
 
     # "The terrified bandits fled into the darkness of one of the many pitch-black alleyways."
-    "The terrified bandits fled into the darkness of one of the many pitch-black alleyways."
+    "Die verängstigten Banditen flohen in die Dunkelheit einer der vielen stockdunklen Gassen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:186
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_b884a34f:
 
     # MR_WINWARD @ scared "{i}*Huff*{/i} Oh gods... I ... Thank you."
-    MR_WINWARD @ scared "{i}*Huff*{/i} Oh gods... I ... Thank you."
+    MR_WINWARD @ scared "{i}*Keuch*{/i} Oh Götter... Ich ... Danke."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:191
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_336c5612:
 
     # SWINDLER "Hmm... Very well then."
-    SWINDLER "Hmm... Very well then."
+    SWINDLER "Hmm... Also gut."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:192
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_08fa8c5c:
 
     # "Throwing the coin pouch toward the bandit, he caught it and looked towards Mr Winward, knife waving in front of his face."
-    "Throwing the coin pouch toward the bandit, he caught it and looked towards Mr Winward, knife waving in front of his face."
+    "Er warf den Münzbeutel dem Banditen zu, dieser fing ihn und sah zu Mr Winward, das Messer wedelte vor seinem Gesicht."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:193
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_7811c6c4:
 
     # SWINDLER "Next time, pay your debts, old man... Else, you might not be so lucky next time."
-    SWINDLER "Next time, pay your debts, old man... Else, you might not be so lucky next time."
+    SWINDLER "Bezahle nächstes Mal deine Schulden, alter Mann... Sonst hast du nächstes Mal vielleicht nicht so viel Glück."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:195
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_1d0356aa:
 
     # "With a sharp whistle, the bandits scattered, hurrying off down one of the many darkened alleyways."
-    "With a sharp whistle, the bandits scattered, hurrying off down one of the many darkened alleyways."
+    "Mit einem scharfen Pfiff zerstreuten sich die Banditen und eilten davon, eine der vielen dunklen Gassen hinunter."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:197
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_472fd398:
 
     # MR_WINWARD @ scared "{i}*Huff*{/i} Oh gods... I... Thank you."
-    MR_WINWARD @ scared "{i}*Huff*{/i} Oh gods... I... Thank you."
+    MR_WINWARD @ scared "{i}*Keuch*{/i} Oh Götter... Ich... Danke."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:200
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_2c045088:
 
     # SWINDLER "BOYS! IT'S ON!"
-    SWINDLER "BOYS! IT'S ON!"
+    SWINDLER "JUNGS! ES GEHT LOS!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:207
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_01bf0ca9:
 
     # "As the last of the bandits dropped and collapsed to the floor in a pool of his own blood, a terrified Mr Winward turned shakily towards me."
-    "As the last of the bandits dropped and collapsed to the floor in a pool of his own blood, a terrified Mr Winward turned shakily towards me."
+    "Als der letzte der Banditen zu Boden fiel und in einer Lache seines eigenen Blutes zusammenbrach, drehte sich ein verängstigter Mr Winward zitternd zu mir um."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:214
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_f312a74f:
 
     # MC "Are you alright?"
-    MC "Are you alright?"
+    MC "Geht es Ihnen gut?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:215
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_286fca01:
 
     # MR_WINWARD @ scared "{i}*Huff*{/i} You... You killed them all!"
-    MR_WINWARD @ scared "{i}*Huff*{/i} You... You killed them all!"
+    MR_WINWARD @ scared "{i}*Schnauf*{/i} Du... Du hast sie alle getötet!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:216
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_c62855f0:
 
     # MR_WINWARD @ scared "I ... I thought I was about to be-"
-    MR_WINWARD @ scared "I ... I thought I was about to be-"
+    MR_WINWARD @ scared "Ich... Ich dachte, ich wäre gleich-"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:218
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_1dc00bac:
 
     # "He gulped, shaking off the thought."
-    "He gulped, shaking off the thought."
+    "Er schluckte und schüttelte den Gedanken ab."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:219
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_db8088e6:
 
     # MR_WINWARD @ scared "Y-Yes, I'm alright..."
-    MR_WINWARD @ scared "Y-Yes, I'm alright..."
+    MR_WINWARD @ scared "J-Ja, mir geht es gut..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:223
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_549e1adc:
 
     # MC "Well, my job here is done."
-    MC "Well, my job here is done."
+    MC "Nun, meine Arbeit hier ist erledigt."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:224
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_44820f6d:
 
     # MC "Go home, old man."
-    MC "Go home, old man."
+    MC "Geh nach Hause, alter Mann."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:227
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_54c6b19c:
 
     # "As I turned to leave, Mr Winward reached out to grab my arm."
-    "As I turned to leave, Mr Winward reached out to grab my arm."
+    "Als ich mich umdrehte, um zu gehen, griff Mr Winward nach meinem Arm."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:228
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_9a913602:
 
     # MR_WINWARD @ shock "Wait a minute, lad!"
-    MR_WINWARD @ shock "Wait a minute, lad!"
+    MR_WINWARD @ shock "Moment mal, Junge!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:231
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_bc8e840d:
 
     # MR_WINWARD @ think "I've uhh... got an idea that might interest you!"
-    MR_WINWARD @ think "I've uhh... got an idea that might interest you!"
+    MR_WINWARD @ think "Ich habe ähm... eine Idee, die dich interessieren könnte!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:232
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_b993a5c0:
 
     # MC @ think "...Go on."
-    MC @ think "...Go on."
+    MC @ think "...Weiter."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:233
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_c9a3fd2c:
 
     # MR_WINWARD @ happy "Look, I've seen the way you looked at my wife's tits."
-    MR_WINWARD @ happy "Look, I've seen the way you looked at my wife's tits."
+    MR_WINWARD @ happy "Schau, ich habe gesehen, wie du die Titten meiner Frau angeschaut hast."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:234
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_8a8e2710:
 
     # MR_WINWARD @ laugh "Don't know what you see in that used-up hag at this point, but how's about I uhh, {i}push{/i} her towards giving you some relief?"
-    MR_WINWARD @ laugh "Don't know what you see in that used-up hag at this point, but how's about I uhh, {i}push{/i} her towards giving you some relief?"
+    MR_WINWARD @ laugh "Keine Ahnung, was du an dieser abgenutzten Vettel noch findest, aber wie wär's, wenn ich sie ähm, {i}dazu dränge{/i}, dir etwas Erleichterung zu verschaffen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:235
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_401f7fbb:
 
     # MC @ serious "...Are you serious?"
-    MC @ serious "...Are you serious?"
+    MC @ serious "...Ist das dein Ernst?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:236
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_62319642:
 
     # MR_WINWARD @ happy "Course I am!"
-    MR_WINWARD @ happy "Course I am!"
+    MR_WINWARD @ happy "Klar bin ich's!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:237
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_d62b5360:
 
     # MR_WINWARD @ happy "In return... you uhh...perhaps {i}help me out{/i} in my next game."
-    MR_WINWARD @ happy "In return... you uhh...perhaps {i}help me out{/i} in my next game."
+    MR_WINWARD @ happy "Im Gegenzug... du ähm...vielleicht {i}hilfst du mir{/i} bei meinem nächsten Spiel."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:238
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_4dbce040:
 
     # MC @ serious "You're planning to do this again?"
-    MC @ serious "You're planning to do this again?"
+    MC @ serious "Du planst, das wieder zu tun?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:239
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_0cdf546c:
 
     # MC @ angry "After what just happened?"
-    MC @ angry "After what just happened?"
+    MC @ angry "Nach dem, was gerade passiert ist?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:240
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_928dec6d:
 
     # MR_WINWARD @ think "I am, with much higher stakes."
-    MR_WINWARD @ think "I am, with much higher stakes."
+    MR_WINWARD @ think "Ich bin dabei, mit viel höheren Einsätzen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:241
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_1e32a40e:
 
     # MR_WINWARD "I ain't tellin' the wife nothin,' {i}but I have been making some small winnings here and there...{/i}"
-    MR_WINWARD "I ain't tellin' the wife nothin,' {i}but I have been making some small winnings here and there...{/i}"
+    MR_WINWARD "Ich erzähl' meiner Frau nichts, {i}aber ich hab' hier und da ein paar kleine Gewinne gemacht...{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:242
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_ae871ade:
 
     # MR_WINWARD "Been saving up for a high-stakes game."
-    MR_WINWARD "Been saving up for a high-stakes game."
+    MR_WINWARD "Hab' für ein Spiel mit hohen Einsätzen gespart."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:243
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_ea2407b8:
 
     # MR_WINWARD "Figured though, could use some backup..."
-    MR_WINWARD "Figured though, could use some backup..."
+    MR_WINWARD "Dachte mir aber, ich könnte etwas Verstärkung gebrauchen..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:244
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_8368e1a2:
 
     # MR_WINWARD @ scared "{i}Especially if things end up like this again...{/i}"
-    MR_WINWARD @ scared "{i}Especially if things end up like this again...{/i}"
+    MR_WINWARD @ scared "{i}Besonders, wenn es nochmal so enden sollte...{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:245
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_8ddcec0e:
 
     # MR_WINWARD "So, how about it? You interested?"
-    MR_WINWARD "So, how about it? You interested?"
+    MR_WINWARD "Also, wie wär's? Interessiert?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:246
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_7afa120f:
 
     # MC @ serious "...I'll think about it."
-    MC @ serious "...I'll think about it."
+    MC @ serious "...Ich werd's mir überlegen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:247
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_6e74f439:
 
     # MR_WINWARD @ happy "Ahh! Knew you were a smart one! Don't worry, lad, you won't regret a thing!"
-    MR_WINWARD @ happy "Ahh! Knew you were a smart one! Don't worry, lad, you won't regret a thing!"
+    MR_WINWARD @ happy "Ahh! Ich wusste, du bist ein schlauer Kopf! Keine Sorge, Junge, du wirst es nicht bereuen!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:248
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_959bd132:
 
     # MR_WINWARD @ happy "Come around in a day or so once I've softened her up, fufu! Don't worry, I'll keep to my end of the deal!"
-    MR_WINWARD @ happy "Come around in a day or so once I've softened her up, fufu! Don't worry, I'll keep to my end of the deal!"
+    MR_WINWARD @ happy "Komm in ein, zwei Tagen vorbei, sobald ich sie weichgeklopft habe, fufu! Keine Sorge, ich halt mich an meinen Teil der Abmachung!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:249
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_7d12c28d:
 
     # MR_WINWARD "Now uhh, you mind escorting me out of here?"
-    MR_WINWARD "Now uhh, you mind escorting me out of here?"
+    MR_WINWARD "Jetzt, ähh, hast du was dagegen, mich hier rauszubegleiten?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:250
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_9a55f71d:
 
     # MR_WINWARD @ scared "This uh... Ain't no place for an old man at this hour."
-    MR_WINWARD @ scared "This uh... Ain't no place for an old man at this hour."
+    MR_WINWARD @ scared "Das, ähm... Das ist kein Ort für einen alten Mann zu dieser Stunde."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:251
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_3d7b0891:
 
     # MC "...Fine."
-    MC "...Fine."
+    MC "...Na gut."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:253
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_38d28db0:
 
     # "I escorted Mr Winward safely out of the alleyway."
-    "I escorted Mr Winward safely out of the alleyway."
+    "Ich begleitete Mr. Winward sicher aus der Gasse."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:258
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_b62ffdd0:
 
     # MR_WINWARD "Thanks again, lad!"
-    MR_WINWARD "Thanks again, lad!"
+    MR_WINWARD "Danke nochmal, Junge!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:260
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_e2608936:
 
     # MC "(You wouldn't think he basically just offered up his wife's ass to us.)"
-    MC "(You wouldn't think he basically just offered up his wife's ass to us.)"
+    MC "(Man würde nicht glauben, dass er uns im Grunde gerade den Arsch seiner Frau angeboten hat.)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:261
 translate de qst_jackpot_unicorn_watchem_lose_then_protect_5ec2b91a:
 
     # BLACK "{i}(This male is weak, but he is convinced he is strong... Humans are...fascinating.){/i}"
-    BLACK "{i}(This male is weak, but he is convinced he is strong... Humans are...fascinating.){/i}"
+    BLACK "{i}(Dieser Mann ist schwach, aber er ist überzeugt, dass er stark ist... Menschen sind...faszinierend.){/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:269
 translate de qst_jackpot_return_from_unicorn_8f6e53aa:
 
     # "Mrs. Winward approached me sheepishly, hands clasped together as she nervously drew close."
-    "Mrs. Winward approached me sheepishly, hands clasped together as she nervously drew close."
+    "Mrs. Winward näherte sich mir schüchtern, die Hände verschränkt, während sie nervös näher kam."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:271
 translate de qst_jackpot_return_from_unicorn_a03a0037:
 
     # MRS_WINWARD @ embarr "H-Hello again."
-    MRS_WINWARD @ embarr "H-Hello again."
+    MRS_WINWARD @ embarr "H-Hallo nochmal."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:272
 translate de qst_jackpot_return_from_unicorn_d8d31afb:
 
     # MC @ think "Is something the matter?"
-    MC @ think "Is something the matter?"
+    MC @ think "Stimmt etwas nicht?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:273
 translate de qst_jackpot_return_from_unicorn_aed44568:
 
     # MRS_WINWARD @ embarr "I... Um..."
-    MRS_WINWARD @ embarr "I... Um..."
+    MRS_WINWARD @ embarr "Ich... Ähm..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:274
 translate de qst_jackpot_return_from_unicorn_910f6ae1:
 
     # MRS_WINWARD @ embarr "My husband told me about what happened the other night."
-    MRS_WINWARD @ embarr "My husband told me about what happened the other night."
+    MRS_WINWARD @ embarr "Mein Mann hat mir erzählt, was neulich nachts passiert ist."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:275
 translate de qst_jackpot_return_from_unicorn_b804c468:
 
     # MRS_WINWARD @ embarr "How you kept him safe, but now he owes {i}you{/i} a sizable debt."
-    MRS_WINWARD @ embarr "How you kept him safe, but now he owes {i}you{/i} a sizable debt."
+    MRS_WINWARD @ embarr "Wie du ihn beschützt hast, aber jetzt schuldet er {i}dir{/i} eine beträchtliche Schuld."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:276
 translate de qst_jackpot_return_from_unicorn_a14a7f61:
 
     # "Mrs Winward bit down on her lower lip, her legs slightly trembling as she stepped closer towards you."
-    "Mrs Winward bit down on her lower lip, her legs slightly trembling as she stepped closer towards you."
+    "Mrs Winward biss sich auf die Unterlippe, ihre Beine zitterten leicht, als sie näher auf dich zukam."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:277
 translate de qst_jackpot_return_from_unicorn_45e96037:
 
     # MRS_WINWARD @ embarr "I... I was hoping you might be willing to let me pay off that debt through {i}other{/i} means."
-    MRS_WINWARD @ embarr "I... I was hoping you might be willing to let me pay off that debt through {i}other{/i} means."
+    MRS_WINWARD @ embarr "Ich ... ich hatte gehofft, du wärst vielleicht bereit, mich diese Schuld auf {i}andere{/i} Weise begleichen zu lassen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:278
 translate de qst_jackpot_return_from_unicorn_5b7f813e:
 
     # MRS_WINWARD @ sad "Oh gods... This must sound so shameful and pathetic coming from an old woman like myself!"
-    MRS_WINWARD @ sad "Oh gods... This must sound so shameful and pathetic coming from an old woman like myself!"
+    MRS_WINWARD @ sad "Oh Götter ... Das muss so beschämend und erbärmlich klingen, wenn es von einer alten Frau wie mir kommt!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:279
 translate de qst_jackpot_return_from_unicorn_d50e1c05:
 
     # MC @ smile "It's hardly pathetic; you're still a very attractive woman, you know."
-    MC @ smile "It's hardly pathetic; you're still a very attractive woman, you know."
+    MC @ smile "Das ist kaum erbärmlich; du bist immer noch eine sehr attraktive Frau, weißt du."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:280
 translate de qst_jackpot_return_from_unicorn_b2240e08:
 
     # "My words made Mrs Winward even more flustered."
-    "My words made Mrs Winward even more flustered."
+    "Meine Worte machten Mrs Winward noch verlegener."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:281
 translate de qst_jackpot_return_from_unicorn_35db06e9:
 
     # MRS_WINWARD @ shock "...A-Attractive, you say?"
-    MRS_WINWARD @ shock "...A-Attractive, you say?"
+    MRS_WINWARD @ shock "...A-Attraktiv, sagst du?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:282
 translate de qst_jackpot_return_from_unicorn_de0020a3:
 
     # MRS_WINWARD @ think "W-Well, um..."
-    MRS_WINWARD @ think "W-Well, um..."
+    MRS_WINWARD @ think "N-Nun, ähm ..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:283
 translate de qst_jackpot_return_from_unicorn_6c254949:
 
     # MRS_WINWARD @ blush "If you're sure you're happy for me to continue..."
-    MRS_WINWARD @ blush "If you're sure you're happy for me to continue..."
+    MRS_WINWARD @ blush "Wenn du dir sicher bist, dass es dir recht ist, wenn ich weitermache ..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:284
 translate de qst_jackpot_return_from_unicorn_96b63ea8:
@@ -1024,7 +1024,7 @@ translate de qst_jackpot_return_from_unicorn_b63f4fd4:
 translate de qst_jackpot_return_from_unicorn_e5a42357:
 
     # "Gently, her tongue slipped out of her mouth to tenderly run along the shaft, and after she gently teased it, she took a deep breath and wrapped her lips around the head of my cock."
-    "Gently, her tongue slipped out of her mouth to tenderly run along the shaft, and after she gently teased it, she took a deep breath and wrapped her lips around the head of my cock."
+    "Sanft glitt ihre Zunge aus ihrem Mund, um zärtlich über den Schaft zu gleiten, und nachdem sie ihn sanft neckte, holte sie tief Luft und umschloss die Eichel meines Schwanzes mit ihren Lippen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:304
 translate de qst_jackpot_return_from_unicorn_e3b0a1f0:
@@ -1036,97 +1036,97 @@ translate de qst_jackpot_return_from_unicorn_e3b0a1f0:
 translate de qst_jackpot_return_from_unicorn_105e24a5:
 
     # MC "Mhmmff! You've definitely had some experience with this over the years, haven't you?"
-    MC "Mhmmff! You've definitely had some experience with this over the years, haven't you?"
+    MC "Mhmmff! Du hast definitiv im Laufe der Jahre einige Erfahrung damit gesammelt, nicht wahr?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:306
 translate de qst_jackpot_return_from_unicorn_3ca3470d:
 
     # "Mrs Winward, embarrassed, didn't answer; instead, she began to glide her head back and forth in a slow but steady motion."
-    "Mrs Winward, embarrassed, didn't answer; instead, she began to glide her head back and forth in a slow but steady motion."
+    "Mrs Winward, verlegen, antwortete nicht; stattdessen begann sie, ihren Kopf in einer langsamen, aber gleichmäßigen Bewegung vor und zurück zu bewegen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:307
 translate de qst_jackpot_return_from_unicorn_98207818:
 
     # "Her soft lips formed a tight seal around my cock as her tongue sheepishly wrapped and teased my member."
-    "Her soft lips formed a tight seal around my cock as her tongue sheepishly wrapped and teased my member."
+    "Ihre weichen Lippen bildeten einen festen Verschluss um meinen Schwanz, während ihre Zunge schüchtern mein Glied umschlang und neckte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:308
 translate de qst_jackpot_return_from_unicorn_7322cdfd:
 
     # "Her puffy stuffed cheeks were bright red as her eyes looked up pleadingly towards me, unsure if she was doing a good enough job at pleasing me."
-    "Her puffy stuffed cheeks were bright red as her eyes looked up pleadingly towards me, unsure if she was doing a good enough job at pleasing me."
+    "Ihre aufgeblasenen, vollen Wangen waren knallrot, als ihre Augen flehend zu mir hochblickten, unsicher, ob sie mich gut genug befriedigte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:309
 translate de qst_jackpot_return_from_unicorn_b42cf3d7:
 
     # MRS_WINWARD "{i}*Slurp!* *Slurp!*{/i} Mhmmfhh!"
-    MRS_WINWARD "{i}*Slurp!* *Slurp!*{/i} Mhmmfhh!"
+    MRS_WINWARD "{i}*Schlürf!* *Schlürf!*{/i} Mhmmfhh!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:310
 translate de qst_jackpot_return_from_unicorn_ade650f0:
 
     # MRS_WINWARD "(I-I've never even seen one this big!)"
-    MRS_WINWARD "(I-I've never even seen one this big!)"
+    MRS_WINWARD "(I-Ich habe noch nie einen so großen gesehen!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:311
 translate de qst_jackpot_return_from_unicorn_4950e7dd:
 
     # MRS_WINWARD "(Oh gods... I can't believe I'm actually sucking this man's cock!)"
-    MRS_WINWARD "(Oh gods... I can't believe I'm actually sucking this man's cock!)"
+    MRS_WINWARD "(Oh Götter... Ich kann nicht glauben, dass ich tatsächlich den Schwanz dieses Mannes lutsche!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:312
 translate de qst_jackpot_return_from_unicorn_b97af5ed:
 
     # MRS_WINWARD "(How shameful... H-How depraved for a woman of my age to be cheating on my... my...)"
-    MRS_WINWARD "(How shameful... H-How depraved for a woman of my age to be cheating on my... my...)"
+    MRS_WINWARD "(Wie beschämend... W-Wie verdorben für eine Frau meines Alters, meinen... meinen... zu betrügen)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:315
 translate de qst_jackpot_return_from_unicorn_b2af8032:
 
     # "Suddenly, Mrs Winward happily groaned as she threw her head forward, pushing the cock deeper and deeper into her throat as she became enthralled in her task."
-    "Suddenly, Mrs Winward happily groaned as she threw her head forward, pushing the cock deeper and deeper into her throat as she became enthralled in her task."
+    "Plötzlich stöhnte Mrs. Winward glücklich auf, als sie ihren Kopf nach vorne warf und den Schwanz immer tiefer in ihren Hals drückte, während sie von ihrer Aufgabe gefesselt wurde."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:316
 translate de qst_jackpot_return_from_unicorn_30cde80e:
 
     # MRS_WINWARD "({i}P-Pathetic husband....!{/i} Oh gods, who am I trying to fool?)"
-    MRS_WINWARD "({i}P-Pathetic husband....!{/i} Oh gods, who am I trying to fool?)"
+    MRS_WINWARD "({i}P-pathetischer Ehemann....!{/i} Oh Götter, wen versuche ich hier etwas vorzumachen?)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:317
 translate de qst_jackpot_return_from_unicorn_da23a55c:
 
     # MRS_WINWARD "(I've dreamed about this for years!)"
-    MRS_WINWARD "(I've dreamed about this for years!)"
+    MRS_WINWARD "(Davon habe ich jahrelang geträumt!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:318
 translate de qst_jackpot_return_from_unicorn_35e07a9a:
 
     # MRS_WINWARD "(With any luck, my husband's debt won't be cleared just from this, no no, this young man needs to have his way with me a couple of times first at least! Fufufu! {image=[ICON.HEART]})."
-    MRS_WINWARD "(With any luck, my husband's debt won't be cleared just from this, no no, this young man needs to have his way with me a couple of times first at least! Fufufu! {image=[ICON.HEART]})."
+    MRS_WINWARD "(Wenn wir Glück haben, werden die Schulden meines Mannes nicht nur dadurch beglichen, nein nein, dieser junge Mann muss sich erst noch ein paar Mal mit mir vergnügen! Fufufu! {image=[ICON.HEART]})."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:319
 translate de qst_jackpot_return_from_unicorn_bfa5eb47:
 
     # MRS_WINWARD "(Thank the gods he's such a fool!)"
-    MRS_WINWARD "(Thank the gods he's such a fool!)"
+    MRS_WINWARD "(Den Göttern sei Dank, dass er so ein Narr ist!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:320
 translate de qst_jackpot_return_from_unicorn_d0cd91ed:
 
     # "As the minutes passed, more and more, Mrs Winward seemed enthralled and excited with what she was doing."
-    "As the minutes passed, more and more, Mrs Winward seemed enthralled and excited with what she was doing."
+    "Mit jeder Minute schien Mrs. Winward immer mehr von dem, was sie tat, gefesselt und erregt zu sein."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:321
 translate de qst_jackpot_return_from_unicorn_145b6209:
 
     # MC "Ahh... You better get accustomed to having a bigger cock inside you from now on because I intend to make good use of that fat ass of yours, Mrs Winward!"
-    MC "Ahh... You better get accustomed to having a bigger cock inside you from now on because I intend to make good use of that fat ass of yours, Mrs Winward!"
+    MC "Ahh... Du solltest dich besser daran gewöhnen, von nun an einen größeren Schwanz in dir zu haben, denn ich beabsichtige, deinen fetten Arsch ordentlich zu nutzen, Mrs. Winward!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:322
 translate de qst_jackpot_return_from_unicorn_481e03c4:
 
     # "Mrs Winward shuddered with pleasure, moaning as she slammed her head forward in excitement, her glasses beginning to steam up."
-    "Mrs Winward shuddered with pleasure, moaning as she slammed her head forward in excitement, her glasses beginning to steam up."
+    "Mrs. Winward erschauerte vor Lust und stöhnte, als sie vor Erregung ihren Kopf nach vorne stieß, während ihre Brille zu beschlagen begann."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:323
 translate de qst_jackpot_return_from_unicorn_d4205eb3:
@@ -1138,19 +1138,19 @@ translate de qst_jackpot_return_from_unicorn_d4205eb3:
 translate de qst_jackpot_return_from_unicorn_756476f0:
 
     # "Suddenly, the two of us heard the sounds of soft footsteps followed by the banging of a wooden cane on the floor as Mr Winward came down."
-    "Suddenly, the two of us heard the sounds of soft footsteps followed by the banging of a wooden cane on the floor as Mr Winward came down."
+    "Plötzlich hörten wir beide das Geräusch leiser Schritte, gefolgt vom Klopfen eines Holzstocks auf dem Boden, als Mr. Winward herunterkam."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:327
 translate de qst_jackpot_return_from_unicorn_6c331ff2:
 
     # MRS_WINWARD "(Oh gods! Please, PLEASE don't see me like this!)"
-    MRS_WINWARD "(Oh gods! Please, PLEASE don't see me like this!)"
+    MRS_WINWARD "(Oh Götter! Bitte, BITTE seht mich nicht so an!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:328
 translate de qst_jackpot_return_from_unicorn_6e63d937:
 
     # MRS_WINWARD "(Not now! Not-)"
-    MRS_WINWARD "(Not now! Not-)"
+    MRS_WINWARD "(Nicht jetzt! Nicht-)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:329
 translate de qst_jackpot_return_from_unicorn_f584af6e:
@@ -1162,79 +1162,79 @@ translate de qst_jackpot_return_from_unicorn_f584af6e:
 translate de qst_jackpot_return_from_unicorn_00d7c36e:
 
     # "I pulled Mrs Winward's head forward, letting her know she was to continue even with her husband stood there, causing her to momentarily choke for a second from the sudden extra inch pressing down into her throat."
-    "I pulled Mrs Winward's head forward, letting her know she was to continue even with her husband stood there, causing her to momentarily choke for a second from the sudden extra inch pressing down into her throat."
+    "Ich zog Mrs. Winwards Kopf nach vorne und ließ sie wissen, dass sie weitermachen sollte, obwohl ihr Mann dort stand, was dazu führte, dass sie kurz würgte, als der plötzliche zusätzliche Zoll in ihre Kehle drückte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:331
 translate de qst_jackpot_return_from_unicorn_030aa440:
 
     # MR_WINWARD "You seen Kionni anywhere?"
-    MR_WINWARD "You seen Kionni anywhere?"
+    MR_WINWARD "Hast du Kionni irgendwo gesehen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:332
 translate de qst_jackpot_return_from_unicorn_4d91c4c8:
 
     # MC "No, can't say I - ahh! Have!"
-    MC "No, can't say I - ahh! Have!"
+    MC "Nein, kann nicht sagen, dass ich - ahh! Hab's!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:333
 translate de qst_jackpot_return_from_unicorn_3dfafcfc:
 
     # MR_WINWARD "She was supposed to have my dinner ready thirty minutes ago!"
-    MR_WINWARD "She was supposed to have my dinner ready thirty minutes ago!"
+    MR_WINWARD "Sie hätte mein Abendessen schon vor dreißig Minuten fertig haben sollen!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:334
 translate de qst_jackpot_return_from_unicorn_5f7d5120:
 
     # MR_WINWARD "Lazy woman is probably out or something..."
-    MR_WINWARD "Lazy woman is probably out or something..."
+    MR_WINWARD "Faule Frau ist wahrscheinlich draußen oder so..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:335
 translate de qst_jackpot_return_from_unicorn_7512a3d4:
 
     # MRS_WINWARD "(GRRRHH! Lazy woman, huh?)"
-    MRS_WINWARD "(GRRRHH! Lazy woman, huh?)"
+    MRS_WINWARD "(GRRRHH! Faule Frau, was?)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:338
 translate de qst_jackpot_return_from_unicorn_c00a5038:
 
     # "Incensed, Mrs Winward once again threw her head forward, surprising me with her sudden keenness as she wrapped her tongue lewdly around my cock."
-    "Incensed, Mrs Winward once again threw her head forward, surprising me with her sudden keenness as she wrapped her tongue lewdly around my cock."
+    "Wütend warf Mrs. Winward erneut ihren Kopf nach vorne und überraschte mich mit ihrer plötzlichen Gier, als sie ihre Zunge lüstern um meinen Schwanz schlang."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:339
 translate de qst_jackpot_return_from_unicorn_6271ea65:
 
     # "The warm, wet sensation almost overpoweringly pleasant."
-    "The warm, wet sensation almost overpoweringly pleasant."
+    "Das warme, feuchte Gefühl fast überwältigend angenehm."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:340
 translate de qst_jackpot_return_from_unicorn_d42ab16e:
 
     # MC "C-Can't say I've seen her! Nhmm!"
-    MC "C-Can't say I've seen her! Nhmm!"
+    MC "K-Kann nicht sagen, dass ich sie gesehen habe! Nhmm!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:341
 translate de qst_jackpot_return_from_unicorn_f613767c:
 
     # MRS_WINWARD "{i}*Slurp!* *Slurp!*{/i}"
-    MRS_WINWARD "{i}*Slurp!* *Slurp!*{/i}"
+    MRS_WINWARD "{i}*Schlürf!* *Schlürf!*{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:342
 translate de qst_jackpot_return_from_unicorn_bebe723e:
 
     # MR_WINWARD "What's that sound?"
-    MR_WINWARD "What's that sound?"
+    MR_WINWARD "Was ist das für ein Geräusch?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:343
 translate de qst_jackpot_return_from_unicorn_590e057f:
 
     # MC "Hm? N-No idea, probably coming from outside."
-    MC "Hm? N-No idea, probably coming from outside."
+    MC "Hm? K-Keine Ahnung, kommt wahrscheinlich von draußen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:344
 translate de qst_jackpot_return_from_unicorn_d5407c9e:
 
     # MRS_WINWARD "*Slurp* {image=[ICON.HEART]}"
-    MRS_WINWARD "*Slurp* {image=[ICON.HEART]}"
+    MRS_WINWARD "*Schlürf* {image=[ICON.HEART]}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:345
 translate de qst_jackpot_return_from_unicorn_70d379a9:
@@ -1246,79 +1246,79 @@ translate de qst_jackpot_return_from_unicorn_70d379a9:
 translate de qst_jackpot_return_from_unicorn_3cd23668:
 
     # MR_WINWARD "Why are you standing behind that counter?"
-    MR_WINWARD "Why are you standing behind that counter?"
+    MR_WINWARD "Warum stehst du hinter dieser Theke?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:347
 translate de qst_jackpot_return_from_unicorn_4ad82d53:
 
     # MC "Oh, uh, Mrs Winward said she'd be right back and to just stand behind the - Ah! Counter till she gets back!"
-    MC "Oh, uh, Mrs Winward said she'd be right back and to just stand behind the - Ah! Counter till she gets back!"
+    MC "Oh, äh, Frau Winward sagte, sie sei gleich zurück und ich solle nur hinter der - Ah! Theke warten, bis sie wiederkommt!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:348
 translate de qst_jackpot_return_from_unicorn_f4b07e3a:
 
     # MR_WINWARD "I thought you said you hadn't seen her?"
-    MR_WINWARD "I thought you said you hadn't seen her?"
+    MR_WINWARD "Ich dachte, du hättest gesagt, du hättest sie nicht gesehen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:349
 translate de qst_jackpot_return_from_unicorn_4f951b2d:
 
     # MC "My - Ah! Mistake, I meant she'll be back shortly!"
-    MC "My - Ah! Mistake, I meant she'll be back shortly!"
+    MC "Mein – Ah! Fehler, ich meinte, sie ist gleich zurück!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:350
 translate de qst_jackpot_return_from_unicorn_f4e2fa83:
 
     # MR_WINWARD "Hmph! Typical bloody woman!"
-    MR_WINWARD "Hmph! Typical bloody woman!"
+    MR_WINWARD "Pah! Typisch verdammte Frau!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:351
 translate de qst_jackpot_return_from_unicorn_e98c7fa5:
 
     # MR_WINWARD "Always thinking about herself and forgetting everyone else!"
-    MR_WINWARD "Always thinking about herself and forgetting everyone else!"
+    MR_WINWARD "Denkt immer nur an sich und vergisst alle anderen!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:353
 translate de qst_jackpot_return_from_unicorn_41cb1b3d:
 
     # "Mrs Winward suddenly pressed her head forward, taking my cock fully to the hilt and holding it there."
-    "Mrs Winward suddenly pressed her head forward, taking my cock fully to the hilt and holding it there."
+    "Mrs Winward drückte plötzlich ihren Kopf nach vorne, nahm meinen Schwanz bis zum Anschlag auf und hielt ihn dort."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:354
 translate de qst_jackpot_return_from_unicorn_307b33ea:
 
     # "With defiant, fiery eyes, she looked up towards me, tongue thrashing furiously around my cock."
-    "With defiant, fiery eyes, she looked up towards me, tongue thrashing furiously around my cock."
+    "Mit trotzigen, feurigen Augen sah sie zu mir auf, während ihre Zunge wild um meinen Schwanz peitschte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:355
 translate de qst_jackpot_return_from_unicorn_a30e804c:
 
     # "With her eyes, she told me clearly, {i}'You're going to cum down my throat in front of my prick of a husband, whether you like it or not now!{/i}"
-    "With her eyes, she told me clearly, {i}'You're going to cum down my throat in front of my prick of a husband, whether you like it or not now!{/i}"
+    "Mit ihren Augen sagte sie mir deutlich: {i}'Jetzt wirst du mir vor meinem Mistkerl von einem Ehemann in den Hals spritzen, ob du willst oder nicht!{/i}'"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:357
 translate de qst_jackpot_return_from_unicorn_de3fb3fd:
 
     # "As Mr. Winward turned to leave, grumbling under his breath, I grabbed hold of Mrs. Winward's head and held her there; my balls tightened as I exploded into her mouth."
-    "As Mr. Winward turned to leave, grumbling under his breath, I grabbed hold of Mrs. Winward's head and held her there; my balls tightened as I exploded into her mouth."
+    "Als Mr. Winward sich murrend zum Gehen wandte, packte ich Mrs. Winwards Kopf und hielt sie fest; meine Eier zogen sich zusammen, als ich in ihren Mund explodierte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:360
 translate de qst_jackpot_return_from_unicorn_8b69cff9:
 
     # "Her eyes widened as she felt the hot rush of my heavy load flood down her throat."
-    "Her eyes widened as she felt the hot rush of my heavy load flood down her throat."
+    "Ihre Augen weiteten sich, als sie die heiße Flut meiner schweren Ladung ihren Hals hinunterströmen spürte."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:361
 translate de qst_jackpot_return_from_unicorn_8f95da30:
 
     # "I grunted loudly, watching the excess of my seed spill out the sides of her mouth as her eyes began to roll back."
-    "I grunted loudly, watching the excess of my seed spill out the sides of her mouth as her eyes began to roll back."
+    "Ich grunzte laut und sah zu, wie der Überschuss meines Samens aus ihren Mundwinkeln quoll, während ihre Augen langsam nach hinten rollten."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:362
 translate de qst_jackpot_return_from_unicorn_2012eb06:
 
     # "Desperately, Mrs Winward tried to swallow down as much of the load as possible, her stomach lightly bulging from the seed being pumped into her as her eyes rolled back."
-    "Desperately, Mrs Winward tried to swallow down as much of the load as possible, her stomach lightly bulging from the seed being pumped into her as her eyes rolled back."
+    "Verzweifelt versuchte Mrs Winward, so viel von der Ladung wie möglich zu schlucken, wobei sich ihr Bauch leicht wölbte von dem Samen, der in sie gepumpt wurde, während ihre Augen nach hinten rollten."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:363
 translate de qst_jackpot_return_from_unicorn_d8f1216c:
@@ -1384,203 +1384,203 @@ translate de qst_jackpot_return_from_unicorn_de4faf55:
 translate de qst_jackpot_return_from_unicorn_afa2ef4b:
 
     # MRS_WINWARD @ embarr "I've not had much experience outside of my husband, and n-never with one like yours."
-    MRS_WINWARD @ embarr "I've not had much experience outside of my husband, and n-never with one like yours."
+    MRS_WINWARD @ embarr "Ich hatte nicht viel Erfahrung außer mit meinem Mann, und n-noch nie mit einem wie deinem."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:394
 translate de qst_jackpot_return_from_unicorn_d104295f:
 
     # MRS_WINWARD @ embarr "I hope that was good for you, dear."
-    MRS_WINWARD @ embarr "I hope that was good for you, dear."
+    MRS_WINWARD @ embarr "Ich hoffe, das war gut für dich, Schatz."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:395
 translate de qst_jackpot_return_from_unicorn_293a3740:
 
     # MC @ smile "You forgot to ask how much of your husband's {i}debt{/i} doing that would pay back."
-    MC @ smile "You forgot to ask how much of your husband's {i}debt{/i} doing that would pay back."
+    MC @ smile "Du hast vergessen zu fragen, wie viel von der {i}Schuld{/i} deines Mannes das zurückzahlen würde."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:396
 translate de qst_jackpot_return_from_unicorn_128f1134:
 
     # "Mrs Winward chuckled, raising a brow."
-    "Mrs Winward chuckled, raising a brow."
+    "Mrs Winward kicherte und hob eine Augenbraue."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:397
 translate de qst_jackpot_return_from_unicorn_234caa30:
 
     # MRS_WINWARD @ laugh "{i}Did I?{/i}"
-    MRS_WINWARD @ laugh "{i}Did I?{/i}"
+    MRS_WINWARD @ laugh "{i}Habe ich?{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:398
 translate de qst_jackpot_return_from_unicorn_f5b448a8:
 
     # MRS_WINWARD @ blush "I guess we won't be able to deduct that from the debt then, will we? {i}*Sigh*{/i} What a shame..."
-    MRS_WINWARD @ blush "I guess we won't be able to deduct that from the debt then, will we? {i}*Sigh*{/i} What a shame..."
+    MRS_WINWARD @ blush "Ich schätze, wir werden das dann nicht von der Schuld abziehen können, oder? {i}*Seufz*{/i} Wie schade..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:399
 translate de qst_jackpot_return_from_unicorn_54cacbb8:
 
     # MRS_WINWARD @ lewd "I guess you'll just have to have your wicked way with me even longer than anticipated."
-    MRS_WINWARD @ lewd "I guess you'll just have to have your wicked way with me even longer than anticipated."
+    MRS_WINWARD @ lewd "Ich schätze, du wirst dann wohl noch länger als erwartet deine bösen Spielchen mit mir treiben müssen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:400
 translate de qst_jackpot_return_from_unicorn_65597a97:
 
     # MRS_WINWARD @ lewd "Whatever shall my old bones do?"
-    MRS_WINWARD @ lewd "Whatever shall my old bones do?"
+    MRS_WINWARD @ lewd "Was sollen meine alten Knochen nur tun?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:401
 translate de qst_jackpot_return_from_unicorn_b0a56b3a:
 
     # MC @ smile "So, then... Shall we take this to the bedroom?"
-    MC @ smile "So, then... Shall we take this to the bedroom?"
+    MC @ smile "Also, dann... Sollen wir das ins Schlafzimmer verlegen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:402
 translate de qst_jackpot_return_from_unicorn_1f94aea7:
 
     # MRS_WINWARD @ blush "Haha! So much energy!"
-    MRS_WINWARD @ blush "Haha! So much energy!"
+    MRS_WINWARD @ blush "Haha! So viel Energie!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:403
 translate de qst_jackpot_return_from_unicorn_ccc76f17:
 
     # MRS_WINWARD @ lewd "I had a... {i}small request{/i} before I let you do whatever you please with me."
-    MRS_WINWARD @ lewd "I had a... {i}small request{/i} before I let you do whatever you please with me."
+    MRS_WINWARD @ lewd "Ich hatte eine... {i}kleine Bitte{/i}, bevor ich dich mit mir machen lasse, was du willst."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:404
 translate de qst_jackpot_return_from_unicorn_07e3cb7b:
 
     # MC @ think "Go on?"
-    MC @ think "Go on?"
+    MC @ think "Weiter?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:405
 translate de qst_jackpot_return_from_unicorn_476dba75:
 
     # MRS_WINWARD "I was hoping you might be able to procure me some cowhide."
-    MRS_WINWARD "I was hoping you might be able to procure me some cowhide."
+    MRS_WINWARD "Ich hatte gehofft, du könntest mir etwas Kuhhaut besorgen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:406
 translate de qst_jackpot_return_from_unicorn_8f6308ea:
 
     # MRS_WINWARD @ blush "T-There's something I've been thinking about making for a while, but I was always too embarrassed to mention it to my husband."
-    MRS_WINWARD @ blush "T-There's something I've been thinking about making for a while, but I was always too embarrassed to mention it to my husband."
+    MRS_WINWARD @ blush "E-Es gibt etwas, das ich schon lange machen wollte, aber ich war immer zu verlegen, es meinem Mann zu erwähnen."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:407
 translate de qst_jackpot_return_from_unicorn_61610f6d:
 
     # MRS_WINWARD @ angry "He'd probably just tell me my idea was ridiculous or something..."
-    MRS_WINWARD @ angry "He'd probably just tell me my idea was ridiculous or something..."
+    MRS_WINWARD @ angry "Er würde mir wahrscheinlich einfach sagen, dass meine Idee lächerlich ist oder so..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:408
 translate de qst_jackpot_return_from_unicorn_fe86995e:
 
     # MRS_WINWARD "The butcher should be able to procure you one, as I imagine one of the farmers won't be too keen on giving up one of their cattle!"
-    MRS_WINWARD "The butcher should be able to procure you one, as I imagine one of the farmers won't be too keen on giving up one of their cattle!"
+    MRS_WINWARD "Der Metzger sollte dir eine besorgen können, denn ich kann mir vorstellen, dass keiner der Bauern so begeistert davon sein wird, eines seiner Rinder herzugeben!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:410
 translate de qst_jackpot_return_from_unicorn_a9a01592:
 
     # MC @ think "Wait, you mean a cow hide, like this one?"
-    MC @ think "Wait, you mean a cow hide, like this one?"
+    MC @ think "Warte, du meinst eine Kuhhaut, wie diese hier?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:411
 translate de qst_jackpot_return_from_unicorn_4ff77b72:
 
     # "I have produced a hide I had with me and presented it to her."
-    "I have produced a hide I had with me and presented it to her."
+    "Ich habe eine Haut, die ich bei mir hatte, hervorgeholt und sie ihr gezeigt."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:416
 translate de qst_jackpot_return_from_unicorn_8eb5d381:
 
     # MC "I'll see what can be done."
-    MC "I'll see what can be done."
+    MC "Ich werde sehen, was sich machen lässt."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:417
 translate de qst_jackpot_return_from_unicorn_f359c4eb:
 
     # MRS_WINWARD @ happy "Thank you, deary."
-    MRS_WINWARD @ happy "Thank you, deary."
+    MRS_WINWARD @ happy "Danke, Liebes."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:418
 translate de qst_jackpot_return_from_unicorn_9024f8d9:
 
     # MRS_WINWARD @ happy "Let me know when you have it."
-    MRS_WINWARD @ happy "Let me know when you have it."
+    MRS_WINWARD @ happy "Sag mir Bescheid, wenn du es hast."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:423
 translate de qst_jackpot_return_with_cowh_3a2ee8ce:
 
     # MRS_WINWARD @ laugh "Oooh! This is perfect!"
-    MRS_WINWARD @ laugh "Oooh! This is perfect!"
+    MRS_WINWARD @ laugh "Oooh! Das ist perfekt!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:427
 translate de qst_jackpot_return_with_cowh_d417f038:
 
     # MRS_WINWARD @ scared "B-but... There is something else..."
-    MRS_WINWARD @ scared "B-but... There is something else..."
+    MRS_WINWARD @ scared "A-aber... Da ist noch etwas..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:428
 translate de qst_jackpot_return_with_cowh_ff6e1157:
 
     # MRS_WINWARD @ scared "My husband, he... He said to tell you to meet him at {i}The Black Diamond{/i} tonight."
-    MRS_WINWARD @ scared "My husband, he... He said to tell you to meet him at {i}The Black Diamond{/i} tonight."
+    MRS_WINWARD @ scared "Mein Mann, er... Er sagte, ich soll dir ausrichten, dass du ihn heute Abend im {i}The Black Diamond{/i} treffen sollst."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:429
 translate de qst_jackpot_return_with_cowh_f2de54ff:
 
     # MRS_WINWARD @ scared "What's going on? Why is he asking you to meet him {i}there{/i} of all places?"
-    MRS_WINWARD @ scared "What's going on? Why is he asking you to meet him {i}there{/i} of all places?"
+    MRS_WINWARD @ scared "Was ist los? Warum bittet er dich, ihn ausgerechnet {i}dort{/i} zu treffen?"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:430
 translate de qst_jackpot_return_with_cowh_e2f676d0:
 
     # MRS_WINWARD @ scared "I-I've only ever heard bad things about that place."
-    MRS_WINWARD @ scared "I-I've only ever heard bad things about that place."
+    MRS_WINWARD @ scared "I-Ich habe nur Schlechtes über diesen Ort gehört."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:434
 translate de qst_jackpot_return_with_cowh_36c59b20:
 
     # MC @ angry "(That idiot!)"
-    MC @ angry "(That idiot!)"
+    MC @ angry "(Dieser Idiot!)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:435
 translate de qst_jackpot_return_with_cowh_c0d3213e:
 
     # MC @ serious "I'll make sure he is alright."
-    MC @ serious "I'll make sure he is alright."
+    MC @ serious "Ich werde dafür sorgen, dass es ihm gut geht."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:436
 translate de qst_jackpot_return_with_cowh_52e59a44:
 
     # MRS_WINWARD @ scared "A-Alright... Just, {i}be safe, please?{/i}"
-    MRS_WINWARD @ scared "A-Alright... Just, {i}be safe, please?{/i}"
+    MRS_WINWARD @ scared "A-Alles klar... Nur, {i}pass bitte auf dich auf, ja?{/i}"
 
 translate de strings:
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:23
     old "I know my way around a game of Barati; I'll play against them myself."
-    new "I know my way around a game of Barati; I'll play against them myself."
+    new "Ich kenne mich mit Barati aus; ich werde selbst gegen sie spielen."
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:26
     old "I'll let the old man lose and protect him afterwards."
-    new "I'll let the old man lose and protect him afterwards."
+    new "Ich werde den alten Mann verlieren lassen und ihn danach beschützen."
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:102
     old "I'll give you back your buy-in and not a coin more."
-    new "I'll give you back your buy-in and not a coin more."
+    new "Ich gebe dir deinen Einsatz zurück und keine Münze mehr."
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:106
     old "Your cut is nothing. Fuck off."
-    new "Your cut is nothing. Fuck off."
+    new "Dein Anteil ist nichts. Verpiss dich."
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:181
     old "I can smell the warmth of your blood from here... Leave now, or I shall make rugs from your skinned flesh."
-    new "I can smell the warmth of your blood from here... Leave now, or I shall make rugs from your skinned flesh."
+    new "Ich kann die Wärme deines Blutes von hier aus riechen... Geh jetzt, oder ich mache Teppiche aus deiner geschundenen Haut."
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:189
     old "I'll cover the old fool's debt."
-    new "I'll cover the old fool's debt."
+    new "Ich werde die Schulden des alten Narren begleichen."
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:199
     old "{image=[ICON.SWORDS]} {i}*Draw your blade*{/i}"
-    new "{image=[ICON.SWORDS]} {i}*Draw your blade*{/i}"
+    new "{image=[ICON.SWORDS]} {i}*Zieh deine Klinge*{/i}"
 

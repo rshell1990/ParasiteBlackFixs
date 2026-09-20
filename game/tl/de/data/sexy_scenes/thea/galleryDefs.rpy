@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/sexy_scenes/thea/galleryDefs.rpy:6
     old "First date"
-    new "First date"
+    new "Erstes Date"
 

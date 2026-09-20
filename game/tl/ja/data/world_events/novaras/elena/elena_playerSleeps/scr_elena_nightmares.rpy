@@ -16,8 +16,7 @@ translate ja event_Elena_nightmares_9b248385:
 translate ja event_Elena_nightmares_576834c9:
 
     # "Looking up from my bed still half-asleep, I saw Elena, writhing around on the floor, feverish with a sweat."
-    "寝床からまだ眠い目をこすりながら見上げると、エレナが床の上で苦悶するようにもだえている。
-熱に浮かされたように汗ばんでいる。"
+    "寝床からまだ眠い目をこすりながら見上げると、エレナが床の上で苦悶するようにもだえている。熱に浮かされたように汗ばんでいる。"
 
 # game/data/world_events/novaras/elena/elena_playerSleeps/scr_elena_nightmares.rpy:14
 translate ja event_Elena_nightmares_25b88e12:
@@ -47,9 +46,7 @@ translate ja event_Elena_nightmares_1159c1f1:
 translate ja event_Elena_nightmares_940877ae:
 
     # ELENA "No! Not again! Please!"
-    ELENA "やめて!
-もうたくさん!
-お願い!"
+    ELENA "やめて!もうたくさん!お願い!"
 
 # game/data/world_events/novaras/elena/elena_playerSleeps/scr_elena_nightmares.rpy:19
 translate ja event_Elena_nightmares_25f13b42:
@@ -235,8 +232,7 @@ translate ja event_Elena_nightmares_39d76480:
 translate ja event_Elena_nightmares_84b440c8:
 
     # ELENA @ sad "Maybe... But I think in some dark, twisted way."
-    ELENA @ sad "…でも…  
-私的には、暗く歪んだやり方だと思うけど。"
+    ELENA @ sad "…でも…  私的には、暗く歪んだやり方だと思うけど。"
 
 # game/data/world_events/novaras/elena/elena_playerSleeps/scr_elena_nightmares.rpy:58
 translate ja event_Elena_nightmares_8aba1e91:

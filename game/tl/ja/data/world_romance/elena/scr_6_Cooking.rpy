@@ -70,8 +70,7 @@ translate ja rom_Elena_CookingIntro_5116cd02:
 translate ja rom_Elena_CookingIntro_1d1b6875:
 
     # ELENA @ lewd "N-No reason ..."
-    ELENA @ lewd "っ、あの…  
-ただ理由はない…"
+    ELENA @ lewd "っ、あの…  ただ理由はない…"
 
 # game/data/world_romance/elena/scr_6_Cooking.rpy:31
 translate ja rom_Elena_CookingIntro_322602da:
@@ -353,8 +352,7 @@ translate ja rom_Elena_Cooking_304cc43b:
 translate ja rom_Elena_Cooking_dfeefe28:
 
     # "Caught off guard, Elena's warm breasts squeezed my thick member with ease."
-    "不意を突かれたエレナの、温もりある胸が
-私の太い男根を容易く包み込んだ。"
+    "不意を突かれたエレナの、温もりある胸が私の太い男根を容易く包み込んだ。"
 
 # game/data/world_romance/elena/scr_6_Cooking.rpy:121
 translate ja rom_Elena_Cooking_80c8f19e:

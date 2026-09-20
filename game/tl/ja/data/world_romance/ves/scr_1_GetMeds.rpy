@@ -34,8 +34,7 @@ translate ja rom_Ves_1_GetMeds_8ca20c45:
 translate ja rom_Ves_1_GetMeds_6a351dcb:
 
     # VES @ talk "{i}*Sigh*{/i} I am fine."
-    VES @ talk "{i}*はあ*{/i}
-大丈夫です。"
+    VES @ talk "{i}*はあ*{/i}大丈夫です。"
 
 # game/data/world_romance/ves/scr_1_GetMeds.rpy:16
 translate ja rom_Ves_1_GetMeds_d993b3a8:
@@ -233,9 +232,7 @@ translate ja rom_Ves_1_GetMeds_c58f0235:
 translate ja rom_Ves_1_GetMeds_a717f106:
 
     # MC @ talk "Supplies? Food? Water?"
-    MC @ talk "物資？
-食料？
-水？"
+    MC @ talk "物資？食料？水？"
 
 # game/data/world_romance/ves/scr_1_GetMeds.rpy:59
 translate ja rom_Ves_1_GetMeds_41fbb86b:

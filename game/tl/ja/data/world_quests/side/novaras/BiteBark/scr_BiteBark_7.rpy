@@ -245,8 +245,7 @@ translate ja qst_BiteBark_7_DrosLines_8900568c:
 translate ja qst_BiteBark_7_DrosLinesRevisit_0af2d9ed:
 
     # DROS @ talk "Coin first... Work after, [tmpvar] coins."
-    DROS @ talk "コインが先…仕事は後で
-[tmpvar]枚のコイン"
+    DROS @ talk "コインが先…仕事は後で[tmpvar]枚のコイン"
 
 # game/data/world_quests/side/novaras/BiteBark/scr_BiteBark_7.rpy:83
 translate ja qst_BiteBark_7_DrosLinesRevisit_d198b686:
@@ -348,8 +347,7 @@ translate ja qst_BiteBark_7_DrosLinesArmourDone_d818747f:
 translate ja qst_BiteBark_7_DrosLinesArmourDone_5e3f3e8f:
 
     # DROS @ talk "Now if you don't mind, I have other works to attend to."
-    DROS @ talk "では、お構いなく。
-他の仕事に取り掛からなければなりませんので。"
+    DROS @ talk "では、お構いなく。他の仕事に取り掛からなければなりませんので。"
 
 # game/data/world_quests/side/novaras/BiteBark/scr_BiteBark_7.rpy:137
 translate ja qst_BiteBark_7_DrosLinesArmourDone_5af96ed1:

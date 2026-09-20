@@ -4,9 +4,9 @@ translate de strings:
 
     # game/engine/inventory/functions_containers.rpy:27
     old "Acquired"
-    new "Acquired"
+    new "Erhalten"
 
     # game/engine/inventory/functions_containers.rpy:65
     old "Lost"
-    new "Lost"
+    new "Verloren"
 

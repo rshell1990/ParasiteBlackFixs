@@ -130,8 +130,7 @@ translate ja gallery_trayan_bd7bd98f:
 translate ja gallery_trayan_ec7e72bf:
 
     # MC "A-Ahhhff! Fuck it!"
-    MC "あっ…あはっ!
-もうっ…!"
+    MC "あっ…あはっ!もうっ…!"
 
 # game/data/sexy_scenes/callie_trayan/galleryLabels/trayan.rpy:32
 translate ja gallery_trayan_e43951b5:
@@ -311,8 +310,7 @@ translate ja gallery_trayan_e88830f6:
 translate ja gallery_trayan_2b2fac90:
 
     # TRAYAN "FUCK MY ASS! PLEASE! Mmmfghh!"
-    TRAYAN "ケツ穴イジって!頼む!
-んんっ…!"
+    TRAYAN "ケツ穴イジって!頼む!んんっ…!"
 
 # game/data/sexy_scenes/callie_trayan/galleryLabels/trayan.rpy:66
 translate ja gallery_trayan_2d2cba33:
@@ -360,8 +358,7 @@ translate ja gallery_trayan_dffb2561:
 translate ja gallery_trayan_8a85107c:
 
     # TRAYAN "I've never felt so good before!!"
-    TRAYAN "最高に気持ちいい!!
-今までで一番だ!!"
+    TRAYAN "最高に気持ちいい!!今までで一番だ!!"
 
 # game/data/sexy_scenes/callie_trayan/galleryLabels/trayan.rpy:74
 translate ja gallery_trayan_b99fd4c0:

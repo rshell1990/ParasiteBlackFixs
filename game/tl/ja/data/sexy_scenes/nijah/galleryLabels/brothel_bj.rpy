@@ -52,8 +52,7 @@ translate ja gallery_nijah_prol_bj_87dac4de:
 translate ja gallery_nijah_prol_bj_d406f57e:
 
     # NIJAH "{i}*Slurp!*{/i} Mmm~"
-    NIJAH "{i}*ズルズル…*{/i}
-ん～"
+    NIJAH "{i}*ズルズル…*{/i}ん～"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:20
 translate ja gallery_nijah_prol_bj_c2d70f7a:
@@ -65,8 +64,7 @@ translate ja gallery_nijah_prol_bj_c2d70f7a:
 translate ja gallery_nijah_prol_bj_80cd5b25:
 
     # NIJAH "{i}*PLOP*{/i} Many of my people, zey were stranded during ze first outbreak."
-    NIJAH "{i}*PLOP*{/i}
-我が民の多くは、最初のアウトブレイクの際に立ち往生してしまったのです。"
+    NIJAH "{i}*PLOP*{/i}我が民の多くは、最初のアウトブレイクの際に立ち往生してしまったのです。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:26
 translate ja gallery_nijah_prol_bj_7257677b:

@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/DodgeThis.rpy:4
     old "Dodge This"
-    new "Dodge This"
+    new "Weich dem aus"
 

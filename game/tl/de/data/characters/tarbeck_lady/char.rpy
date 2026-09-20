@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/tarbeck_lady/char.rpy:13
     old "The wife of Lord Tarbeck, quiet and reserved, she seems deeply saddened by what has become of her marriage..."
-    new "The wife of Lord Tarbeck, quiet and reserved, she seems deeply saddened by what has become of her marriage..."
+    new "Die Gemahlin von Lord Tarbeck, ruhig und zurückhaltend, sie wirkt tief betrübt über das, was aus ihrer Ehe geworden ist..."
 

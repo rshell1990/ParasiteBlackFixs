@@ -53,7 +53,7 @@ translate zh rom_Elena_AskReginaLeave_cfeb76db:
 translate zh rom_Elena_AskReginaLeave_a034c243:
 
     # "Regina laughed."
-    "蕾吉娜 笑了。"
+    "蕾吉娜笑了。"
     
 
 # game/data/world_romance/elena/scr_1_AskReginaLeave.rpy:13
@@ -146,7 +146,6 @@ translate zh strings:
     
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/elena/scr_1_AskReginaLeave.rpy:6
 translate zh rom_Elena_AskReginaLeave_f541b161:

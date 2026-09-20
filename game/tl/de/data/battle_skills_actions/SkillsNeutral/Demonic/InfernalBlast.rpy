@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/Demonic/InfernalBlast.rpy:4
     old "Infernal Blast"
-    new "Infernal Blast"
+    new "Infernaler Strahl"
 

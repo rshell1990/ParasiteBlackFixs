@@ -606,6 +606,5 @@ translate ja dros_brothel_missionary_postTf_b4e0e712:
 translate ja dros_bordello_sex_postTf_aftersex_d93ebd88:
 
     # DROS @ smile "You have no idea how much I needed that, [dros_player_ref!t]."
-    DROS @ smile "[dros_player_ref!t]、君には分からないよ。  
-それがどれだけ僕に必要だったか。"
+    DROS @ smile "[dros_player_ref!t]、君には分からないよ。  それがどれだけ僕に必要だったか。"
 

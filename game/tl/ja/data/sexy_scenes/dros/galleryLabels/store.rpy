@@ -292,8 +292,7 @@ translate ja gallery_dros_shop_postTf_naked_8b6667a0:
 translate ja gallery_dros_shop_postTf_naked_d9433385:
 
     # "Draya breathed heavily as she looked over her shoulder at the massive cock which prodded and pressed against her tight rosebud."
-    "ドラヤは激しく息をしながら、振り返り、
-小さな蕾に押し付けられる巨根を見つめた。"
+    "ドラヤは激しく息をしながら、振り返り、小さな蕾に押し付けられる巨根を見つめた。"
 
 # game/data/sexy_scenes/dros/galleryLabels/store.rpy:128
 translate ja gallery_dros_shop_postTf_naked_b15649e3:

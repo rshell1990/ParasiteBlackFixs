@@ -93,14 +93,14 @@ screen book(book_dict):
         textbutton tra(_("(%s) Prev. page")) % GetHotkeyStr("nav_left", Parens = False, Space = False):
             if page > 1:
                 action [SetLocalVariable("page", page - 2), Play("sound", renpy.random.choice(soundLib["flip_pages"]))]
-            keysym config.keymap.get("nav_left", "K_LEFT")
+            keysym config.keymap["nav_left"]
         textbutton tra(_("(%s) Close")) % GetHotkeyStr("nav_down", Parens = False, Space = False):
             action [Hide("book"), Play("sound", "audio/items/book/close.ogg")]
-            keysym config.keymap.get("nav_down", "K_DOWN")
+            keysym config.keymap["nav_down"]
         textbutton tra(_("(%s) Next page")) % GetHotkeyStr("nav_right", Parens = False, Space = False):
             if page < max_page:
                 action [SetLocalVariable("page", page + 2), Play("sound", renpy.random.choice(soundLib["flip_pages"]))]
-            keysym config.keymap.get("nav_right", "K_RIGHT")
+            keysym config.keymap["nav_right"]
 
 init -1 python:
     def ItemOpenBook(ItemID, char_ID, book_dict):

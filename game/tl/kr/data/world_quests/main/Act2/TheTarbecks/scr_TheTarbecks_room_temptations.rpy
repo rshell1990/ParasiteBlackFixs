@@ -1842,13 +1842,6 @@ translate kr qst_TheTarbecks_Room_Temptations_markus_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "관찰자들이 그 광경에 재미있어하며 비웃었다. 마르시아의 다리가 내 아래에서 애처롭게 몸부림치는 동안."
 
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:473
-translate kr qst_TheTarbecks_Room_Temptations_markus_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "힘이 빠져나간 그녀는 내 자지가 그녀의 가슴 사이를 찧어대는 모습을 속수무책으로 바라볼 수밖에 없었다."
-
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:474
 translate kr qst_TheTarbecks_Room_Temptations_markus_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -2477,4 +2470,3 @@ translate kr strings:
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:527
     old "Well, interested in trying a little wine with a little extra kick?"
     new "뭐, 약간 특별한 효과가 있는 와인 좀 마셔볼 생각 있어?"
-

@@ -4,11 +4,11 @@
 translate de gallery_betty_missionary_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie zu der Zeit schwanger?"
 
 # game/data/sexy_scenes/betty/galleryLabels/missionary.rpy:15
 translate de gallery_betty_missionary_c52240e0:
 
     # "Was it vaginal or anal?"
-    "Was it vaginal or anal?"
+    "War es vaginal oder anal?"
 

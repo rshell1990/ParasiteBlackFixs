@@ -88,8 +88,7 @@ translate ja gallery_kiara_rooftop_c7e7982b:
 translate ja gallery_kiara_rooftop_ac5cd1a5:
 
     # KIARA "T-Take me however you want. It's alright."
-    KIARA "あっ…どうぞ私を…
-そのまま、大丈夫です。"
+    KIARA "あっ…どうぞ私を…そのまま、大丈夫です。"
 
 # game/data/sexy_scenes/kiara/galleryLabels/rooftop.rpy:21
 translate ja gallery_kiara_rooftop_3f215d90:
@@ -431,8 +430,7 @@ translate ja gallery_kiara_rooftop_anal_654e8f7b:
 translate ja gallery_kiara_rooftop_anal_1684b7bb:
 
     # "I wanted to ask her what she meant, I wanted to ask her how she was back here with me now."
-    "彼女に聞きたかった、どういう意味なのか。
-彼女に聞きたかった、なぜ今ここに私と一緒にいるのか。"
+    "彼女に聞きたかった、どういう意味なのか。彼女に聞きたかった、なぜ今ここに私と一緒にいるのか。"
 
 # game/data/sexy_scenes/kiara/galleryLabels/rooftop.rpy:112
 translate ja gallery_kiara_rooftop_anal_76a4f8c6:

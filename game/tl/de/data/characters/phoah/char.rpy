@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/characters/phoah/char.rpy:1
     old "Goddess Phoah"
-    new "Goddess Phoah"
+    new "Göttin Phoah"
 

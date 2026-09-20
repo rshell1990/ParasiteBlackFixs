@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsInquisitor/Sup/APrayerForTheDying.rpy:4
     old "A prayer for the dying"
-    new "A prayer for the dying"
+    new "Ein Gebet für die Sterbenden"
 
     # game/data/battle_skills_actions/SkillsInquisitor/Sup/APrayerForTheDying.rpy:36
     old "Remove all debuffs from a target ally and heal them by 30%%.\nIf the ally's health remains below 60%% after healing, apply a healing effect of %s health per turn for %s turns."
-    new "Remove all debuffs from a target ally and heal them by 30%%.\nIf the ally's health remains below 60%% after healing, apply a healing effect of %s health per turn for %s turns."
+    new "Entferne alle negativen Effekte von einem verbündeten Ziel und heile es um 30%%.\nFalls die Gesundheit des Verbündeten nach der Heilung unter 60%% bleibt, wende einen Heilungseffekt an, der %s Gesundheit pro Runde für %s Runden gewährt."
 

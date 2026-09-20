@@ -10,17 +10,17 @@ translate de strings:
 
     # game/engine/quest_board/novaras_guild_board.rpy:19
     old "Quest Board"
-    new "Quest Board"
+    new "Questtafel"
 
     # game/engine/quest_board/novaras_guild_board.rpy:54
     old "[board_quest_icon_string]Accept the task."
-    new "[board_quest_icon_string]Accept the task."
+    new "[board_quest_icon_string]Aufgabe annehmen."
 
     # game/engine/quest_board/novaras_guild_board.rpy:57
     old "Pick another quest."
-    new "Pick another quest."
+    new "Wähle eine andere Quest."
 
     # game/engine/quest_board/novaras_guild_board.rpy:107
     old "Suggested Level %s"
-    new "Suggested Level %s"
+    new "Empfohlenes Level %s"
 

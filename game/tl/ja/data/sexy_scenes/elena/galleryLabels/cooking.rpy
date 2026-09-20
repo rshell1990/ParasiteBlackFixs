@@ -208,9 +208,7 @@ translate ja gallery_elena_cooking_1663fdfa:
 translate ja gallery_elena_cooking_b6286312:
 
     # "Before I could finish my sentence, Elena was on the floor and crawled her way between my legs and began to wrestle the clothes off me."
-    "私が言い終えるより早く、エレナは床に降り
-私の足の間を這い進み
-服をもぎ取ろうとし始めた。"
+    "私が言い終えるより早く、エレナは床に降り私の足の間を這い進み服をもぎ取ろうとし始めた。"
 
 # game/data/sexy_scenes/elena/galleryLabels/cooking.rpy:65
 translate ja gallery_elena_cooking_afac7bab:
@@ -270,8 +268,7 @@ translate ja gallery_elena_cooking_f9af36b9:
 translate ja gallery_elena_cooking_78ae4b5a:
 
     # "Did Elena really think this was some normal daily occurrence between lovers? Or was she just playing along for my sake?"
-    "エレナは本当にこれが恋人同士の日常だと思ってたのだろうか？
-それとも、ただ僕に合わせていただけなのか？"
+    "エレナは本当にこれが恋人同士の日常だと思ってたのだろうか？それとも、ただ僕に合わせていただけなのか？"
 
 # game/data/sexy_scenes/elena/galleryLabels/cooking.rpy:80
 translate ja gallery_elena_cooking_e978c519:
@@ -313,8 +310,7 @@ translate ja gallery_elena_cooking_c3e1fcbe:
 translate ja gallery_elena_cooking_1a55542c:
 
     # MC "Ahh ...! What?"
-    MC "ああ…!  
-なに？"
+    MC "ああ…!  なに？"
 
 # game/data/sexy_scenes/elena/galleryLabels/cooking.rpy:87
 translate ja gallery_elena_cooking_7a4bdd21:

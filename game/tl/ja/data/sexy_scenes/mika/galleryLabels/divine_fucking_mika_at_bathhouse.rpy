@@ -346,15 +346,13 @@ translate ja gallery_divine_fucking_mika_at_bathhouse_66b31f38:
 translate ja gallery_divine_fucking_mika_at_bathhouse_2da27269:
 
     # DIVINE "You should have - Ahh! Offered me this ass sooner!"
-    DIVINE "もっと早く  
-ああ!このケツを差し出せばよかったのに!"
+    DIVINE "もっと早く  ああ!このケツを差し出せばよかったのに!"
 
 # game/data/sexy_scenes/mika/galleryLabels/divine_fucking_mika_at_bathhouse.rpy:75
 translate ja gallery_divine_fucking_mika_at_bathhouse_455a1ada:
 
     # MIKA "Oooooooh! Yes, Miss! It's all yours! My ass is all yours tonight!"
-    MIKA "おおおおおお!はい、お姉さま!ご自由に!
-今夜はアナルはお姉さまのモノです!"
+    MIKA "おおおおおお!はい、お姉さま!ご自由に!今夜はアナルはお姉さまのモノです!"
 
 # game/data/sexy_scenes/mika/galleryLabels/divine_fucking_mika_at_bathhouse.rpy:76
 translate ja gallery_divine_fucking_mika_at_bathhouse_5f06c395:
@@ -390,8 +388,7 @@ translate ja gallery_divine_fucking_mika_at_bathhouse_025f6921:
 translate ja gallery_divine_fucking_mika_at_bathhouse_35500049:
 
     # MIKA "I-It's okay!"
-    MIKA "あっ…
-だ、大丈夫です!"
+    MIKA "あっ…だ、大丈夫です!"
 
 # game/data/sexy_scenes/mika/galleryLabels/divine_fucking_mika_at_bathhouse.rpy:82
 translate ja gallery_divine_fucking_mika_at_bathhouse_e5b3b3e4:
@@ -409,8 +406,7 @@ translate ja gallery_divine_fucking_mika_at_bathhouse_69804d9c:
 translate ja gallery_divine_fucking_mika_at_bathhouse_13e96476:
 
     # MIKA "Mhhfhh! Do it, sister! DO IT!"
-    MIKA "んんっ!お姉ちゃん、やるの!
-やって!"
+    MIKA "んんっ!お姉ちゃん、やるの!やって!"
 
 # game/data/sexy_scenes/mika/galleryLabels/divine_fucking_mika_at_bathhouse.rpy:90
 translate ja gallery_divine_fucking_mika_at_bathhouse_a639fa01:

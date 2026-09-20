@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2025-07-01 22:08
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:9
 translate zh rom_Nijah_stage2_afterInvest_335fe59e:
@@ -226,7 +225,7 @@ translate zh nijah_bed_sexmenu_7ba76175:
 translate zh nijah_bed_sexmenu_fa49098d:
 
     # MC @ talk "Ahh! NIJAH!"
-    MC @ talk "啊！NIJAH！"
+    MC @ talk "啊！妮雅！"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:68
@@ -240,14 +239,14 @@ translate zh nijah_bed_sexmenu_e7894ce8:
 translate zh nijah_bed_sexmenu_74b1a2f3:
 
     # NIJAH "(Zo big...)"
-    NIJAH "(好大啊...)"
+    NIJAH "（好大啊……）"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:70
 translate zh nijah_bed_sexmenu_a2076a71:
 
     # NIJAH "(He puts others to shame.)"
-    NIJAH "(让其他人都相形见绌。)"
+    NIJAH "（让其他人都相形见绌。）"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:71
@@ -261,14 +260,14 @@ translate zh nijah_bed_sexmenu_c0604adf:
 translate zh nijah_bed_sexmenu_e5f6a7f8:
 
     # MC @ talk "(This feels amazing... She’s so good at it!)"
-    MC @ talk "(这感觉太棒了...她技术真好！)"
+    MC @ talk "（这感觉太棒了……她技术真好！）"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:73
 translate zh nijah_bed_sexmenu_9a1c01a2:
 
     # MC @ talk "...Nijah... Ahh..."
-    MC @ talk "...妮雅... 啊..."
+    MC @ talk "……妮雅…… 啊……"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:74
@@ -338,7 +337,7 @@ translate zh nijah_bed_sexmenu_3dd3e618:
 translate zh nijah_bed_sexmenu_df490bd3:
 
     # "Nijah did as she was told, pulling back once she was done to desperately gasp for air before opening her mouth to show me she had done it."
-    "N妮雅照做了，完成后她猛地抽身后退，贪婪地大口喘气，随后张开嘴向我证明她已经吞下去了。"
+    "妮雅照做了，完成后她猛地抽身后退，贪婪地大口喘气，随后张开嘴向我证明她已经吞下去了。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:88
@@ -366,14 +365,14 @@ translate zh nijah_bed_sexmenu_3ccc1950:
 translate zh nijah_bed_sexmenu_0f6cfe60:
 
     # "Getting on the bed on all fours, Nijah stuck out her butt lewdly and lightly swayed it back and forth enticingly as she looked over her shoulder nervously."
-    "妮娅 四肢着地趴在床上，淫荡地撅起屁股，轻轻前后摇摆诱惑着，同时紧张地回头望来。"
+    "妮娅四肢着地趴在床上，淫荡地撅起屁股，轻轻前后摇摆诱惑着，同时紧张地回头望来。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:103
 translate zh nijah_bed_sexmenu_f67b802d:
 
     # NIJAH "M-Master please... Claim me."
-    NIJAH "主-主人，求您...占有我吧。"
+    NIJAH "主——主人，求您……占有我吧。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:104
@@ -394,14 +393,14 @@ translate zh nijah_v_or_a_ce54766b:
 translate zh nijah_v_or_a_5e57f709:
 
     # NIJAH "Ooooh! S-So good!"
-    NIJAH "噢噢！好-好舒服！"
+    NIJAH "噢噢！好——好舒服！"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:114
 translate zh nijah_v_or_a_09e4a51f:
 
     # NIJAH "M-Mmmm...!"
-    NIJAH "嗯-嗯嗯...！"
+    NIJAH "嗯——嗯嗯……！"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:115
@@ -583,7 +582,7 @@ translate zh nijah_v_or_a_8d801582:
 translate zh nijah_v_or_a_fe95bea5:
 
     # NIJAH "J-Just hold for a moment..."
-    NIJAH "稍-稍等一下..."
+    NIJAH "稍——稍等一下……"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:154
@@ -604,7 +603,7 @@ translate zh nijah_v_or_a_7b522c34:
 translate zh nijah_v_or_a_0461430b:
 
     # NIJAH "Mmmhmm... Iz starting to feel g-good..."
-    NIJAH "嗯嗯...开始感觉舒-舒服了..."
+    NIJAH "嗯嗯……开始感觉舒——舒服了……"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:157
@@ -632,7 +631,7 @@ translate zh nijah_v_or_a_0fe7efe6:
 translate zh nijah_v_or_a_a8d18adc:
 
     # MC @ talk "NIJAH! {i}*Huff!*{/i} Your ass feels incredible!"
-    MC @ talk "NIJAH！{i}*哈！*{/i}你的屁股太棒了！"
+    MC @ talk "妮雅！{i}*哈！*{/i}你的屁股太棒了！"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:161
@@ -912,7 +911,7 @@ translate zh nijah_v_or_a_a7dfbf72:
 translate zh nijah_v_or_a_8bc3b2ed:
 
     # NIJAH "Your other form... maybe too much for me without lube."
-    NIJAH "你的另一种形态... 没有润滑剂的话，对我来说可能太过了。"
+    NIJAH "你的另一种形态……没有润滑剂的话，对我来说可能太过了。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:243
@@ -926,7 +925,7 @@ translate zh nijah_v_or_a_eaf21169:
 translate zh nijah_v_or_a_d5511588:
 
     # NIJAH "O-Oh?"
-    NIJAH "哦-哦？"
+    NIJAH "哦——哦？"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:245
@@ -940,7 +939,7 @@ translate zh nijah_v_or_a_c20e541f:
 translate zh nijah_v_or_a_73d5dc0b:
 
     # NIJAH "...G-Give me a few minutes."
-    NIJAH "...给-给我几分钟。"
+    NIJAH "……给——给我几分钟。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:247
@@ -968,7 +967,7 @@ translate zh nijah_v_or_a_da4779ae:
 translate zh nijah_v_or_a_978f3549:
 
     # NIJAH "Okay... I iz ready."
-    NIJAH "好了... 我准备好了。"
+    NIJAH "好了……我准备好了。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:257
@@ -1129,14 +1128,14 @@ translate zh nijah_v_or_a_da8e7b51:
 translate zh nijah_v_or_a_4f52b45e:
 
     # NIJAH "I... I iz fine, j-just..."
-    NIJAH "我...我还好，只-只是..."
+    NIJAH "我……我还好，只——只是……"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:290
 translate zh nijah_v_or_a_b97c72d7:
 
     # NIJAH "C-Careful."
-    NIJAH "轻-轻点。"
+    NIJAH "轻——轻点。"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:291
@@ -1150,14 +1149,14 @@ translate zh nijah_v_or_a_12dd3ebc:
 translate zh nijah_v_or_a_094ac86c:
 
     # NIJAH "O-Oooh~"
-    NIJAH "哦-哦哦~"
+    NIJAH "哦——哦哦~"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:293
 translate zh nijah_v_or_a_19176102:
 
     # NIJAH "My love, p-please...!"
-    NIJAH "亲爱的，求-求你...!"
+    NIJAH "亲爱的，求——求你……！"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:294
@@ -1185,7 +1184,7 @@ translate zh nijah_v_or_a_ccf2672e:
 translate zh nijah_v_or_a_164a89bd:
 
     # NIJAH "P-Please! Iz so good!"
-    NIJAH "求-求你！太舒服了！"
+    NIJAH "求——求你！太舒服了！"
     
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:298
@@ -1491,7 +1490,6 @@ translate zh strings:
     new "我还有别的事要处理。"
     
 
-# TODO: Translation updated at 2026-03-18 22:49
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:142
 translate zh nijah_v_or_a_488b2312:

@@ -5,31 +5,30 @@ init python:
     # and it avoids damage calc (does no damage by itself at all)
     class Battle_ScheduledCast:
         def __init__(self, 
-                SourceSkillObj =    None,
+                SourceSkillObj = None,
 
                 # battlechar, list of battlechars or any enum entry from BATTLE_TARGETS
-                CastTarget =        None,
+                CastTarget = None,
 
-                Effects_OnTarget =          [],
-                Effects_OnSelf =            [],
-                GenericLogLine =            True,
+                Effects_OnTarget = None,
+                Effects_OnSelf = None,
+                GenericLogLine = True,
                 PlayCharSkinUseSkillSound = True,
 
-                SoundUse_CustomList =       None,    # if not none, sounds to play on cast
-                SoundImpact_CustomList =    None, # if not none, sounds to play on target char
-                SoundImpact_OneShotList =   None, # same as above, but only played once (to not earrape with *targets)
+                SoundUse_CustomList = None,    # if not none, sounds to play on cast
+                SoundImpact_CustomList = None, # if not none, sounds to play on target char
+                SoundImpact_OneShotList = None, # same as above, but only played once (to not earrape with *targets)
 
-                TargetVFXID =               None, # if not none, spawn this vfx ID on cast target
-
+                TargetVFXID = None # if not none, spawn this vfx ID on cast target
                 ):
 
-            self.SkillName = SourceSkillObj.DisplayName
-            self.UserBattleChar = SourceSkillObj.Owner_BattleChar
+            self.SkillName = SourceSkillObj.DisplayName if SourceSkillObj else ""
+            self.UserBattleChar = SourceSkillObj.Owner_BattleChar if SourceSkillObj else None
 
             self.TargetList = Battle_ProcessTargetList(self.UserBattleChar, CastTarget)
 
-            self.Effects_OnTarget = Effects_OnTarget
-            self.Effects_OnSelf = Effects_OnSelf
+            self.Effects_OnTarget = Effects_OnTarget if Effects_OnTarget is not None else []
+            self.Effects_OnSelf = Effects_OnSelf if Effects_OnSelf is not None else []
 
             self.GenericLogLine = GenericLogLine
 
@@ -44,21 +43,20 @@ init python:
             BattleScene.ScheduledAttackQueue.insert(0, self)
 
         def ExecuteAction(self):
-            for BattleChar in reversed(self.TargetList):
-                if not BattleChar.IsAlive:
-                    self.TargetList.remove(BattleChar)
+            # Filter out dead characters safely without mutating list in-place
+            self.TargetList = [char for char in self.TargetList if getattr(char, "IsAlive", True)]
 
-            if len(self.TargetList) == 0:
+            if not self.TargetList:
                 return
 
             PlayedAnim = Battle_RunCharAnim(self.UserBattleChar, "cast")
 
             if self.PlayCharSkinUseSkillSound:
                 Battle_PlayCharSkinSound("Char_UseSkill", self.UserBattleChar, Voice = True, Chance = 0.25)
-            # later impl. pass in unique sounds here
+            
             if self.SoundUse_CustomList:
                 Battle_PlaySoundOnBattleChar(renpy.random.choice(self.SoundUse_CustomList), self.UserBattleChar)
-            else:
+            elif "BattleSkill_Defend_Use" in soundLib:
                 Battle_PlaySoundOnBattleChar(renpy.random.choice(soundLib["BattleSkill_Defend_Use"]), self.UserBattleChar)
 
             Battle_LoopStep(PlayedAnim.Warmup)
@@ -81,7 +79,7 @@ init python:
                 Battle_AddLogEntry_Autoformat(
                     USER = self.UserBattleChar,
                     SKILL_NAME = self.SkillName,
-                    String = tra(_("USER_NAME uses SKILL_NAME!")))
+                    String = _("USER_NAME uses SKILL_NAME!"))
 
             Battle_LoopStep(PlayedAnim.Cooldown)
             return

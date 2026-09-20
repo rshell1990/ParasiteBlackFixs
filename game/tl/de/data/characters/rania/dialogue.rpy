@@ -4,17 +4,17 @@
 translate de hamun_rania_talk_8a651910:
 
     # RANIA @ talk "Yes? You need anything?"
-    RANIA @ talk "Yes? You need anything?"
+    RANIA @ talk "Ja? Brauchst du etwas?"
 
 # game/data/characters/rania/dialogue.rpy:22
 translate de hamun_rania_bye_72b98cb9:
 
     # RANIA @ talk "Okay, talk to me if you need anything."
-    RANIA @ talk "Okay, talk to me if you need anything."
+    RANIA @ talk "Okay, sag Bescheid, wenn du etwas brauchst."
 
 translate de strings:
 
     # game/data/characters/rania/dialogue.rpy:7
     old "Talk to Rania"
-    new "Talk to Rania"
+    new "Sprich mit Rania"
 

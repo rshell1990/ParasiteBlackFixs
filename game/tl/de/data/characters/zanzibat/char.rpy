@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/zanzibat/char.rpy:12
     old "A powerful and aloof merchant lord in Hamun"
-    new "A powerful and aloof merchant lord in Hamun"
+    new "Ein mächtiger und distanzierter Handelsherr in Hamun"
 

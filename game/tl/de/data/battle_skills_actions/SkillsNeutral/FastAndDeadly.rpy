@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/FastAndDeadly.rpy:4
     old "Fast and Deadly"
-    new "Fast and Deadly"
+    new "Schnell und tödlich"
 

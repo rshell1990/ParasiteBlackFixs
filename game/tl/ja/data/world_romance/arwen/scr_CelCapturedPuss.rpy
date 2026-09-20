@@ -124,9 +124,7 @@ translate ja sexscene_ArwenCelesteCapturedPuss_2b8dadd0:
 translate ja sexscene_ArwenCelesteCapturedPuss_7f3034f6:
 
     # ARWEN "P-Please! I don't know how much longer I can control myself! S-Stop! I beg of you!"
-    ARWEN "お、お願いだよ!
-もう自分を抑えていられるかわからない!
-や、やめて!頼む!"
+    ARWEN "お、お願いだよ!もう自分を抑えていられるかわからない!や、やめて!頼む!"
 
 # game/data/world_romance/arwen/scr_CelCapturedPuss.rpy:26
 translate ja sexscene_ArwenCelesteCapturedPuss_f96dfe6a:
@@ -150,8 +148,7 @@ translate ja sexscene_ArwenCelesteCapturedPuss_6445e32a:
 translate ja sexscene_ArwenCelesteCapturedPuss_915782ff:
 
     # MC "This is all you're good for you worthless little slut! Do you feel it now?"
-    MC "これがお前の唯一の価値だ、この役立たずの雌豚め!
-今、感じるか？"
+    MC "これがお前の唯一の価値だ、この役立たずの雌豚め!今、感じるか？"
 
 # game/data/world_romance/arwen/scr_CelCapturedPuss.rpy:30
 translate ja sexscene_ArwenCelesteCapturedPuss_fd95d8e8:

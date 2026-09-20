@@ -264,13 +264,6 @@ translate kr gallery_markus_fem_tarbeck_temptations_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "감시자들은 히죽 웃으며 그 광경을 즐겼고, 마르시아의 다리는 내 밑에서 가련하게 꿈틀거렸다."
 
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:73
-translate kr gallery_markus_fem_tarbeck_temptations_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "힘이 빠진 그녀가 할 수 있는 일이라곤 내 자지가 그녀의 가슴 사이를 때리는 것을 무력하게 바라보는 것뿐이었다."
-
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:74
 translate kr gallery_markus_fem_tarbeck_temptations_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -389,4 +382,3 @@ translate kr gallery_markus_fem_tarbeck_temptations_142972cd:
 
     # "As the overwhelming lust finally began to subside, it dawned on us what we had just done..."
     "압도적인 욕망이 마침내 가라앉기 시작하자, 우리가 방금 무슨 짓을 했는지 깨닫기 시작했다..."
-

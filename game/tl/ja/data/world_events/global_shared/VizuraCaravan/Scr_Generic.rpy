@@ -10,8 +10,7 @@ translate ja vizura_caravan_revisit_talk_669a050d:
 translate ja vizura_caravan_revisit_talk_950e49d7:
 
     # VIZURA @ talk "How's the roads treatin' ya? What can Vizura do for you?"
-    VIZURA @ talk "道路の具合はどうだい？
-ヴィズラに何ができる？"
+    VIZURA @ talk "道路の具合はどうだい？ヴィズラに何ができる？"
 
 # game/data/world_events/global_shared/VizuraCaravan/Scr_Generic.rpy:18
 translate ja vizura_caravan_talk_menu_917cd195:

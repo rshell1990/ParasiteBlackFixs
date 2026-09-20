@@ -4,7 +4,7 @@
 translate de travel_node_logic_nature_c31b6737:
 
     # "There's nothing here..."
-    "There's nothing here..."
+    "Hier ist nichts..."
 
 # game/data/travel_node_logic/aio.rpy:121
 translate de travel_node_logic_nature_8d65291c:

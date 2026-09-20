@@ -124,61 +124,61 @@ translate de gallery_nijah_house_doggy_vag_e13d785b:
 translate de gallery_nijah_house_doggy_vag_809fc1eb:
 
     # NIJAH "Ooooh~ Master..."
-    NIJAH "Ooooh~ Master..."
+    NIJAH "Ooooh~ Meister..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:37
 translate de gallery_nijah_house_doggy_vag_05c31ab2:
 
     # NIJAH "{i}Zo much...{/i}"
-    NIJAH "{i}Zo much...{/i}"
+    NIJAH "{i}Zo viel...{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:38
 translate de gallery_nijah_house_doggy_vag_ae2392f2:
 
     # NIJAH "I feel so full now!"
-    NIJAH "I feel so full now!"
+    NIJAH "Jetzt fühle ich mich so voll!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:42
 translate de gallery_nijah_house_doggy_anal_cc7da2f1:
 
     # "As I pressed my cock against Nijah’s tight, dark rosebud, she suddenly gasped and reached back to cover her asshole with her hand."
-    "As I pressed my cock against Nijah’s tight, dark rosebud, she suddenly gasped and reached back to cover her asshole with her hand."
+    "Als ich meinen Schwanz gegen Nijahs enge, dunkle Rosenknospe presste, keuchte sie plötzlich und griff nach hinten, um ihr Arschloch mit der Hand zu bedecken."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:43
 translate de gallery_nijah_house_doggy_anal_01bae666:
 
     # NIJAH "N-Not that hole!"
-    NIJAH "N-Not that hole!"
+    NIJAH "N-Nicht dieses Loch!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:44
 translate de gallery_nijah_house_doggy_anal_ad88227b:
 
     # MC @ talk "I want to fuck your ass."
-    MC @ talk "I want to fuck your ass."
+    MC @ talk "Ich will deinen Arsch ficken."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:45
 translate de gallery_nijah_house_doggy_anal_76011166:
 
     # "Nijah blushed profusely at the comment."
-    "Nijah blushed profusely at the comment."
+    "Nijah errötete heftig bei dem Kommentar."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:46
 translate de gallery_nijah_house_doggy_anal_b9d642b6:
 
     # NIJAH "You are very big..."
-    NIJAH "You are very big..."
+    NIJAH "Du bist sehr groß..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:47
 translate de gallery_nijah_house_doggy_anal_8008a402:
 
     # "Nijah whimpered but nodded."
-    "Nijah whimpered but nodded."
+    "Nijah wimmerte, aber nickte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:51
 translate de gallery_nijah_house_doggy_anal_1215236c:
 
     # "Once I was confident she was ready, I once again pressed the head of my cock against Nijah’s tight ass, and her hands coiled as she whimpered nervously, squealing when the head of my cock forced open her tight asshole and pressed it’s way forward."
-    "Once I was confident she was ready, I once again pressed the head of my cock against Nijah’s tight ass, and her hands coiled as she whimpered nervously, squealing when the head of my cock forced open her tight asshole and pressed it’s way forward."
+    "Als ich sicher war, dass sie bereit war, presste ich erneut die Eichel meines Schwanzes gegen Nijahs engen Arsch, und ihre Hände verkrampften sich, als sie nervös wimmerte und quietschte, als die Eichel meines Schwanzes ihr enges Arschloch gewaltsam öffnete und sich seinen Weg nach vorne bahnte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:52
 translate de gallery_nijah_house_doggy_anal_43497bd5:
@@ -190,117 +190,117 @@ translate de gallery_nijah_house_doggy_anal_43497bd5:
 translate de gallery_nijah_house_doggy_anal_8d801582:
 
     # MC @ talk "Are you okay?"
-    MC @ talk "Are you okay?"
+    MC @ talk "Geht es dir gut?"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:54
 translate de gallery_nijah_house_doggy_anal_fe95bea5:
 
     # NIJAH "J-Just hold for a moment..."
-    NIJAH "J-Just hold for a moment..."
+    NIJAH "W-Warte einen Moment..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:55
 translate de gallery_nijah_house_doggy_anal_50d9de5c:
 
     # "After taking a few anxious breathes, Nijah did her best to try and relax as she nervously signalled for me to continue fucking her ass."
-    "After taking a few anxious breathes, Nijah did her best to try and relax as she nervously signalled for me to continue fucking her ass."
+    "Nachdem sie ein paar ängstliche Atemzüge genommen hatte, tat Nijah ihr Bestes, um sich zu entspannen, und gab mir nervös das Zeichen, weiter in ihren Arsch zu ficken."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:56
 translate de gallery_nijah_house_doggy_anal_7b522c34:
 
     # "Slowly, as Nijah’s tight ass ring stretched around my cock while she took me deeper into her, the winces of pain slowly died down, and soon, she moaned softly beneath her hot breath, gently rocking her round butt back and forth onto my member with no prompt."
-    "Slowly, as Nijah’s tight ass ring stretched around my cock while she took me deeper into her, the winces of pain slowly died down, and soon, she moaned softly beneath her hot breath, gently rocking her round butt back and forth onto my member with no prompt."
+    "Langsam, als Nijahs enger Anus sich um meinen Schwanz dehnte, während sie mich tiefer in sich aufnahm, klangen die Schmerzenslaute allmählich ab, und bald stöhnte sie leise unter ihrem heißen Atem und wiegte ihren runden Hintern sanft und ohne Aufforderung auf meinem Glied hin und her."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:57
 translate de gallery_nijah_house_doggy_anal_0461430b:
 
     # NIJAH "Mmmhmm... Iz starting to feel g-good..."
-    NIJAH "Mmmhmm... Iz starting to feel g-good..."
+    NIJAH "Mmmhmm... Es fängt an, sich g-gut anzufühlen..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:58
 translate de gallery_nijah_house_doggy_anal_e9bdcf16:
 
     # NIJAH "But it still burns a little!"
-    NIJAH "But it still burns a little!"
+    NIJAH "Aber es brennt noch ein bisschen!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:59
 translate de gallery_nijah_house_doggy_anal_c2f26b99:
 
     # "After a few more minutes of her ass tightening and flexing around my cock, I with my hands pressed greedily into her ass began to thrust back and forth faster."
-    "After a few more minutes of her ass tightening and flexing around my cock, I with my hands pressed greedily into her ass began to thrust back and forth faster."
+    "Nach ein paar weiteren Minuten, in denen ihr Arsch sich um meinen Schwanz zusammenzog und entspannte, begann ich, meine Hände gierig in ihren Hintern gedrückt, schneller hin und her zu stoßen."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:60
 translate de gallery_nijah_house_doggy_anal_0fe7efe6:
 
     # "Soon, I was slamming to the hilt of her tight ass while Nijah squealed in pleasure, moaning as her tight ass worked tirelessly to try and force me to finish inside of her."
-    "Soon, I was slamming to the hilt of her tight ass while Nijah squealed in pleasure, moaning as her tight ass worked tirelessly to try and force me to finish inside of her."
+    "Bald stieß ich bis zum Anschlag in ihren engen Arsch, während Nijah vor Lust quietschte und stöhnte, während ihr enger Arsch unermüdlich daran arbeitete, mich dazu zu bringen, in ihr zu kommen."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:61
 translate de gallery_nijah_house_doggy_anal_a8d18adc:
 
     # MC @ talk "NIJAH! {i}*Huff!*{/i} Your ass feels incredible!"
-    MC @ talk "NIJAH! {i}*Huff!*{/i} Your ass feels incredible!"
+    MC @ talk "NIJAH! {i}*Huff!*{/i} Dein Arsch fühlt sich unglaublich an!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:62
 translate de gallery_nijah_house_doggy_anal_2a98477e:
 
     # NIJAH "Yes! Fuck my butt! So good! Yes!~"
-    NIJAH "Yes! Fuck my butt! So good! Yes!~"
+    NIJAH "Ja! Fick meinen Arsch! So gut! Ja!~"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:63
 translate de gallery_nijah_house_doggy_anal_24743a57:
 
     # "Excitedly, Nijah’s pussy dripped onto the bed quilts while I continued to pound her ass from behind, and soon, as her body convulsed in tight waves, I could sense her orgasm drawing near."
-    "Excitedly, Nijah’s pussy dripped onto the bed quilts while I continued to pound her ass from behind, and soon, as her body convulsed in tight waves, I could sense her orgasm drawing near."
+    "Aufgeregt tropfte Nijahs Muschi auf die Bettdecken, während ich weiter von hinten ihren Arsch fickte, und bald, als ihr Körper in engen Wellen zuckte, spürte ich, wie ihr Orgasmus nahte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:64
 translate de gallery_nijah_house_doggy_anal_b3cf2492:
 
     # NIJAH "Yes! YES! Take my ass master!"
-    NIJAH "Yes! YES! Take my ass master!"
+    NIJAH "Ja! JA! Nimm meinen Arsch, Meister!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:65
 translate de gallery_nijah_house_doggy_anal_2b0ab8c4:
 
     # NIJAH "YES!~"
-    NIJAH "YES!~"
+    NIJAH "JA!~"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:66
 translate de gallery_nijah_house_doggy_anal_4aba3eb0:
 
     # "As her body convulsed and tightened around me, her mouth hung agape as she seemed to choke on her own words, a powerful orgasm ripping through her body as I found myself drawing almost painfully near to finishing as well..."
-    "As her body convulsed and tightened around me, her mouth hung agape as she seemed to choke on her own words, a powerful orgasm ripping through her body as I found myself drawing almost painfully near to finishing as well..."
+    "Als ihr Körper um mich herum zuckte und sich verengte, hing ihr Mund offen, während sie an ihren eigenen Worten zu ersticken schien, ein heftiger Orgasmus riss durch ihren Körper, als ich mich ebenfalls fast schmerzhaft nahe dem Höhepunkt fühlte ..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:70
 translate de gallery_nijah_house_doggy_anal_27354f83:
 
     # "Unable to hold back any longer, I pulled Nijah’s tight ass back to fully take my cock, and as she quivered and moaned, a guttural sound escaped her lips as she felt the hot rush of my load pouring deeply into her asshole."
-    "Unable to hold back any longer, I pulled Nijah’s tight ass back to fully take my cock, and as she quivered and moaned, a guttural sound escaped her lips as she felt the hot rush of my load pouring deeply into her asshole."
+    "Unfähig, mich länger zurückzuhalten, zog ich Nijahs engen Arsch zurück, um meinen Schwanz vollständig aufzunehmen, und während sie zitterte und stöhnte, entwich ein kehliger Laut ihren Lippen, als sie den heißen Schwall meiner Ladung tief in ihr Arschloch strömen spürte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:71
 translate de gallery_nijah_house_doggy_anal_f23ff541:
 
     # NIJAH "Ooooh~ Master...!"
-    NIJAH "Ooooh~ Master...!"
+    NIJAH "Ooooh~ Meister...!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:72
 translate de gallery_nijah_house_doggy_anal_05c31ab2:
 
     # NIJAH "{i}Zo much...{/i}"
-    NIJAH "{i}Zo much...{/i}"
+    NIJAH "{i}So viel...{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:73
 translate de gallery_nijah_house_doggy_anal_1d50f878:
 
     # NIJAH "My poor butt iz on fire!"
-    NIJAH "My poor butt iz on fire!"
+    NIJAH "Mein armer Arsch brennt!"
 
 translate de strings:
 
     # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:7
     old "Her pussy."
-    new "Her pussy."
+    new "Ihre Muschi."
 
     # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:9
     old "Her ass."
-    new "Her ass."
+    new "Ihr Arsch."
 

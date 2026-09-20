@@ -166,8 +166,7 @@ translate ja gallery_dros_bj_preTf_naked_8a75c072:
 translate ja gallery_dros_bj_preTf_naked_036dc52c:
 
     # "The intense, hot sensation of Dros' lips as he sucked my cock as though his life depended on it, was driving me wild."
-    "彼の唇の、焦がれるような熱さが、
-命がけで咥えるその感覚に、私は狂おしくなっていった。"
+    "彼の唇の、焦がれるような熱さが、命がけで咥えるその感覚に、私は狂おしくなっていった。"
 
 # game/data/sexy_scenes/dros/galleryLabels/bj.rpy:84
 translate ja gallery_dros_bj_preTf_naked_aefbf8f5:
@@ -425,8 +424,7 @@ translate ja gallery_dros_bj_preTf_dress_12016605:
 translate ja gallery_dros_bj_preTf_dress_bcb06ad5:
 
     # DROS "W-Would you perhaps, um... {i}Be a little mean to me please?{/i}"
-    DROS "あの…もしかして…  
-{i}少し意地悪してくれますか？{/i}"
+    DROS "あの…もしかして…  {i}少し意地悪してくれますか？{/i}"
 
 # game/data/sexy_scenes/dros/galleryLabels/bj.rpy:155
 translate ja gallery_dros_bj_preTf_dress_319fa36c:

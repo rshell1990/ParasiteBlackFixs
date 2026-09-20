@@ -130,8 +130,7 @@ translate ja blacksmithscene1_dd47a8bb:
 translate ja blacksmithscene1_93026027:
 
     # ARLENA "So, how’d you both really survive? Hiding under a rock I take it?"
-    ARLENA "で、二人は実際どうやって生き延びた？
-石の下に隠れてたんだろ？"
+    ARLENA "で、二人は実際どうやって生き延びた？石の下に隠れてたんだろ？"
 
 # game/data/world_quests/side/novaras/ReginasPackage/scr_reginaPackage.rpy:31
 translate ja blacksmithscene1_91967820:

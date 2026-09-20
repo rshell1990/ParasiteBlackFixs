@@ -53,7 +53,7 @@ translate zh rom_nijah_howarethings_6d585daa:
 translate zh rom_nijah_howarethings_8aa34b28:
 
     # MC @ talk "Maybe one day Nijah, it’s not safe at the moment with the war going on."
-    MC @ talk "也许有一天，Nijah，现在战争还在继续，不安全。"
+    MC @ talk "也许有一天，妮雅，现在战争还在继续，不安全。"
     
 
 # game/data/world_romance/nijah/scr_howarethings.rpy:13
@@ -95,7 +95,7 @@ translate zh rom_nijah_howarethings_5b74c56a:
 translate zh rom_nijah_howarethings_4dca983f:
 
     # MC @ talk "Nijah? What is it?"
-    MC @ talk "Nijah？怎么了？"
+    MC @ talk "妮雅？怎么了？"
     
 
 # game/data/world_romance/nijah/scr_howarethings.rpy:21

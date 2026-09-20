@@ -12,7 +12,7 @@ init python:
         ErraticChanceByLevel = {1: 0.45, 2: 0.55, 3: 0.70, 4: 0.85}
 
         def CanExecute(self):
-            if not super(BattleSkill_Madness, self).CanExecute():
+            if not BattleSkill.CanExecute(self):
                 return False
             return True
 

@@ -9,7 +9,6 @@ init python:
         "value_per_unit":450,
         "sex_infection_loss_modifier":1.25,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
     static_item_defs["arlena_gift_amulet"] = {
@@ -32,7 +31,6 @@ init python:
         "eqp_slots":EQP_SLOTS.NECK,
         "value_per_unit":150,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
 
@@ -46,7 +44,6 @@ init python:
         "value_per_unit":300,
         "add_stat_mres":5,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
     static_item_defs["dros_gift"] = {
@@ -58,7 +55,6 @@ init python:
         "eqp_slots":EQP_SLOTS.RINGS,
         "value_per_unit":350,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
 
@@ -68,14 +64,11 @@ init python:
         "plural":_("Infernium rings"),
         "desc":_("A ring forged from a pact with a demon, increasing the users strength at the cost of their endurance."),
         "icon":"images/items/jewelry/ring_inferno.webp",
-
         "add_attr_str":2,
         "add_attr_end":-1,
-
         "eqp_slots":EQP_SLOTS.RINGS,
         "value_per_unit":300,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
 
@@ -85,43 +78,23 @@ init python:
         "plural":_("Elven house insignia rings"),
         "desc":_("A ring representing one of the many elven lords houses, common amongst elves"),
         "icon":"images/items/jewelry/ring_elven.webp",
-
         "add_attr_agi":1,
-
         "eqp_slots":EQP_SLOTS.RINGS,
         "value_per_unit":75,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
-    static_item_defs["irridian_insignia_ring"] = {
-        "name":_("Irridian insignia ring"),
-        "plural":_("Irridian insignia rings"),
-        "desc":_("A ring the power of Irridian"),
-        "icon":"images/items/jewelry/ring_irridian.webp",
 
-        "add_attr_agi":99999,
-        "add_attr_dex":99999,
-
-        "eqp_slots":EQP_SLOTS.RINGS,
-        "value_per_unit":75,
-        "shop_category":"jewelry",
-
-        "sort_order":50,
-    }
     
     static_item_defs["orc_tribal_necklace"] = {
         "name":_("Orc tribal necklace"),
         "plural":_("Orc tribal necklaces"),
         "desc":_("A necklace made of small bones with insignias carved into them, it radiates a strange energy."),
         "icon":"images/items/jewelry/necklace_orc.webp",
-
         "eqp_slots":EQP_SLOTS.NECK,
-
         "add_attr_will":1,
         "value_per_unit":150,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
 
@@ -135,7 +108,6 @@ init python:
         "value_per_unit":350,
         "add_attr_agi":2,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
 ### hamun craft
@@ -148,7 +120,6 @@ init python:
         "value_per_unit":3200,
         "add_attr_barter":2,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
 
@@ -161,20 +132,15 @@ init python:
         "eqp_slots":EQP_SLOTS.NECK,
         "value_per_unit":250,
         "shop_category":"jewelry",
-
         "sort_order":50,
     }
-    static_item_defs["irridians_eye"] = {
-        "name":_("Irridians Eye"),
-        "plural":_("Irridians Eyes"),
-        "desc":_("A mysterious eye-shaped amulet said to be imbued with the power of Irridian."),
-        "icon":"images/items/jewelry/irridians_eye.webp",
-        "eqp_slots":EQP_SLOTS.NECK,
+    static_item_defs["ring_1"] = {
+        "name":_("Ring of Power"),
+        "plural":_("Rings of Power"),
+        "desc":_("A mysterious ring said to grant its wearer immense power. It is often sought after by adventurers and mages alike."),
+        "icon":"images/items/jewelry/ring_of_power.webp",
+        "eqp_slots":EQP_SLOTS.RINGS,
         "value_per_unit":250,
         "shop_category":"jewelry",
-        "add_attr_will":99999,
-        "add_attr_luck":99999,
-        "add_attr_mp":99999,
-        "add_attr_mpr":99999,
         "sort_order":50,
     }

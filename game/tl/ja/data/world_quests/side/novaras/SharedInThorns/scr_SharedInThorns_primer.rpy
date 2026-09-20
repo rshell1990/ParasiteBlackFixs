@@ -28,8 +28,7 @@ translate ja scr_SharedInThorns_RepInit_2e624d48:
 translate ja scr_SharedInThorns_RepInit_dd27f6d9:
 
     # ELENA @ talk "Very well... Let me know when you are ready."
-    ELENA @ talk "よろしい…  
-準備ができたら、お知らせください。"
+    ELENA @ talk "よろしい…  準備ができたら、お知らせください。"
 
 # game/data/world_quests/side/novaras/SharedInThorns/scr_SharedInThorns_primer.rpy:28
 translate ja scr_SharedInThorns_0_266b15c5:

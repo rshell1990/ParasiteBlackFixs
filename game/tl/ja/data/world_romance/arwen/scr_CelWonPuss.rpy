@@ -118,8 +118,7 @@ translate ja sexscene_ArwenCelesteWonPuss_8859df06:
 translate ja sexscene_ArwenCelesteWonPuss_2fbf7c88:
 
     # "Celeste gasped as I pinned her down, going harder than before with a reckless kind of abandon as I thrust myself into her."
-    "私が彼女を押さえつけると、セレステは息をのんだ。
-これまで以上に強く、乱暴な勢いで私は彼女の中に突き入った。"
+    "私が彼女を押さえつけると、セレステは息をのんだ。これまで以上に強く、乱暴な勢いで私は彼女の中に突き入った。"
 
 # game/data/world_romance/arwen/scr_CelWonPuss.rpy:25
 translate ja sexscene_ArwenCelesteWonPuss_f9c1bdd7:
@@ -209,8 +208,7 @@ translate ja sexscene_ArwenCelesteWonPuss_ed4fa467:
 translate ja sexscene_ArwenCelesteWonPuss_316483db:
 
     # ARWEN @ talk "It pleases me to hear you say that... Now come, I need to escort you back I'm afraid."
-    ARWEN @ talk "そう言っていただけて嬉しいです…
-さあ、そろそろお連れしなくてはなりません。"
+    ARWEN @ talk "そう言っていただけて嬉しいです…さあ、そろそろお連れしなくてはなりません。"
 
 # game/data/world_romance/arwen/scr_CelWonPuss.rpy:51
 translate ja sexscene_ArwenCelesteWonPuss_1d9f0f69:

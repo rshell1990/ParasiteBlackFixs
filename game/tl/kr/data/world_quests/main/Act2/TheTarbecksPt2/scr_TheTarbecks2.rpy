@@ -1178,13 +1178,6 @@ translate kr qst_TheTarbecks2_enter_manor_847e9558:
     # LADY_TARBECK @ talk "And hopefully this foolishness of his can end and we can all go back to being just miserable again."
     LADY_TARBECK @ talk "그리고 이 녀석의 어리석음이 끝나서 우리 모두 그저 다시 비참하게 지내는 일상으로 돌아갈 수 있길 바라요."
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:45
-translate kr qst_TheTarbecks2_enter_manor_f56d99fb:
-
-    # MC @ talk "... Did you have anywhere you wished to go today, xmy lady?"
-    MC @ talk "... 오늘 가고 싶은 곳이라도 있었나요, 나의 귀부인이여?"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:46
 translate kr qst_TheTarbecks2_enter_manor_a407e266:
 
     # LADY_TARBECK @ talk "Hmph."
@@ -1256,13 +1249,6 @@ translate kr qst_TheTarbecks2_enter_manor_cc37fb0d:
     # MC @ talk "But here-"
     MC @ talk "하지만 여기-"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:71
-translate kr qst_TheTarbecks2_enter_manor_fb73c786:
-
-    # LADY_TARBECK @ talk "Your job isn't to speak."
-    LADY_TARBECK @ talk "당신의 일은 말하는 게 아니에요."
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:73
 translate kr qst_TheTarbecks2_enter_manor_599d8a10:
 
     # LADY_TARBECK @ talk "It's to follow and protect me... silently."
@@ -7322,13 +7308,6 @@ translate kr qst_TheTarbecks2_meetlord_a319ce3a:
     # LORD_BELAMORE @ smile "Well... Missing... Kidnapped... He's not here, is he?"
     LORD_BELAMORE @ smile "음... 실종... 납치... 그가 여기 없잖아요, 그렇죠?"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1618
-translate kr qst_TheTarbecks2_meetlord_03f8f416:
-
-    # LORD_BELAMORE @ smile "Perhaps Lady Belamore herself simply had enough of him."
-    LORD_BELAMORE @ smile "아마 벨라모어 부인 본인이 그에게 질려버린 건지도 모르죠."
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1619
 translate kr qst_TheTarbecks2_meetlord_f22181d5:
 
     # MC @ smile "Well, as I'm sure you know, my lord."
@@ -8768,13 +8747,6 @@ translate kr qst_TheTarbecks2_return_to_manor_once_more_once_more_f636a71d:
     # LADY_TARBECK @ angry "Many have tried... bitch."
     LADY_TARBECK @ angry "많은 이들이 시도했지... 이년아."
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1981
-translate kr qst_TheTarbecks2_return_to_manor_once_more_once_more_820b7258:
-
-    # MC "(She said near the castle.)"
-    MC "(성 근처라고 했어.)"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1982
 translate kr qst_TheTarbecks2_return_to_manor_once_more_once_more_d259fa86:
 
     # MC "(There must be an entrance to the sewer works around there somewhere.)"
@@ -9761,4 +9733,3 @@ translate kr qst_TheTarbecks2_enter_manor_e2122402:
 
     # LADY_TARBECK @ angry "Your job isn't to speak."
     LADY_TARBECK @ angry "네 할 일은 말하는 게 아니야."
-

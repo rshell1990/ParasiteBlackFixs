@@ -70,7 +70,7 @@ translate zh qst_BigTroubleLHamun_intro_ee8472d0:
 translate zh qst_BigTroubleLHamun_intro_9f9b90ce:
 
     # MARBELLA @ sad "Fuck..."
-    MARBELLA @ sad "妈的..."
+    MARBELLA @ sad "妈的……"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:16
 translate zh qst_BigTroubleLHamun_intro_fe581e7a:
@@ -130,7 +130,7 @@ translate zh qst_BigTroubleLHamun_intro_menu_b25747f1:
 translate zh qst_BigTroubleLHamun_intro_menu_47be321f:
 
     # MARBELLA @ sad "Once you've caught the eye of the GTC, getting the fuckers to stay away is the hardest part."
-    MARBELLA @ sad "一旦被GTC盯上，让这些混蛋滚远点是最难的部分。"
+    MARBELLA @ sad "一旦被大商会盯上，让这些混蛋滚远点是最难的部分。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:33
 translate zh qst_BigTroubleLHamun_intro_menu_1f48e3e3:
@@ -268,7 +268,7 @@ translate zh qst_BigTroubleLHamun_talk_to_zanzibat_b71b6adc:
 translate zh qst_BigTroubleLHamun_talk_to_zanzibat_9b59b532:
 
     # ZANZIBAT @ talk "But I did hear some grumblings about a new mining company that's rattled the GTC."
-    ZANZIBAT @ talk "不过我确实听到一些关于新矿业公司搅动GTC的抱怨。"
+    ZANZIBAT @ talk "不过我确实听到一些关于新矿业公司搅动大商会的抱怨。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:78
 translate zh qst_BigTroubleLHamun_talk_to_zanzibat_dcdfc39a:
@@ -322,7 +322,7 @@ translate zh qst_BigTroubleLHamun_talk_to_zanzibat_8a30bf49:
 translate zh qst_BigTroubleLHamun_talk_to_zanzibat_80564582:
 
     # MC "(Here we go...)"
-    MC "(来了……)"
+    MC "（来了……）"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:87
 translate zh qst_BigTroubleLHamun_talk_to_zanzibat_679e9801:
@@ -496,7 +496,7 @@ translate zh qst_BigTroubleLHamun_miningco_ambush_98e4b789:
 translate zh qst_BigTroubleLHamun_miningco_ambush_8170d30b:
 
     # "My eyes turned towards the masked servants of the GTC approaching."
-    "我的目光转向那些戴着面具、正朝我走来的GTC仆从。"
+    "我的目光转向那些戴着面具、正朝我走来的大商会仆从。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:132
 translate zh qst_BigTroubleLHamun_miningco_ambush_47fc7f74:
@@ -514,7 +514,7 @@ translate zh qst_BigTroubleLHamun_miningco_ambush_dd9cf4bb:
 translate zh qst_BigTroubleLHamun_miningco_ambush_e6b83afa:
 
     # GTC_GOON "I've been sent to deliver a message from the GTC."
-    GTC_GOON "我奉命传达GTC的消息。"
+    GTC_GOON "我奉命传达大商会的消息。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:135
 translate zh qst_BigTroubleLHamun_miningco_ambush_56ad3719:
@@ -544,7 +544,7 @@ translate zh qst_BigTroubleLHamun_miningco_ambush_21629b4b:
 translate zh qst_BigTroubleLHamun_miningco_ambush_c5a94d68:
 
     # MC @ angry "Fucking GTC dogs..."
-    MC @ angry "该死的GTC走狗..."
+    MC @ angry "该死的Org走狗..."
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:142
 translate zh qst_BigTroubleLHamun_miningco_ambush_dffa6dd0:
@@ -610,7 +610,7 @@ translate zh qst_BigTroubleLHamun_miningco_ambush_1225739e:
 translate zh qst_BigTroubleLHamun_miningco_ambush_5fd0e167:
 
     # "{i}Stay out of the GTC's business.{/i}"
-    "{i}别插手GTC的事。{/i}"
+    "{i}别插手大商会的事。{/i}"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:158
 translate zh qst_BigTroubleLHamun_miningco_ambush_f868d28e:
@@ -622,7 +622,7 @@ translate zh qst_BigTroubleLHamun_miningco_ambush_f868d28e:
 translate zh qst_BigTroubleLHamun_miningco_ambush_8fed922a:
 
     # VES @ angry "Typical of cowardly GTC dogs."
-    VES @ angry "果然是GTC那群懦夫走狗的作风。"
+    VES @ angry "果然是大商会那群懦夫走狗的作风。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:161
 translate zh qst_BigTroubleLHamun_miningco_ambush_88d865d1:
@@ -755,7 +755,7 @@ translate zh qst_BigTroubleLHamun_return_to_marbella_after_ambush_44d639ec:
 translate zh qst_BigTroubleLHamun_return_to_marbella_after_ambush_01bb6fa3:
 
     # MC @ talk "The GTC didn't take too kindly to that, it seems."
-    MC @ talk "看来GTC对此不太满意。"
+    MC @ talk "看来大商会对此不太满意。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:190
 translate zh qst_BigTroubleLHamun_return_to_marbella_after_ambush_26afe1af:
@@ -928,7 +928,6 @@ translate zh strings:
     old "There may be another way... Give me more time."
     new "或许还有别的办法……再给我点时间。"
 
-# TODO: Translation updated at 2026-03-30 19:55
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:60
 translate zh qst_BigTroubleLHamun_intro_menu_e573a905:
@@ -1200,11 +1199,10 @@ translate zh qst_BigTroubleLHamun_intro_menu_dd179fe2:
     # MARBELLA @ talk "Anyway, thanks for the distraction, I really needed that."
     MARBELLA @ talk "总之，谢谢你的分心，我真的需要那个。"
 
-# TODO: Translation updated at 2026-04-11 22:42
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/script_BigTroubleLH.rpy:289
 translate zh qst_BigTroubleLHamun_return_to_marbella_after_ambush_7c014a61:
 
     # MC @ talk "We need to talk. The GTC threatened me."
-    MC @ talk "我们得谈谈。GTC 威胁了我。"
+    MC @ talk "我们得谈谈。大商会威胁了我。"
 

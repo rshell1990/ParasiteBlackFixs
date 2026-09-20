@@ -4,7 +4,7 @@ translate de strings:
 
     # game/data/world_romance/mrs_winward/preg_winward.rpy:9
     old "Mrs. Winward has given birth."
-    new "Mrs. Winward has given birth."
+    new "Frau Winward hat ein Kind zur Welt gebracht."
 
     # game/data/world_romance/mrs_winward/preg_winward.rpy:18
     old "Rysa"

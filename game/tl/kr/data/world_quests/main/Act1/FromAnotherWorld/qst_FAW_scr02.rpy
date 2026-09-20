@@ -96,13 +96,6 @@ translate kr qst_FromAnotherWorld_ReturnHome_de6a39b0:
     # REGINA @ smile_talk "It’s a miracle you’re both alive."
     REGINA @ smile_talk "너희 둘 다 살아있다니 기적이야."
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:29
-translate kr qst_FromAnotherWorld_ReturnHome_ReginaTalk_15f57a0d:
-
-    # REGINA @ talk "I think they were suspicious that you and Markus had managed to survive through some sort of black magic."
-    REGINA @ talk "그들은 너와 마커스가 어떤 흑마법으로 살아남은 게 아닌지 의심했던 것 같아."
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:30
 translate kr qst_FromAnotherWorld_ReturnHome_ReginaTalk_498911e8:
 
     # REGINA @ talk "They searched your room but found nothing."
@@ -114,13 +107,6 @@ translate kr qst_FromAnotherWorld_ReturnHome_ReginaTalk_9c998003:
     # MC @ talk "What did you tell them?"
     MC @ talk "그들에게 뭐라고 말했어?"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:32
-translate kr qst_FromAnotherWorld_ReturnHome_ReginaTalk_b5729cf7:
-
-    # REGINA @ talk "Just that you weren’t blessed with any kind of magic, let alone black."
-    REGINA @ talk "그냥 네가 어떤 마법도 축복받지 않았다고 했어, 흑마법은 말할 것도 없고."
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:33
 translate kr qst_FromAnotherWorld_ReturnHome_ReginaTalk_7112280f:
 
     # REGINA @ talk "It’s on your school record either way, don’t know why they made such a fuss."
@@ -953,4 +939,3 @@ translate kr qst_FromAnotherWorld_ReturnHome_ReginaTalk_e169a1c3:
 
     # REGINA @ talk "Just that you weren’t blessed with any kind of magecraft, let alone black."
     REGINA @ talk "단지 너는 어떤 마법의 재능도 타고나지 않았고, 흑마법은 말할 것도 없지."
-

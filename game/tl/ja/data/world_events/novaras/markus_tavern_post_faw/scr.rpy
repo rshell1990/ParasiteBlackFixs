@@ -1086,8 +1086,7 @@ translate ja act1scene8_menu2_6d5275c7:
 translate ja act1scene8_menu2_43b53d82:
 
     # MARKUS "Let's just {i}focus on the plan{/i} [player_name!t], we've got a second chance to maybe have a good easy life again, let's take it."
-    MARKUS "{i}計画に集中しよう{/i} [player_name!t]、私達には二度目のチャンスがあるんだ
-楽でいい生活を取り戻せるかもしれない、このチャンスをものにしよう"
+    MARKUS "{i}計画に集中しよう{/i} [player_name!t]、私達には二度目のチャンスがあるんだ楽でいい生活を取り戻せるかもしれない、このチャンスをものにしよう"
 
 # game/data/world_events/novaras/markus_tavern_post_faw/scr.rpy:189
 translate ja act1scene8_menu2_84517b7f:

@@ -172,8 +172,7 @@ translate ja qst_TheTarbecks_Room_Orgy_kiara_start_9e5c03c1:
 translate ja qst_TheTarbecks_Room_Orgy_kiara_start_85ff1447:
 
     # KIARA @ talk "Alright then. For the mission."
-    KIARA @ talk "よし。  
-任務のために。"
+    KIARA @ talk "よし。  任務のために。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_orgy.rpy:84
 translate ja qst_TheTarbecks_Room_Orgy_kiara_start_f87419b9:
@@ -323,17 +322,13 @@ translate ja qst_TheTarbecks_Room_Orgy_enter_508bfc19:
 translate ja qst_TheTarbecks_Room_Orgy_enter_e6dc2b24:
 
     # "Time melted away. Minutes? An hour? More? Only heat… bodies… moans…"
-    "時が溶けて。  
-数分？一時間？それ以上？  
-ただ熱…体…喘ぎ声だけ…"
+    "時が溶けて。  数分？一時間？それ以上？  ただ熱…体…喘ぎ声だけ…"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_orgy.rpy:135
 translate ja qst_TheTarbecks_Room_Orgy_enter_9df73278:
 
     # "My balls ached. My cock throbbed. Every part of me gripped, stroked, squeezed… worshipped… consumed."
-    "俺のタマは疼き、チンポは脈打った。  
-全身が掴まれ、撫でられ、締め付けられ…  
-愛でられ…貪られ…"
+    "俺のタマは疼き、チンポは脈打った。  全身が掴まれ、撫でられ、締め付けられ…  愛でられ…貪られ…"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_orgy.rpy:140
 translate ja qst_TheTarbecks_Room_Orgy_enter_6bedd674:

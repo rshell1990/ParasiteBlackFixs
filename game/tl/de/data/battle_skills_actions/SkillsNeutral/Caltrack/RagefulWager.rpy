@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/Caltrack/RagefulWager.rpy:4
     old "Rageful Wager"
-    new "Rageful Wager"
+    new "Zornige Wette"
 

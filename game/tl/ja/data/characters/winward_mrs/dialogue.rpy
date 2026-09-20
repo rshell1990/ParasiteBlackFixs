@@ -52,8 +52,7 @@ translate ja nov_mrs_winward_make_leather_708ddc18:
 translate ja nov_mrs_winward_make_leather_3562a09c:
 
     # MRS_WINWARD @ happy "Oh my! How wonderful! I'll take those off your hands."
-    MRS_WINWARD @ happy "まあ!素敵ですね!
-それでは頂戴いたします。"
+    MRS_WINWARD @ happy "まあ!素敵ですね!それでは頂戴いたします。"
 
 # game/data/characters/winward_mrs/dialogue.rpy:103
 translate ja nov_mrs_winward_make_leather_a83ad6be:
@@ -401,8 +400,7 @@ translate ja nov_mrs_winward_firstmeet_1c1f71db:
 translate ja nov_mrs_winward_firstmeet_e02cce44:
 
     # MRS_WINWARD @ happy "He's always like that! He'll be fine later!"
-    MRS_WINWARD @ happy "あいつはいつもそんな感じで!
-あとでちゃんとするから!"
+    MRS_WINWARD @ happy "あいつはいつもそんな感じで!あとでちゃんとするから!"
 
 # game/data/characters/winward_mrs/dialogue.rpy:195
 translate ja nov_mrs_winward_firstmeet_78066c8b:
@@ -714,15 +712,13 @@ translate ja nov_mrs_winward_brought_hides_e2d1cae5:
 translate ja nov_mrs_winward_brought_hides_a38b8fba:
 
     # MRS_WINWARD @ cry "He's just resentful. Ever since we had to move to Novaras, he's been like that."
-    MRS_WINWARD @ cry "ただの恨み言さ。
-ノヴァラスへ引っ越さなきゃならなくなって以来、ああなんだ。"
+    MRS_WINWARD @ cry "ただの恨み言さ。ノヴァラスへ引っ越さなきゃならなくなって以来、ああなんだ。"
 
 # game/data/characters/winward_mrs/dialogue.rpy:265
 translate ja nov_mrs_winward_brought_hides_fd561a71:
 
     # MRS_WINWARD @ cry "He blames everyone and everything for Gerano's fall... Including me, it seems."
-    MRS_WINWARD @ cry "彼はジェラノ陥落の責任を全ての者と物のせいにしている…
-私もその中に含まれているらしい。"
+    MRS_WINWARD @ cry "彼はジェラノ陥落の責任を全ての者と物のせいにしている…私もその中に含まれているらしい。"
 
 # game/data/characters/winward_mrs/dialogue.rpy:266
 translate ja nov_mrs_winward_brought_hides_04c110e4:

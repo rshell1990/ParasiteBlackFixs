@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsInquisitor/SkillTree.rpy:2
     old "Inquisitor skills"
-    new "Inquisitor skills"
+    new "Inquisitor-Fähigkeiten"
 

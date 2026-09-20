@@ -4,5 +4,5 @@
 translate de dreamhouse_cant_enter_cf31650c:
 
     # MC "(I feel a strange force push against me when trying to enter this place...)"
-    MC "(I feel a strange force push against me when trying to enter this place...)"
+    MC "(Ich spüre eine seltsame Kraft, die mich zurückdrängt, als ich versuche, diesen Ort zu betreten...)"
 

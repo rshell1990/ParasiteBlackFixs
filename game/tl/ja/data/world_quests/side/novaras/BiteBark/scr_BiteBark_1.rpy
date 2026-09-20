@@ -274,8 +274,7 @@ translate ja qst_BiteBark_1_TalkToKennelMaster_aa81765b:
 translate ja qst_BiteBark_1_TalkToKennelMaster_b795a08c:
 
     # KENNELMASTER "Come on then bitch! Looks like you get another chance!"
-    KENNELMASTER "さあ、来いよ、ビッチ!
-お前、もう一度チャンスをやろう!"
+    KENNELMASTER "さあ、来いよ、ビッチ!お前、もう一度チャンスをやろう!"
 
 # game/data/world_quests/side/novaras/BiteBark/scr_BiteBark_1.rpy:56
 translate ja qst_BiteBark_1_TalkToKennelMaster_6b2977a2:

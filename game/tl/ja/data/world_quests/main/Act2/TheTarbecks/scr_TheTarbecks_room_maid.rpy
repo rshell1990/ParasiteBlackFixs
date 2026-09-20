@@ -838,8 +838,7 @@ translate ja qst_TheTarbecks_Room_Maid_kiara_choices_153d7cb0:
 translate ja qst_TheTarbecks_Room_Maid_kiara_choices_48925bd0:
 
     # MC "Y-Yes... Mhmm..."
-    MC "は、はい…
-んんっ…"
+    MC "は、はい…んんっ…"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:253
 translate ja qst_TheTarbecks_Room_Maid_kiara_choices_0ff1a627:
@@ -1025,8 +1024,7 @@ translate ja qst_TheTarbecks_Room_Maid_kiara_choices_953c0036:
 translate ja qst_TheTarbecks_Room_Maid_kiara_choices_8faa379f:
 
     # "Her eyes widened, watering as a muffled whimper escaped her lips."
-    "彼女の瞳が大きく見開かれ、潤んだ。
-唇からは、押し殺したような嗚咽が零れた。"
+    "彼女の瞳が大きく見開かれ、潤んだ。唇からは、押し殺したような嗚咽が零れた。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:293
 translate ja qst_TheTarbecks_Room_Maid_kiara_choices_288ced96:
@@ -1212,8 +1210,7 @@ translate ja qst_TheTarbecks_Room_Maid_kiara_choices_b0924597:
 translate ja qst_TheTarbecks_Room_Maid_kiara_choices_bec828e8:
 
     # KIARA "I can fix this! Just let me clean it up!"
-    KIARA "私に直せる!
-ちょっと掃除させて!"
+    KIARA "私に直せる!ちょっと掃除させて!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:349
 translate ja qst_TheTarbecks_Room_Maid_kiara_choices_31159c6e:
@@ -1417,8 +1414,7 @@ translate ja qst_TheTarbecks_Room_Maid_markus_choices_9b5edc48:
 translate ja qst_TheTarbecks_Room_Maid_markus_choices_b5d5c311:
 
     # MC @ serious "Remember why we're here. If we don't do this, your brother—"
-    MC @ serious "ここに来た理由を忘れるな。  
-これをしなければ、君の弟は──"
+    MC @ serious "ここに来た理由を忘れるな。  これをしなければ、君の弟は──"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:430
 translate ja qst_TheTarbecks_Room_Maid_markus_choices_93381ab6:
@@ -1754,8 +1750,7 @@ translate ja qst_TheTarbecks_Room_Maid_markus_choices_53637ae4:
 translate ja qst_TheTarbecks_Room_Maid_markus_choices_ad0a3f83:
 
     # GUESTS_PET "{i}*Huff*{/i} A-Arff..."
-    GUESTS_PET "{i}*ふう*{/i}
-は、はぅん…"
+    GUESTS_PET "{i}*ふう*{/i}は、はぅん…"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:502
 translate ja qst_TheTarbecks_Room_Maid_markus_choices_e094f620:
@@ -1797,8 +1792,7 @@ translate ja qst_TheTarbecks_Room_Maid_markus_choices_b3779711:
 translate ja qst_TheTarbecks_Room_Maid_markus_choices_f1f7b5cf:
 
     # MC @ angry "... Really?"
-    MC @ angry "……
-えっ…？"
+    MC @ angry "……えっ…？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:513
 translate ja qst_TheTarbecks_Room_Maid_markus_choices_37894c77:
@@ -3238,8 +3232,7 @@ translate ja qst_TheTarbecks_Room_Maid_ves_choices_1acd67ea:
 translate ja qst_TheTarbecks_Room_Maid_ves_choices_3c0b6d9b:
 
     # MC @ talk "Come on, Ves. We have other things to do."
-    MC @ talk "ほら、ヴェス。
-他にもやることがあるんだ。"
+    MC @ talk "ほら、ヴェス。他にもやることがあるんだ。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:865
 translate ja qst_TheTarbecks_Room_Maid_ves_choices_67fdcc9e:
@@ -3365,8 +3358,7 @@ translate ja qst_TheTarbecks_Room_Maid_ves_choices_cf04c57a:
 translate ja qst_TheTarbecks_Room_Maid_ves_choices_caef9fd3:
 
     # "She paused for a moment, too nervous to do anything else."
-    "彼女は一瞬、立ち止まった。
-あまりの緊張に、他に何もできなかった。"
+    "彼女は一瞬、立ち止まった。あまりの緊張に、他に何もできなかった。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_maid.rpy:897
 translate ja qst_TheTarbecks_Room_Maid_ves_choices_408a8710:

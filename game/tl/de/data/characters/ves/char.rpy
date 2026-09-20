@@ -8,9 +8,9 @@ translate de strings:
 
     # game/data/characters/ves/char.rpy:37
     old "An orc residing in the Valley of death, stranded from her people. Our people are at war still, despite the demorai invasion, so there's still a great deal of mistrust between us, yet for now, we share an uneasy truce."
-    new "An orc residing in the Valley of death, stranded from her people. Our people are at war still, despite the demorai invasion, so there's still a great deal of mistrust between us, yet for now, we share an uneasy truce."
+    new "Ein Ork, der im Tal des Todes lebt, gestrandet von ihrem Volk. Unsere Völker befinden sich immer noch im Krieg, trotz der Demorai-Invasion, also herrscht noch immer großes Misstrauen zwischen uns, doch vorerst teilen wir einen unsicheren Waffenstillstand."
 
     # game/data/characters/ves/char.rpy:42
     old "Our time together has changed our perceptions of each other greatly. Whereas once, I saw an enemy, now I see a friend. ...And perhaps, something more? The more I get to know her, the more I realize how strangely beautiful she is..."
-    new "Our time together has changed our perceptions of each other greatly. Whereas once, I saw an enemy, now I see a friend. ...And perhaps, something more? The more I get to know her, the more I realize how strangely beautiful she is..."
+    new "Unsere gemeinsame Zeit hat unsere Wahrnehmung voneinander stark verändert. Wo ich einst einen Feind sah, sehe ich nun eine Freundin. ...Und vielleicht, etwas mehr? Je besser ich sie kennenlerne, desto mehr wird mir klar, wie seltsam schön sie ist..."
 

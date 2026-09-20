@@ -4,61 +4,61 @@
 translate de gallery_lizard_bj_8eabfe61:
 
     # "Was she..."
-    "Was she..."
+    "War sie..."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:30
 translate de gallery_lizard_bj_b8509e7f:
 
     # "With my tentacles holding her firmly in place, I moved around to the front of the female Skalith, pointing my cock directly towards her mouth."
-    "With my tentacles holding her firmly in place, I moved around to the front of the female Skalith, pointing my cock directly towards her mouth."
+    "Mit meinen Tentakeln, die sie fest an Ort und Stelle hielten, bewegte ich mich vor den weiblichen Skalith und richtete meinen Schwanz direkt auf ihren Mund."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:31
 translate de gallery_lizard_bj_1a9d086a:
 
     # "At first, she seemed confused, but as I pushed my cock against her cold lips, her mouth opened up with ease as she allowed the cock to slide down her throat."
-    "At first, she seemed confused, but as I pushed my cock against her cold lips, her mouth opened up with ease as she allowed the cock to slide down her throat."
+    "Zunächst schien sie verwirrt, aber als ich meinen Schwanz gegen ihre kalten Lippen drückte, öffnete sich ihr Mund mühelos und sie ließ zu, dass der Schwanz ihre Kehle hinunterglitt."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:32
 translate de gallery_lizard_bj_2a273e52:
 
     # "There was no resistance, no impulsive choking, as my cock slid back and forth down her cool but tight throat, I could sense her willingness to please her new, {i}strange{/i} mate."
-    "There was no resistance, no impulsive choking, as my cock slid back and forth down her cool but tight throat, I could sense her willingness to please her new, {i}strange{/i} mate."
+    "Es gab keinen Widerstand, kein impulsives Würgen, während mein Schwanz ihre kühle, aber enge Kehle auf und ab glitt; ich spürte ihre Bereitschaft, ihrem neuen, {i}fremden{/i} Gefährten zu gefallen."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:42
 translate de gallery_lizard_bj_4097b20f:
 
     # "As her mouth coated my cock in what I could only assume is some type of aphrodisiac substance."
-    "As her mouth coated my cock in what I could only assume is some type of aphrodisiac substance."
+    "Während ihr Mund meinen Schwanz mit einer Substanz überzog, von der ich nur annehmen konnte, dass es eine Art Aphrodisiakum war."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:43
 translate de gallery_lizard_bj_1ce117fa:
 
     # "The more I fucked her mouth, the more excited I became; the saliva soaking in caused me to burn with lust."
-    "The more I fucked her mouth, the more excited I became; the saliva soaking in caused me to burn with lust."
+    "Je mehr ich ihren Mund fickte, desto erregter wurde ich; der Speichel, der eindrang, ließ mich vor Lust brennen."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:53
 translate de gallery_lizard_bj_45091043:
 
     # "Now, deciding to have some more fun with my new {i}mate,{/i} I slipped around one of the tentacles, which pushed and prodded against her slit."
-    "Now, deciding to have some more fun with my new {i}mate,{/i} I slipped around one of the tentacles, which pushed and prodded against her slit."
+    "Nun, da ich beschloss, noch etwas mehr Spaß mit meinem neuen {i}Gefährten,{/i} zu haben, glitt ein Tentakel herum und drückte und stocherte gegen ihren Schlitz."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:54
 translate de gallery_lizard_bj_dd605c88:
 
     # "She let out a slight jerking motion of surprise as she felt the tentacle head push into her, but then let out another low rumble of approval."
-    "She let out a slight jerking motion of surprise as she felt the tentacle head push into her, but then let out another low rumble of approval."
+    "Sie machte eine leichte zuckende Bewegung der Überraschung, als sie spürte, wie der Tentakelkopf in sie eindrang, stieß dann aber ein weiteres tiefes, zustimmendes Grollen aus."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:55
 translate de gallery_lizard_bj_bfd33e21:
 
     # "As her thin, long tongue wrapped and twisted around my cock, her eyes looked up expectantly towards me."
-    "As her thin, long tongue wrapped and twisted around my cock, her eyes looked up expectantly towards me."
+    "Während ihre dünne, lange Zunge sich um meinen Schwanz wickelte und drehte, blickten ihre Augen erwartungsvoll zu mir auf."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:65
 translate de gallery_lizard_bj_d94e70c3:
 
     # "Despite the sharpness of her fangs, she was as delicate as she was thorough in her attempts to swallow my cock whole."
-    "Despite the sharpness of her fangs, she was as delicate as she was thorough in her attempts to swallow my cock whole."
+    "Trotz der Schärfe ihrer Fangzähne war sie so zart wie gründlich in ihren Bemühungen, meinen Schwanz ganz zu verschlucken."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:66
 translate de gallery_lizard_bj_208fce52:
@@ -184,11 +184,11 @@ translate de gallery_lizard_bj_abc1b854:
 translate de gallery_lizard_bj_19bd879c:
 
     # "Finally, fully drained by my little Skalith slut, I unsheathed my cock from her mouth and left it dangling limp in front of her."
-    "Finally, fully drained by my little Skalith slut, I unsheathed my cock from her mouth and left it dangling limp in front of her."
+    "Endlich, von meiner kleinen Skalith-Schlampe völlig ausgelaugt, zog ich meinen Schwanz aus ihrem Mund und ließ ihn schlaff vor ihr baumeln."
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/bj.rpy:130
 translate de gallery_lizard_bj_ad4a700a:
 
     # "As I let my tentacles go slack, the Skalith, standing back on her feet, scurried away into the tall grass, but not before taking one last look at me before she vanished completely."
-    "As I let my tentacles go slack, the Skalith, standing back on her feet, scurried away into the tall grass, but not before taking one last look at me before she vanished completely."
+    "Als ich meine Tentakel erschlaffen ließ, huschte die Skalith, die wieder auf ihren Beinen stand, ins hohe Gras davon, aber nicht ohne einen letzten Blick auf mich zu werfen, ehe sie vollständig verschwand."
 

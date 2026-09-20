@@ -22,8 +22,7 @@ translate ja rom_ElenaRepDanceGrind_18cc930f:
 translate ja rom_ElenaRepDanceGrind_d085f00c:
 
     # ELENA @ talk "Should I come dressed like before... {i}Or maybe not dressed at all?{/i}"
-    ELENA @ talk "前と同じ服装で行くべきか…
-{i}むしろ、何も着ないほうが？{/i}"
+    ELENA @ talk "前と同じ服装で行くべきか…{i}むしろ、何も着ないほうが？{/i}"
 
 # game/data/world_romance/elena/scr_RomanceElenaRepDanceGrind.rpy:13
 translate ja rom_ElenaRepDanceGrind_59ea2967:
@@ -366,8 +365,7 @@ translate ja rom_ElenaRepDanceGrind_5e3e1955:
 translate ja rom_ElenaRepDanceGrind_734cb7d8:
 
     # MC "I can't - Grghh! Hold back much longer!"
-    MC "グッ!  
-これ以上は…耐えきれない!"
+    MC "グッ!  これ以上は…耐えきれない!"
 
 # game/data/world_romance/elena/scr_RomanceElenaRepDanceGrind.rpy:132
 translate ja rom_ElenaRepDanceGrind_1fe1cfac:

@@ -4,13 +4,13 @@ translate de strings:
 
     # game/engine/inventory/book_code.rpy:93
     old "(%s) Prev. page"
-    new "(%s) Prev. page"
+    new "(%s) Vorherige Seite"
 
     # game/engine/inventory/book_code.rpy:97
     old "(%s) Close"
-    new "(%s) Close"
+    new "(%s) Schließen"
 
     # game/engine/inventory/book_code.rpy:100
     old "(%s) Next page"
-    new "(%s) Next page"
+    new "(%s) Nächste Seite"
 

@@ -4,5 +4,5 @@ translate de strings:
 
     # game/screens/shared_screens.rpy:23
     old "Close screen"
-    new "Close screen"
+    new "Bildschirm schließen"
 

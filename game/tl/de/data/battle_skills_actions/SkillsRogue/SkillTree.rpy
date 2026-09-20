@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsRogue/SkillTree.rpy:2
     old "Rogue"
-    new "Rogue"
+    new "Schurke"
 
     # game/data/battle_skills_actions/SkillsRogue/SkillTree.rpy:2
     old "Rogue skills"
-    new "Rogue skills"
+    new "Schurkenfähigkeiten"
 

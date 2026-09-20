@@ -292,8 +292,7 @@ translate ja gallery_regina_sex_show_8e877af9:
 translate ja gallery_regina_sex_show_2a67ecaf:
 
     # "The sudden shift in rhythm was too much. She knew exactly what she was doing."
-    "リズムの急変が手に負えなかった。
-あの子は自分が何をしているか、よくわかってる。"
+    "リズムの急変が手に負えなかった。あの子は自分が何をしているか、よくわかってる。"
 
 # game/data/sexy_scenes/regina/galleryLabels/sex_show.rpy:64
 translate ja gallery_regina_sex_show_ef5cde5d:

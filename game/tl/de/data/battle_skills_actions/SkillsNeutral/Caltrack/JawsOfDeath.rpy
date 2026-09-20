@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/Caltrack/JawsOfDeath.rpy:4
     old "Jaws of Death"
-    new "Jaws of Death"
+    new "Rachen des Todes"
 

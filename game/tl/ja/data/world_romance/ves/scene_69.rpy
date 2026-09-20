@@ -82,9 +82,7 @@ translate ja ves_sex69_0ebb8edd:
 translate ja ves_sex69_229aa536:
 
     # VES "{i}*Glug!* *Glug!*{/i} Mmmmmfgh! {image=[ICON.HEART]}"
-    VES "{i}*ゴク!* *ゴク!*{/i}
-むぐぅっ!
-{image=[ICON.HEART]}"
+    VES "{i}*ゴク!* *ゴク!*{/i}むぐぅっ!{image=[ICON.HEART]}"
 
 # game/data/world_romance/ves/scene_69.rpy:33
 translate ja ves_sex69_9f24ff48:

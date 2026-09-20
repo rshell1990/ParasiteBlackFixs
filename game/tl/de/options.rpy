@@ -4,5 +4,5 @@ translate de strings:
 
     # game/options.rpy:116
     old "Parasite Black"
-    new "Parasite Black"
+    new "Parasit Schwarz"
 

@@ -335,8 +335,7 @@ translate ja gallery_callie_anal_2ec6e4f8:
 translate ja gallery_callie_anal_7f2c99fb:
 
     # CALLIE "F-Fuck me! Mmmfghh! Its incredible!"
-    CALLIE "ち、違う…!んんっ…!
-ま、まじで…!"
+    CALLIE "ち、違う…!んんっ…!ま、まじで…!"
 
 # game/data/sexy_scenes/callie_trayan/galleryLabels/callie.rpy:88
 translate ja gallery_callie_anal_0cdd4d13:
@@ -390,8 +389,7 @@ translate ja gallery_callie_anal_31692d82:
 translate ja gallery_callie_anal_8d608efe:
 
     # CALLIE "Gods! You can do whatever you fucking want to me! Mmff!"
-    CALLIE "神よ!俺には何でもやってやる! 
-Mmff!"
+    CALLIE "神よ!俺には何でもやってやる! Mmff!"
 
 # game/data/sexy_scenes/callie_trayan/galleryLabels/callie.rpy:97
 translate ja gallery_callie_anal_cf09e496:

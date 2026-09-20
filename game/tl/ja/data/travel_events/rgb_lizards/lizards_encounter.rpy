@@ -808,9 +808,7 @@ translate ja lizard_sex_blowjob_d94e70c3:
 translate ja lizard_sex_blowjob_208fce52:
 
     # "As she rocked her head back and forth, I couldn't help but wonder if the eagerness of this sucking was so she might absorb the {i}'nutrients'{/i} of her mate... Or if she did just want to please me."
-    "首を前後に揺らしながら、彼女は必死に吸っていた。  
-その熱心さは、伴侶の「栄養分」を吸収するためなのか…  
-それとも、ただ私を喜ばせたいからなのか、考えずにはいられなかった。"
+    "首を前後に揺らしながら、彼女は必死に吸っていた。  その熱心さは、伴侶の「栄養分」を吸収するためなのか…  それとも、ただ私を喜ばせたいからなのか、考えずにはいられなかった。"
 
 # game/data/travel_events/rgb_lizards/lizards_encounter.rpy:393
 translate ja lizard_sex_blowjob_ea240ed7:
@@ -883,9 +881,7 @@ translate ja lizard_sex_blowjob_fcfbcc3a:
 translate ja lizard_sex_blowjob_3a2861e6:
 
     # "Overwhelmed with the pleasure flooding into her body, unsure as to all these strange new sensations... Still, she continued to desperately suck at my cock."
-    "彼女の体に押し寄せる快楽に押し流され、
-見知らぬ感覚に戸惑いを覚えながら…
-それでも、彼女は必死に僕のペニスをしゃぶり続けた。"
+    "彼女の体に押し寄せる快楽に押し流され、見知らぬ感覚に戸惑いを覚えながら…それでも、彼女は必死に僕のペニスをしゃぶり続けた。"
 
 # game/data/travel_events/rgb_lizards/lizards_encounter.rpy:431
 translate ja lizard_sex_blowjob_47ad00ee:

@@ -142,9 +142,7 @@ translate ja sexscene_ArwenCelesteCapturedAss_02cbebb4:
 translate ja sexscene_ArwenCelesteCapturedAss_d0c7e4a0:
 
     # "Every guttural moan and whimper of restrained pleasure only further incentivised me as sometimes only whimpered over and over again {i}p-please...{/i}"
-    "抑えきれない快楽の、そのすべてのうめき声と泣き声が、私をさらに駆り立てる。
-時には、ただ何度も繰り返される泣き声だけが、
-{i}お、お願い…{/i}"
+    "抑えきれない快楽の、そのすべてのうめき声と泣き声が、私をさらに駆り立てる。時には、ただ何度も繰り返される泣き声だけが、{i}お、お願い…{/i}"
 
 # game/data/world_romance/arwen/scr_CelCapturedAss.rpy:29
 translate ja sexscene_ArwenCelesteCapturedAss_65555740:
@@ -330,8 +328,7 @@ translate ja sexscene_ArwenCelesteCapturedAss_b4503792:
 translate ja sexscene_ArwenCelesteCapturedAss_c3c21437:
 
     # ARWEN @ talk "Well... I think I need to lay down for a bit after that."
-    ARWEN @ talk "うーん…  
-そっちのあとで、ちょっと横にならないと。"
+    ARWEN @ talk "うーん…  そっちのあとで、ちょっと横にならないと。"
 
 # game/data/world_romance/arwen/scr_CelCapturedAss.rpy:71
 translate ja sexscene_ArwenCelesteCapturedAss_2a7be7cc:

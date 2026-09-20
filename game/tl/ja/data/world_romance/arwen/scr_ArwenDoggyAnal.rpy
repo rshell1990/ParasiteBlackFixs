@@ -28,8 +28,7 @@ translate ja sexscene_arwen_backdoor_6c7ab5b0:
 translate ja sexscene_arwen_backdoor_56d9ed2f:
 
     # ARWEN @ talk "Would you like me to keep my dress on, or take it off?"
-    ARWEN @ talk "このドレスを着たままがいい？
-それとも脱ごうか？"
+    ARWEN @ talk "このドレスを着たままがいい？それとも脱ごうか？"
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:19
 translate ja sexscene_arwen_backdoor_892fb93b:
@@ -125,8 +124,7 @@ translate ja sexscene_arwen_backdoor_ce7df690:
 translate ja sexscene_arwen_backdoor_674d545a:
 
     # ARWEN "Ah! My fucking - Ah! Ass!"
-    ARWEN "Ah! このクソがー  
-Ah! 尻!"
+    ARWEN "Ah! このクソがー  Ah! 尻!"
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:45
 translate ja sexscene_arwen_backdoor_5732228f:

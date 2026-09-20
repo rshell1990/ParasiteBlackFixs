@@ -250,7 +250,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_28c7c084_1:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_b061d81e:
 
     # SYPHA @ happy "Ahh...!"
-    SYPHA @ happy "啊...！"
+    SYPHA @ happy "啊……！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:78
 translate zh qst_TheBeastOfNovaras_BarSceneShared_f434cf3e:
@@ -586,7 +586,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_5683a179:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_213ba6aa:
 
     # GAREN @ talk "Consider me... an arranger."
-    GAREN @ talk "把我当作...一个安排者。"
+    GAREN @ talk "把我当作……一个安排者。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:154
 translate zh qst_TheBeastOfNovaras_BarSceneShared_54a0be82:
@@ -640,7 +640,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_ec352c72:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_a12f3e82:
 
     # GAREN @ smile "Of course, there is the matter of {i}insurances{/i} we've taken to make sure you all understand this request is... {i}non-optional.{/i}"
-    GAREN @ smile "当然，还有我们采取的{i}保险措施{/i}，以确保你们都明白这个请求是...{i}不可选择的。{/i}"
+    GAREN @ smile "当然，还有我们采取的{i}保险措施{/i}，以确保你们都明白这个请求是……{i}不可选择的。{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:167
 translate zh qst_TheBeastOfNovaras_BarSceneShared_c9557dbf:
@@ -658,7 +658,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_d2fdaba9:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_d25e9c60:
 
     # GAREN @ smile "Fine lad, working the mines."
-    GAREN @ smile "一個好小伙，在矿场工作。"
+    GAREN @ smile "一个好小伙，在矿场工作。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:170
 translate zh qst_TheBeastOfNovaras_BarSceneShared_54db3fd5:
@@ -790,7 +790,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_8a160c69:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_94655812:
 
     # VES @ angry "Spoken like a true GTC dog!"
-    VES @ angry "说得真像个大貿易公司的走狗！"
+    VES @ angry "说得真像个大贸易公司的走狗！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:208
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_0c8ecedf:
@@ -814,7 +814,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_d1f0f6a5:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_e9b15fc2:
 
     # VES @ angry "Not before I strike you down first..."
-    VES @ angry "在我先打倒你之前不会..."
+    VES @ angry "在我先打倒你之前不会……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:214
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_66fa680e:
@@ -832,7 +832,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_5984dcc4:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_6ff1f6ed:
 
     # MC "So, what do you want... Garen Quiltshire?"
-    MC "那么，你想要什么...盖伦·奎尔特郡？"
+    MC "那么，你想要什么……盖伦·奎尔特郡？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:224
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_137ca91b:
@@ -904,13 +904,13 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_4b0ba431:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_7ca71f71:
 
     # GAREN @ think "That would be... difficult to explain."
-    GAREN @ think "那会...很难解释。"
+    GAREN @ think "那会……很难解释。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:237
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_638b2e95:
 
     # GAREN @ smile "We simply need you to explain to them why it's in their interests to stop stalling this deal."
-    GAREN @ smile "我们只需要你向他们解释为什么停止拖延这笔交易符合他们的利益。"
+    GAREN @ smile "我们只需要你向他们解释，为什么停止拖延这笔交易符合他们的利益。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:239
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_82d2846f:
@@ -922,7 +922,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_82d2846f:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_0f528530:
 
     # MARKUS @ angry "And why in all of Alderay would you want to help with this?"
-    MARKUS @ angry "你到底为什么要帮助这件事？"
+    MARKUS @ angry "你到底为什么要帮忙？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:242
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_fd5f28f7:
@@ -940,13 +940,13 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_f32ae41d:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_a690f1d9:
 
     # SYPHA @ happy "My reasons are my own... and not for your concern."
-    SYPHA @ happy "我的理由是我自己的...不关你的事。"
+    SYPHA @ happy "我的理由是我自己的……不关你的事。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:245
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_7c4de5e6:
 
     # MC @ think "And if we do this... we'll be able to return to Novaras?"
-    MC @ think "如果我们这么做...我们就能回到诺瓦拉斯？"
+    MC @ think "如果我们这么做……我们就能回到诺瓦拉斯？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:246
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_a721d1e6:
@@ -1024,7 +1024,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_deece5d9:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_7f930784:
 
     # VES @ angry "IF YOU SPEAK LIES..."
-    VES @ angry "如果你在说谎..."
+    VES @ angry "如果你在说谎……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:264
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu_474113da:
@@ -1066,7 +1066,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_e3fb79f1:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_5a02ac37:
 
     # GAREN @ serious "{i}Or worse...{/i}"
-    GAREN @ serious "{i}或者更糟...{/i}"
+    GAREN @ serious "{i}或者更糟……{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:282
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_edb6a0a6:
@@ -1078,7 +1078,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_edb6a0a6:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_d7620045:
 
     # MC @ angry "Are you threatening-"
-    MC @ angry "你在威胁-"
+    MC @ angry "你在威胁——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:285
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_589fbc45:
@@ -1144,7 +1144,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_cc808783:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_31a57e5b:
 
     # MC @ angry "I swear upon the gods if any of them are harmed I'LL FUCKING-"
-    MC @ angry "我向众神发誓，如果她们中任何一个受到伤害，我他妈的-"
+    MC @ angry "我向众神发誓，如果她们中任何一个受到伤害，我他妈的——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:299
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_41ea90c5:
@@ -1174,7 +1174,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_3e074c23_1:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_7ab72d9b:
 
     # MC @ angry "I swear upon the gods if she is harmed I'LL FUCKING-"
-    MC @ angry "我向众神发誓，如果她受到伤害，我他妈的-"
+    MC @ angry "我向众神发誓，如果她受到伤害，我他妈的——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:306
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_41ea90c5_1:
@@ -1198,7 +1198,7 @@ translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_0707035b:
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_cc808783_1:
 
     # GAREN @ think "Strange creature, that one... Apparently she keeps calling out your name and crying."
-    GAREN @ think "奇怪的生物，那个...显然她一直在喊你的名字哭泣。"
+    GAREN @ think "奇怪的生物，那个……显然她一直在喊你的名字哭泣。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:312
 translate zh qst_TheBeastOfNovaras_BarSceneShared_garenmenu2_7ab72d9b_1:
@@ -1444,7 +1444,7 @@ translate zh qst_TheBeastOfNovaras_ApproachArena_082a76f9:
 translate zh qst_TheBeastOfNovaras_ApproachArena_03001957:
 
     # VES @ think "Vain..."
-    VES @ think "虚荣..."
+    VES @ think "虚荣……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:378
 translate zh qst_TheBeastOfNovaras_ApproachArena_8ba4c5d5:
@@ -1474,19 +1474,19 @@ translate zh qst_TheBeastOfNovaras_ApproachArena_273fe482:
 translate zh qst_TheBeastOfNovaras_ApproachArena_8a7b7b9e:
 
     # SYPHA @ happy "Of course... Perhaps one day you'll try to betray me and write your own beautiful one!"
-    SYPHA @ happy "当然...也许有一天你会试图背叛我，然后写出你自己优美的歌！"
+    SYPHA @ happy "当然……也许有一天你会试图背叛我，然后写出你自己优美的歌！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:383
 translate zh qst_TheBeastOfNovaras_ApproachArena_a577c703:
 
     # KIARA @ sad "N-No... I could never do that!"
-    KIARA @ sad "不-不...我永远不会那么做！"
+    KIARA @ sad "不——不……我永远不会那么做！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:384
 translate zh qst_TheBeastOfNovaras_ApproachArena_047cde17:
 
     # SYPHA @ happy "Tsk... You still have so much to learn."
-    SYPHA @ happy "啧...你还有很多要学。"
+    SYPHA @ happy "啧……你还有很多要学。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:386
 translate zh qst_TheBeastOfNovaras_ApproachArena_d2c5816b:
@@ -1744,7 +1744,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_1bae0c04:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_dc0876d7:
 
     # YARRICK @ talk "A common bandit is a yawn. We need wonder… or terror."
-    YARRICK @ talk "普通强盗让人打哈欠。我们需要奇迹...或者恐怖。"
+    YARRICK @ talk "普通强盗让人打哈欠。我们需要奇迹……或者恐怖。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:447
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_e9834825:
@@ -1774,7 +1774,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_eab30f0b:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_59b0c0b1:
 
     # YARRICK @ think "... And you must be very sure you're ready to greet it."
-    YARRICK @ think "...你必须非常确定自己准备好迎接它了。"
+    YARRICK @ think "……你必须非常确定自己准备好迎接它了。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:452
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_f63b1151:
@@ -1798,7 +1798,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_288c7a04:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_cffd5d9a:
 
     # MC @ serious "(Hmm... I need to think this through. I should try and gather information on whatever we'd be...)"
-    MC @ serious "(嗯...我需要仔细考虑。我应该试着收集关于我们要面对的...的信息)"
+    MC @ serious "（嗯……我需要仔细考虑。我应该试着收集关于我们要面对的……的信息）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:458
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_da3ce3b8:
@@ -1810,7 +1810,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_da3ce3b8:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_6407d266:
 
     # SYPHA @ happy "{i}I'm sure my husband could handle anything in that arena of yours...{/i}"
-    SYPHA @ happy "{i}我相信我的丈夫能应付你们那个竞技场里的任何东西...{/i}"
+    SYPHA @ happy "{i}我相信我的丈夫能应付你们那个竞技场里的任何东西……{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:461
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_aceca8a2:
@@ -1822,13 +1822,13 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_aceca8a2:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_4603ade9:
 
     # MC @ smile "Might I borrow you for a moment... {i}dear?{/i}"
-    MC @ smile "我能借你一会儿吗...{i}亲爱的？{/i}"
+    MC @ smile "我能借你一会儿吗……{i}亲爱的？{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:463
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_8023457e:
 
     # SYPHA @ happy "Of course... {i}Husband.{/i}"
-    SYPHA @ happy "当然...{i}丈夫。{/i}"
+    SYPHA @ happy "当然……{i}丈夫。{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:468
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_e2d3584c:
@@ -1876,7 +1876,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_53d2b6e9:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_f99fad12:
 
     # MC @ angry "I am not your-"
-    MC @ angry "我不是你的-"
+    MC @ angry "我不是你的——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:478
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_a3569b55:
@@ -1912,7 +1912,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_75a3aae0:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_dd23ab90:
 
     # YARRICK @ think "Well, uhh... For a special match like this, the minimum is three thousand coins, house standard."
-    YARRICK @ think "嗯，呃...对于这样的特殊比赛，最低是三千硬币，场馆标准。"
+    YARRICK @ think "嗯，呃……对于这样的特殊比赛，最低是三千硬币，场馆标准。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:487
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_90d32a22:
@@ -2026,19 +2026,19 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_95fd7380:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickSunForged_7ef79b5d:
 
     # MC @ angry "(This... girl!)"
-    MC @ angry "(这个...女孩！)"
+    MC @ angry "（这个……女孩！）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:524
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_2ceb9618:
 
     # YARRICK @ talk "Preparations for your match are still underway..."
-    YARRICK @ talk "你的比赛准备仍在进行中..."
+    YARRICK @ talk "你的比赛准备仍在进行中……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:528
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_3490fb34:
 
     # YARRICK @ smile "Ahh... you're here, good."
-    YARRICK @ smile "啊...你来了，很好。"
+    YARRICK @ smile "啊……你来了，很好。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:529
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_1e04af4f:
@@ -2050,25 +2050,25 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_1e04af4f:
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_d9dab528:
 
     # YARRICK @ talk "I should warn you... Zanzibat is only willing to attend a true spectacle."
-    YARRICK @ talk "我应该警告你...赞兹巴特只愿意观看真正的奇观。"
+    YARRICK @ talk "我应该警告你……赞兹巴特只愿意观看真正的奇观。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:531
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_62794a88:
 
     # YARRICK @ talk "You should be prepared before braving these sands..."
-    YARRICK @ talk "在勇敢面对这些沙地之前，你应该做好准备..."
+    YARRICK @ talk "在勇敢面对这些沙地之前，你应该做好准备……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:534
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_3cd7b1c5:
 
     # YARRICK @ talk "Good... As per tradition, your companions will be taken to their own fight pits and will join you on the sands when the time comes."
-    YARRICK @ talk "很好...按照传统，你的同伴会被带到各自的战斗坑，时机一到就会在沙地上与你汇合。"
+    YARRICK @ talk "很好……按照传统，你的同伴会被带到各自的战斗坑，时机一到就会在沙地上与你汇合。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:535
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_848eb0e2:
 
     # YARRICK @ talk "Now, follow me... The sands await."
-    YARRICK @ talk "现在，跟我来...沙地在等待。"
+    YARRICK @ talk "现在，跟我来……沙地在等待。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:540
 translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_62dc55ca:
@@ -2080,7 +2080,7 @@ translate zh qst_TheBeastOfNovaras_SpeakToYarrickFightSetup_62dc55ca:
 translate zh qst_TheBeastOfNovaras_SpecialFightBloodworks_bb236032:
 
     # "...There, as the stadium began to fill, I found myself anxiously waiting for my match to come."
-    "...在那里，随着体育场开始坐满，我发现自己焦虑地等待着我的比赛到来。"
+    "……在那里，随着体育场开始坐满，我发现自己焦虑地等待着我的比赛到来。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:554
 translate zh qst_TheBeastOfNovaras_SpecialFightBloodworks_58e0d679:
@@ -2566,7 +2566,7 @@ translate zh qst_TheBeastOfNovaras_SpecialFightBloodworks_641e34dc:
 translate zh qst_TheBeastOfNovaras_SpecialFightBloodworks_be2b8f65:
 
     # HAMUN_ARENA_ANNOUNCER "And if that wasn't enough... we have a most honoured guest tonight!"
-    HAMUN_ARENA_ANNOUNCER "如果这还不够...今晚我们有一位最尊贵的客人！"
+    HAMUN_ARENA_ANNOUNCER "如果这还不够……今晚我们有一位最尊贵的客人！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:671
 translate zh qst_TheBeastOfNovaras_SpecialFightBloodworks_cb0dc03f:
@@ -4084,7 +4084,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_b39d1753:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_90e09b71:
 
     # DRAMORA "Soon... his flagship joins us within the hour. I have arranged a feast, and two of our best to mate with him."
-    DRAMORA "很快...他的旗舰在一小时内与我们会合。我已安排了盛宴，以及我们中最优秀的两人与他交配。"
+    DRAMORA "很快……他的旗舰将在一小时内与我们会合。我已备好盛宴，并安排了族中最出色的两人前去与他交配。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1075
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_d3ee64fa:
@@ -4096,7 +4096,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_d3ee64fa:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_f36e67e9:
 
     # SHYAHTAN "He had best come to reward me. Once again, it is my clan that secures victory while others fail."
-    SHYAHTAN "他最好来奖赏我。再一次，是我的氏族确保了胜利而其他人失败。"
+    SHYAHTAN "他最好能奖赏我。毕竟，又一次是我的氏族确保了胜利，而其他人则一败涂地。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1077
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_9414b382:
@@ -4108,19 +4108,19 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_9414b382:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_71b9b322:
 
     # "She stepped closer, tracing her finger down my chest. Other Terrans would have dragged her away for presumption. I found her disobedience… entertaining."
-    "她走近一步，手指划过我的胸膛。其他泰伦人会因她的冒犯而将她拖走。我却觉得她的不服从...很有趣。"
+    "她走近一步，手指划过我的胸膛。其他泰伦人会因她的冒犯而将她拖走。我却觉得她的不服从……颇为有趣。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1079
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_4af985e0:
 
     # DRAMORA "Shall I wait in your quarters? Or send another to please you? Perhaps one of the captured females?"
-    DRAMORA "我该在您住处等候吗？还是派其他人来取悦您？或许是某个被俘的女性？"
+    DRAMORA "我该在您的住处等候吗？还是派其他人来取悦您？或许……某个被俘的女性？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1080
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_d97d8e94:
 
     # "My eyes lingered. Her companionship offered more than simple mating."
-    "我的目光流连。她的陪伴提供的不仅仅是简单的交配。"
+    "我的目光流连。她的陪伴所提供的，远不止简单的交配。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1081
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_50e2b2c7:
@@ -4132,7 +4132,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_50e2b2c7:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_39e70b46:
 
     # "Despite her composure, the curve of her smile betrayed her hunger."
-    "尽管她保持镇定，但嘴角的弧度暴露了她的渴望。"
+    "尽管她保持着镇定，但嘴角的弧度却暴露了她的渴望。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1083
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_ea16ff73:
@@ -4228,7 +4228,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_8396becb:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_ad034117:
 
     # DRAMORA "It seems my lord is more than a little {i}'excited'{/i} to put me in my place!"
-    DRAMORA "看来我的主人有点{i}'兴奋'{/i}要把我打回原形！"
+    DRAMORA "看来我的主人有点{i}‘兴奋’{/i}要把我打回原形！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1111
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_74f7957f:
@@ -4324,19 +4324,19 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_7248be49:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_180d355e:
 
     # DRAMORA "H-Harder!"
-    DRAMORA "再-再用力点！"
+    DRAMORA "再、再用力一点！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1131
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_ec002bff:
 
     # DRAMORA "{i}Show me why I bent the knee to you!{/i}"
-    DRAMORA "{i}让我看看为什么我要向你屈膝！{/i}"
+    DRAMORA "{i}让我看看我为何要向你屈膝！{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1135
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_4a6c6983:
 
     # "Dramora gasped and choked as my hand tightened around her throat."
-    "当我的手收紧她的喉咙时，德拉莫拉喘息并窒息着。"
+    "当我的手收紧她的喉咙时，德拉莫拉喘息着，窒息着。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1136
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_fd67cab5:
@@ -4366,7 +4366,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_7bf6fc08:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_a3bd26f7:
 
     # DRAMORA "{i}H-Harder!{/i}"
-    DRAMORA "{i}再-再用力点！{/i}"
+    DRAMORA "{i}再、再用力一点！{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1141
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_b7a9a4e6:
@@ -4468,7 +4468,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_6d1df7e9:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_f64350f8:
 
     # DRAMORA "{b}Y-Yessssss! ❤️{/b}"
-    DRAMORA "{b}就-就那樣！❤️{/b}"
+    DRAMORA "{b}就-就那样！❤️{/b}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1163
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_dbe390bb:
@@ -4480,7 +4480,7 @@ translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_dbe390bb:
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_cb3c8c89:
 
     # ZERO_ONE_FOUR_NINE "Forgive me, my lord, I-"
-    ZERO_ONE_FOUR_NINE "請原谅我，我的主人，我-"
+    ZERO_ONE_FOUR_NINE "请原谅我，我的主人，我-"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1171
 translate zh qst_TheBeastOfNovaras_ReturnFromMerlanians_1939cedb:
@@ -5404,7 +5404,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_7e3da206:
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_3cfd7512:
 
     # MC @ talk "You... know?"
-    MC @ talk "你...知道？"
+    MC @ talk "你……知道？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1397
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_fad2f958:
@@ -5824,7 +5824,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_61
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_2e812609:
 
     # REGINA @ sad "She's angry, but..."
-    REGINA @ sad "她很生气，但是..."
+    REGINA @ sad "她很生气，但是……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1513
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_b7cfe2df:
@@ -5854,7 +5854,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_d9
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_f68c377d:
 
     # REGINA @ think "There are... uncomfortable questions about your relationship."
-    REGINA @ think "关于你们的关系...有些令人不安的质疑。"
+    REGINA @ think "关于你们的关系……有些令人不安的质疑。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1519
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_9992c334:
@@ -5866,7 +5866,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_99
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_a1f57289:
 
     # REGINA @ talk "As for anyone else... I don't know."
-    REGINA @ talk "至于其他人...我不知道。"
+    REGINA @ talk "至于其他人……我不知道。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1521
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_8dd45a10:
@@ -5902,7 +5902,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_76
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_b3c8248e:
 
     # MC @ think "Zanarak... Is he..."
-    MC @ think "扎纳拉克...他..."
+    MC @ think "扎纳拉克……他……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1532
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_84a7e1a3:
@@ -5920,7 +5920,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_20
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_3dc8f7d1:
 
     # MC @ surprised "But... that light..."
-    MC @ surprised "但是...那道光芒..."
+    MC @ surprised "但是……那道光芒……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1535
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_fe717671:
@@ -5950,7 +5950,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_d1
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_3ca7f492:
 
     # REGINA @ think "Not quite..."
-    REGINA @ think "不完全是..."
+    REGINA @ think "不完全是……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1541
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_5030e47d:
@@ -5992,7 +5992,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_9b
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_7126eea0:
 
     # REGINA @ think "Perhaps..."
-    REGINA @ think "也许吧..."
+    REGINA @ think "也许吧……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1548
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_641ce199:
@@ -6004,7 +6004,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_64
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_337873b3:
 
     # MC @ think "Then why...?"
-    MC @ think "那为什么...？"
+    MC @ think "那为什么……？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1550
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_ffb27f8d:
@@ -6016,7 +6016,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_ff
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_a965ac14:
 
     # REGINA @ think "But if his master is who I think..."
-    REGINA @ think "但如果他的主人是我猜想的那位..."
+    REGINA @ think "但如果他的主人是我猜想的那位……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1552
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_a52d1e9e:
@@ -6028,7 +6028,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_a5
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_c74f8a95:
 
     # REGINA @ think "{b}Or perhaps he has always been watching us already...{/b}"
-    REGINA @ think "{b}或者也许他一直在注视着我们...{/b}"
+    REGINA @ think "{b}或者也许他一直在注视着我们……{/b}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1554
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_006adabe:
@@ -6040,7 +6040,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_00
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_d72e687b:
 
     # MC @ think "You mean..."
-    MC @ think "你是说..."
+    MC @ think "你是说……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1556
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_48c0cf11:
@@ -6130,13 +6130,13 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_7e
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_ea63af9a:
 
     # "Smaller, and smaller... until nothing remained but the void."
-    "越来越小...直到只剩下虚空。"
+    "越来越小……直到只剩下虚空。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1603
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_fbfe0116:
 
     # MC @ surprised "...!"
-    MC @ surprised "...！"
+    MC @ surprised "……！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1604
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_78ce86ce:
@@ -6154,7 +6154,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_c8647624:
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_026d695d:
 
     # SYPHA @ happy "Calm now... You're safe."
-    SYPHA @ happy "冷静下来...你现在安全了。"
+    SYPHA @ happy "冷静下来……你现在安全了。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1607
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_8c27e4ad:
@@ -6166,7 +6166,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_8c27e4ad:
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_c8245179:
 
     # MC @ surprised "Is everyone-"
-    MC @ surprised "大家都-"
+    MC @ surprised "大家都——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1609
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_dc2a29a7:
@@ -6322,13 +6322,13 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_3e46a1
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_54d9def5:
 
     # MC @ sad "... Yes."
-    MC @ sad "...是的。"
+    MC @ sad "……是的。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1653
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_8d420655:
 
     # SYPHA @ happy "... {i}Fascinating!{/i}"
-    SYPHA @ happy "...{i}太有意思了！{/i}"
+    SYPHA @ happy "……{i}太有意思了！{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1654
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_71746664:
@@ -6352,7 +6352,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_2ff072
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_16e18133:
 
     # MC @ sad "It's like... {i}A dream within a dream.{/i}"
-    MC @ sad "就像...{i}梦中梦一样。{/i}"
+    MC @ sad "就像……{i}梦中梦一样。{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1658
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_41fdc216:
@@ -6568,7 +6568,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_7c8be5
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_fde3395e:
 
     # SYPHA @ think "You mean..."
-    SYPHA @ think "你是说......"
+    SYPHA @ think "你是说……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1694
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_28493ebd:
@@ -6592,7 +6592,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_a0c42f
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_f9aaee12:
 
     # SHYAHTAN "... I want to know more."
-    SHYAHTAN "...我想知道更多。"
+    SHYAHTAN "……我想知道更多。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1698
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_c4a8b650:
@@ -6730,7 +6730,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_eeb
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_e1dce769:
 
     # SHYAHTAN "I saw banners burning beneath twin suns. Screams. Concubines without faces. A child's hand reaching... then nothing."
-    SHYAHTAN "我见过双日下燃烧的旗帜。尖叫声。没有面孔的妃嫔。一只孩童的手伸来...然后一片空白。"
+    SHYAHTAN "我见过双日下燃烧的旗帜。尖叫声。没有面孔的妃嫔。一只孩童的手伸来……然后一片空白。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1734
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_02828b98:
@@ -6754,7 +6754,7 @@ translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_33a
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_5b5f717f:
 
     # SHYAHTAN "I do not like these feelings. They are heavy... illogical. Painful."
-    SHYAHTAN "我不喜欢这些感觉。它们沉重...不合逻辑。令人痛苦。"
+    SHYAHTAN "我不喜欢这些感觉。它们沉重……不合逻辑。令人痛苦。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1744
 translate zh qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_91d14552:
@@ -6964,7 +6964,7 @@ translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntal
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_b9593d0d:
 
     # YARRICK @ talk "Some of the coin I had earned was..."
-    YARRICK @ talk "我赚的一部分钱被..."
+    YARRICK @ talk "我赚的一部分钱被……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1809
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_d46b452e:
@@ -6988,7 +6988,7 @@ translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntal
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_7144c494:
 
     # YARRICK @ sad "...It seems though, they didn't anticipate the Caltrack being quite so large."
-    YARRICK @ sad "...不过看来，他们没料到卡尔特拉克有那么大。"
+    YARRICK @ sad "……不过看来，他们没料到卡尔特拉克有那么大。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1817
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_b81746f0:
@@ -7036,13 +7036,13 @@ translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntal
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_00a859d9:
 
     # YARRICK @ talk "It's the great building to the left, with the huge dome on its rooftop... It cannot be missed."
-    YARRICK @ talk "是左边那座宏伟建筑，屋顶有巨大圆顶...不可能错过。"
+    YARRICK @ talk "是左边那座宏伟建筑，屋顶有巨大圆顶……不可能错过。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1826
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_020a6364:
 
     # YARRICK @ talk "Be warned... Lord Zanzibat is renowned for his cunning and trickery."
-    YARRICK @ talk "小心...赞兹巴特大人以狡诈诡计闻名。"
+    YARRICK @ talk "小心……赞兹巴特大人以狡诈诡计闻名。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1827
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_83e7f66d:
@@ -7060,13 +7060,13 @@ translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntal
 translate zh qst_TheBeastOfNovaras_ReturnToYarrickAfterCaltrack_yarrickreturntalk_6cff1091:
 
     # MC "(I should head to meet this Lord Zanzibat as soon as possible.)"
-    MC "(我应该尽快去见这位赞兹巴特大人。)"
+    MC "（我应该尽快去见这位赞兹巴特大人。）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1837
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_returnatday_179d89ff:
 
     # MC "(Not at night.)"
-    MC "(不要在晚上去。)"
+    MC "（不要在晚上去。）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1844
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_7a49ead3:
@@ -7120,7 +7120,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_302828eb:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_9168a9cf:
 
     # GUARD "... I shall check with Lord Zanzibat."
-    GUARD "...我会向赞兹巴特大人请示。"
+    GUARD "……我会向赞兹巴特大人请示。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1855
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_d0100793:
@@ -7144,7 +7144,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_8183380c:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_3360298a:
 
     # YARRICK @ think "Lord Zanzibat is... fickle."
-    YARRICK @ think "赞兹巴特大人...反复无常。"
+    YARRICK @ think "赞兹巴特大人……反复无常。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1861
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_37ef9f55:
@@ -7210,7 +7210,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_3c99283f:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_9dd51684:
 
     # "Lord Zanzibat's home was unexpected. Ornate, and yet, plants, trees... A flowing stream of water through the centre."
-    "赞兹巴特大人的宅邸出人意料。装饰华丽，却又草木葱茏...中央还有溪水流过。"
+    "赞兹巴特大人的宅邸出人意料。装饰华丽，却又草木葱茏……中央还有溪水流过。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1890
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_4502d254:
@@ -7240,7 +7240,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_f215eac7:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_1dce7595:
 
     # ZANZIBAT @ smile "It cost me a fortune of course, but..."
-    ZANZIBAT @ smile "当然花了我一大笔钱，不过..."
+    ZANZIBAT @ smile "当然花了我一大笔钱，不过……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1897
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_e2b29dc5:
@@ -7276,7 +7276,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_7d53c472:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_9421f81a:
 
     # ZANZIBAT @ talk "And especially after that arena performance..."
-    ZANZIBAT @ talk "尤其是在那场竞技场表演之后..."
+    ZANZIBAT @ talk "尤其是在那场竞技场表演之后……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1904
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_06bfc572:
@@ -7288,13 +7288,13 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_06bfc572:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_192088ef:
 
     # ZANZIBAT @ smile "Mmm... I did think for a moment your blood might spill on the sands."
-    ZANZIBAT @ smile "嗯...我确实有那么一刻以为你的鲜血会洒在沙地上。"
+    ZANZIBAT @ smile "嗯……我确实有那么一刻以为你的鲜血会洒在沙地上。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1906
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_f00b249b:
 
     # ZANZIBAT @ smile "But that rage at the end... It was..."
-    ZANZIBAT @ smile "但最后那股狂怒...真是..."
+    ZANZIBAT @ smile "但最后那股狂怒……真是……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1907
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_88c629bd:
@@ -7306,19 +7306,19 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_88c629bd:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_d96919ec:
 
     # "That rage... That blinding hot rage where my body moved without me, where the dark passenger – Shyahtan or whatever his name was, took full control."
-    "那股狂怒...那股灼热的盲目狂怒，我的身体不受控制地行动，那个黑暗的乘客——夏坦或不管他叫什么——完全掌控了身体。"
+    "那股狂怒……那股灼热的盲目狂怒，我的身体不受控制地行动，那个黑暗的乘客——夏坦或不管他叫什么——完全掌控了身体。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1909
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_530f4eb0:
 
     # "I couldn't help but feel... Uncomfortable by the thought."
-    "我不禁感到...这个想法让我不舒服。"
+    "我不禁感到……这个想法让我不舒服。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1910
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_6549fa11:
 
     # MC @ talk "... I've come here to ask something of you."
-    MC @ talk "...我来此是有事相求。"
+    MC @ talk "……我来此是有事相求。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1911
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_e858e11e:
@@ -7342,7 +7342,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_8997b2f2:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_d934f6d3:
 
     # MC @ talk "You're one of the last barriers blocking the deal between Novaras and the Greater Trading Company... I want you to let it pass."
-    MC @ talk "你是阻止诺瓦拉斯与大贸易公司交易的最后障碍之一...我希望你放行。"
+    MC @ talk "你是阻止诺瓦拉斯与大贸易公司交易的最后障碍之一……我希望你放行。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1915
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_443ecd71:
@@ -7354,7 +7354,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_443ecd71:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_61aa857f:
 
     # ZANZIBAT @ talk "Tell me... do you know why Hamun is still free?"
-    ZANZIBAT @ talk "告诉我...你知道哈蒙为何仍保持自由吗？"
+    ZANZIBAT @ talk "告诉我……你知道哈蒙为何仍保持自由吗？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1917
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_37dad121:
@@ -7414,7 +7414,7 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_11d4edaf:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_e72be1c9:
 
     # ZANZIBAT @ smile "So tell me... why should I welcome that fate here?"
-    ZANZIBAT @ smile "那么告诉我...我为什么要在这里欢迎那样的命运？"
+    ZANZIBAT @ smile "那么告诉我……我为什么要在这里欢迎那样的命运？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1933
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_zanzitalk_350fd090:
@@ -7432,13 +7432,13 @@ translate zh qst_TheBeastOfNovaras_ZanzibatHouse_zanzitalk_d3c8843a:
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_zanzitalk_d466e272:
 
     # ZANZIBAT @ talk "None of which have ended well... For anyone involved."
-    ZANZIBAT @ talk "没有一次有好结果...对任何参与者都是如此。"
+    ZANZIBAT @ talk "没有一次有好结果……对任何参与者都是如此。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1939
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_zanzitalk_8de44649:
 
     # ZANZIBAT @ talk "You would do well to be parted from their 'business' as soon as you can."
-    ZANZIBAT @ talk "你最好尽快与他们的'生意'撇清关系。"
+    ZANZIBAT @ talk "你最好尽快与他们的“生意”撇清关系。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1944
 translate zh qst_TheBeastOfNovaras_ZanzibatHouse_zanzitalk_3f011ce2:
@@ -7630,7 +7630,7 @@ translate zh qst_TheBeastOfNovaras_TalkToGarenBar_869b5883:
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_ff958f57:
 
     # GAREN @ talk "So we sold both sides weapons. We took both their coin. And when their coffers ran dry... we took collateral."
-    GAREN @ talk "所以我们向双方出售武器。我们拿走了双方的钱。当他们的金库枯竭时...我们拿走了抵押品。"
+    GAREN @ talk "所以我们向双方出售武器。我们拿走了双方的钱。当他们的金库枯竭时……我们拿走了抵押品。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1988
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_f88c955e:
@@ -7648,7 +7648,7 @@ translate zh qst_TheBeastOfNovaras_TalkToGarenBar_5078ca82:
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_0f8d033b:
 
     # MC @ scared "... That's monstrous."
-    MC @ scared "...这太可怕了。"
+    MC @ scared "……这太可怕了。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1991
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_564c8dd2:
@@ -7684,7 +7684,7 @@ translate zh qst_TheBeastOfNovaras_TalkToGarenBar_e8b55b4e:
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_d452e86b:
 
     # MC @ think "All this trouble... Why not just ask Lord Zanzibat yourselves?"
-    MC @ think "这么麻烦...为什么不直接去问赞兹巴特大人？"
+    MC @ think "这么麻烦……为什么不直接去问赞兹巴特大人？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2005
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_7ee32d5e:
@@ -7708,7 +7708,7 @@ translate zh qst_TheBeastOfNovaras_TalkToGarenBar_d1abcf29:
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_d6e1ac52:
 
     # GAREN @ talk "...And."
-    GAREN @ talk "...而且。"
+    GAREN @ talk "……而且。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2009
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_4e56044d:
@@ -7810,7 +7810,7 @@ translate zh qst_TheBeastOfNovaras_TalkToGarenBar_b58f3630:
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_f9cd6c18:
 
     # SYPHA @ happy "But anger burns bright... and bright flames can be put to better use, don't you think?"
-    SYPHA @ happy "但怒火燃烧得明亮...而明亮的火焰可以更好地利用，你不觉得吗？"
+    SYPHA @ happy "但怒火燃烧得明亮……而明亮的火焰可以更好地利用，你不觉得吗？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2029
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_5994274b:
@@ -7846,7 +7846,7 @@ translate zh qst_TheBeastOfNovaras_TalkToGarenBar_93d92d0b:
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_cf587495:
 
     # SYPHA @ happy "Some answers... some temptations."
-    SYPHA @ happy "一些答案...一些诱惑。"
+    SYPHA @ happy "一些答案……一些诱惑。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2035
 translate zh qst_TheBeastOfNovaras_TalkToGarenBar_29779741:
@@ -8044,7 +8044,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_9653af2e:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_db00d060:
 
     # MC @ angry "We are not {i}'courting'{/i}, 希法."
-    MC @ angry "我们不是在{i}'求爱'{/i}，希法。"
+    MC @ angry "我们不是在{i}求爱{/i}，希法。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2087
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_bc4c601c:
@@ -8056,13 +8056,13 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_bc4c601c:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_8df28030_1:
 
     # "The merchant bowed, taking my coin as he handed over the locket."
-    "商人鞠躬，收下我的硬币，同时递过挂坠盒。"
+    "商人鞠了一躬，收下我的硬币，同时递过挂坠盒。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2095
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_ad7e43fe_1:
 
     # "希法 gave half of the locket to me, smiling as she kept the other half for herself."
-    "希法把挂坠盒的一半给了我，微笑着把另一半留给自己。"
+    "希法把挂坠盒的一半给了我，微笑着把另一半留给了自己。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2096
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_9653af2e_1:
@@ -8074,7 +8074,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_9653af2e_1:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_db00d060_1:
 
     # MC @ angry "We are not {i}'courting'{/i}, 希法."
-    MC @ angry "我们不是在{i}'求爱'{/i}，希法。"
+    MC @ angry "我们不是在{i}求爱{/i}，希法。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2098
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_bc4c601c_1:
@@ -8086,13 +8086,13 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_bc4c601c_1:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_8df28030_2:
 
     # "The merchant bowed, taking my coin as he handed over the locket."
-    "商人鞠躬，收下我的硬币，同时递过挂坠盒。"
+    "商人鞠了一躬，收下我的硬币，同时递过挂坠盒。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2106
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_ad7e43fe_2:
 
     # "希法 gave half of the locket to me, smiling as she kept the other half for herself."
-    "希法把挂坠盒的一半给了我，微笑着把另一半留给自己。"
+    "希法把挂坠盒的一半给了我，微笑着把另一半留给了自己。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2107
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_9653af2e_2:
@@ -8104,7 +8104,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_9653af2e_2:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_db00d060_2:
 
     # MC @ angry "We are not {i}'courting'{/i}, 希法."
-    MC @ angry "我们不是在{i}'求爱'{/i}，希法。"
+    MC @ angry "我们不是在{i}求爱{/i}，希法。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2109
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu_bc4c601c_2:
@@ -8362,13 +8362,13 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_54e2ad15:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_af61a008:
 
     # MC @ surprised "(... Is she insane?)"
-    MC @ surprised "(...她疯了吗？)"
+    MC @ surprised "（……她疯了吗？）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2183
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_12cb298f:
 
     # MC @ think "(No, she's just... perhaps a little confused?)"
-    MC @ think "(不，她只是...也许有点误解？)"
+    MC @ think "（不，她只是……也许有点误解？）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2189
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_dd519cd3:
@@ -8470,7 +8470,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_409ce412:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_4ae79a52:
 
     # SYPHA @ sad "Ahh... I am afraid Mirnos is-"
-    SYPHA @ sad "啊...恐怕米尔诺斯是-"
+    SYPHA @ sad "啊……恐怕米尔诺斯是——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2214
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_4eadf7e0:
@@ -8824,13 +8824,13 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_0a90badd:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_c5ae6e08:
 
     # "Her scent was... unlike anything I'd ever experienced before."
-    "她的气味...与我以前经历过的任何东西都不同。"
+    "她的气味……与我以往经历过的任何东西都截然不同。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2317
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_2d83bc78:
 
     # "She poured another glass of wine that she left on the side just for me, before swirling her own glass playfully in her hand."
-    "她又倒了一杯酒放在一旁专为我准备，然后顽皮地在手中晃着自己的酒杯。"
+    "她又倒了一杯酒放在一旁，专为我准备，然后顽皮地在手中晃着自己的酒杯。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2318
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_c7409000:
@@ -8842,7 +8842,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_c7409000:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_45e47044:
 
     # "Stripping off my clothes, I slid into the warm, soothing waters beside her."
-    "我脱掉衣服，滑入她旁边温暖舒适的水中。"
+    "我脱掉衣服，滑入她身旁温暖舒适的水中。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2322
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_5fd42bdb:
@@ -8854,13 +8854,13 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_5fd42bdb:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_f9baadd8:
 
     # SYPHA "So then..."
-    SYPHA "那么..."
+    SYPHA "那么……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2324
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_eb48627c:
 
     # SYPHA "How about this..."
-    SYPHA "这样如何..."
+    SYPHA "这样如何……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2325
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_6ae428b9:
@@ -8872,7 +8872,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_6ae428b9:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_871d9db3:
 
     # MC "... Very well."
-    MC "...好的。"
+    MC "……好的。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2327
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_5c4a0a19:
@@ -8944,7 +8944,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_21a2774d:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_878a0355:
 
     # SYPHA "That answer is... {i}complicated.{/i}"
-    SYPHA "这个答案是...{i}复杂的。{/i}"
+    SYPHA "这个答案是……{i}复杂的。{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2348
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_fc6818bd:
@@ -8956,7 +8956,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_fc6818bd:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_1dacda77:
 
     # MC "... What?"
-    MC "...什么？"
+    MC "……什么？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2350
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_5f668644:
@@ -8968,13 +8968,13 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_5f668644:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_1ba72ddc:
 
     # SYPHA "Surely you must-"
-    SYPHA "你一定-"
+    SYPHA "你一定——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2352
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_cf6da9b6:
 
     # SYPHA "... Ahh, maybe not."
-    SYPHA "...啊，也许不是。"
+    SYPHA "……啊，也许不是。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2353
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_5ce13e03:
@@ -8992,7 +8992,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_b7298339:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_1e6d4d81:
 
     # SYPHA "The Demorai is not a {i}'race'{/i} as you think of it."
-    SYPHA "德莫莱并不是你想象中的那种{i}'种族'{/i}。"
+    SYPHA "德莫莱并不是你想象中的那种{i}“种族”{/i}。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2358
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_fa607f25:
@@ -9256,7 +9256,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_e7dd1784:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_d069a33a:
 
     # SYPHA "... You get used to it."
-    SYPHA "...你会习惯的。"
+    SYPHA "……你会习惯的。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2418
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_33653450:
@@ -9280,7 +9280,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_f03bfb70:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_2556a439:
 
     # MC "... "
-    MC "..."
+    MC "……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2422
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_0a0b218a:
@@ -9304,19 +9304,19 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_b0031c66:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_d124c6f9:
 
     # SYPHA "If I told you... that I was part of a faction devoted solely to putting the empire first,"
-    SYPHA "如果我告诉你...我是一个只致力于把帝国放在首位的派系成员，"
+    SYPHA "如果我告诉你……我是一个只致力于把帝国放在首位的派系成员，"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2428
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_265fd2ab:
 
     # SYPHA "And {i}not{/i} the Eternal Emperor himself... What would you say?"
-    SYPHA "而{i}不是{/i}永恒皇帝本人...你会怎么说？"
+    SYPHA "而{i}不是{/i}永恒皇帝本人……你会怎么说？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2429
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_8e6b7654:
 
     # MC "... I would wonder if anything you've told me tonight is the truth."
-    MC "...我会怀疑你今晚告诉我的任何事是否属实。"
+    MC "……我会怀疑你今晚告诉我的任何事是否属实。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2430
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_d1708ea7:
@@ -9358,7 +9358,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_2fb8cae8:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_2e0ea982:
 
     # SYPHA "And if we work together... both of our people may yet walk away alive."
-    SYPHA "如果我们合作...我们两个民族或许都能活着离开。"
+    SYPHA "如果我们合作……我们两个民族或许都能活着离开。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2437
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_804fda27:
@@ -9664,7 +9664,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_add4b084:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_07bf2bff:
 
     # MC "You are... {i}different{/i} than I expected."
-    MC "你...和我预期的{i}不同{/i}。"
+    MC "你……和我预期的{i}不同{/i}。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2518
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_9fad298b:
@@ -9676,7 +9676,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_9fad298b:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_1a421cdf:
 
     # SYPHA "... Hmm."
-    SYPHA "...嗯。"
+    SYPHA "……嗯。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2520
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_0ba32f14:
@@ -9694,7 +9694,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_89e15da7:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_ac94f311:
 
     # SYPHA "No matter... I will make you fall in love with me eventually."
-    SYPHA "没关系...我最终会让你爱上我的。"
+    SYPHA "没关系……我最终会让你爱上我的。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2523
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_eaab6b77:
@@ -9742,7 +9742,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_fa29abc9:
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_603b8141_1:
 
     # MC @ talk "Alright, now we're alone we can-"
-    MC @ talk "好了，现在只有我们了，我们可以-"
+    MC @ talk "好了，现在只有我们了，我们可以——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2541
 translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_b54e014e:
@@ -9778,7 +9778,7 @@ translate zh qst_TheBeastOfNovaras_SyphaDate_marketmenu2_28adfcad:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_00382ce1:
 
     # MC @ drunk "Well... Goodnight, 希法."
-    MC @ drunk "嗯...晚安，希法。"
+    MC @ drunk "嗯……晚安，希法。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2562
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_e0abfbb7:
@@ -9802,7 +9802,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_f688e18f:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_bb169641:
 
     # SYPHA @ happy "{i}Yes... It can't wait.{/i}"
-    SYPHA @ happy "{i}是的...不能等了。{/i}"
+    SYPHA @ happy "{i}是的……不能等了。{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2566
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_7b4b2886:
@@ -9820,7 +9820,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_58f21f9e:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_10259993:
 
     # "{i}I might be in for more than I bargained for...{/i}"
-    "{i}我可能会遇到比预期更多的事情...{/i}"
+    "{i}我可能会遇到比预期更多的事情……{/i}"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2569
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_40bc2783:
@@ -9904,7 +9904,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_bbeff256:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_677cf865:
 
     # MC @ think "(... Did I do something wrong?)"
-    MC @ think "(...我做错了什么吗？)"
+    MC @ think "（……我做错了什么吗？）"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2604
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_21e03a08:
@@ -10150,13 +10150,13 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_fe440f43:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_15f0b2f0:
 
     # "I resisted against the chains. Perhaps I should use my powers, break free and pin her to the-"
-    "我抵抗着锁链。也许我应该使用我的力量，挣脱出来把她按在-"
+    "我抵抗着锁链。也许我应该使用我的力量，挣脱出来把她按在——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2672
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_7fd1e9cd:
 
     # SYPHA "*Huff* You should - *Huff* know something."
-    SYPHA "*喘息* 你应该 - *喘息* 知道一件事。"
+    SYPHA "*喘息* 你应该——*喘息* 知道一件事。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2673
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_5b1d8b34:
@@ -10168,7 +10168,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_5b1d8b34:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_2545730b:
 
     # MC "Tell me – Ahh! What it is you wanted to say!"
-    MC "告诉我 - 啊！你想说什么！"
+    MC "告诉我——啊！你想说什么！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2675
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_f2ae97f9:
@@ -10186,7 +10186,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_b77325ab:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_53275bb6:
 
     # SYPHA "One more *Huff* secret - *Huff* huh!"
-    SYPHA "还有一个 *喘息* 秘密 - *喘息* 嗯！"
+    SYPHA "还有一个——*喘息* 秘密——*喘息* 嗯！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2678
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_3bc59d14:
@@ -10264,7 +10264,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_544a503e:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_202d73c3:
 
     # "Why is she boasting? Why-"
-    "她为什么在夸耀？为什么-"
+    "她为什么在夸耀？为什么——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2693
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_02ed587d:
@@ -10276,13 +10276,13 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_02ed587d:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_f65908c5:
 
     # "Fuck... Fuck fuck fuck! It's too unbearable with her!"
-    "操...操操操！和她在一起太难以忍受了！"
+    "操……操操操！和她在一起太难以忍受了！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2695
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_406d361b:
 
     # MC "S-希法, I'm-"
-    MC "希-希法，我-"
+    MC "希——希法，我——"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2696
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_c57ff05a:
@@ -10306,13 +10306,13 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_49113b6f:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_b66f7d77:
 
     # MC "H-HRGHHHHH!"
-    MC "呃-啊啊啊啊！"
+    MC "呃——啊啊啊啊！"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2706
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_4ea5ac9c:
 
     # SYPHA "That's it..."
-    SYPHA "就是这样..."
+    SYPHA "就是这样……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2707
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_b1e50f5f:
@@ -10450,7 +10450,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_59dd1b60:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_818dee7b:
 
     # SYPHA @ blush "I hope you don't mind how slow we're taking things..."
-    SYPHA @ blush "希望你不介意我们进展得这么慢..."
+    SYPHA @ blush "希望你不介意我们进展得这么慢……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2739
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_0cf4ba37:
@@ -10474,7 +10474,7 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_f2a349da:
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_6c90325a:
 
     # SYPHA @ blush "Most Demorai would have simply claimed you by force by now, but..."
-    SYPHA @ blush "大多数德莫莱人现在早就用武力占有你了，但是..."
+    SYPHA @ blush "大多数德莫莱人现在早就用武力占有你了，但是……"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2743
 translate zh qst_TheBeastOfNovaras_PostDateAtTavern_5096c2d7:
@@ -10768,7 +10768,6 @@ translate zh strings:
     old "Is this really what your people call love and romance?"
     new "这真的是你们族人所说的爱和浪漫吗？"
 
-# TODO: Translation updated at 2026-04-21 00:15
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:677
 translate zh qst_TheBeastOfNovaras_SpecialFightBloodworks_c4cd9cdb:
@@ -10969,7 +10968,6 @@ translate zh qst_TheBeastOfNovaras_PostDateAtTavern_syphamenu_1523afd8:
     MC "（谁知道把希法一个人晾太久，她又会想出什么「浪漫」点子。）"
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:24
 translate zh qst_TheBeastOfNovaras_BarSceneShared_f6fd05af:
@@ -11107,7 +11105,7 @@ translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_f1
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_8dcd80a7:
 
     # REGINA @ sad "[player_name!t]... when you're a pawn in the games of gods, they rarely think twice before brushing you from the board."
-    REGINA @ sad "[player_name!t]...当你成为神祇游戏中的棋子时，他们在将你扫出棋盘前很少会三思。"
+    REGINA @ sad "[player_name!t]……当你成为神祇游戏中的棋子时，他们在将你扫出棋盘前很少会三思。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1571
 translate zh qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_6fe527b2:

@@ -4,91 +4,91 @@
 translate de gallery_winward_stool_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie zu der Zeit schwanger?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:15
 translate de gallery_winward_stool_0cf017ee:
 
     # "...As I approached the table, the two looked up and smiled from their food."
-    "...As I approached the table, the two looked up and smiled from their food."
+    "...Als ich mich dem Tisch näherte, blickten die beiden von ihrem Essen auf und lächelten."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:16
 translate de gallery_winward_stool_972fb0f0:
 
     # MRS_WINWARD "Oh! [player_name!t], what brings you here?"
-    MRS_WINWARD "Oh! [player_name!t], what brings you here?"
+    MRS_WINWARD "Oh! [player_name!t], was führt dich hierher?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:17
 translate de gallery_winward_stool_e9a884ed:
 
     # MR_WINWARD "Would you like some food?"
-    MR_WINWARD "Would you like some food?"
+    MR_WINWARD "Möchtest du etwas zu essen?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:18
 translate de gallery_winward_stool_0161b9ea:
 
     # "As my eyes wandered towards Kionni's round ass, a perverse thought crossed my mind as she bit into her bread."
-    "As my eyes wandered towards Kionni's round ass, a perverse thought crossed my mind as she bit into her bread."
+    "Als mein Blick zu Kionnis rundem Hintern wanderte, kam mir ein perverser Gedanke, als sie in ihr Brot biss."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:21
 translate de gallery_winward_stool_0cd58c81:
 
     # MC "{i}I'm hungry for something alright.{/i}"
-    MC "{i}I'm hungry for something alright.{/i}"
+    MC "{i}Ich habe schon Hunger – auf etwas Bestimmtes.{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:27
 translate de gallery_winward_stool_8233b2a6:
 
     # "Hiking up her skirt, Mrs. Winward gasped as she looked behind to see me staring intently at her naked ass, with the small gemstone toy lodged into her tight asshole."
-    "Hiking up her skirt, Mrs. Winward gasped as she looked behind to see me staring intently at her naked ass, with the small gemstone toy lodged into her tight asshole."
+    "Als sie ihren Rock hochschob, keuchte Mrs. Winward, als sie hinter sich blickte und mich sah, wie ich eindringlich auf ihren nackten Hintern starrte, mit dem kleinen Edelsteinspielzeug, das in ihrem engen Anus steckte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:28
 translate de gallery_winward_stool_c280c218:
 
     # MRS_WINWARD "W-Wait! I can explain-!"
-    MRS_WINWARD "W-Wait! I can explain-!"
+    MRS_WINWARD "W-Warte! Ich kann das erklären-!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:29
 translate de gallery_winward_stool_5176647b:
 
     # "A smile crept across Mr Winward's face as he waited in excitement."
-    "A smile crept across Mr Winward's face as he waited in excitement."
+    "Ein Lächeln schlich sich über Mr. Winwards Gesicht, während er voller Vorfreude wartete."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:30
 translate de gallery_winward_stool_f33b6b5e:
 
     # MC "What's there to explain?"
-    MC "What's there to explain?"
+    MC "Was gibt es da zu erklären?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:31
 translate de gallery_winward_stool_4f285662:
 
     # MRS_WINWARD "I... I must wear it occasionally to ensure I can handle your b-back there..."
-    MRS_WINWARD "I... I must wear it occasionally to ensure I can handle your b-back there..."
+    MRS_WINWARD "Ich... ich muss es gelegentlich tragen, um sicherzustellen, dass ich deinen H-hintern dort aushalten kann ..."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:32
 translate de gallery_winward_stool_33cd1d6e:
 
     # MC "Then let's check in on your progress, shall we?"
-    MC "Then let's check in on your progress, shall we?"
+    MC "Dann lass uns deine Fortschritte überprüfen, ja?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:33
 translate de gallery_winward_stool_c2eb9921:
 
     # MR_WINWARD "Hoho! Yes! Absolutely!"
-    MR_WINWARD "Hoho! Yes! Absolutely!"
+    MR_WINWARD "Hoho! Ja! Absolut!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:34
 translate de gallery_winward_stool_9abe019f:
 
     # MRS_WINWARD "B-But, the food-!"
-    MRS_WINWARD "B-But, the food-!"
+    MRS_WINWARD "A-Aber, das Essen-!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:35
 translate de gallery_winward_stool_f90984ae:
 
     # "Gently, I reached down and gripped the sides of the toy stuffed into her asshole, pulling out the toy."
-    "Gently, I reached down and gripped the sides of the toy stuffed into her asshole, pulling out the toy."
+    "Vorsichtig griff ich hinunter, packte die Seiten des in ihren Anus gestopften Spielzeugs und zog es heraus."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:36
 translate de gallery_winward_stool_9d2ee7c6:
@@ -100,25 +100,25 @@ translate de gallery_winward_stool_9d2ee7c6:
 translate de gallery_winward_stool_b940411b:
 
     # "As the jewelled toy popped out, Mrs. Winward's slightly gaping ass winked and tightened at me as her cheeks flushed red from embarrassment."
-    "As the jewelled toy popped out, Mrs. Winward's slightly gaping ass winked and tightened at me as her cheeks flushed red from embarrassment."
+    "Als das mit Juwelen besetzte Spielzeug heraussprang, zwinkerte und verengte sich Mrs. Winwards leicht klaffender Hintern, während ihre Wangen vor Verlegenheit rot anliefen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:38
 translate de gallery_winward_stool_cb2029b3:
 
     # MRS_WINWARD "...D-Don't just keep staring at it like that!"
-    MRS_WINWARD "...D-Don't just keep staring at it like that!"
+    MRS_WINWARD "...S-Starr es nicht einfach so an!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:39
 translate de gallery_winward_stool_75de82db:
 
     # MRS_WINWARD "Oh gods, how shameful!"
-    MRS_WINWARD "Oh gods, how shameful!"
+    MRS_WINWARD "Oh Götter, wie beschämend!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:40
 translate de gallery_winward_stool_b909deea:
 
     # MR_WINWARD "You're absolutely right, honey!"
-    MR_WINWARD "You're absolutely right, honey!"
+    MR_WINWARD "Du hast völlig recht, Schatz!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:41
 translate de gallery_winward_stool_7a0f61e8:
@@ -304,7 +304,7 @@ translate de gallery_winward_stool_fcce9be8:
 translate de gallery_winward_stool_07900348:
 
     # "My balls tightened and rose up, and finally, as I slammed and buried my cock up to the hilt of Mrs Winward's ass, I loudly grunted as I flooded Mrs Winward's bowels with my load."
-    "My balls tightened and rose up, and finally, as I slammed and buried my cock up to the hilt of Mrs Winward's ass, I loudly grunted as I flooded Mrs Winward's bowels with my load."
+    "Meine Eier zogen sich zusammen und stiegen hoch, und schließlich, als ich meinen Schwanz bis zum Anschlag in Mrs Winwards Arsch rammte und vergrub, grunzte ich laut, als ich Mrs Winwards Gedärme mit meiner Ladung flutete."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:91
 translate de gallery_winward_stool_d3fb185c:
@@ -316,29 +316,29 @@ translate de gallery_winward_stool_d3fb185c:
 translate de gallery_winward_stool_7c3bf08d:
 
     # "Mrs Winward shuddered, letting out a quivering moan when she finally realized we were done."
-    "Mrs Winward shuddered, letting out a quivering moan when she finally realized we were done."
+    "Mrs Winward schauderte und stieß ein zitterndes Stöhnen aus, als sie endlich merkte, dass wir fertig waren."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:93
 translate de gallery_winward_stool_9fb598e7:
 
     # "Unsheathing my cock from her ass, I watched as my overspilling seed spilt out onto the floor from her gaping hole."
-    "Unsheathing my cock from her ass, I watched as my overspilling seed spilt out onto the floor from her gaping hole."
+    "Als ich meinen Schwanz aus ihrem Arsch zog, sah ich zu, wie mein überlaufender Samen aus ihrem klaffenden Loch auf den Boden tropfte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:94
 translate de gallery_winward_stool_7b2a584f:
 
     # "Letting go of her hair, Kionni's head dropped down onto the table as she sat there, catching her breath exhaustedly."
-    "Letting go of her hair, Kionni's head dropped down onto the table as she sat there, catching her breath exhaustedly."
+    "Als ich ihr Haar losließ, sank Kionnis Kopf erschöpft auf den Tisch, während sie keuchend nach Luft rang."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:95
 translate de gallery_winward_stool_47cc12eb:
 
     # MR_WINWARD "...D-Dear?"
-    MR_WINWARD "...D-Dear?"
+    MR_WINWARD "...L-Liebling?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/stool.rpy:96
 translate de gallery_winward_stool_ddb0b788:
 
     # MRS_WINWARD "{i}*Huff*{/i} I just need - {i}*Huff*{/i} time to rest."
-    MRS_WINWARD "{i}*Huff*{/i} I just need - {i}*Huff*{/i} time to rest."
+    MRS_WINWARD "{i}*Keuch*{/i} Ich brauche nur - {i}*Keuch*{/i} Zeit zum Ausruhen."
 

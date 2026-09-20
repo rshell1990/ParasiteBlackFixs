@@ -64,25 +64,25 @@ translate zh qst_guild_darkmage_823310a7:
 translate zh qst_guild_darkmage_f2156c66:
 
     # MC "(... What is this place?)"
-    MC "(...这是什么地方？)"
+    MC "（……这是什么地方？）"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:33
 translate zh qst_guild_darkmage_bb46434d:
 
     # BLACK "{i}Something is here ... Look around.{/i}"
-    BLACK "{i}这里有东西...四处看看。{/i}"
+    BLACK "{i}这里有东西……四处看看。{/i}"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:41
 translate zh qst_guild_darkmage_shelf_click_c5f42f4e:
 
     # MC "(...!)"
-    MC "(...!)"
+    MC "（……！）"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:42
 translate zh qst_guild_darkmage_shelf_click_a57a4234:
 
     # MC "What the-"
-    MC "搞什么-"
+    MC "搞什么——"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:45
 translate zh qst_guild_darkmage_shelf_click_f585e0ee:
@@ -106,13 +106,13 @@ translate zh qst_guild_darkmage_riddle_wrong_answer_8c9dfcdc:
 translate zh qst_guild_darkmage_riddle_wrong_answer_59e799f7:
 
     # MC "(Hrgh! Fuck)!"
-    MC "(呃啊！该死)！"
+    MC "（呃啊！该死！）"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:71
 translate zh qst_guild_darkmage_riddle_wrong_answer_1f1906d9:
 
     # MC "(Better chose more carefully next time...)"
-    MC "(下次最好更谨慎些...)"
+    MC "（下次最好更谨慎些……）"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:76
 translate zh qst_guild_darkmage_wall_enter_19759d89:
@@ -268,7 +268,7 @@ translate zh qst_guild_darkmage_wall_enter_menu_0e3968a8:
 translate zh qst_guild_darkmage_wall_enter_menu_67967471:
 
     # MC @ scared "...What in all of the gods is that thing?"
-    MC @ scared "...天啊，那是什么鬼东西？"
+    MC @ scared "……天啊，那是什么鬼东西？"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:115
 translate zh qst_guild_darkmage_wall_enter_menu_9eb0fbd7:
@@ -292,7 +292,7 @@ translate zh qst_guild_darkmage_wall_enter_menu_9a869e50:
 translate zh qst_guild_darkmage_wall_enter_menu_8b7a1382:
 
     # DARK_MAGE "{i}... Insane?{/i}"
-    DARK_MAGE "{i}...疯了？{/i}"
+    DARK_MAGE "{i}……疯了？{/i}"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:120
 translate zh qst_guild_darkmage_wall_enter_menu_f003d035:
@@ -622,13 +622,13 @@ translate zh qst_guild_darkmage_riddle_4_bf11aed1:
 translate zh qst_guild_darkmage_riddle_4_eaa75ac3:
 
     # DARKMAGE_WALL_FACE @ talk "How unfortunate..."
-    DARKMAGE_WALL_FACE @ talk "何其不幸..."
+    DARKMAGE_WALL_FACE @ talk "何其不幸……"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:270
 translate zh qst_guild_darkmage_riddle_4_eaa75ac3_1:
 
     # DARKMAGE_WALL_FACE @ talk "How unfortunate..."
-    DARKMAGE_WALL_FACE @ talk "何其不幸..."
+    DARKMAGE_WALL_FACE @ talk "何其不幸……"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:274
 translate zh qst_guild_darkmage_riddle_5_671f2585:
@@ -724,7 +724,7 @@ translate zh qst_guild_darkmage_riddle_8_896a9372:
 translate zh qst_guild_darkmage_riddle_8_656442a5_1:
 
     # DARKMAGE_WALL_FACE @ talk "You are mistaken."
-    DARKMAGE_WALL_FACE @ talk "汝谬矣。"
+    DARKMAGE_WALL_FACE @ talk "你错了。"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:326
 translate zh qst_guild_darkmage_riddle_9_4db2149e:
@@ -742,13 +742,13 @@ translate zh qst_guild_darkmage_riddle_9_5a817712:
 translate zh qst_guild_darkmage_riddle_9_073fc90f:
 
     # DARKMAGE_WALL_FACE @ talk "No ... This is not correct."
-    DARKMAGE_WALL_FACE @ talk "否...此非正解。"
+    DARKMAGE_WALL_FACE @ talk "否……此非正解。"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:335
 translate zh qst_guild_darkmage_riddle_9_073fc90f_1:
 
     # DARKMAGE_WALL_FACE @ talk "No ... This is not correct."
-    DARKMAGE_WALL_FACE @ talk "否...此非正解。"
+    DARKMAGE_WALL_FACE @ talk "否……此非正解。"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:339
 translate zh qst_guild_darkmage_riddle_10_4255f1e6:
@@ -766,13 +766,13 @@ translate zh qst_guild_darkmage_riddle_10_5fdc4150:
 translate zh qst_guild_darkmage_riddle_10_74637427:
 
     # DARKMAGE_WALL_FACE @ talk "No ... That is not it."
-    DARKMAGE_WALL_FACE @ talk "否...非此物也。"
+    DARKMAGE_WALL_FACE @ talk "否……非此物也。"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:348
 translate zh qst_guild_darkmage_riddle_10_74637427_1:
 
     # DARKMAGE_WALL_FACE @ talk "No ... That is not it."
-    DARKMAGE_WALL_FACE @ talk "否...非此物也。"
+    DARKMAGE_WALL_FACE @ talk "否……非此物也。"
 
 # game/data/world_quests/guild_board/DarkMage/scr.rpy:352
 translate zh qst_guild_darkmage_riddle_11_75c3c729:

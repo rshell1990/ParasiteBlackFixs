@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsWarrior/Sup/LeadersCall.rpy:4
     old "Leader's Call"
-    new "Leader's Call"
+    new "Aufruf des Anführers"
 
     # game/data/battle_skills_actions/SkillsWarrior/Sup/LeadersCall.rpy:31
     old "Increases the damage dealt by all allies by %s and grants them debuff immunity for 2 turns."
-    new "Increases the damage dealt by all allies by %s and grants them debuff immunity for 2 turns."
+    new "Erhöht den Schaden aller Verbündeten um %s und gewährt ihnen 2 Runden lang Immunität gegen Debuffs."
 

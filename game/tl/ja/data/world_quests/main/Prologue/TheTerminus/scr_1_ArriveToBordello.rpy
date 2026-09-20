@@ -232,8 +232,7 @@ translate ja qst_Terminus_ArriveToBordello_352189b5:
 translate ja qst_Terminus_ArriveToBordello_da79180f:
 
     # MC "Uh... Not really."
-    MC "えっと…
-別に。"
+    MC "えっと…別に。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_1_ArriveToBordello.rpy:58
 translate ja qst_Terminus_ArriveToBordello_ba522406:
@@ -653,8 +652,7 @@ translate ja qst_Terminus_ArriveToBordello_2d761257:
 translate ja qst_Terminus_ArriveToBordello_8ef5bed6:
 
     # MC "Is it okay to carry on like this? D’you like it?"
-    MC "このまま続けていい？
-気に入った？"
+    MC "このまま続けていい？気に入った？"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_1_ArriveToBordello.rpy:179
 translate ja qst_Terminus_ArriveToBordello_d30e37fd:
@@ -834,8 +832,7 @@ translate ja qst_Terminus_ArriveToBordello_c2d70f7a:
 translate ja qst_Terminus_ArriveToBordello_80cd5b25:
 
     # NIJAH "{i}*PLOP*{/i} Many of my people, zey were stranded during ze first outbreak."
-    NIJAH "{i}*ドボン*{/i}
-我が民の多くは、最初の発生の際に閉じ込められたのです。"
+    NIJAH "{i}*ドボン*{/i}我が民の多くは、最初の発生の際に閉じ込められたのです。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_1_ArriveToBordello.rpy:246
 translate ja qst_Terminus_ArriveToBordello_7257677b:
@@ -961,8 +958,7 @@ translate ja qst_Terminus_ArriveToBordello_e47c7f56:
 translate ja qst_Terminus_ArriveToBordello_c49fd91e:
 
     # MC "... I see."
-    MC "……
-なるほど。"
+    MC "……なるほど。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_1_ArriveToBordello.rpy:275
 translate ja qst_Terminus_ArriveToBordello_5fd3e6c2:

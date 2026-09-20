@@ -351,8 +351,7 @@ translate ja qst_girl_troubles_main_label_menu_4_c7f64210:
 translate ja qst_girl_troubles_main_label_menu_4_cc9e4cc1:
 
     # DIVINE @ talk "I didn't quite realize she felt that way, I never intended to make her feel unwanted."
-    DIVINE @ talk "彼女があんな風に思っているとは気づかなかった。
-わざと疎外感を味わわせようとしたわけじゃない。"
+    DIVINE @ talk "彼女があんな風に思っているとは気づかなかった。わざと疎外感を味わわせようとしたわけじゃない。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/src_GirlTroubles.rpy:114
 translate ja qst_girl_troubles_main_label_menu_4_91c8563f:

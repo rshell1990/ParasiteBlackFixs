@@ -221,7 +221,7 @@ translate zh sexscene_ArwenCelesteWonPuss_bfbb9aef:
 translate zh sexscene_ArwenCelesteWonPuss_e0b0bb19:
 
     # ARWEN @ talk "Did you enjoy your time with {i}Celeste?{/i}"
-    ARWEN @ talk "你和{i}Celeste{/i}的时光愉快吗？"
+    ARWEN @ talk "你和{i}塞莱斯特{/i}的时光愉快吗？"
     
 
 # game/data/world_romance/arwen/scr_CelWonPuss.rpy:49

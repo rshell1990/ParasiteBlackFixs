@@ -6,7 +6,7 @@ init python:
             super().__init__()
 
 ######################################################################################################################################################
-# Crashed ship encounter (rare, only 15% chance event triggers) – can only trigger ONCE in Act 2
+# Crashed ship encounter (30 % chance event triggers) – can only trigger ONCE in Act 2
 label travel_event_crashed_ship:
     $ QstComplete(EventCrashedShipEncounter)
     show mc at center with easeinleft

@@ -208,8 +208,7 @@ translate ja gallery_esme_standing_vag_7f448426:
 translate ja gallery_esme_standing_vag_97116de7:
 
     # "Esme giggled, squeezing tightly around my cock."
-    "「んふっ」
-エスメはくすくす笑いながら、私の男根をぎゅっと締め付けた。"
+    "「んふっ」エスメはくすくす笑いながら、私の男根をぎゅっと締め付けた。"
 
 # game/data/sexy_scenes/esme/galleryLabels/standing.rpy:63
 translate ja gallery_esme_standing_vag_c69ecc85:

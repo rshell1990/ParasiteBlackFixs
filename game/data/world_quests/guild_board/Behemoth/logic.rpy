@@ -43,5 +43,4 @@ init 1 python:
 
 label nov_adv_guild_board_qst_behemoth_starter:
     $ QstStart(QstGuildBehemoth)
-    call qst_guild_behemoth
-    return
+    jump qst_guild_behemoth

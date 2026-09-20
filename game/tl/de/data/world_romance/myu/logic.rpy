@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/world_romance/myu/logic.rpy:17
     old "How about a hug?"
-    new "How about a hug?"
+    new "Wie wäre es mit einer Umarmung?"
 
     # game/data/world_romance/myu/logic.rpy:18
     old "Myu, are you in the mood for some... {i}private time?{/i}"
-    new "Myu, are you in the mood for some... {i}private time?{/i}"
+    new "Myu, hast du Lust auf... {i}Zeit zu zweit?{/i}"
 

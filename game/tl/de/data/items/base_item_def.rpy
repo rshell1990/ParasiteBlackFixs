@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/items/base_item_def.rpy:74
     old "The universal language."
-    new "The universal language."
+    new "Die universelle Sprache."
 

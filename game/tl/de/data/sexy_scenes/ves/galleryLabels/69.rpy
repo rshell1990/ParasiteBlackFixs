@@ -4,7 +4,7 @@
 translate de gallery_ves_69_6e8be2a7:
 
     # "Was she wearing lingerie?"
-    "Was she wearing lingerie?"
+    "Trug sie Dessous?"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:16
 translate de gallery_ves_69_naked_49b19a1b:
@@ -22,7 +22,7 @@ translate de gallery_ves_69_naked_3775bb6a:
 translate de gallery_ves_69_naked_9e9b894c:
 
     # "Ves pushed her round butt against my face, and my tongue instinctively proded against her sweet hole."
-    "Ves pushed her round butt against my face, and my tongue instinctively proded against her sweet hole."
+    "Ves drückte ihren runden Hintern gegen mein Gesicht, und meine Zunge stieß instinktiv gegen ihr süßes Loch."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:22
 translate de gallery_ves_69_naked_6d083292:
@@ -34,7 +34,7 @@ translate de gallery_ves_69_naked_6d083292:
 translate de gallery_ves_69_naked_cadf9aec:
 
     # "Ves' warm mouth wrapped around my member and her soft, delicate lips began to glide back and forth along the shaft."
-    "Ves' warm mouth wrapped around my member and her soft, delicate lips began to glide back and forth along the shaft."
+    "Ves' warmer Mund umschloss mein Glied und ihre weichen, zarten Lippen begannen, am Schaft entlang zu gleiten."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:24
 translate de gallery_ves_69_naked_9dda40a6:
@@ -46,19 +46,19 @@ translate de gallery_ves_69_naked_9dda40a6:
 translate de gallery_ves_69_naked_4cf23b98:
 
     # "With both hands on her soft butt, I continued to thrash my tongue around Ves' wet hole, occasionally prodding at the rim of her asshole making her tremble and let out another soft moan."
-    "With both hands on her soft butt, I continued to thrash my tongue around Ves' wet hole, occasionally prodding at the rim of her asshole making her tremble and let out another soft moan."
+    "Mit beiden Händen auf ihrem weichen Hintern, ließ ich meine Zunge weiter wild um Ves' nasses Loch kreisen, wobei ich gelegentlich gegen den Rand ihres Afters stieß, was sie zum Zittern brachte und ein weiteres leises Stöhnen entlockte."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:29
 translate de gallery_ves_69_naked_ee87029f:
 
     # VES "(H-He keeps prodding at my other hole!)"
-    VES "(H-He keeps prodding at my other hole!)"
+    VES "(E-Er stößt immer wieder gegen mein anderes Loch!)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:30
 translate de gallery_ves_69_naked_33fe6808:
 
     # VES "(D-Does he plan to try take me {i}there{/i} too?!)"
-    VES "(D-Does he plan to try take me {i}there{/i} too?!)"
+    VES "(H-Hat er vor, mich auch {i}dort{/i} zu nehmen?!)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:31
 translate de gallery_ves_69_naked_cd80bdc3:
@@ -124,7 +124,7 @@ translate de gallery_ves_69_naked_bf228b85:
 translate de gallery_ves_69_naked_56370114:
 
     # "The sudden sensation was too much for me to bear, and Ves groaned as I unleashed a flood of my hot seed down her throat."
-    "The sudden sensation was too much for me to bear, and Ves groaned as I unleashed a flood of my hot seed down her throat."
+    "Die plötzliche Empfindung war zu viel für mich, und Ves stöhnte, als ich eine Flut meines heißen Samens in ihren Hals ergoss."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:48
 translate de gallery_ves_69_naked_91f4579d:
@@ -136,31 +136,31 @@ translate de gallery_ves_69_naked_91f4579d:
 translate de gallery_ves_69_naked_b28b4b19:
 
     # VES "(There's so much of it!)"
-    VES "(There's so much of it!)"
+    VES "(Es ist so viel!)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:50
 translate de gallery_ves_69_naked_80be62c0:
 
     # "Ves did her best to swallow down as much of it as she could, before finally, she pulled her head away and gasped for air, rolling off to my side while laughing exhaustedly."
-    "Ves did her best to swallow down as much of it as she could, before finally, she pulled her head away and gasped for air, rolling off to my side while laughing exhaustedly."
+    "Ves gab ihr Bestes, so viel wie möglich davon zu schlucken, bevor sie schließlich ihren Kopf wegzog und nach Luft schnappte, während sie erschöpft lachend zur Seite rollte."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:53
 translate de gallery_ves_69_naked_7820eb69:
 
     # VES @ talk "{i}*Huff*{/i} That was... very good..."
-    VES @ talk "{i}*Huff*{/i} That was... very good..."
+    VES @ talk "{i}*Huff*{/i} Das war... sehr gut..."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:54
 translate de gallery_ves_69_naked_c02013fa:
 
     # VES @ talk "[player_name!t]? Are you okay?"
-    VES @ talk "[player_name!t]? Are you okay?"
+    VES @ talk "[player_name!t]? Alles in Ordnung?"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:55
 translate de gallery_ves_69_naked_f0dd3967:
 
     # MC @ talk "I think {i}*Huff*{/i} I’m just going to lay here for a bit..."
-    MC @ talk "I think {i}*Huff*{/i} I’m just going to lay here for a bit..."
+    MC @ talk "Ich glaube {i}*Huff*{/i} ich werde einfach eine Weile hier liegen..."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:59
 translate de gallery_ves_69_ling_49b19a1b:
@@ -178,7 +178,7 @@ translate de gallery_ves_69_ling_3775bb6a:
 translate de gallery_ves_69_ling_9e9b894c:
 
     # "Ves pushed her round butt against my face, and my tongue instinctively proded against her sweet hole."
-    "Ves pushed her round butt against my face, and my tongue instinctively proded against her sweet hole."
+    "Ves drückte ihren runden Hintern gegen mein Gesicht, und meine Zunge stieß instinktiv gegen ihr süßes Loch."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:65
 translate de gallery_ves_69_ling_6d083292:
@@ -190,7 +190,7 @@ translate de gallery_ves_69_ling_6d083292:
 translate de gallery_ves_69_ling_cadf9aec:
 
     # "Ves' warm mouth wrapped around my member and her soft, delicate lips began to glide back and forth along the shaft."
-    "Ves' warm mouth wrapped around my member and her soft, delicate lips began to glide back and forth along the shaft."
+    "Ves' warmer Mund umschloss mein Glied, und ihre weichen, zarten Lippen begannen, am Schaft auf und ab zu gleiten."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:67
 translate de gallery_ves_69_ling_9dda40a6:
@@ -202,55 +202,55 @@ translate de gallery_ves_69_ling_9dda40a6:
 translate de gallery_ves_69_ling_4cf23b98:
 
     # "With both hands on her soft butt, I continued to thrash my tongue around Ves' wet hole, occasionally prodding at the rim of her asshole making her tremble and let out another soft moan."
-    "With both hands on her soft butt, I continued to thrash my tongue around Ves' wet hole, occasionally prodding at the rim of her asshole making her tremble and let out another soft moan."
+    "Mit beiden Händen an ihrem weichen Po fuhr ich fort, mit meiner Zunge in Ves' nassem Loch herumzuwühlen, wobei ich gelegentlich am Rand ihres Afters stocherte, was sie zittern und ein weiteres leises Stöhnen ausstoßen ließ."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:72
 translate de gallery_ves_69_ling_ee87029f:
 
     # VES "(H-He keeps prodding at my other hole!)"
-    VES "(H-He keeps prodding at my other hole!)"
+    VES "(E-Er stochert immer wieder an meinem anderen Loch herum!)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:73
 translate de gallery_ves_69_ling_33fe6808:
 
     # VES "(D-Does he plan to try take me {i}there{/i} too?!)"
-    VES "(D-Does he plan to try take me {i}there{/i} too?!)"
+    VES "(P-Plant er, mich {i}da{/i} auch zu nehmen?!)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:74
 translate de gallery_ves_69_ling_cd80bdc3:
 
     # VES "(A-Ah! It feels q-quite nice when his tongue hits there though...)"
-    VES "(A-Ah! It feels q-quite nice when his tongue hits there though...)"
+    VES "(A-Ah! Es fühlt sich allerdings s-sehr gut an, wenn seine Zunge dort hinkommt...)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:75
 translate de gallery_ves_69_ling_db054858:
 
     # "Ves' body tightened and shook beneath my fingertips, I could feel her heart racing as she tried to take my cock deeper and faster into her throat."
-    "Ves' body tightened and shook beneath my fingertips, I could feel her heart racing as she tried to take my cock deeper and faster into her throat."
+    "Ves' Körper spannte sich an und zitterte unter meinen Fingerspitzen, ich konnte spüren, wie ihr Herz raste, als sie versuchte, meinen Schwanz tiefer und schneller in ihre Kehle zu nehmen."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:76
 translate de gallery_ves_69_ling_c8a267e6:
 
     # "Letting out a series of lewd wet slurping sounds while she did so, her soft moans between her desire to finish me only left me harder."
-    "Letting out a series of lewd wet slurping sounds while she did so, her soft moans between her desire to finish me only left me harder."
+    "Während sie das tat, gab sie eine Reihe unzüchtiger, feuchter Schmatzgeräusche von sich, und ihre leisen Stöhnen zwischen ihrem Verlangen, mich zu Ende zu bringen, machten mich nur noch härter."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:77
 translate de gallery_ves_69_ling_44e3a501:
 
     # VES "(His tool is so thick, it feels like I can hardly fit it around my mouth...)"
-    VES "(His tool is so thick, it feels like I can hardly fit it around my mouth...)"
+    VES "(Sein Werkzeug ist so dick, es fühlt sich an, als ob ich es kaum in meinen Mund bekomme...)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:78
 translate de gallery_ves_69_ling_1eee99f8:
 
     # "Beneath my skin, once again I could feel the creature inside of me desperate to mate, to throw her down and shove my cock into her, see her filled with my seed and listen to her moan while she sired my children."
-    "Beneath my skin, once again I could feel the creature inside of me desperate to mate, to throw her down and shove my cock into her, see her filled with my seed and listen to her moan while she sired my children."
+    "Unter meiner Haut spürte ich erneut die Kreatur in mir, die verzweifelt nach Paarung verlangte, sie niederzuwerfen und meinen Schwanz in sie zu stoßen, sie mit meinem Samen gefüllt zu sehen und ihrem Stöhnen zu lauschen, während sie meine Kinder zeugte."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:79
 translate de gallery_ves_69_ling_0ebb8edd:
 
     # "But I held back, pushing the thought aside for now."
-    "But I held back, pushing the thought aside for now."
+    "Aber ich hielt mich zurück und schob den Gedanken erst einmal beiseite."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:83
 translate de gallery_ves_69_ling_229aa536:
@@ -262,7 +262,7 @@ translate de gallery_ves_69_ling_229aa536:
 translate de gallery_ves_69_ling_9f24ff48:
 
     # VES "(So good... This feeling... It's... It's incredible! Ahh! I'm so close, I... I think I might-)"
-    VES "(So good... This feeling... It's... It's incredible! Ahh! I'm so close, I... I think I might-)"
+    VES "(So gut... Dieses Gefühl... Es ist... Es ist unglaublich! Ahh! Ich bin so kurz davor, ich... ich glaube, ich könnte-)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:85
 translate de gallery_ves_69_ling_d28762ef:
@@ -274,13 +274,13 @@ translate de gallery_ves_69_ling_d28762ef:
 translate de gallery_ves_69_ling_bf228b85:
 
     # "Suddenly, Ves mouth threw itself forward with such passion, I was caught off guard as her body shook, and I knew then that she was cumming."
-    "Suddenly, Ves mouth threw itself forward with such passion, I was caught off guard as her body shook, and I knew then that she was cumming."
+    "Plötzlich warf sich Ves‘ Mund mit solcher Leidenschaft vor, dass ich überrumpelt wurde, als ihr Körper bebte, und ich wusste dann, dass sie kam."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:90
 translate de gallery_ves_69_ling_56370114:
 
     # "The sudden sensation was too much for me to bear, and Ves groaned as I unleashed a flood of my hot seed down her throat."
-    "The sudden sensation was too much for me to bear, and Ves groaned as I unleashed a flood of my hot seed down her throat."
+    "Das plötzliche Gefühl war zu viel für mich, und Ves stöhnte, als ich eine Flut meines heißen Samens ihre Kehle hinunter entfesselte."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:91
 translate de gallery_ves_69_ling_91f4579d:
@@ -292,35 +292,35 @@ translate de gallery_ves_69_ling_91f4579d:
 translate de gallery_ves_69_ling_b28b4b19:
 
     # VES "(There's so much of it!)"
-    VES "(There's so much of it!)"
+    VES "(Es ist so viel!)"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:93
 translate de gallery_ves_69_ling_80be62c0:
 
     # "Ves did her best to swallow down as much of it as she could, before finally, she pulled her head away and gasped for air, rolling off to my side while laughing exhaustedly."
-    "Ves did her best to swallow down as much of it as she could, before finally, she pulled her head away and gasped for air, rolling off to my side while laughing exhaustedly."
+    "Ves tat ihr Bestes, um so viel davon wie möglich zu schlucken, bevor sie schließlich ihren Kopf wegzog, nach Luft schnappte und sich erschöpft lachend an meine Seite rollte."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:97
 translate de gallery_ves_69_ling_7820eb69:
 
     # VES @ talk "{i}*Huff*{/i} That was... very good..."
-    VES @ talk "{i}*Huff*{/i} That was... very good..."
+    VES @ talk "{i}*Huff*{/i} Das war... sehr gut..."
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:98
 translate de gallery_ves_69_ling_c02013fa:
 
     # VES @ talk "[player_name!t]? Are you okay?"
-    VES @ talk "[player_name!t]? Are you okay?"
+    VES @ talk "[player_name!t]? Bist du okay?"
 
 # game/data/sexy_scenes/ves/galleryLabels/69.rpy:99
 translate de gallery_ves_69_ling_f0dd3967:
 
     # MC @ talk "I think {i}*Huff*{/i} I’m just going to lay here for a bit..."
-    MC @ talk "I think {i}*Huff*{/i} I’m just going to lay here for a bit..."
+    MC @ talk "Ich glaube {i}*Huff*{/i} ich leg mich hier einfach kurz hin..."
 
 translate de strings:
 
     # game/data/sexy_scenes/ves/galleryLabels/69.rpy:8
     old "No, she was naked"
-    new "No, she was naked"
+    new "Nein, sie war nackt"
 

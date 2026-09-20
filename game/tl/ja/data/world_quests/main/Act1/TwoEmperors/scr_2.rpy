@@ -436,9 +436,7 @@ translate ja qst_TwoEmperors_2_c4a8b650:
 translate ja qst_TwoEmperors_2_be59f236:
 
     # SYPHA @ think "Perhaps you will be able to fight your way through them all, perhaps not."
-    SYPHA @ think "お前がすべてを打ち破れるかもしれない。
-
-そうでないかもしれない。"
+    SYPHA @ think "お前がすべてを打ち破れるかもしれない。そうでないかもしれない。"
 
 # game/data/world_quests/main/Act1/TwoEmperors/scr_2.rpy:122
 translate ja qst_TwoEmperors_2_be3ae20d:
@@ -588,8 +586,7 @@ translate ja qst_TwoEmperors_2_c94f965e:
 translate ja qst_TwoEmperors_2_eeed5d51:
 
     # "And yet, I followed her all the same into the strange depths of this dark abyss world."
-    "それでも、私は彼女に従った。
-この闇の淵世界の、奇妙な深淵へと。"
+    "それでも、私は彼女に従った。この闇の淵世界の、奇妙な深淵へと。"
 
 # game/data/world_quests/main/Act1/TwoEmperors/scr_2.rpy:157
 translate ja qst_TwoEmperors_2_8eca7023:

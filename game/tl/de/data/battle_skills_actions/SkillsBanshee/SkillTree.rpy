@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsBanshee/SkillTree.rpy:2
     old "Banshee skills"
-    new "Banshee skills"
+    new "Banshee-Fähigkeiten"
 

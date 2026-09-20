@@ -316,7 +316,7 @@ translate zh qst_TheTarbecks_VisitGiselraOrderClothes_2f1f339c:
 translate zh qst_TheTarbecks_VisitGiselraOrderClothes_18c711fd:
 
     # MC "(What in the seven hells is wrong with this girl?)"
-    MC "(这姑娘到底有什么毛病？)"
+    MC "（这姑娘到底有什么毛病？）"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:104
 translate zh qst_TheTarbecks_GiselraBuyClothes_6f2432cf:
@@ -460,7 +460,7 @@ translate zh qst_TheTarbecks_GiselraClothesRetrieveAndContinue_05ef2033:
 translate zh qst_TheTarbecks_GiselraClothesRetrieveAndContinue_c89a9c68:
 
     # GISELRA "...Oh my."
-    GISELRA "...天啊。"
+    GISELRA "……天啊。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:165
 translate zh qst_TheTarbecks_GiselraClothesRetrieveAndContinue_909f6cd3:
@@ -1444,7 +1444,7 @@ translate zh qst_TheTarbecks_ArriveToParty_be2041ad:
 translate zh qst_TheTarbecks_ArriveToParty_f23b7f9f:
 
     # MC @ serious "You look..."
-    MC @ serious "你看起来..."
+    MC @ serious "你看起来……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:469
 translate zh qst_TheTarbecks_ArriveToParty_3c9e402e:
@@ -1456,7 +1456,7 @@ translate zh qst_TheTarbecks_ArriveToParty_3c9e402e:
 translate zh qst_TheTarbecks_ArriveToParty_0db04aef:
 
     # MC @ embarr "Y-Yes..."
-    MC @ embarr "是...是的..."
+    MC @ embarr "是……是的……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:471
 translate zh qst_TheTarbecks_ArriveToParty_e02bac63:
@@ -1990,7 +1990,7 @@ translate zh qst_TheTarbecks_PartyBegins_aaea902a:
 translate zh qst_TheTarbecks_PartyBegins_591ea75d:
 
     # ESME @ smile "I’ve had clients suggest their own little {i}'games'{/i} before."
-    ESME @ smile "以前也有客户提议玩他们自己的小{i}'游戏'{/i}。"
+    ESME @ smile "以前也有客户提议玩他们自己的小{i}“游戏”{/i}。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:636
 translate zh qst_TheTarbecks_PartyBegins_b4cf892b:
@@ -2056,7 +2056,7 @@ translate zh qst_TheTarbecks_PartyBegins_43d14697:
 translate zh qst_TheTarbecks_PartyBegins_6d0697e1:
 
     # KIARA @ smile "I just hope they don’t disappoint..."
-    KIARA @ smile "我只是希望他们不会让人失望..."
+    KIARA @ smile "我只是希望他们不会让人失望……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:656
 translate zh qst_TheTarbecks_PartyBegins_7e5d15dc:
@@ -2068,13 +2068,13 @@ translate zh qst_TheTarbecks_PartyBegins_7e5d15dc:
 translate zh qst_TheTarbecks_PartyBegins_4029e2bb:
 
     # MARKUS_FEM @ surp "..."
-    MARKUS_FEM @ surp "..."
+    MARKUS_FEM @ surp "……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:662
 translate zh qst_TheTarbecks_PartyBegins_e153d1c7:
 
     # MC @ scared "U-Uh... I’m sure we can—"
-    MC @ scared "呃...我确信我们可以——"
+    MC @ scared "呃……我确信我们可以——"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:664
 translate zh qst_TheTarbecks_PartyBegins_b9ad5292:
@@ -2260,13 +2260,13 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_ffbcf34d:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_ead658cf:
 
     # KIARA @ talk "... {i}Is that so?{/i}"
-    KIARA @ talk "... {i}是这样吗？{/i}"
+    KIARA @ talk "……{i}是这样吗？{/i}"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:732
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_c5050731:
 
     # MC @ talk "This is Mark—"
-    MC @ talk "这是Mark——"
+    MC @ talk "这是马克——"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:733
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_0d0aa629:
@@ -2278,7 +2278,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_0d0aa629:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_7ca52fbb:
 
     # TARBECK @ smile "玛西亚… my…"
-    TARBECK @ smile "玛西亚…我的…"
+    TARBECK @ smile "玛西亚……我的……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:735
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_63c61126:
@@ -2446,7 +2446,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_9956c2c4:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_9a0a1a92:
 
     # MC @ smile "{i}Maybe see if Lord Tarbeck's wife will give you a little tour?{/i}"
-    MC @ smile "{i}也许看看Tarbeck勋爵的妻子会不会带你参观一下？{/i}"
+    MC @ smile "{i}也许看看塔贝克勋爵的妻子会不会带你参观一下？{/i}"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:781
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_a374c0ca:
@@ -2470,7 +2470,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_4e3cba7e:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_bdc9b9f6:
 
     # MC @ smile "{i}Maybe see if Lord Tarbeck's wife will give you a small tour?{/i}"
-    MC @ smile "{i}也许看看Tarbeck勋爵的妻子会不会带你参观一下？{/i}"
+    MC @ smile "{i}也许看看塔贝克勋爵的妻子会不会带你参观一下？{/i}"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:787
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_8c883c8d:
@@ -2992,7 +2992,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_e307c13b:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_278a4cea:
 
     # MC "(What in the hells is happening?!)"
-    MC "(这到底是怎么回事？！)"
+    MC "（这到底是怎么回事？！）"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:923
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_2ddce562:
@@ -3160,7 +3160,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_cddb53f5:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_c87d235e:
 
     # TARBECK "Briana!!"
-    TARBECK "Briana！！"
+    TARBECK "布丽安娜！！"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:963
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_2447c151:
@@ -3382,7 +3382,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_438e3446:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_25f3096f:
 
     # MC "(… I sure hope the GTC really is as rich as everyone believes them to be.)"
-    MC "(……我真希望GTC真的像大家认为的那么富有。)"
+    MC "(……我真希望Org,大商会,大商会,OK真的像大家认为的那么富有。)"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1005
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_875ea6cf:
@@ -4156,7 +4156,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_f732a89c:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_99599a3c:
 
     # MC @ talk "I think I have another way to get Tarbeck to give the GTC what they want."
-    MC @ talk "我想我有别的办法能让塔贝克把GTC想要的东西交出来。"
+    MC @ talk "我想我有别的办法能让塔贝克把大商会想要的东西交出来。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1176
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_bd61434d:
@@ -4522,7 +4522,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_b71e7383:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_1d1d9ea3:
 
     # MC @ smile "(She was... different than I imagined.)"
-    MC @ smile "(她...和我想象中不太一样。)"
+    MC @ smile "（她……和我想象中不太一样。）"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1262
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_b63f88a3:
@@ -4546,7 +4546,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_596da554:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_d21dc9fe:
 
     # MC @ think "(Make her 'interesting,' huh?)"
-    MC @ think "（让她变得‘有趣’，嗯？）"
+    MC @ think "（让她变得“有趣”，嗯？）"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1266
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_05117e42:
@@ -4558,7 +4558,7 @@ translate zh strings:
 
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:26
     old "What kind of 'parties' are we talking about here?"
-    new "我们这里说的是什么样的‘派对’？"
+    new "我们这里说的是什么样的“派对”？"
 
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:32
     old "Why not try to persuade Lord Tarbeck directly?"
@@ -4582,7 +4582,7 @@ translate zh strings:
 
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:251
     old "DEBUG: add ves if missing and set to lover"
-    new "DEBUG：如果缺失则添加ves并设为情人"
+    new "DEBUG：如果缺失则添加维斯并设为情人"
 
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:256
     old "DEBUG: set kiara to lover"
@@ -4629,7 +4629,6 @@ translate zh strings:
     new "拒绝"
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:77
 translate zh qst_TheTarbecks_VisitGiselraOrderClothes_21607129:
@@ -4672,7 +4671,6 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_e8555212:
 
     # TARBECK @ talk "Do not disappoint me, [player_name!t]."
     TARBECK @ talk "别让我失望，[player_name!t]。"
-# TODO: Translation updated at 2026-06-29 02:38
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:944
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_1592f0c7:
@@ -4750,7 +4748,7 @@ translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_a70c5cab:
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_fabce6d7:
 
     # MC "(I'M SICK OF BEING THE GTC'S LAPDOG!)"
-    MC "（我受够了当GTC的走狗！）"
+    MC "（我受够了当Org的走狗！）"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:957
 translate zh qst_TheTarbecks_WatcherMainhall_TurnInTokens_577e3527:

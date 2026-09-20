@@ -244,10 +244,7 @@ translate ja qst_bloodhound_2_lake_postbattle_c448d59c:
 translate ja qst_bloodhound_2_lake_postbattle_dravenham_5305a2f1:
 
     # DRAVENHAM "None... The thing only kept me alive to let its young feed on me."
-    DRAVENHAM "(空行)
-そいつが俺を生かし続けてやがったのは、ただ自分の子供に俺を喰らわせるためだった。
-None...
-The thing only kept me alive to let its young feed on me."
+    DRAVENHAM "(空行)そいつが俺を生かし続けてやがったのは、ただ自分の子供に俺を喰らわせるためだった。None...The thing only kept me alive to let its young feed on me."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_2.5.rpy:82
 translate ja qst_bloodhound_2_lake_postbattle_dravenham_a48cb7f1:
@@ -265,8 +262,7 @@ translate ja qst_bloodhound_2_lake_postbattle_dravenham_6fb79e61:
 translate ja qst_bloodhound_2_lake_postbattle_dravenham_9b9da1a5:
 
     # DRAVENHAM "Please... Everything is so numb now."
-    DRAVENHAM "お願い…  
-全てがもう感覚を失っている。"
+    DRAVENHAM "お願い…  全てがもう感覚を失っている。"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_2.5.rpy:88
 translate ja qst_bloodhound_2_lake_postbattle_dravenham_1c097716:

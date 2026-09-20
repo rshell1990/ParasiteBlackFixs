@@ -46,8 +46,7 @@ translate ja qst_Terminus_ReturnHomeFromEitherTavernOrBordello_cbf4533e:
 translate ja qst_Terminus_ReturnHomeFromEitherTavernOrBordello_c8aacde8:
 
     # "I darted away from the door and stepped back as I heard her footsteps coming closer."
-    "ドアから身を引いた。
-彼女の足音が近づくのが聞こえて、後ずさりした。"
+    "ドアから身を引いた。彼女の足音が近づくのが聞こえて、後ずさりした。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_2_ReturnHomeAndArriveToFort.rpy:32
 translate ja qst_Terminus_ReturnHomeFromEitherTavernOrBordello_4d43ed04:
@@ -185,8 +184,7 @@ translate ja qst_Terminus_ArriveToFort_0f5a4d8c:
 translate ja qst_Terminus_ArriveToFort_bdb754ad:
 
     # "Stone-faced, they didn’t need to say anything to let us know that leaving was not an option."
-    "石のような表情で、彼らは何も言う必要はなかった。  
-退場は許されない、と。"
+    "石のような表情で、彼らは何も言う必要はなかった。  退場は許されない、と。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_2_ReturnHomeAndArriveToFort.rpy:84
 translate ja qst_Terminus_ArriveToFort_14260449:

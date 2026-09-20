@@ -4,13 +4,13 @@ translate de strings:
 
     # game/data/sexy_scenes/elena/galleryDefs.rpy:6
     old "Bath"
-    new "Bath"
+    new "Bad"
 
     # game/data/sexy_scenes/elena/galleryDefs.rpy:12
     old "Dance & Grind"
-    new "Dance & Grind"
+    new "Tanzen & Reiben"
 
     # game/data/sexy_scenes/elena/galleryDefs.rpy:18
     old "Titjob"
-    new "Titjob"
+    new "Tittenjob"
 

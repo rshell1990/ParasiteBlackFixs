@@ -1618,8 +1618,7 @@ translate ja nyx_love_unicorn_date_menu_2210f288:
 translate ja nyx_love_unicorn_date_menu_c783c04f:
 
     # NYX "{i}*Slurp!*{/i} Mhmm?"
-    NYX "{i}*ずるっ!*{/i}  
-んん？"
+    NYX "{i}*ずるっ!*{/i}  んん？"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:431
 translate ja nyx_love_unicorn_date_menu_b2e10c2e:

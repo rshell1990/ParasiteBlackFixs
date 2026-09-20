@@ -16,9 +16,7 @@ translate ja qst_ValleyOfPrey_40e98cec:
 translate ja qst_ValleyOfPrey_f3afe333:
 
     # "Ves pushed open the flap of her tent as she headed inside of it once again. My thoughts turned to the Skorn."
-    "ヴェスはもう一度テントの中へと向かうと、テントの入り口のフラップを押し開けた。
-
-スコーンという名前が頭に浮かんだ。"
+    "ヴェスはもう一度テントの中へと向かうと、テントの入り口のフラップを押し開けた。スコーンという名前が頭に浮かんだ。"
 
 # game/data/world_quests/side/valleyOfDeath/ValleyOfPrey/scr.rpy:8
 translate ja qst_ValleyOfPrey_00ba4f91:

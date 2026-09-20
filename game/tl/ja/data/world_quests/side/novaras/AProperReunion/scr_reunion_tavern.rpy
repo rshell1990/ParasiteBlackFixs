@@ -544,8 +544,7 @@ translate ja qst_reunion_tavern_acd6c8ce:
 translate ja qst_reunion_tavern_9813fa0a:
 
     # MC @ talk "I just want to enjoy myself with you like we used to do, is that too much to ask?"
-    MC @ talk "ただ君と昔みたいに楽しみたいだけだ、
-それってダメ？"
+    MC @ talk "ただ君と昔みたいに楽しみたいだけだ、それってダメ？"
 
 # game/data/world_quests/side/novaras/AProperReunion/scr_reunion_tavern.rpy:127
 translate ja qst_reunion_tavern_6af7cb52:
@@ -785,8 +784,7 @@ translate ja qst_reunion_tavern_de015ef7_1:
 translate ja qst_reunion_tavern_0ba7ca2c_1:
 
     # ADARA @ talk "...Just..."
-    ADARA @ talk "…
-ちょっと…"
+    ADARA @ talk "…ちょっと…"
 
 # game/data/world_quests/side/novaras/AProperReunion/scr_reunion_tavern.rpy:191
 translate ja qst_reunion_tavern_eb70ecb4_1:

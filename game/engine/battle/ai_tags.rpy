@@ -41,3 +41,7 @@ init -1 python in AI_TAGS:
     INCREASE_SELF_DAMAGE = 23
 
     GAIN_TURN = 24
+
+# Expose AI_TAGS directly to store namespace for global script accessibility
+init -1 python:
+    store.AI_TAGS = AI_TAGS

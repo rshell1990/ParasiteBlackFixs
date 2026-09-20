@@ -22,8 +22,7 @@ translate ja gallery_shani_sexshow_vag_8eb812bf:
 translate ja gallery_shani_sexshow_vag_f45ce2ae:
 
     # "Her cunt tightened involuntarily as her legs began to shake from the stretch and fullness."
-    "彼女のあそこは、思わず締め付ける。  
-張りと満たされ感に、足が震え出す。"
+    "彼女のあそこは、思わず締め付ける。  張りと満たされ感に、足が震え出す。"
 
 # game/data/sexy_scenes/shani/galleryLabels/sexshow.rpy:22
 translate ja gallery_shani_sexshow_vag_9d6472af:
@@ -161,9 +160,7 @@ translate ja gallery_shani_sexshow_vag_9645670e:
 translate ja gallery_shani_sexshow_vag_7da2a96e:
 
     # "Her cries spurred me on. Her body shook under the force, sweat pouring from her skin as I drove her further over the edge."
-    "彼女の泣き声が俺を駆り立てた。
-激しい力にその体は震え、肌から汗がほとばしる。
-さらに追い詰めていく。"
+    "彼女の泣き声が俺を駆り立てた。激しい力にその体は震え、肌から汗がほとばしる。さらに追い詰めていく。"
 
 # game/data/sexy_scenes/shani/galleryLabels/sexshow.rpy:48
 translate ja gallery_shani_sexshow_vag_a9eb506a:

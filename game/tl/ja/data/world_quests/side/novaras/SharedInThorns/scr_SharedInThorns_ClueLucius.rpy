@@ -82,8 +82,7 @@ translate ja scr_SharedInThorns_luciusClue_3f8dc976:
 translate ja scr_SharedInThorns_luciusClue_eb41e7b4:
 
     # LUCIUSMAL "Get her off me! GET HER OFF ME!"
-    LUCIUSMAL "やめろ!
-ヤメロ!"
+    LUCIUSMAL "やめろ!ヤメロ!"
 
 # game/data/world_quests/side/novaras/SharedInThorns/scr_SharedInThorns_ClueLucius.rpy:18
 translate ja scr_SharedInThorns_luciusClue_57f2ff02:

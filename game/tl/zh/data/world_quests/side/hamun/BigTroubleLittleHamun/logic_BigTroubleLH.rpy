@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2026-03-18 02:10
 
 translate zh strings:
 
@@ -140,7 +139,7 @@ translate zh strings:
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/logic_BigTroubleLH.rpy:299
     old "About your GTC situation..."
-    new "关于你的GTC情况..."
+    new "关于你的大商会情况..."
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/logic_BigTroubleLH.rpy:303
     old "I'm ready to help you collect the Golem parts."
@@ -168,15 +167,14 @@ translate zh strings:
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/logic_BigTroubleLH.rpy:324
     old "Marbella has agreed to your terms."
-    new "玛贝拉 已同意你的条件。"
+    new "玛贝拉已同意你的条件。"
 
-# TODO: Translation updated at 2026-03-23 15:20
 
 translate zh strings:
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/logic_BigTroubleLH.rpy:27
     old "Marbella has agreed to the Khazah's terms... Now I just need to tell their leader."
-    new "马贝拉已同意卡扎赫族的条件...现在我只需要告诉他们的首领。"
+    new "马贝拉已同意卡扎赫族的条件……现在我只需要告诉他们的首领。"
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/logic_BigTroubleLH.rpy:27
     old "The Khazah want me to deal with some of the smaller rival gangs... I should hunt for them around Hamun at night.)"
@@ -186,7 +184,6 @@ translate zh strings:
     old "Now the rival gangs have been dealt with, I can report back to the Khazah my progress."
     new "现在敌对帮派已经处理完毕，我可以向卡扎赫汇报我的进展了。"
 
-# TODO: Translation updated at 2026-04-11 22:42
 
 translate zh strings:
 

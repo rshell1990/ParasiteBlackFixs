@@ -286,8 +286,7 @@ translate ja event_mc_newarmor_b721a6c6:
 translate ja event_mc_newarmor_f879d3c7:
 
     # "Placing down the letter, I looked over towards the armour and after stripping down, placed it on piece by piece."
-    "手紙を置きながら、鎧へと視線を移す。
-服を脱ぎ、一つ一つ身につけていく。"
+    "手紙を置きながら、鎧へと視線を移す。服を脱ぎ、一つ一つ身につけていく。"
 
 # game/data/world_events/novaras/mc_newarmor/ev_mcNewarmor.rpy:95
 translate ja event_mc_newarmor_b0a71ca1:

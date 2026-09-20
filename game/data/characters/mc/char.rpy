@@ -3,12 +3,13 @@ default MC_PARA = Character("[player_name!t]", image = "mc", show_slow_effect = 
 default BLACK = Character(_("Parasite Black"), what_color = "#ff0000", image = "black", show_slow_effect = slow_slide_left(25), show_slow_effect_delay = 0.5, show_always_effect = always_shake(x = 1, y = 0))
 default SHYAHTAN = Character(_("Shyahtan"), what_color = "#ff0000", image = "black", show_slow_effect = slow_slide_left(25), show_slow_effect_delay = 0.5, show_always_effect = always_shake(x = 1, y = 0))
 default MCFEM = Character("[player_name!t]", image = "mcfem") # for a perk
+
 default mc_female_outfit = "normal"
 
 init python:
 ##### mc main worldchar
     CharDefs["mc"] = BuildCharTemplate(CharID = "mc",
-                                        BattleSkin =  "mc",
+                                        BattleSkin =  "mc", # swapped for _p by prologue quest
                                         portrait = "images/characters/mc/portrait_p.webp",
 
                                         Strength    = 5,
@@ -23,7 +24,7 @@ init python:
 
                                         BattleClass = "warrior",
 
-                                        CharSkills = {},
+                                        CharSkills = {"WarriorHeavySlash":1},
 
                                         HasAltForm = True,
 
@@ -33,9 +34,8 @@ init python:
                                         AltForm_TransformSkill = "McTransform",
                                         AltForm_UnTransformSkill = "McUnTransform",
 
-                                        ExtraData = {"clothes" : "normal",
-                                                    "default_look" : "normal",
-                                                    "learned_skills" : []
+                                        ExtraData = {"clothes" : "normal", # naked / pants / normal / scout
+                                                    "default_look" : "normal", # for the farther armor thingy
                                                     })
 
     config.tag_layer["mc"] = "characters"

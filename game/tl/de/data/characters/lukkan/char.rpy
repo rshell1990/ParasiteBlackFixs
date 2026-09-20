@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/lukkan/char.rpy:11
     old "A high-ranking officer who seems to handle various bureaucratic jobs. He sided with Alcott during the rebellion."
-    new "A high-ranking officer who seems to handle various bureaucratic jobs. He sided with Alcott during the rebellion."
+    new "Ein hochrangiger Offizier, der verschiedene bürokratische Aufgaben zu erledigen scheint. Er stellte sich während der Rebellion auf die Seite von Alcott."
 

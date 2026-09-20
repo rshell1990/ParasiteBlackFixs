@@ -1,4 +1,4 @@
-init -2 python:
+init python:
     # silently fails if no item or cant eqp
     def PlayerPartyCharEquipItem(CharID, ItemID, DirectSlotID = None):
         VerboseLog_General = False
@@ -51,70 +51,82 @@ init -2 python:
 
         return return_val
 
+    def GetItemGrantedSkillIDs(ItemID):
+        if ItemID is None or ItemID not in all_items:
+            return []
+
+        SkillIDs = all_items[ItemID].get("grants_skill")
+        if SkillIDs is None:
+            return []
+        if isinstance(SkillIDs, list):
+            return SkillIDs
+        return [SkillIDs]
+
+    def SyncCharGrantedItemSkills(CharID):
+        WorldChar = worldChars[CharID]
+        if "GrantedItemSkills" not in WorldChar:
+            WorldChar["GrantedItemSkills"] = set()
+
+        CurrentGrantedSkills = set()
+        for SlotID in EQP_SLOTS.ALL:
+            ItemID = WorldChar.get(SlotID)
+            if ItemID is None:
+                continue
+            CurrentGrantedSkills.update(GetItemGrantedSkillIDs(ItemID))
+
+        for SkillID in list(WorldChar["GrantedItemSkills"] - CurrentGrantedSkills):
+            if SkillID in SkillLib and SkillID in WorldChar["CharSkills"]:
+                del WorldChar["CharSkills"][SkillID]
+
+        for SkillID in CurrentGrantedSkills:
+            if SkillID not in SkillLib:
+                continue
+            if SkillID not in WorldChar["CharSkills"]:
+                WorldChar["CharSkills"][SkillID] = 1
+            elif WorldChar["CharSkills"][SkillID] < 1:
+                WorldChar["CharSkills"][SkillID] = 1
+
+        WorldChar["GrantedItemSkills"] = CurrentGrantedSkills
+        return
+
     def EquipItem(char_index, ItemID, slot_ID, SetMTTToItemDesc = True):
         Char = worldChars[player_party[char_index]]
 
+        # calc orig hp %
         OrigHealthFactor = Char["Health"] / Char["HealthMax"]
+        # equip item
         Char[slot_ID] = ItemID
-
-        item_def = all_items.get(ItemID, {})
-        if "grants_skill" in item_def:
-            skill = item_def["grants_skill"]
-            
-            # 1. Update CharSkills dict
-            if "CharSkills" in Char:
-                Char["CharSkills"][skill] = Char["CharSkills"].get(skill, 0) + 1
-
-            # 2. Update learned_skills as a dictionary (SkillID: Level)
-            if "learned_skills" in Char:
-                if not isinstance(Char["learned_skills"], dict):
-                    Char["learned_skills"] = {}
-                Char["learned_skills"][skill] = Char["learned_skills"].get(skill, 0) + 1
-
+        SyncCharGrantedItemSkills(player_party[char_index])
+        # scale hp to that orig factor
         Char["Health"] = min(max(math.ceil(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
 
+        # this is important for inv screens
         if SetMTTToItemDesc:
             TooltipSet(GetItemDesc(ItemID))
-        renpy.restart_interaction()
         return
 
-    def UnequipItem(Char, Slot_ID):
-        ItemID = Char.get(Slot_ID)
-
-        if ItemID and ItemID in all_items:
-            item_def = all_items[ItemID]
-            if "grants_skill" in item_def:
-                skill = item_def["grants_skill"]
-                
-                # 1. Cleanup CharSkills
-                if "CharSkills" in Char and skill in Char["CharSkills"]:
-                    Char["CharSkills"][skill] -= 1
-                    if Char["CharSkills"][skill] <= 0:
-                        del Char["CharSkills"][skill]
-                
-                # 2. Cleanup learned_skills dict
-                if "learned_skills" in Char and isinstance(Char["learned_skills"], dict):
-                    if skill in Char["learned_skills"]:
-                        Char["learned_skills"][skill] -= 1
-                        if Char["learned_skills"][skill] <= 0:
-                            del Char["learned_skills"][skill]
-
-        OrigHealthFactor = Char["Health"] / Char["HealthMax"]
-        Char[Slot_ID] = None
-        Char["Health"] = min(max(int(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
-
-        TooltipClear()
-        renpy.restart_interaction()
+    def UnequipItem_CharIndex(char_index, slot_ID):
+        CharID = player_party[char_index]
+        Char = worldChars[CharID]
+        UnequipItem(Char, slot_ID, CharID = CharID)
         return
 
     def UnequipItem_CharID(Char_ID, slot_ID):
         Char = worldChars[Char_ID]
-        UnequipItem(Char, slot_ID)
+        UnequipItem(Char, slot_ID, CharID = Char_ID)
         return
 
-    def UnequipItem_CharIndex(char_index, slot_ID):
-        Char = worldChars[player_party[char_index]]
-        UnequipItem(Char, slot_ID)
+    def UnequipItem(Char, Slot_ID, CharID = None):
+        # calc orig hp %
+        OrigHealthFactor = Char["Health"] / Char["HealthMax"]
+        # unequip item
+        Char[Slot_ID] = None
+        if CharID is not None:
+            SyncCharGrantedItemSkills(CharID)
+        # scale hp to that orig factor
+        Char["Health"] = min(max(int(Char["HealthMax"] * OrigHealthFactor), 1), Char["HealthMax"])
+
+        TooltipClear()
         return
 
     def GetEquippedQty(ItemID):
@@ -131,7 +143,7 @@ init -2 python:
             for char_ID in player_party:
                 for slot_ID in EQP_SLOTS.ALL:
                     if worldChars[char_ID][slot_ID] == ItemID:
-                        UnequipItem(worldChars[char_ID], slot_ID)
+                        worldChars[char_ID][slot_ID] = None
 
         # case 2, SOME eqp. items left in inv: strip SOME party eqp slots at random
         else:
@@ -144,4 +156,4 @@ init -2 python:
                         if worldChars[char_ID][slot_ID] == ItemID:
                             char_slotID.append((char_ID, slot_ID))
                 for i in range(0, amount_to_strip):
-                    UnequipItem(worldChars[char_slotID[i][0]], char_slotID[i][1])
+                    worldChars[char_slotID[i][0]][char_slotID[i][1]] = None

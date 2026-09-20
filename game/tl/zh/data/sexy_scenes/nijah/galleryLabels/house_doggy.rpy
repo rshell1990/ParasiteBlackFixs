@@ -196,7 +196,7 @@ translate zh gallery_nijah_house_doggy_anal_8d801582:
 translate zh gallery_nijah_house_doggy_anal_fe95bea5:
 
     # NIJAH "J-Just hold for a moment..."
-    NIJAH "稍-稍等一下..."
+    NIJAH "稍、稍等一下……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:55
 translate zh gallery_nijah_house_doggy_anal_50d9de5c:
@@ -214,7 +214,7 @@ translate zh gallery_nijah_house_doggy_anal_7b522c34:
 translate zh gallery_nijah_house_doggy_anal_0461430b:
 
     # NIJAH "Mmmhmm... Iz starting to feel g-good..."
-    NIJAH "嗯嗯...开始感觉舒-舒服了..."
+    NIJAH "嗯嗯……开始感觉舒、舒服了……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:58
 translate zh gallery_nijah_house_doggy_anal_e9bdcf16:
@@ -238,7 +238,7 @@ translate zh gallery_nijah_house_doggy_anal_0fe7efe6:
 translate zh gallery_nijah_house_doggy_anal_a8d18adc:
 
     # MC @ talk "NIJAH! {i}*Huff!*{/i} Your ass feels incredible!"
-    MC @ talk "NIJAH！{i}*哈！*{/i}你的屁股太棒了！"
+    MC @ talk "妮雅！{i}*哈！*{/i}你的屁股太棒了！"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_doggy.rpy:62
 translate zh gallery_nijah_house_doggy_anal_2a98477e:

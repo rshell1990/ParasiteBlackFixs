@@ -46,8 +46,7 @@ translate ja sexscene_myu_camp_deepthroat_31d9e5ce:
 translate ja sexscene_myu_camp_deepthroat_8235c2ff:
 
     # "Where did she even learn to change her form into... {i}this.{/i}"
-    "いったいどこで覚えたんだ…姿を変えることを…
-{i}こんな姿に。{/i}"
+    "いったいどこで覚えたんだ…姿を変えることを…{i}こんな姿に。{/i}"
 
 # game/data/world_romance/myu/sexscene_deepthroat.rpy:16
 translate ja sexscene_myu_camp_deepthroat_7af5816c:

@@ -259,13 +259,6 @@ translate ja gallery_markus_fem_tarbeck_temptations_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "見物人たちは嘲笑い、私の下でマーシアの足が哀れにもじもじする様子を面白がっていた。"
 
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:73
-translate ja gallery_markus_fem_tarbeck_temptations_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "力を奪われた彼女は、私のチンコが彼女の胸の間に激しく打ちつけられるのを無力に見守ることしかできなかった。"
-
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:74
 translate ja gallery_markus_fem_tarbeck_temptations_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -392,4 +385,3 @@ translate ja gallery_markus_fem_tarbeck_temptations_bf644154:
 
     # "Pinned down onto the table, Marcia looked up at me breathlessly as I tugged down the dress to fully expose her breasts."
     "テーブルに押し付けられたマーシャは、私が彼女のドレスを引き下げて胸を完全に露出させながら、息も絶え絶えに私を見上げていた。"
-

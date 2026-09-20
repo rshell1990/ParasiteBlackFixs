@@ -242,7 +242,7 @@ translate zh rom_ArlenaIntroDoggy_68d1fd89:
 translate zh rom_ArlenaIntroDoggy_722badb0:
 
     # ARLENA "He was! He had this little button nose!"
-    ARLENA "他就是！他有个小纽扣鼻子！"
+    ARLENA "就是他！他有个小纽扣鼻子！"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:54
@@ -263,7 +263,7 @@ translate zh rom_ArlenaIntroDoggy_f2f0745d:
 translate zh rom_ArlenaIntroDoggy_98ae856a:
 
     # MC @ talk "... You liked Viktor?"
-    MC @ talk "……你喜欢Viktor？"
+    MC @ talk "……你喜欢维克托？"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:57
@@ -312,7 +312,7 @@ translate zh rom_ArlenaIntroDoggy_5180d965:
 translate zh rom_ArlenaIntroDoggy_6d1923e8:
 
     # ARLENA "Well..."
-    ARLENA "这个..."
+    ARLENA "这个……"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:64
@@ -592,14 +592,14 @@ translate zh rom_ArlenaIntroDoggy_dcef3b16:
 translate zh rom_ArlenaIntroDoggy_e59c4837:
 
     # ARLENA "That’s... {i}big.{/i}"
-    ARLENA "这...{i}好大{/i}"
+    ARLENA "这……{i}好大{/i}"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:125
 translate zh rom_ArlenaIntroDoggy_7a30e52d:
 
     # MC @ talk "... Do you—"
-    MC @ talk "...你确定——"
+    MC @ talk "……你确定——"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:126
@@ -718,14 +718,14 @@ translate zh rom_ArlenaIntroDoggy_9404010b:
 translate zh rom_ArlenaIntroDoggy_bcbc779d:
 
     # ARLENA "Yes... Mmmm!"
-    ARLENA "对...嗯啊！"
+    ARLENA "对……嗯啊！"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:146
 translate zh rom_ArlenaIntroDoggy_94dd3cf4:
 
     # ARLENA "Fuck..."
-    ARLENA "操..."
+    ARLENA "操……"
     
 
 # game/data/world_romance/arlena/intro_doggy.rpy:147

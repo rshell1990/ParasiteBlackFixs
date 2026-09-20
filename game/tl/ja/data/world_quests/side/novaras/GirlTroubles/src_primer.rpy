@@ -106,8 +106,7 @@ translate ja primer_girl_troubles_2_db756b90:
 translate ja primer_girl_troubles_2_ef0995eb:
 
     # DIVINE @ laugh "Easy, easy! I didn’t call you here for {i}that.{/i}"
-    DIVINE @ laugh "落ち着いて、落ち着いて!  
-{i}そんなの{/i}で呼んだんじゃないんだから。"
+    DIVINE @ laugh "落ち着いて、落ち着いて!  {i}そんなの{/i}で呼んだんじゃないんだから。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/src_primer.rpy:43
 translate ja primer_girl_troubles_2_a93764bb:
@@ -173,8 +172,7 @@ translate ja primer_girl_troubles_2_eec6e3a7:
 translate ja primer_girl_troubles_2_df064ee4:
 
     # MC @ talk "I see... But why the urgent summoning? Where do I fit into all this?"
-    MC @ talk "ふむ…だが、なぜ急な召集なんだ？
-一体、私がどう関わるつもりで？"
+    MC @ talk "ふむ…だが、なぜ急な召集なんだ？一体、私がどう関わるつもりで？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/src_primer.rpy:56
 translate ja primer_girl_troubles_2_a9467911:
@@ -300,8 +298,7 @@ translate ja primer_girl_troubles_2_menu_ac431a22:
 translate ja primer_girl_troubles_2_menu_e02e14c6:
 
     # DIVINE @ talk "They're not ready... And I'm not prepared to knowingly send some of my girls to their deaths."
-    DIVINE @ talk "奴らはまだ準備ができていない…
-あえて娘たちを死地に送るつもりはない"
+    DIVINE @ talk "奴らはまだ準備ができていない…あえて娘たちを死地に送るつもりはない"
 
 # game/data/world_quests/side/novaras/GirlTroubles/src_primer.rpy:83
 translate ja primer_girl_troubles_2_menu_cd04b852:
@@ -817,8 +814,7 @@ translate ja primer_girl_troubles_2_menu_4_d6ca7303:
 translate ja primer_girl_troubles_2_menu_4_3a9c4c09:
 
     # MC @ talk "And if she refuses to listen? She's an adult now; she doesn't have to listen to either of us."
-    MC @ talk "では、もし彼女が聞くのを拒んだら？
-彼女はもう大人だ。どちらかの言うことを聞く必要はない。"
+    MC @ talk "では、もし彼女が聞くのを拒んだら？彼女はもう大人だ。どちらかの言うことを聞く必要はない。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/src_primer.rpy:192
 translate ja primer_girl_troubles_2_menu_4_88df11d8:
@@ -1382,6 +1378,5 @@ translate ja primer_girl_troubles_2_menu_5_8ae8cbb1:
 translate ja primer_girl_troubles_2_menu_5_969c5023:
 
     # DIVINE @ talk "I'm going to find Jana. The two of you are to follow under [player_name!t]'s direction while I'm gone."
-    DIVINE @ talk "ジャナを捜しに行く。  
-私がいない間は、お前たちは[player_name!t]の指揮に従え。"
+    DIVINE @ talk "ジャナを捜しに行く。  私がいない間は、お前たちは[player_name!t]の指揮に従え。"
 

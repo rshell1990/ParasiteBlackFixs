@@ -5,23 +5,23 @@ init python:
             if ToLevel < 1:
                 ToLevel = 1
 
-        if CharID not in worldChars:
+        world_chars = getattr(store, "worldChars", {})
+        if CharID not in world_chars:
             IsMob = True
         else:
             IsMob = False
 
-        if IsMob == True:
+        if IsMob:
             StoryChar = PBCharacter(CharID)
         else:
-            StoryChar = copy.deepcopy(worldChars[CharID])
+            StoryChar = copy.deepcopy(world_chars[CharID])
 
-        if ToLevel is not None:
-            # seems right
-            ExpDiffToAdd = allLvls[ToLevel] - StoryChar["experience"]
-            # if difference is negative, then we must eeeeh ummmm uuuuueeeeeemmmmmmmmm
+        all_lvls = getattr(store, "allLvls", {})
+        if ToLevel is not None and ToLevel in all_lvls:
+            # calculate exp diff safely
+            ExpDiffToAdd = all_lvls[ToLevel] - StoryChar.get("experience", 0)
             if ExpDiffToAdd < 0:
-                # then what we do is SUBTRACT?
-                StoryChar["experience"] += ExpDiffToAdd
+                StoryChar["experience"] = StoryChar.get("experience", 0) + ExpDiffToAdd
                 if StoryChar["experience"] < 1:
                     StoryChar["experience"] = 1
             else:
@@ -29,8 +29,7 @@ init python:
                 AutoAllocateAttributes(StoryChar)
             # story chars only heal if you to-level them (coz its for testing anyway)
             if not IsMob:
-                if ToLevel is not None:
-                    CharHealDirect(StoryChar, 99999)
+                CharHealDirect(StoryChar, 99999)
 
         # mobs heal on spawn
         if IsMob:
@@ -40,68 +39,76 @@ init python:
         CharRestoreEnergyDirect(StoryChar)
         CharRestoreManaDirect(StoryChar)
 
-        # AFTER THAT we've prepared story-char,
-        # so next is B.char class init stage
-        return BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = StoryChar["Transformed"])
+        is_transformed = StoryChar.get("Transformed", False) if isinstance(StoryChar, dict) else False
+        BattleChar = BattleCharClass(StoryChar, CharID, BattleSide = Side, IsTransformed = is_transformed)
+        if not hasattr(BattleChar, "SpriteTag"):
+            BattleChar.SpriteTag = "battle_char_%s_%s_%s" % (Side, CharID, id(BattleChar))
+
+        PoolType = "AltForm" if is_transformed else "Normal"
+        Battle_SetBattleCharSkillPool(BattleChar, PoolType)
+        BattleChar.Skill_Attack = BattleSkill_Attack(Owner_BattleChar = BattleChar)
+        BattleChar.Skill_Defend = BattleSkill_Defend(Owner_BattleChar = BattleChar)
+
+        SkinID = StoryChar.get("AltForm_BattleSkin" if is_transformed else "BattleSkin")
+        if SkinID is not None and SkinID in getattr(store, "skinLib", {}):
+            Battle_SetBattleCharSkin(BattleChar, SkinID)
+
+        return BattleChar
 
     def Battle_ConvertCharIDListToBattleChars(CharIDList, Side = 0):
         BattleCharList = []
         for Entry in CharIDList:
             if isinstance(Entry, str):
                 BattleCharList.append(BattleCharFromCharID(Entry, Side = Side))
-            if isinstance(Entry, dict):
+            elif isinstance(Entry, dict):
                 AsList = list(Entry.keys())
-                CharID = AsList[0]
-                TargetLevel = Entry[CharID]
-                BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
+                if AsList:
+                    CharID = AsList[0]
+                    TargetLevel = Entry[CharID]
+                    BattleCharList.append(BattleCharFromCharID(CharID, ToLevel = TargetLevel, Side = Side))
         return BattleCharList
 
 ########################################################
-    def Battle_GetCharStatMod_Armor(CharObj):
-        mod = 1.0
-        for StatusEffect in CharObj.StatusEffects:
-            stat_val = getattr(StatusEffect, "StatMod_Armor", None)
-            if stat_val is not None:
-                mod += stat_val
-        return mod
+    def Battle_GetCharStatMod_Armor(BattleChar):
+        ReturnVal = 1.0
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "StatMod_Armor", None) is not None:
+                ReturnVal *= StatusEffect.StatMod_Armor
+        return ReturnVal
 
-    def Battle_GetCharStatMod_MagicRes(CharObj):
-        mod = 1.0
-        for StatusEffect in CharObj.StatusEffects:
-            stat_val = getattr(StatusEffect, "StatMod_MagicRes", None)
-            if stat_val is not None:
-                mod += stat_val
-        return mod
+    def Battle_GetCharStatMod_MagicRes(BattleChar):
+        ReturnVal = 1.0
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "StatMod_MagicRes", None) is not None:
+                ReturnVal *= StatusEffect.StatMod_MagicRes
+        return ReturnVal
 
-    def Battle_GetCharStatMod_AttackRating(CharObj):
-        mod = 1.0
-        for StatusEffect in CharObj.StatusEffects:
-            stat_val = getattr(StatusEffect, "StatMod_AttackRating", None)
-            if stat_val is not None:
-                mod += stat_val
-        return mod
+    def Battle_GetCharStatMod_AttackRating(BattleChar):
+        ReturnVal = 1.0
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "StatMod_AttackRating", None) is not None:
+                ReturnVal *= StatusEffect.StatMod_AttackRating
+        return ReturnVal
 
-    def Battle_GetCharStatMod_DodgeRating(CharObj):
-        mod = 1.0
-        for StatusEffect in CharObj.StatusEffects:
-            stat_val = getattr(StatusEffect, "StatMod_DodgeRating", None)
-            if stat_val is not None:
-                mod += stat_val
-        return mod
+    def Battle_GetCharStatMod_DodgeRating(BattleChar):
+        ReturnVal = 1.0
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "StatMod_DodgeRating", None) is not None:
+                ReturnVal *= StatusEffect.StatMod_DodgeRating
+        return ReturnVal
 
-    def Battle_GetCharStatMod_CritChance(CharObj):
-        mod = 1.0
-        for StatusEffect in CharObj.StatusEffects:
-            stat_val = getattr(StatusEffect, "StatMod_CritChance", None)
-            if stat_val is not None:
-                mod += stat_val
-        return mod
+    def Battle_GetCharStatMod_CritChance(BattleChar):
+        ReturnVal = 1.0
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "StatMod_CritChance", None) is not None:
+                ReturnVal *= StatusEffect.StatMod_CritChance
+        return ReturnVal
 ########################################################
 ###### health
     def Battle_GetHealthRecoveryMod(BattleChar):
         RecoveryMod = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.ResRecoverMod_Health is not None:
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "ResRecoverMod_Health", None) is not None:
                 RecoveryMod *= StatusEffect.ResRecoverMod_Health
         return RecoveryMod
 
@@ -117,7 +124,8 @@ init python:
         if FloatingVal:
             Battle_QueueFloatingTextOnChar(BattleChar, Value, Kind = 1)
         return
-    # its like deal damage but directly and without any fancy-ass stuff
+
+    # deal direct health reduction
     def Battle_BurnHealth(BattleChar, Value):
         BattleChar.Health -= Value
         if BattleChar.Health < 0:
@@ -127,10 +135,11 @@ init python:
 ###### energy
     def Battle_GetEnergyRecoveryMod(BattleChar):
         RecoveryMod = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
             if getattr(StatusEffect, "ResRecoverMod_Energy", None) is not None:
                 RecoveryMod *= StatusEffect.ResRecoverMod_Energy
         return RecoveryMod
+
     def Battle_RestoreEnergy(BattleChar, Value, IgnoreRecoveryMod = False):
         if not IgnoreRecoveryMod:
             Value = round(Value * Battle_GetEnergyRecoveryMod(BattleChar))
@@ -138,6 +147,7 @@ init python:
         if BattleChar.Energy > BattleChar.EnergyMax:
             BattleChar.Energy = BattleChar.EnergyMax
         return
+
     def Battle_BurnEnergy(BattleChar, Value):
         BattleChar.Energy -= Value
         if BattleChar.Energy < 0:
@@ -147,15 +157,17 @@ init python:
 ###### mana
     def Battle_GetManaRecoveryMod(BattleChar):
         RecoveryMod = 1.0
-        for StatusEffect in BattleChar.StatusEffects:
-            if StatusEffect.ResRecoverMod_Mana is not None:
+        for StatusEffect in getattr(BattleChar, "StatusEffects", []):
+            if getattr(StatusEffect, "ResRecoverMod_Mana", None) is not None:
                 RecoveryMod *= StatusEffect.ResRecoverMod_Mana
         return RecoveryMod
+
     def Battle_RestoreMana(BattleChar, Value):
         BattleChar.Mana += Value
         if BattleChar.Mana > BattleChar.ManaMax:
             BattleChar.Mana = BattleChar.ManaMax
         return
+
     def Battle_BurnMana(BattleChar, Value):
         BattleChar.Mana -= Value
         if BattleChar.Mana < 0:
@@ -163,34 +175,41 @@ init python:
         return
 #################
 
-
     def Battle_SetBattleCharSkillPool(BattleChar, PoolType):
+        skill_lib = getattr(store, "SkillLib", {})
+        char_ref = getattr(BattleChar, "CharRef", {})
+        
         if PoolType == "Normal":
-            BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["CharSkills"].items()]
+            skills_dict = char_ref.get("CharSkills", {})
         elif PoolType == "AltForm":
-            BattleChar.Skills = [SkillLib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel) for SkillID, SkillLevel in BattleChar.CharRef["AltForm_CharSkills"].items()]
+            skills_dict = char_ref.get("AltForm_CharSkills", {})
+        else:
+            skills_dict = {}
+
+        BattleChar.Skills = [
+            skill_lib[SkillID](Owner_BattleChar = BattleChar, ToLevel = SkillLevel)
+            for SkillID, SkillLevel in skills_dict.items()
+            if SkillID in skill_lib
+        ]
         return
 
     def Battle_SetBattleCharSkin(BattleChar, SkinID):
-        Assert(SkinID in skinLib, "SkinID %s not in skinLib, wtf!" % SkinID)
+        skin_lib = getattr(store, "skinLib", {})
+        assert SkinID in skin_lib, "SkinID %s not in skinLib!" % SkinID
 
-        BattleChar.BattleSkin = copy.deepcopy(skinLib[SkinID])
+        BattleChar.BattleSkin = copy.deepcopy(skin_lib[SkinID])
         Battle_ResetBattleCharSkin(BattleChar)
         return
 
-######## internals are all over the place, tread carefully
     def Battle_ResetBattleCharSkin(BattleChar):
         NewSkin = BattleChar.BattleSkin
         for AnimID, AnimDataOrList in NewSkin.AnimsDict.items():
-            # gotta go fast (this is for list of anims under a single tag support)
             if isinstance(AnimDataOrList, list):
                 AnimsToProcess = AnimDataOrList
             else:
                 AnimsToProcess = [AnimDataOrList]
 
-            # here we gotta re-calculate data for, and apply a transform
             for AnimData in AnimsToProcess:
-                # case 1, default fallback, static + transform
                 if AnimData.Displayable == "StaticSprite":
                     if AnimID == "attack":
                         if AnimData.ApplyTransform:
@@ -224,8 +243,6 @@ init python:
                         AnimData.LengthInSeconds = 0.25
                         AnimData.WarmupTo = 0.05
 
-                # case 2 image-based anim animation
-                # apply transform to a specified image 
                 else:
                     if AnimID == "attack":
                         if AnimData.ApplyTransform:
@@ -243,11 +260,9 @@ init python:
                         if AnimData.ApplyTransform:
                             AnimData.Displayable = At(AnimData.Displayable, Battle_TransformHit(BattleChar))
 
-                # calc warmup and cooldown
                 AnimData.Warmup = AnimData.WarmupTo
                 AnimData.Cooldown = AnimData.LengthInSeconds - AnimData.WarmupTo
 
-        # flip (or not flip) the offsets
         if BattleChar.BattleSide == 1:
             NewSkin.SpriteOffset = (-NewSkin.SpriteOffset[0], NewSkin.SpriteOffset[1])
             NewSkin.FocusRectOffset = (-NewSkin.FocusRectOffset[0], NewSkin.FocusRectOffset[1])
@@ -262,8 +277,12 @@ init python:
 
     def Battle_GetAllAlliesOfChar(BattleChar):
         RetList = Battle_GetAliveCharsOnSide(BattleChar.BattleSide)
-        RetList.remove(BattleChar)
+        if BattleChar in RetList:
+            RetList.remove(BattleChar)
         return RetList
 
     def Battle_GetAliveCharsOnSide(Side):
-        return [Char for Char in BattleScene.BattleChars[Side] if Char.IsAlive]
+        battle_scene = getattr(store, "BattleScene", None)
+        if battle_scene and hasattr(battle_scene, "BattleChars"):
+            return [Char for Char in battle_scene.BattleChars.get(Side, []) if getattr(Char, "IsAlive", False)]
+        return []

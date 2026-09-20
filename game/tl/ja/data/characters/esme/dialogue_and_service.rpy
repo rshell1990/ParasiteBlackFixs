@@ -130,8 +130,7 @@ translate ja hamun_brothel_esme_talk_535dce04:
 translate ja hamun_brothel_esme_onlykatai_e02fd2e9:
 
     # ESME @ smile "Mmm, yes. Only katai here."
-    ESME @ smile "うん、そう。
-ここはカタイだけ。"
+    ESME @ smile "うん、そう。ここはカタイだけ。"
 
 # game/data/characters/esme/dialogue_and_service.rpy:73
 translate ja hamun_brothel_esme_onlykatai_dcee6132:
@@ -1259,8 +1258,7 @@ translate ja hamun_brothel_esme_anal_standing_doggy_43ac612a:
 translate ja hamun_brothel_esme_anal_standing_doggy_a6d12181:
 
     # ESME "Do it! F-Finish!"
-    ESME "やっちまえ!
-フ、フィニッシュ!"
+    ESME "やっちまえ!フ、フィニッシュ!"
 
 # game/data/characters/esme/dialogue_and_service.rpy:418
 translate ja hamun_brothel_esme_anal_standing_doggy_233b8b37:
@@ -2394,8 +2392,7 @@ translate ja hamun_brothel_esme_vaginal_missionary_f66e02cb:
 translate ja hamun_brothel_esme_vaginal_missionary_b8d98c4a:
 
     # "She trembled beneath me. For a brief moment I thought she might shatter, until—"
-    "彼女は僕の下で震えていた。
-一瞬、彼女が砕け散ってしまうかと思った瞬間——"
+    "彼女は僕の下で震えていた。一瞬、彼女が砕け散ってしまうかと思った瞬間——"
 
 # game/data/characters/esme/dialogue_and_service.rpy:690
 translate ja hamun_brothel_esme_vaginal_missionary_efa03e99:
@@ -2875,8 +2872,7 @@ translate ja hamun_brothel_esme_anal_missionary_b98c54af:
 translate ja hamun_brothel_esme_anal_missionary_80f67f21:
 
     # "She trembled beneath me. For a moment, it felt like she might break—until she cried out again, begging for more."
-    "彼女は俺の下で震えていた。
-一瞬、壊れてしまいそうだった——そう思ったのもつかの間、彼女はまた声を上げ、もっとと泣きながら求めた。"
+    "彼女は俺の下で震えていた。一瞬、壊れてしまいそうだった——そう思ったのもつかの間、彼女はまた声を上げ、もっとと泣きながら求めた。"
 
 # game/data/characters/esme/dialogue_and_service.rpy:797
 translate ja hamun_brothel_esme_anal_missionary_efa03e99:

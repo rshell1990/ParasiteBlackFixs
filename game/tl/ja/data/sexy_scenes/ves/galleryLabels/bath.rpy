@@ -88,8 +88,7 @@ translate ja gallery_ves_bath_6fb66e9b:
 translate ja gallery_ves_bath_6b5ab432:
 
     # MC "{i}*Huff*{/i} Ves... I want to..."
-    MC "{i}*はあ*{/i}
-ヴェス…したい…"
+    MC "{i}*はあ*{/i}ヴェス…したい…"
 
 # game/data/sexy_scenes/ves/galleryLabels/bath.rpy:26
 translate ja gallery_ves_bath_f62048e4:

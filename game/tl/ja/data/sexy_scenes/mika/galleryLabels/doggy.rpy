@@ -106,8 +106,7 @@ translate ja gallery_mika_doggy_vag_92800e27:
 translate ja gallery_mika_doggy_vag_6874cefa:
 
     # "As Mika's flesh collided with mine, hot groans escaped her lips as I continued to glance left and right, making sure no one was walking in on our little dalliance."
-    "美香の肌が私に触れるたび、彼女の唇から熱い嬌声が漏れる。
-私は微かに視線を泳がせながら、誰にもこの戯れを見られていないか左右を確認し続けた。"
+    "美香の肌が私に触れるたび、彼女の唇から熱い嬌声が漏れる。私は微かに視線を泳がせながら、誰にもこの戯れを見られていないか左右を確認し続けた。"
 
 # game/data/sexy_scenes/mika/galleryLabels/doggy.rpy:77
 translate ja gallery_mika_doggy_vag_b4813250:
@@ -203,9 +202,7 @@ translate ja gallery_mika_doggy_vag_4c546db4:
 translate ja gallery_mika_doggy_vag_7480ea30:
 
     # "Her words set something off deep inside of me, and doing as she asked, I grabbed and pulled on Mika's pigtails as I continued to have my way with her."
-    "彼女の言葉が私の心の深くで何かを引き起こし、
-言われた通りに、ミカのツインテールを掴み引っ張りながら、
-そのまま思いのままにし続けた。"
+    "彼女の言葉が私の心の深くで何かを引き起こし、言われた通りに、ミカのツインテールを掴み引っ張りながら、そのまま思いのままにし続けた。"
 
 # game/data/sexy_scenes/mika/galleryLabels/doggy.rpy:109
 translate ja gallery_mika_doggy_vag_d221c79d:

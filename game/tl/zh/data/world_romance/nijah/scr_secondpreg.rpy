@@ -11,7 +11,7 @@ translate zh preg_Nijah_secondPreg_b75b342e:
 translate zh preg_Nijah_secondPreg_ccbd6626:
 
     # MC @ talk "What is it, Nijah?"
-    MC @ talk "怎么了，Nijah？"
+    MC @ talk "怎么了，妮雅？"
     
 
 # game/data/world_romance/nijah/scr_secondpreg.rpy:12
@@ -53,7 +53,7 @@ translate zh preg_Nijah_secondPreg_c9ecd207:
 translate zh preg_Nijah_secondPreg_43ba64e3:
 
     # MC @ smile "Very much so, Nijah."
-    MC @ smile "非常高兴，Nijah。"
+    MC @ smile "非常高兴，妮雅。"
     
 
 # game/data/world_romance/nijah/scr_secondpreg.rpy:18
@@ -67,7 +67,7 @@ translate zh preg_Nijah_secondPreg_f2c2b4bc:
 translate zh preg_Nijah_secondPreg_0ff7edaf:
 
     # NIJAH @ smile "Iz good our children will have lots of brothers and sisters!"
-    NIJAH @ smile "兹好我们的孩子们会有很多兄弟姐妹！"
+    NIJAH @ smile "这样我们的孩子们会有很多兄弟姐妹！"
     
 
 # game/data/world_romance/nijah/scr_secondpreg.rpy:21

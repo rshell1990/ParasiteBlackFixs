@@ -4,19 +4,19 @@ translate de strings:
 
     # game/screens/menus/save_load.rpy:19
     old "SAVE NAME ({color=#f00}overwrite{/color})"
-    new "SAVE NAME ({color=#f00}overwrite{/color})"
+    new "SPEICHERNAME ({color=#f00}überschreiben{/color})"
 
     # game/screens/menus/save_load.rpy:21
     old "SAVE NAME ({color=#d95411}new{/color})"
-    new "SAVE NAME ({color=#d95411}new{/color})"
+    new "SPEICHERNAME ({color=#d95411}neu{/color})"
 
     # game/screens/menus/save_load.rpy:32
     old "ACCEPT"
-    new "ACCEPT"
+    new "AKZEPTIEREN"
 
     # game/screens/menus/save_load.rpy:36
     old "CANCEL"
-    new "CANCEL"
+    new "ABBRECHEN"
 
     # game/screens/menus/save_load.rpy:86
     old "{#file_time}%c"
@@ -24,11 +24,11 @@ translate de strings:
 
     # game/screens/menus/save_load.rpy:94
     old "Save"
-    new "Save"
+    new "Speichern"
 
     # game/screens/menus/save_load.rpy:104
     old "Delete"
-    new "Delete"
+    new "Löschen"
 
     # game/screens/menus/save_load.rpy:117
     old "{#auto_page}Auto"
@@ -36,17 +36,17 @@ translate de strings:
 
     # game/screens/menus/save_load.rpy:122
     old "{#quick_page}Quick"
-    new "{#quick_page}Quick"
+    new "{#quick_page}Schnell"
 
     # game/screens/menus/save_load.rpy:146
     old "(j) Jump to"
-    new "(j) Jump to"
+    new "(j) Springe zu"
 
     # game/screens/menus/save_load.rpy:176
     old "Page %s"
-    new "Page %s"
+    new "Seite %s"
 
     # game/screens/menus/save_load.rpy:178
     old "You can quicksave and quickload using F5 and F9 keys."
-    new "You can quicksave and quickload using F5 and F9 keys."
+    new "Du kannst mit den Tasten F5 und F9 schnell speichern und laden."
 

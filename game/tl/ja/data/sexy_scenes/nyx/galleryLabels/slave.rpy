@@ -406,8 +406,7 @@ translate ja gallery_nyx_slave_be2976e5:
 translate ja gallery_nyx_slave_9d6a1120:
 
     # "In the corner of my eye I could see Angharad was now more preoccupied with Alysha, satisfied that we were partaking, he only occasionally looked up towards us and grinned."
-    "目の端で、アンガラッドがアリーシャに気を取られているのが見えた。  
-我々が参加していることに満足して、彼は時折こちらをちらりと見上げてはニヤリとするだけだった。"
+    "目の端で、アンガラッドがアリーシャに気を取られているのが見えた。  我々が参加していることに満足して、彼は時折こちらをちらりと見上げてはニヤリとするだけだった。"
 
 # game/data/sexy_scenes/nyx/galleryLabels/slave.rpy:111
 translate ja gallery_nyx_slave_aa5d696a:

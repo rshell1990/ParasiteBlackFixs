@@ -4,43 +4,43 @@
 translate de gallery_nyx_alleyway_6c6e6247:
 
     # NYX @ drunk "W-Wait a minute."
-    NYX @ drunk "W-Wait a minute."
+    NYX @ drunk "W-Warte mal."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:5
 translate de gallery_nyx_alleyway_f6fae758:
 
     # MC @ talk "Nyx? What is it?"
-    MC @ talk "Nyx? What is it?"
+    MC @ talk "Nyx? Was ist los?"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:6
 translate de gallery_nyx_alleyway_942ae378:
 
     # NYX @ drunk "Yhuu shaid, I whouldn't dhuu nothin' chrazy."
-    NYX @ drunk "Yhuu shaid, I whouldn't dhuu nothin' chrazy."
+    NYX @ drunk "Du hasch gesagt, ich würde nix Verrücktes tun."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:7
 translate de gallery_nyx_alleyway_49b3fde9:
 
     # NYX @ drunk "S-Shuu, I umm ..."
-    NYX @ drunk "S-Shuu, I umm ..."
+    NYX @ drunk "S-Schh, ich ähm ..."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:8
 translate de gallery_nyx_alleyway_2f3794a7:
 
     # NYX @ drunk "{i}Did somethin' chrazy.{/i}"
-    NYX @ drunk "{i}Did somethin' chrazy.{/i}"
+    NYX @ drunk "{i}Hab' was Verrücktes getan.{/i}"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:9
 translate de gallery_nyx_alleyway_0ecb8704:
 
     # MC @ think "Nyx? What did you do?"
-    MC @ think "Nyx? What did you do?"
+    MC @ think "Nyx? Was hast du getan?"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:13
 translate de gallery_nyx_alleyway_9df91a9d:
 
     # "With a drunken smile, Nyx undid her robes to reveal her luscious naked body beneath."
-    "With a drunken smile, Nyx undid her robes to reveal her luscious naked body beneath."
+    "Mit einem betrunkenen Lächeln öffnete Nyx ihre Roben und enthüllte ihren üppigen nackten Körper darunter."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:14
 translate de gallery_nyx_alleyway_30c74322:
@@ -52,13 +52,13 @@ translate de gallery_nyx_alleyway_30c74322:
 translate de gallery_nyx_alleyway_26d192e1:
 
     # MC "N-Nyx! You're-"
-    MC "N-Nyx! You're-"
+    MC "N-Nyx! Du bist-"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:16
 translate de gallery_nyx_alleyway_e647e046:
 
     # NYX "Shhhhh! Dhon't shay my nhame shoo lhoud."
-    NYX "Shhhhh! Dhon't shay my nhame shoo lhoud."
+    NYX "Pssst! Sag meinen Namen nich so laut."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:17
 translate de gallery_nyx_alleyway_c9f3bcb5:
@@ -124,61 +124,61 @@ translate de gallery_nyx_alleyway_7394da93:
 translate de gallery_nyx_alleyway_c75366cf:
 
     # MC "You’ve had quite a lot to drink..."
-    MC "You’ve had quite a lot to drink..."
+    MC "Du hast ganz schön viel getrunken..."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:34
 translate de gallery_nyx_alleyway_b985d7bc:
 
     # MC "Are you sure you want to do this?"
-    MC "Are you sure you want to do this?"
+    MC "Bist du sicher, dass du das machen willst?"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:35
 translate de gallery_nyx_alleyway_a6bd2a52:
 
     # NYX "Shhhhh, Ivhve whanted thisss ALLLLL nhightt!"
-    NYX "Shhhhh, Ivhve whanted thisss ALLLLL nhightt!"
+    NYX "Pssst, ichhh wollte dassss schonn die GANZZZZE Naaacht!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:39
 translate de gallery_nyx_alleyway_92d0ad53:
 
     # "Grabbing a hold of my cock Nyx playfully slapped it against her cheek before giving the head a soft kiss."
-    "Grabbing a hold of my cock Nyx playfully slapped it against her cheek before giving the head a soft kiss."
+    "Nyx packte meinen Schwanz und klatschte ihn spielerisch gegen ihre Wange, bevor sie die Eichel sanft küsste."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:40
 translate de gallery_nyx_alleyway_65f91338:
 
     # NYX "It thastess salty!"
-    NYX "It thastess salty!"
+    NYX "Es schmecktt salzig!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:41
 translate de gallery_nyx_alleyway_5e5c3ae6:
 
     # MC "Well, I wasn’t expecting you to-"
-    MC "Well, I wasn’t expecting you to-"
+    MC "Nun, ich hatte nicht erwartet, dass du-"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:45
 translate de gallery_nyx_alleyway_b88a114b:
 
     # "With her tongue out, Nyx slapped my cock against her wet tongue and giggled."
-    "With her tongue out, Nyx slapped my cock against her wet tongue and giggled."
+    "Mit herausgestreckter Zunge schlug Nyx meinen Schwanz gegen ihre feuchte Zunge und kicherte."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:46
 translate de gallery_nyx_alleyway_0f2b3da6:
 
     # "I groaned in pleasure at the sudden sensation, and Nyx remarked playfully,"
-    "I groaned in pleasure at the sudden sensation, and Nyx remarked playfully,"
+    "Ich stöhnte vor Vergnügen bei der plötzlichen Empfindung und Nyx bemerkte spielerisch,"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:47
 translate de gallery_nyx_alleyway_89304b34:
 
     # NYX "Lemme chlean it."
-    NYX "Lemme chlean it."
+    NYX "Lass mich's säubern."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:51
 translate de gallery_nyx_alleyway_76cc1227:
 
     # "Before I could say another word, Nyx's mouth was wrapped around the head of my cock as she gently swrirled her tongue around the head."
-    "Before I could say another word, Nyx's mouth was wrapped around the head of my cock as she gently swrirled her tongue around the head."
+    "Bevor ich noch ein Wort sagen konnte, umschloss Nyx' Mund die Eichel meines Schwanzes, während sie ihre Zunge sanft um die Eichel wirbelte."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:52
 translate de gallery_nyx_alleyway_8694c705:
@@ -202,61 +202,61 @@ translate de gallery_nyx_alleyway_48d61603:
 translate de gallery_nyx_alleyway_24c18cdf:
 
     # "Inch by inch, Nyx takes my cock deeper into her mouth."
-    "Inch by inch, Nyx takes my cock deeper into her mouth."
+    "Zentimeter für Zentimeter nimmt Nyx meinen Schwanz tiefer in ihren Mund."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:56
 translate de gallery_nyx_alleyway_89ac7f26:
 
     # "Her eyes under the dim moonlight look up towards me with neediness as her mouth coats my cock in her saliva."
-    "Her eyes under the dim moonlight look up towards me with neediness as her mouth coats my cock in her saliva."
+    "Ihre Augen im schwachen Mondlicht schauen bedürftig zu mir hinauf, während ihr Mund meinen Schwanz mit ihrem Speichel überzieht."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:57
 translate de gallery_nyx_alleyway_a434c486:
 
     # NYX "(My head ishh spinning so much.)"
-    NYX "(My head ishh spinning so much.)"
+    NYX "(Mein Kopf dreht sich so shehr.)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:58
 translate de gallery_nyx_alleyway_a5aae8bf:
 
     # NYX "(Mhmmm, Heshh shooo bhigg.)"
-    NYX "(Mhmmm, Heshh shooo bhigg.)"
+    NYX "(Mhmmm, er ishh sooo groooß.)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:59
 translate de gallery_nyx_alleyway_9f66909d:
 
     # NYX "(Fufu, thishh BIG chockkk bhelongss to meee now. {image=[ICON.HEART]})"
-    NYX "(Fufu, thishh BIG chockkk bhelongss to meee now. {image=[ICON.HEART]})"
+    NYX "(Fufu, dieser GROßE Schwanngg gehöört jetztt miiir. {image=[ICON.HEART]})"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:60
 translate de gallery_nyx_alleyway_5027cedd:
 
     # NYX "(NONE OF YOUU BHITCHESS CHAN HAVE ITHH!)"
-    NYX "(NONE OF YOUU BHITCHESS CHAN HAVE ITHH!)"
+    NYX "(KEINE VON EUUCH SCHLAMMPEN KANN IHNN HABEN!)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:61
 translate de gallery_nyx_alleyway_e22fc656:
 
     # NYX "(Urghhh, but I whanttt ithh shooo bhaddd!)"
-    NYX "(Urghhh, but I whanttt ithh shooo bhaddd!)"
+    NYX "(Urghhh, aber ich will ihhn shooo unbedingt!)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:62
 translate de gallery_nyx_alleyway_d05eddbe:
 
     # MC "{i}*Huff*{/i} Fuck ... Nyx!"
-    MC "{i}*Huff*{/i} Fuck ... Nyx!"
+    MC "{i}*Keuch*{/i} Verdammt ... Nyx!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:63
 translate de gallery_nyx_alleyway_c6007415:
 
     # "Nyx's head continued to bop back and forward as her lips glided across my cock."
-    "Nyx's head continued to bop back and forward as her lips glided across my cock."
+    "Nyx' Kopf bewegte sich weiter vor und zurück, während ihre Lippen über meinen Schwanz glitten."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:64
 translate de gallery_nyx_alleyway_956967f6:
 
     # "The hot sensation of her mouth was intoxicating, her tongue continued to clumsily bash and wrap itself around my cock as she moaned hotly."
-    "The hot sensation of her mouth was intoxicating, her tongue continued to clumsily bash and wrap itself around my cock as she moaned hotly."
+    "Die heiße Empfindung ihres Mundes war berauschend, ihre Zunge wickelte und schlang sich unbeholfen um meinen Schwanz, während sie heiß stöhnte."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:65
 translate de gallery_nyx_alleyway_df5e660a:
@@ -268,97 +268,97 @@ translate de gallery_nyx_alleyway_df5e660a:
 translate de gallery_nyx_alleyway_f8a730c0:
 
     # MC "Ahh! Wasn't expecting - Mhmm! This tonight!"
-    MC "Ahh! Wasn't expecting - Mhmm! This tonight!"
+    MC "Ahh! Habe ich nicht erwartet - Mhmm! Heute Abend!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:67
 translate de gallery_nyx_alleyway_528ba61d:
 
     # NYX "{i}*Slurp!*{/i} Mhmm!"
-    NYX "{i}*Slurp!*{/i} Mhmm!"
+    NYX "{i}*Schlürf!*{/i} Mhmm!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:68
 translate de gallery_nyx_alleyway_42fc1c0a:
 
     # "Nyx's teeth lightly grazed me occasionally as she drunkenly pushed herself too far and too deeply, but her enthusiasm overcame any lack of experience."
-    "Nyx's teeth lightly grazed me occasionally as she drunkenly pushed herself too far and too deeply, but her enthusiasm overcame any lack of experience."
+    "Nyx' Zähne streiften mich gelegentlich leicht, wenn sie sich betrunken zu weit und zu tief vorwagte, aber ihre Begeisterung wettgemachte jede fehlende Erfahrung."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:69
 translate de gallery_nyx_alleyway_a5fe05e7:
 
     # NYX "(I chanttt bhelieve I'm dhoingg thisshh.)"
-    NYX "(I chanttt bhelieve I'm dhoingg thisshh.)"
+    NYX "(I glaube nisch, dass ich dhas tue.)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:70
 translate de gallery_nyx_alleyway_bd6feaee:
 
     # NYX "(Mhmmm, why'd he hashh to be sooo cute thoughh?)"
-    NYX "(Mhmmm, why'd he hashh to be sooo cute thoughh?)"
+    NYX "(Mhmmm, warum mussh er au soo süß sein?)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:71
 translate de gallery_nyx_alleyway_2adabd19:
 
     # NYX "(I can't sthoop thinkin' abhout lhasst thime.)"
-    NYX "(I can't sthoop thinkin' abhout lhasst thime.)"
+    NYX "(Ich kann nischt aufhören, an dhas lehtzte Mahl zu denken.)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:72
 translate de gallery_nyx_alleyway_b4fde06e:
 
     # NYX "(What's happeningh to mee?)"
-    NYX "(What's happeningh to mee?)"
+    NYX "(Was passierth mit mir?)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:73
 translate de gallery_nyx_alleyway_c1eb7541:
 
     # "As Nyx continued, her head now rhythmically bouncing as she swallowed my cock as deeply as she could,"
-    "As Nyx continued, her head now rhythmically bouncing as she swallowed my cock as deeply as she could,"
+    "Während Nyx fortfuhr, ihr Kopf nun rhythmisch wippte, während sie meinen Schwanz so tief wie möglich schluckte,"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:74
 translate de gallery_nyx_alleyway_05457fb4:
 
     # "I soon began to feel the overwhelming urge to finish quickly building, and I knew I couldn't hold on much longer."
-    "I soon began to feel the overwhelming urge to finish quickly building, and I knew I couldn't hold on much longer."
+    "Bald spürte ich, wie das überwältigende Verlangen zu kommen schnell anstieg, und ich wusste, dass ich nicht mehr lange durchhalten konnte."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:75
 translate de gallery_nyx_alleyway_2b579b33:
 
     # MC "{i}*Huff*{/i} I'm c-close..."
-    MC "{i}*Huff*{/i} I'm c-close..."
+    MC "{i}*Huff*{/i} Ich k-komme gleich..."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:76
 translate de gallery_nyx_alleyway_4e89ae69:
 
     # "I said with gritted teeth, my hands coiling into fists as my member became increasingly sensitive and my balls felt like they were tightening."
-    "I said with gritted teeth, my hands coiling into fists as my member became increasingly sensitive and my balls felt like they were tightening."
+    "sagte ich mit zusammengebissenen Zähnen, meine Hände ballten sich zu Fäusten, während mein Glied immer empfindlicher wurde und meine Eier sich anzuspannen fühlten."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:77
 translate de gallery_nyx_alleyway_8dade9a4:
 
     # "As Nyx continued her lewd, drunken, loving blowjob, I heard the sounds of movement coming from behind."
-    "As Nyx continued her lewd, drunken, loving blowjob, I heard the sounds of movement coming from behind."
+    "Während Nyx mit ihrem unzüchtigen, betrunkenen, liebevollen Blowjob fortfuhr, hörte ich Geräusche von Bewegung hinter mir."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:82
 translate de gallery_nyx_alleyway_3f8cd45f:
 
     # GUARD "I can't believe the rota assigned us night patrol for the THIRD night in a row!"
-    GUARD "I can't believe the rota assigned us night patrol for the THIRD night in a row!"
+    GUARD "Ich kann nicht glauben, dass der Dienstplan uns bereits die DRITTE Nacht in Folge Nachtpatrouille zugeteilt hat!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:83
 translate de gallery_nyx_alleyway_509191ee:
 
     # SECOND_GUARD "You heard the captain's orders, with the chaos going on with the Vulshan and the Khazahs, everyone's having to do more patrols than before."
-    SECOND_GUARD "You heard the captain's orders, with the chaos going on with the Vulshan and the Khazahs, everyone's having to do more patrols than before."
+    SECOND_GUARD "Du hast die Befehle des Captains gehört, bei dem Chaos mit den Vulshan und den Khazahs muss jeder mehr Patrouillen machen als zuvor."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:84
 translate de gallery_nyx_alleyway_59e575b6:
 
     # SECOND_GUARD "Everyone does at least two night shifts in a row now."
-    SECOND_GUARD "Everyone does at least two night shifts in a row now."
+    SECOND_GUARD "Jeder macht jetzt mindestens zwei Nachtschichten hintereinander."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:85
 translate de gallery_nyx_alleyway_922866e8:
 
     # MC "(Shit shit! The guards!)"
-    MC "(Shit shit! The guards!)"
+    MC "(Scheiße, Scheiße! Die Wachen!)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:86
 translate de gallery_nyx_alleyway_017b50dc:
@@ -370,7 +370,7 @@ translate de gallery_nyx_alleyway_017b50dc:
 translate de gallery_nyx_alleyway_cdb94725:
 
     # NYX "(Thoshh vhoicesss shound familiarr?)"
-    NYX "(Thoshh vhoicesss shound familiarr?)"
+    NYX "(Dishhe Shtimmen klingen vertraut?)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:88
 translate de gallery_nyx_alleyway_7b015e1d:
@@ -382,37 +382,37 @@ translate de gallery_nyx_alleyway_7b015e1d:
 translate de gallery_nyx_alleyway_f00dca0a:
 
     # GUARD "That's all well and good, but my fucking balls feel like they're going to explode if I don't find some whore soon to deal with them!"
-    GUARD "That's all well and good, but my fucking balls feel like they're going to explode if I don't find some whore soon to deal with them!"
+    GUARD "Das ist ja alles schön und gut, aber meine verdammten Eier fühlen sich an, als würden sie explodieren, wenn ich nicht bald eine Hure finde, die sich darum kümmert!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:90
 translate de gallery_nyx_alleyway_805d6f23:
 
     # SECOND_GUARD "Aren't you married? Get your wife to suck your cock when you're home and stop whining!"
-    SECOND_GUARD "Aren't you married? Get your wife to suck your cock when you're home and stop whining!"
+    SECOND_GUARD "Bist du nicht verheiratet? Lass dir von deiner Frau den Schwanz lutschen, wenn du zuhause bist, und hör auf zu jammern!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:91
 translate de gallery_nyx_alleyway_8e7122a8:
 
     # GUARD "Bah, she's never in the mood..."
-    GUARD "Bah, she's never in the mood..."
+    GUARD "Bah, sie ist nie in der Stimmung..."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:92
 translate de gallery_nyx_alleyway_228d14cc:
 
     # GUARD "Besides, I'm in the mood for a long-haired blonde with a fat ass."
-    GUARD "Besides, I'm in the mood for a long-haired blonde with a fat ass."
+    GUARD "Außerdem habe ich Lust auf eine langhaarige Blondine mit einem fetten Arsch."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:93
 translate de gallery_nyx_alleyway_a0b175b6:
 
     # SECOND_GUARD "...Like the Captain?"
-    SECOND_GUARD "...Like the Captain?"
+    SECOND_GUARD "...Wie die Kapitänin?"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:94
 translate de gallery_nyx_alleyway_2210f288:
 
     # GUARD "Course! What I wouldn't give to bend her over that desk and ram that fucking ass! Haha!"
-    GUARD "Course! What I wouldn't give to bend her over that desk and ram that fucking ass! Haha!"
+    GUARD "Natürlich! Was würde ich nicht dafür geben, sie über diesen Schreibtisch zu beugen und in diesen verdammten Arsch zu ficken! Haha!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:95
 translate de gallery_nyx_alleyway_c783c04f:
@@ -484,71 +484,71 @@ translate de gallery_nyx_alleyway_66e56738:
 translate de gallery_nyx_alleyway_2138c26c:
 
     # "As she squirmed and gagged, the sudden sensation was too much."
-    "As she squirmed and gagged, the sudden sensation was too much."
+    "Als sie sich wand und würgte, war die plötzliche Empfindung zu viel."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:110
 translate de gallery_nyx_alleyway_1f412d59:
 
     # "Gripping her hair, I flooded her mouth with the hot, heavy load which she desperately tried to swallow down."
-    "Gripping her hair, I flooded her mouth with the hot, heavy load which she desperately tried to swallow down."
+    "Ich packte ihre Haare und füllte ihren Mund mit der heißen, schweren Ladung, die sie verzweifelt herunterzuschlucken versuchte."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:111
 translate de gallery_nyx_alleyway_3b0504ab:
 
     # "The two guards approached, unable to see Captain Nyx's face as she tapped against my leg for air."
-    "The two guards approached, unable to see Captain Nyx's face as she tapped against my leg for air."
+    "Die beiden Wachen näherten sich, ohne das Gesicht von Captain Nyx sehen zu können, als sie nach Luft schnappend gegen mein Bein klopfte."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:112
 translate de gallery_nyx_alleyway_ab10f0d6:
 
     # MC "Uhh, we'll just be finishing - ahh! Up now..."
-    MC "Uhh, we'll just be finishing - ahh! Up now..."
+    MC "Äh, wir sind gleich fertig - ah! Jetzt hoch..."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:113
 translate de gallery_nyx_alleyway_62c9b7bb:
 
     # MC "(Go away, go away, go away!)"
-    MC "(Go away, go away, go away!)"
+    MC "(Geht weg, geht weg, geht weg!)"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:114
 translate de gallery_nyx_alleyway_5ad86866:
 
     # "The two guards smirked and looked at each other before passing by and laughing."
-    "The two guards smirked and looked at each other before passing by and laughing."
+    "Die beiden Wachen grinsten und sahen sich an, bevor sie vorbeigingen und lachten."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:115
 translate de gallery_nyx_alleyway_4fa27b2b:
 
     # SECOND_GUARD "Be gone by the time we get back!"
-    SECOND_GUARD "Be gone by the time we get back!"
+    SECOND_GUARD "Seid verschwunden, wenn wir zurückkommen!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:116
 translate de gallery_nyx_alleyway_61fe54c0:
 
     # "Feeling Nyx's taps against my leg become weaker and weaker, I quickly pulled her off from me, allowing her to gasp for air."
-    "Feeling Nyx's taps against my leg become weaker and weaker, I quickly pulled her off from me, allowing her to gasp for air."
+    "Als ich spürte, wie Nyx' Klopfen gegen mein Bein schwächer und schwächer wurde, zog ich sie schnell von mir weg und ließ sie nach Luft schnappen."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:117
 translate de gallery_nyx_alleyway_eebe6cdf:
 
     # "She coughed up some of my warm seed onto the floor, shaking as she looking up weakly towards me."
-    "She coughed up some of my warm seed onto the floor, shaking as she looking up weakly towards me."
+    "Sie hustete etwas von meinem warmen Samen auf den Boden, zitternd, während sie schwach zu mir hochsah."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:118
 translate de gallery_nyx_alleyway_5b08cb3d:
 
     # NYX "You - {i}*Cough!*{/i} Couldha khiled meee! {i}*Cough!*{/i}"
-    NYX "You - {i}*Cough!*{/i} Couldha khiled meee! {i}*Cough!*{/i}"
+    NYX "Du - {i}*Hust!*{/i} Hättest mich umbringen können! {i}*Hust!*{/i}"
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:121
 translate de gallery_nyx_alleyway_1c580795:
 
     # "I helped the drunk Nyx back to her feet."
-    "I helped the drunk Nyx back to her feet."
+    "Ich half der betrunkenen Nyx wieder auf die Beine."
 
 # game/data/sexy_scenes/nyx/galleryLabels/alleyway.rpy:122
 translate de gallery_nyx_alleyway_d0a32655:
 
     # MC @ surprised "Sorry, I had to make sure the guards didn't see you."
-    MC @ surprised "Sorry, I had to make sure the guards didn't see you."
+    MC @ surprised "Tut mir leid, ich musste sichergehen, dass die Wachen dich nicht gesehen haben."
 

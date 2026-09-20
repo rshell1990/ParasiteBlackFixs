@@ -28,8 +28,7 @@ translate ja palam_sewer_9d82aa79:
 translate ja palam_sewer_8ef5b3e2:
 
     # MC @ talk "... Hmm."
-    MC @ talk "…  
-ふむ…"
+    MC @ talk "…  ふむ…"
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:13
 translate ja palam_sewer_d0d77fa0:
@@ -107,8 +106,7 @@ translate ja palam_sewer_de061c7f:
 translate ja palam_sewer_d3a550c9:
 
     # MC "Why did I agree to this? This was a terrible idea."
-    MC "なぜ、こんなことを承諾したんだ？  
-最悪のアイデアだったな。"
+    MC "なぜ、こんなことを承諾したんだ？  最悪のアイデアだったな。"
 
 # game/data/world_quests/side/novaras/HighFashion/frog_sewer.rpy:29
 translate ja palam_sewer_6f415419:

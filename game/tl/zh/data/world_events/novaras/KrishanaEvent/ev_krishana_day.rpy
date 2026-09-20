@@ -4,7 +4,7 @@
 translate zh ev_KrishanaDay_regina_dialogue_menu_138e2796:
 
     # MC @ angry "BOOO!"
-    MC @ angry "BOOO！"
+    MC @ angry "嘘！"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:324
 translate zh ev_KrishanaDay_regina_dialogue_menu_dbe0ca42:
@@ -61,7 +61,6 @@ translate zh ev_KrishanaDay_regina_dialogue_menu_a4ffc924:
     MC "嗯，说得好。"
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:35
 translate zh ev_KrishanaDay_ca2695ed:

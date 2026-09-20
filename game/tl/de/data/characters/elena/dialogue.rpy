@@ -4,7 +4,7 @@
 translate de elena_talk_9f4f8cbd:
 
     # MC @ talk "Hey there, Elena."
-    MC @ talk "Hey there, Elena."
+    MC @ talk "Hallo, Elena."
 
 # game/data/characters/elena/dialogue.rpy:27
 translate de elena_talk_b90022f2:
@@ -16,7 +16,7 @@ translate de elena_talk_b90022f2:
 translate de elena_bye_af6026cd:
 
     # ELENA @ talk "See ya."
-    ELENA @ talk "See ya."
+    ELENA @ talk "Tschüss."
 
 # game/data/characters/elena/dialogue.rpy:38
 translate de elena_party_talk_caa19dd2:
@@ -28,15 +28,15 @@ translate de elena_party_talk_caa19dd2:
 translate de elena_party_bye_af899db9:
 
     # ELENA "Of course."
-    ELENA "Of course."
+    ELENA "Natürlich."
 
 translate de strings:
 
     # game/data/characters/elena/dialogue.rpy:16
     old "Talk to Elena"
-    new "Talk to Elena"
+    new "Sprich mit Elena."
 
     # game/data/characters/elena/dialogue.rpy:22
     old "Let's move on."
-    new "Let's move on."
+    new "Lass uns weitermachen."
 

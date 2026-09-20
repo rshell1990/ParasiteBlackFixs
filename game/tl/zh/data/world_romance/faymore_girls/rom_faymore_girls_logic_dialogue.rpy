@@ -150,19 +150,18 @@ translate zh rom_faymore_anya_howisson_0cd6d023:
     # ANYA @ talk "My heart could have melted!"
     ANYA @ talk "我的心都要融化了！"
 
-# TODO: Translation updated at 2026-06-22 21:43
 
 # game/data/world_romance/faymore_girls/rom_faymore_girls_logic_dialogue.rpy:57
 translate zh rom_faymore_pick_sexscene_12357d3f:
 
     # "DEBUG: balcony variant?"
-    "DEBUG: balcony variant?"
+    "调试：阳台变体？"
 
 # game/data/world_romance/faymore_girls/rom_faymore_girls_logic_dialogue.rpy:109
 translate zh rom_faymore_chanyi_asksex_b009256e:
 
     # CHANYI @ talk "Come back after dark... We'll be waiting."
-    CHANYI @ talk "天黑后回来...我们等着你。"
+    CHANYI @ talk "天黑后回来……我们等着你。"
 
 translate zh strings:
 
@@ -172,17 +171,17 @@ translate zh strings:
 
     # game/data/world_romance/faymore_girls/rom_faymore_girls_logic_dialogue.rpy:2
     old "The Faymore ladies have invited me to return to their home tomorrow evening so they might give me my... {i}'reward.'{/i}"
-    new "费莫夫人们邀请我明晚去她们家，似乎是为了给我...{i}「奖励」。{/i}"
+    new "费莫夫人们邀请我明晚去她们家，似乎是为了给我……{i}「奖励」。{/i}"
 
     # game/data/world_romance/faymore_girls/rom_faymore_girls_logic_dialogue.rpy:6
     old "The Faymore ladies have invited me to join their bed in the evenings... Perhaps, I should take them up on that offer from time to time?"
-    new "费莫夫人们邀请我夜里加入她们的床榻...或许我应该时不时接受这个邀请？"
+    new "费莫夫人们邀请我夜里加入她们的床榻……或许我应该时不时接受这个邀请？"
 
     # game/data/world_romance/faymore_girls/rom_faymore_girls_logic_dialogue.rpy:59
     old "DEBUG: yes"
-    new "DEBUG: yes"
+    new "调试：是"
 
     # game/data/world_romance/faymore_girls/rom_faymore_girls_logic_dialogue.rpy:61
     old "DEBUG: no"
-    new "DEBUG: no"
+    new "调试：否"
 

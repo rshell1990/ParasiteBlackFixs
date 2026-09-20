@@ -4,11 +4,11 @@
 translate de btn_nubarian_tribelands_otherpath_text_3f1bf357:
 
     # MC "(I best stay on the main roads for now...)"
-    MC "(I best stay on the main roads for now...)"
+    MC "(Ich bleibe vorerst besser auf den Hauptstraßen...)"
 
 translate de strings:
 
     # game/data/world_locations/nubarian_tribelands.rpy:6
     old "Wander the path"
-    new "Wander the path"
+    new "Dem Pfad entlanggehen"
 

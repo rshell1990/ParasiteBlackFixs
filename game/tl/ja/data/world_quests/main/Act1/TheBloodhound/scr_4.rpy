@@ -124,8 +124,7 @@ translate ja qst_bloodhound_4_atFort_14f01e94:
 translate ja qst_bloodhound_4_atFort_f1fae085:
 
     # BLACK "Our battle form is durable but {i}not invincible{/i}, there are no doubt plenty of beings capable of killing us."
-    BLACK "我々の戦闘形態は堅牢だが、{i}無敵ではない{/i}。
-我々を殺せる存在は数多く存在するだろう。"
+    BLACK "我々の戦闘形態は堅牢だが、{i}無敵ではない{/i}。我々を殺せる存在は数多く存在するだろう。"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_4.rpy:45
 translate ja qst_bloodhound_4_atFort_cc99b660:
@@ -191,8 +190,7 @@ translate ja qst_bloodhound_4_atFort_9efa6cee:
 translate ja qst_bloodhound_4_atFort_b8905269:
 
     # MC @ talk "Yeah... Never better."
-    MC @ talk "ああ…
-最高だよ"
+    MC @ talk "ああ…最高だよ"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_4.rpy:76
 translate ja qst_bloodhound_4_atFort_359034a0:

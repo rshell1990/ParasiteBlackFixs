@@ -106,8 +106,7 @@ translate ja gallery_winward_doggy_door_vag_6eeda430:
 translate ja gallery_winward_doggy_door_vag_c36b69f5:
 
     # MRS_WINWARD "You're drunk and I - Mhhfhh! I'm t-too busy for this!"
-    MRS_WINWARD "酔ってるじゃないー  
-あっ、むぐっ! そんな暇ない!"
+    MRS_WINWARD "酔ってるじゃないー  あっ、むぐっ! そんな暇ない!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_door.rpy:84
 translate ja gallery_winward_doggy_door_vag_e5063629:
@@ -527,8 +526,7 @@ translate ja gallery_winward_doggy_door_anal_6eeda430:
 translate ja gallery_winward_doggy_door_anal_c36b69f5:
 
     # MRS_WINWARD "You're drunk and I - Mhhfhh! I'm t-too busy for this!"
-    MRS_WINWARD "あなたは酔ってるし私もっ!
-ちょ、ちょっと忙しすぎる!"
+    MRS_WINWARD "あなたは酔ってるし私もっ!ちょ、ちょっと忙しすぎる!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_door.rpy:201
 translate ja gallery_winward_doggy_door_anal_e5063629:

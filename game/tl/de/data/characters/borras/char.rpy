@@ -8,9 +8,9 @@ translate de strings:
 
     # game/data/characters/borras/char.rpy:26
     old "Captain Duprey's right-hand man, a skilled a decorated warrior."
-    new "Captain Duprey's right-hand man, a skilled a decorated warrior."
+    new "Captain Dupreys rechte Hand, ein erfahrener und dekorierter Krieger."
 
     # game/data/characters/borras/char.rpy:30
     old "He died a horrible death during our first mission together."
-    new "He died a horrible death during our first mission together."
+    new "Er starb einen schrecklichen Tod während unserer ersten gemeinsamen Mission."
 

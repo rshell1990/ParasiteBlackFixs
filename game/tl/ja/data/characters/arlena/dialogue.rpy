@@ -70,8 +70,7 @@ translate ja arlena_room_first_entry_648653a1:
 translate ja arlena_room_first_entry_49a216f8:
 
     # ARLENA "Now if you don't mind, I'd rather get back to work."
-    ARLENA "では、お構いなく。
-失礼して仕事に戻らせていただきます。"
+    ARLENA "では、お構いなく。失礼して仕事に戻らせていただきます。"
 
 # game/data/characters/arlena/dialogue.rpy:50
 translate ja arlena_room_first_entry_1eed06d6:

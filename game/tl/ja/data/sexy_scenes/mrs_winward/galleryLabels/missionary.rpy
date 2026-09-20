@@ -124,8 +124,7 @@ translate ja gallery_winward_missionary_sleep_vag_85461cb6:
 translate ja gallery_winward_missionary_sleep_vag_df99f144:
 
     # MRS_WINWARD "Do you hear that dear? Do you hear how your wife enjoys spreading her legs for another man?"
-    MRS_WINWARD "聞こえますか、愛しき君？  
-君の妻がよその男に股を開くのを、どれほど愉しんでいるか"
+    MRS_WINWARD "聞こえますか、愛しき君？  君の妻がよその男に股を開くのを、どれほど愉しんでいるか"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/missionary.rpy:107
 translate ja gallery_winward_missionary_sleep_vag_a4d57d5b:
@@ -365,8 +364,7 @@ translate ja gallery_winward_missionary_sleep_anal_86b0538b:
 translate ja gallery_winward_missionary_sleep_anal_973761fd:
 
     # MRS_WINWARD "M-My ass is all yours, dear."
-    MRS_WINWARD "あ、あの…おしり…
-全部…ダーリンのものよ。"
+    MRS_WINWARD "あ、あの…おしり…全部…ダーリンのものよ。"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/missionary.rpy:193
 translate ja gallery_winward_missionary_sleep_anal_b1f7e7b6:
@@ -624,8 +622,7 @@ translate ja gallery_winward_missionary_watch_vag_7c9e7d8f:
 translate ja gallery_winward_missionary_watch_vag_c7a4a010:
 
     # "After some light prodding, her body opened to me, and gently, I slowly pushed inch by inch into her."
-    "軽い促しの後、彼女の体は私を受け入れてくれた。
-そして優しく、少しずつ中へと進めていった。"
+    "軽い促しの後、彼女の体は私を受け入れてくれた。そして優しく、少しずつ中へと進めていった。"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/missionary.rpy:284
 translate ja gallery_winward_missionary_watch_vag_cf63ccc2:
@@ -1801,8 +1798,7 @@ translate ja gallery_winward_missionary_solo_anal_002d89da:
 translate ja gallery_winward_missionary_solo_anal_9742b873:
 
     # "Unable to hold back any longer, I buried my cock as deeply as I could into her rump, grunting loudly as I poured my hot seed into her bowels."
-    "もう限界まで、彼女の尻に肉棒を突き刺し、
-唸り声を漏らしながら、熱い種を腸内に注ぎ込んだ。"
+    "もう限界まで、彼女の尻に肉棒を突き刺し、唸り声を漏らしながら、熱い種を腸内に注ぎ込んだ。"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/missionary.rpy:648
 translate ja gallery_winward_missionary_solo_anal_3e451f1c:

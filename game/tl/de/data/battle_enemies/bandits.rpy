@@ -4,7 +4,7 @@ translate de strings:
 
     # game/data/battle_enemies/bandits.rpy:3
     old "Thug"
-    new "Thug"
+    new "Schläger"
 
     # game/data/battle_enemies/bandits.rpy:41
     old "Bandit"
@@ -12,21 +12,21 @@ translate de strings:
 
     # game/data/battle_enemies/bandits.rpy:80
     old "Raider"
-    new "Raider"
+    new "Plünderer"
 
     # game/data/battle_enemies/bandits.rpy:119
     old "Khazah leader"
-    new "Khazah leader"
+    new "Khazah-Anführer"
 
     # game/data/battle_enemies/bandits.rpy:159
     old "Swindler"
-    new "Swindler"
+    new "Schwindler"
 
     # game/data/battle_enemies/bandits.rpy:189
     old "Assassin"
-    new "Assassin"
+    new "Assassine"
 
     # game/data/battle_enemies/bandits.rpy:210
     old "Kidnapper"
-    new "Kidnapper"
+    new "Entführer"
 

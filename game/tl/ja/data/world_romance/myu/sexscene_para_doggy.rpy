@@ -124,8 +124,7 @@ translate ja rom_myu_para_doggy_vaginal_35acce66:
 translate ja rom_myu_para_doggy_vaginal_ea6a7a2f:
 
     # MYU "{i}*Huff*{/i} S-So firm with Myu!"
-    MYU "{i}*ふう*{/i}
-S、そんなにミュには厳しいです!"
+    MYU "{i}*ふう*{/i}S、そんなにミュには厳しいです!"
 
 # game/data/world_romance/myu/sexscene_para_doggy.rpy:39
 translate ja rom_myu_para_doggy_vaginal_7758fdf5:
@@ -371,9 +370,7 @@ translate ja rom_myu_para_doggy_vaginal_d2f42b4a:
 translate ja rom_myu_para_doggy_vaginal_d24b6071:
 
     # "As Myu's eyes rolled back, she continued her guttural moans as I continued to feed her my love."
-    "ミュウが白目をむく中、
-彼女の喉の奥から漏れる呻きは続き、
-私は愛を注ぎ続けた。"
+    "ミュウが白目をむく中、彼女の喉の奥から漏れる呻きは続き、私は愛を注ぎ続けた。"
 
 # game/data/world_romance/myu/sexscene_para_doggy.rpy:111
 translate ja rom_myu_para_doggy_vaginal_bae10a90:
@@ -763,8 +760,7 @@ translate ja rom_myu_para_doggy_anal_e83ec4bc:
 translate ja rom_myu_para_doggy_anal_814e1e9f:
 
     # "Instinctively, I knew how potent and powerful the chemical I was releasing into her was."
-    "本能的に、私は理解していた。  
-彼女に送り込んでいる化学物質が、どんなに強力なものかを。"
+    "本能的に、私は理解していた。  彼女に送り込んでいる化学物質が、どんなに強力なものかを。"
 
 # game/data/world_romance/myu/sexscene_para_doggy.rpy:213
 translate ja rom_myu_para_doggy_anal_4e34b285:

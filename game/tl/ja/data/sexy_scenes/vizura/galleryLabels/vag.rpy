@@ -40,9 +40,7 @@ translate ja gallery_vizura_vag_67906061:
 translate ja gallery_vizura_vag_3b053c13:
 
     # "With ease, I pressed the head of my cock against her hole, she let out a hot sigh as I pressed my cock in deeper and deeper into her and began fucking her."
-    "軽く、亀頭をアソコに押し付けると、彼女は熱っぽい吐息を漏らした。  
-さらにずっっと奥までペニスを挿入していくと、彼女は「アッ」と一声あげて、  
-私はそのまま腰を動かし始めた。"
+    "軽く、亀頭をアソコに押し付けると、彼女は熱っぽい吐息を漏らした。  さらにずっっと奥までペニスを挿入していくと、彼女は「アッ」と一声あげて、  私はそのまま腰を動かし始めた。"
 
 # game/data/sexy_scenes/vizura/galleryLabels/vag.rpy:44
 translate ja gallery_vizura_vag_31a41e09:
@@ -138,8 +136,7 @@ translate ja gallery_vizura_vag_a5ba1946:
 translate ja gallery_vizura_vag_831ae99a:
 
     # VIZURA "Haha! I KNEW you were one of those perverts wanting a little goblin whore! Ooooh, who am I kidding?"
-    VIZURA "ははっ! やっぱりそんなゴブリンの娼婦が欲しい変態さんだったんだね! 
-あーあ、誰を騙してるの？"
+    VIZURA "ははっ! やっぱりそんなゴブリンの娼婦が欲しい変態さんだったんだね! あーあ、誰を騙してるの？"
 
 # game/data/sexy_scenes/vizura/galleryLabels/vag.rpy:72
 translate ja gallery_vizura_vag_d6a65a13:

@@ -412,8 +412,7 @@ translate ja scr_WomansTouch_2_11ceb18e:
 translate ja scr_WomansTouch_2_a944a15f:
 
     # HELENA @ lewd2 "I have never been with one such as you Elena... I should like to kiss you if I can."
-    HELENA @ lewd2 "エレナ、君のような女性は初めてだ…  
-よければ、キスをさせてほしいの。"
+    HELENA @ lewd2 "エレナ、君のような女性は初めてだ…  よければ、キスをさせてほしいの。"
 
 # game/data/world_quests/side/novaras/AWomansTouch/scr_Awomanstouch2.rpy:127
 translate ja scr_WomansTouch_2_f935d267:
@@ -497,8 +496,7 @@ translate ja scr_WomansTouch_2_47a5462f:
 translate ja scr_WomansTouch_2_9fadeff2:
 
     # HELENA @ joy "Thank you both for indulging me... Now if you'll excuse me, I must take my leave."
-    HELENA @ joy "お二人とも、お付き合いいただきありがとう…  
-では、この辺で失礼します。"
+    HELENA @ joy "お二人とも、お付き合いいただきありがとう…  では、この辺で失礼します。"
 
 # game/data/world_quests/side/novaras/AWomansTouch/scr_Awomanstouch2.rpy:174
 translate ja scr_WomansTouch_2_2e49ff43:

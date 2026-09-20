@@ -4,17 +4,17 @@ translate de strings:
 
     # game/engine/battle/actions_skills/BattleSkill.rpy:103
     old "Not enough energy!"
-    new "Not enough energy!"
+    new "Nicht genug Energie!"
 
     # game/engine/battle/actions_skills/BattleSkill.rpy:108
     old "Not enough mana!"
-    new "Not enough mana!"
+    new "Nicht genug Mana!"
 
     # game/engine/battle/actions_skills/BattleSkill.rpy:113
     old "Not enough health!"
-    new "Not enough health!"
+    new "Nicht genug Gesundheit!"
 
     # game/engine/battle/actions_skills/BattleSkill.rpy:126
     old "Cannot afford the infection hit!"
-    new "Cannot afford the infection hit!"
+    new "Kann mir den Infektionstreffer nicht leisten!"
 

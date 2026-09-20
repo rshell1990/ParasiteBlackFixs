@@ -10,8 +10,7 @@ translate ja rom_myu_cowgirl_nopreg_1a79275e:
 translate ja rom_myu_cowgirl_nopreg_03c54bff:
 
     # MYU "Are you ready? Husband?"
-    MYU "準備はいい？
-旦那さん？"
+    MYU "準備はいい？旦那さん？"
 
 # game/data/world_romance/myu/sexscene_cowgirl.rpy:7
 translate ja rom_myu_cowgirl_nopreg_1f4d0c25:

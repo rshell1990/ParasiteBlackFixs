@@ -76,8 +76,7 @@ translate ja scr_event_Elena_morningAfterBook_a204b682:
 translate ja scr_event_Elena_morningAfterBook_4dacb865:
 
     # ELENA @ talk "How to cook, how to manage finances... How to fight."
-    ELENA @ talk "料理の仕方、お金の管理の仕方〜
-戦い方で〜"
+    ELENA @ talk "料理の仕方、お金の管理の仕方〜戦い方で〜"
 
 # game/data/world_events/novaras/elena/elena_morning/scr_ElenaMorning.rpy:24
 translate ja scr_event_Elena_morningAfterBook_2d2d4576:

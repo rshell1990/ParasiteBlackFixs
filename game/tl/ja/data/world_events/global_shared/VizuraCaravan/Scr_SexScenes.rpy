@@ -400,8 +400,7 @@ translate ja vizura_blowjob_c27b0d86:
 translate ja vizura_blowjob_2140b450:
 
     # MC "Vizura ... {i}*Huff*{/i} I'm c-close to-"
-    MC "ヴィズラ……{i}*はぁ*{/i}
-く、近くに……"
+    MC "ヴィズラ……{i}*はぁ*{/i}く、近くに……"
 
 # game/data/world_events/global_shared/VizuraCaravan/Scr_SexScenes.rpy:138
 translate ja vizura_blowjob_f9ca6aa7:

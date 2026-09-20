@@ -700,8 +700,7 @@ translate ja marbella_expedition_copper_choice_c76fbab7:
 translate ja marbella_expedition_copper_choice_77412a57:
 
     # MARBELLA @ talk "It should take about... {b}four weeks.{/b}"
-    MARBELLA @ talk "およそ...
-{b}4週間です。{/b}"
+    MARBELLA @ talk "およそ...{b}4週間です。{/b}"
 
 # game/data/characters/marbella/dialogue.rpy:350
 translate ja marbella_expedition_copper_choice_4178f340:

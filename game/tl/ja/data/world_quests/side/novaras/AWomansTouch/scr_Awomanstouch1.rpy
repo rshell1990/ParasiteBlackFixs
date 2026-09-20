@@ -82,8 +82,7 @@ translate ja scr_WomansTouch_1_ff7bd2ea:
 translate ja scr_WomansTouch_1_cd4af192:
 
     # HELENA @ talk "And that is ONLY to consult with the girl, do not try pushing for anything else."
-    HELENA @ talk "**そしてそれは、あくまで少女に相談するだけだ——  
-それ以上を求めようとするな。**"
+    HELENA @ talk "**そしてそれは、あくまで少女に相談するだけだ——  それ以上を求めようとするな。**"
 
 # game/data/world_quests/side/novaras/AWomansTouch/scr_Awomanstouch1.rpy:19
 translate ja scr_WomansTouch_1_5e6cb9ea:

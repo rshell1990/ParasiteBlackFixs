@@ -52,8 +52,7 @@ translate ja gallery_arlena_mirror_31ca3adc:
 translate ja gallery_arlena_mirror_659ec01e:
 
     # MC @ talk "Your father said you were up here! I-I didn’t think!"
-    MC @ talk "お父さんが、ここにいるって!
-思って…いや、来るとは!"
+    MC @ talk "お父さんが、ここにいるって!思って…いや、来るとは!"
 
 # game/data/sexy_scenes/arlena/galleryLabels/mirror.rpy:23
 translate ja gallery_arlena_mirror_074f38cc:

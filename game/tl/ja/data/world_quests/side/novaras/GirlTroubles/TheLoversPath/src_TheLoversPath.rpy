@@ -184,8 +184,7 @@ translate ja qst_the_lovers_path_meet_1_908cab8f:
 translate ja qst_the_lovers_path_meet_1_bc727ea6:
 
     # MIKA @ shock "I- I'm sorry! I didn't mean for it to-"
-    MIKA @ shock "ご、ごめんなさい!  
-そんなつもりじゃなかったのー"
+    MIKA @ shock "ご、ごめんなさい!  そんなつもりじゃなかったのー"
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheLoversPath/src_TheLoversPath.rpy:82
 translate ja qst_the_lovers_path_meet_1_325c344a:

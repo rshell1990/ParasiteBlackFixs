@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/tavern_girls/vivian/char.rpy:15
     old "A barmaid at {i}The Dancing Frog{/i}, a fortress inn. She takes great pride in her professionalism."
-    new "A barmaid at {i}The Dancing Frog{/i}, a fortress inn. She takes great pride in her professionalism."
+    new "Eine Bardame im {i}The Dancing Frog{/i}, einer Festungsherberge. Sie ist sehr stolz auf ihre Professionalität."
 

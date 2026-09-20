@@ -4,5 +4,5 @@ translate de strings:
 
     # game/engine/locations/label_wait.rpy:49
     old "Waiting.\n(Click to stop)"
-    new "Waiting.\n(Click to stop)"
+    new "Warten.\n(Zum Stoppen klicken)"
 

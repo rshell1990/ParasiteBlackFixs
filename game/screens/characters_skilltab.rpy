@@ -861,8 +861,11 @@ init python:
     def GetSkillReq(CharID, CharClassID, SkillTabID, SkillID, SkillInstance, AltFormSkill = False):
         text_strings = []
 
-        Req_Skills = Lib_BattleSkillTrees[CharClassID][SkillTabID][SkillID].get("Reqs_SkillIDs", {})
-        Req_Attributes = Lib_BattleSkillTrees[CharClassID][SkillTabID][SkillID].get("Reqs_Attributes", {})
+        SkillTree = Lib_BattleSkillTrees.get(CharClassID, {})
+        SkillTab = SkillTree.get(SkillTabID, {})
+        SkillData = SkillTab.get(SkillID, {})
+        Req_Skills = SkillData.get("Reqs_SkillIDs", {})
+        Req_Attributes = SkillData.get("Reqs_Attributes", {})
 
         if len(Req_Attributes) > 0 or len(Req_Skills) > 0:
             if CharMeetsSkillReq(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill):
@@ -888,8 +891,11 @@ init python:
         return "\n".join(text_strings)
 
     def CharMeetsSkillReq(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill = False):
-        Req_Skills = Lib_BattleSkillTrees[CharClassID][SkillTabID][SkillID].get("Reqs_SkillIDs", {})
-        Req_Attributes = Lib_BattleSkillTrees[CharClassID][SkillTabID][SkillID].get("Reqs_Attributes", {})
+        SkillTree = Lib_BattleSkillTrees.get(CharClassID, {})
+        SkillTab = SkillTree.get(SkillTabID, {})
+        SkillData = SkillTab.get(SkillID, {})
+        Req_Skills = SkillData.get("Reqs_SkillIDs", {})
+        Req_Attributes = SkillData.get("Reqs_Attributes", {})
 
         # "no requirements"
         if len(Req_Attributes) == 0 and len(Req_Skills) == 0:

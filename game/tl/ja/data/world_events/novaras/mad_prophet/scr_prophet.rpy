@@ -52,10 +52,7 @@ translate ja ev_madprophet_var2_db6d9af5:
 translate ja ev_madprophet_var2_f9b71979:
 
     # MAD_PROPHET "ONLY ONCE WE HAVE PURGED THE SINNERS BY FIRE AND RESTORED THE TEMPLES AND OUR FAITH TO THE NEW GODS ONCE AGAIN, WILL NEWHEART RETURN TO SAVE US ALL!"
-    MAD_PROPHET "罪人たちを炎で浄化し
-神殿と我々の信仰を新しき神々へと再び捧げる時
-初めてニューハートが現れ
-我々すべてを救ってくれるのだ!"
+    MAD_PROPHET "罪人たちを炎で浄化し神殿と我々の信仰を新しき神々へと再び捧げる時初めてニューハートが現れ我々すべてを救ってくれるのだ!"
 
 # game/data/world_events/novaras/mad_prophet/scr_prophet.rpy:14
 translate ja ev_madprophet_var2_5b184151:

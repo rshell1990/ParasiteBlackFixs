@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2026-03-18 02:10
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:4
 translate zh qst_TheTarbecks_Room_Temptations_main_00129cf7:
@@ -196,7 +195,7 @@ translate zh qst_TheTarbecks_Room_Temptations_kiara_c1e2f023:
 translate zh qst_TheTarbecks_Room_Temptations_kiara_59ad3f4b:
 
     # MC "琪亚拉... {i}*Huff*{/i} we need to stay focused, we need to—"
-    MC "琪亚拉... {i}*呼*{/i} 我们必须保持专注，必须——"
+    MC "琪亚拉……{i}*呼*{/i} 我们必须保持专注，必须——"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:75
 translate zh qst_TheTarbecks_Room_Temptations_kiara_7ac8b662:
@@ -226,7 +225,7 @@ translate zh qst_TheTarbecks_Room_Temptations_kiara_6de8686a:
 translate zh qst_TheTarbecks_Room_Temptations_kiara_1161b697:
 
     # MC "琪亚拉! KIARA!"
-    MC "琪亚拉！KIARA！"
+    MC "琪亚拉！琪亚拉！"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:81
 translate zh qst_TheTarbecks_Room_Temptations_kiara_70eadb0a:
@@ -442,7 +441,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_e6f7a203:
 translate zh qst_TheTarbecks_Room_Temptations_ves_6f7992b4:
 
     # MC "...维斯?"
-    MC "...薇丝？"
+    MC "……薇丝？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:145
 translate zh qst_TheTarbecks_Room_Temptations_ves_93ef7779:
@@ -478,7 +477,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_ca6be353:
 translate zh qst_TheTarbecks_Room_Temptations_ves_06e6b36e:
 
     # VES "My handsome, strong..."
-    VES "我英俊又强壮的..."
+    VES "我英俊又强壮的……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:154
 translate zh qst_TheTarbecks_Room_Temptations_ves_e660abba:
@@ -616,13 +615,13 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_854c0eec:
 translate zh qst_TheTarbecks_Room_Temptations_ves_11b2bcb8:
 
     # MC "维斯... {i}*Huff*{/i} Please, we need to— Ahh!"
-    MC "维斯... {i}*喘息*{/i} 求你了，我们需要——啊！"
+    MC "维斯……{i}*喘息*{/i} 求你了，我们需要——啊！"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:179
 translate zh qst_TheTarbecks_Room_Temptations_ves_45ed2f9b:
 
     # MC "F-Focus!"
-    MC "集-集中精神！"
+    MC "集、集中精神！"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:180
 translate zh qst_TheTarbecks_Room_Temptations_ves_777e89e3:
@@ -646,7 +645,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_93768342:
 translate zh qst_TheTarbecks_Room_Temptations_ves_4d3570b7:
 
     # "Then... an idea came to me."
-    "然后... 我有了个主意。"
+    "然后……我有了个主意。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:184
 translate zh qst_TheTarbecks_Room_Temptations_ves_90b242bf:
@@ -658,7 +657,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_90b242bf:
 translate zh qst_TheTarbecks_Room_Temptations_ves_b362061d:
 
     # VES "Mmmffffhh...?"
-    VES "唔嗯嗯...？"
+    VES "唔嗯嗯……？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:186
 translate zh qst_TheTarbecks_Room_Temptations_ves_18d7a94f:
@@ -844,7 +843,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_d3d8bb30:
 translate zh qst_TheTarbecks_Room_Temptations_ves_ea8c52c4:
 
     # VES @ sad "T-Tell me."
-    VES @ sad "告-告诉我。"
+    VES @ sad "告——告诉我。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:229
 translate zh qst_TheTarbecks_Room_Temptations_ves_e6aeb31f:
@@ -862,7 +861,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_9ac1974e:
 translate zh qst_TheTarbecks_Room_Temptations_ves_d4ca5628:
 
     # MC @ sad "维斯... I didn't mean-"
-    MC @ sad "维丝...我不是那个意思——"
+    MC @ sad "维丝……我不是那个意思——"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:232
 translate zh qst_TheTarbecks_Room_Temptations_ves_cdd30cf2:
@@ -874,7 +873,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_cdd30cf2:
 translate zh qst_TheTarbecks_Room_Temptations_ves_8dacbc07:
 
     # MC @ sad "... Yes, of course you are."
-    MC @ sad "...是的，你当然是。"
+    MC @ sad "……是的，你当然是。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:236
 translate zh qst_TheTarbecks_Room_Temptations_ves_5663fbe7:
@@ -886,7 +885,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_5663fbe7:
 translate zh qst_TheTarbecks_Room_Temptations_ves_f2bc730f:
 
     # VES @ sad "{i}*Huff*{/i} P-Please."
-    VES @ sad "{i}*喘气*{/i} 拜-拜托。"
+    VES @ sad "{i}*喘气*{/i} 拜——拜托。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:238
 translate zh qst_TheTarbecks_Room_Temptations_ves_613cdd75:
@@ -898,7 +897,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_613cdd75:
 translate zh qst_TheTarbecks_Room_Temptations_ves_eff2e6ba:
 
     # "Her plea was almost a whimper; it was strange seeing 维斯 quite so..."
-    "她的恳求近乎呜咽；看到维丝如此...真是奇怪。"
+    "她的恳求近乎呜咽；看到维丝如此……真是奇怪。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:240
 translate zh qst_TheTarbecks_Room_Temptations_ves_5a2004f3:
@@ -1030,7 +1029,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_dd0bba6c:
 translate zh qst_TheTarbecks_Room_Temptations_ves_78332173:
 
     # MC @ surprised "维斯, we're not... we're not thinking clearly! We can't-"
-    MC @ surprised "维斯，我们...我们脑子不清醒！我们不能——"
+    MC @ surprised "维斯，我们……我们脑子不清醒！我们不能——"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:264
 translate zh qst_TheTarbecks_Room_Temptations_ves_682a7bfb:
@@ -1042,7 +1041,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_682a7bfb:
 translate zh qst_TheTarbecks_Room_Temptations_ves_0dae4929:
 
     # VES @ blush "Please... {i}I want it to taste you in my mouth.{/i}"
-    VES @ blush "求你了...{i}我想在嘴里尝到你的味道。{/i}"
+    VES @ blush "求你了……{i}我想在嘴里尝到你的味道。{/i}"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:266
 translate zh qst_TheTarbecks_Room_Temptations_ves_efbc1159:
@@ -1072,7 +1071,7 @@ translate zh qst_TheTarbecks_Room_Temptations_ves_f29692da:
 translate zh qst_TheTarbecks_Room_Temptations_ves_d82c24f4:
 
     # MC @ surprised "..."
-    MC @ surprised "..."
+    MC @ surprised "……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:276
 translate zh qst_TheTarbecks_Room_Temptations_ves_0e6f86c4:
@@ -1510,25 +1509,25 @@ translate zh qst_TheTarbecks_Room_Temptations_markus_d123209b:
 translate zh qst_TheTarbecks_Room_Temptations_markus_6e4947ff:
 
     # "玛西亚 twirled her hair as she giggled at my comment, which only made me more nervous."
-    "玛西亚 一边咯咯笑着一边用手指卷着头发，这让我更加紧张了。"
+    "玛西亚一边咯咯笑着，一边用手指卷着头发，这让我更加紧张了。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:390
 translate zh qst_TheTarbecks_Room_Temptations_markus_6b321ce4:
 
     # MC "({i}...Did I just flirt with 马库斯?{/i})"
-    MC "({i}...我刚才是在和 马库斯 调情吗？{/i})"
+    MC "({i}……我刚才是在和马库斯调情吗？{/i})"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:391
 translate zh qst_TheTarbecks_Room_Temptations_markus_5a277b6b:
 
     # MC "({i}And is 马库斯... flirting back?{/i})"
-    MC "({i}而且 马库斯 是在...回应我的调情吗？{/i})"
+    MC "({i}而且马库斯是在……回应我的调情吗？{/i})"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:392
 translate zh qst_TheTarbecks_Room_Temptations_markus_02f09331:
 
     # "With a shaking hand, 玛西亚—no, 马库斯—took another sip of the wine."
-    "玛西亚——不，是 马库斯——用颤抖的手又抿了一口酒。"
+    "玛西亚——不，是马库斯——用颤抖的手又抿了一口酒。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:393
 translate zh qst_TheTarbecks_Room_Temptations_markus_c5904cac:
@@ -1558,7 +1557,7 @@ translate zh qst_TheTarbecks_Room_Temptations_markus_8d68c2d3:
 translate zh qst_TheTarbecks_Room_Temptations_markus_036324cd:
 
     # MC "Yes, I'm... {i}*Huff*{/i} f-fine..."
-    MC "嗯，我...{i}*喘气*{/i}还...还好..."
+    MC "嗯，我……{i}*喘气*{/i}还……还好……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:398
 translate zh qst_TheTarbecks_Room_Temptations_markus_bd2b1691:
@@ -1836,13 +1835,6 @@ translate zh qst_TheTarbecks_Room_Temptations_markus_6380b886:
     # "The watchers smirked, amused by the scene, as 玛西亚的 legs squirmed pitifully beneath me."
     "围观者们咧嘴笑着，对这场景感到有趣，玛西亚的双腿在我身下可怜地扭动着。"
 
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:473
-translate zh qst_TheTarbecks_Room_Temptations_markus_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "她被抽干了力气，只能无助地看着我的肉棒在她双乳间猛烈撞击。"
-
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:474
 translate zh qst_TheTarbecks_Room_Temptations_markus_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -2008,7 +2000,7 @@ translate zh qst_TheTarbecks_Room_Temptations_markus_e3abcbf7:
 translate zh qst_TheTarbecks_Room_Temptations_markus_14134246:
 
     # MC @ sad "(... Fuck.)"
-    MC @ sad "(……该死。)"
+    MC @ sad "（……该死。）"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:530
 translate zh qst_TheTarbecks_Room_Temptations_esme_a573b3da:
@@ -2044,7 +2036,7 @@ translate zh qst_TheTarbecks_Room_Temptations_esme_3d7671b2:
 translate zh qst_TheTarbecks_Room_Temptations_esme_1fa1cd52:
 
     # ESME @ sad "Ehh... Fine, fine."
-    ESME @ sad "呃...好吧，好吧。"
+    ESME @ sad "呃……好吧，好吧。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:539
 translate zh qst_TheTarbecks_Room_Temptations_esme_aa734d76:
@@ -2068,7 +2060,7 @@ translate zh qst_TheTarbecks_Room_Temptations_esme_eac3e2b5:
 translate zh qst_TheTarbecks_Room_Temptations_esme_c19906c0:
 
     # WATCHER "Right this way..."
-    WATCHER "这边请..."
+    WATCHER "这边请……"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:548
 translate zh qst_TheTarbecks_Room_Temptations_esme_34dcb7de:
@@ -2472,11 +2464,9 @@ translate zh strings:
     old "Well, interested in trying a little wine with a little extra kick?"
     new "那么，有兴趣尝尝带点额外劲道的葡萄酒吗？"
 
-# TODO: Translation updated at 2026-03-18 22:49
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:452
 translate zh qst_TheTarbecks_Room_Temptations_markus_bf644154:
 
     # "Pinned down onto the table, 玛西亚 looked up at me breathlessly as I tugged down the dress to fully expose her breasts."
     "被按在桌上动弹不得，玛西娅气喘吁吁地抬头看着我，我扯下她的连衣裙，让她的双乳完全暴露出来。"
-

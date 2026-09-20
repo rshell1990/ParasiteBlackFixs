@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2025-07-01 22:08
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:2
 translate zh rom_Nijah_stage2_sexoptions_lines_68efe027:
@@ -74,7 +73,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_7ba76175:
 translate zh rom_Nijah_stage2_sexoptions_lines_fa49098d:
 
     # MC @ talk "Ahh! NIJAH!"
-    MC @ talk "啊！NIJAH！"
+    MC @ talk "啊！妮雅！"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:26
@@ -88,14 +87,14 @@ translate zh rom_Nijah_stage2_sexoptions_lines_e7894ce8:
 translate zh rom_Nijah_stage2_sexoptions_lines_74b1a2f3:
 
     # NIJAH "(Zo big...)"
-    NIJAH "(好大啊...)"
+    NIJAH "（好大啊……）"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:28
 translate zh rom_Nijah_stage2_sexoptions_lines_a2076a71:
 
     # NIJAH "(He puts others to shame.)"
-    NIJAH "(让其他人都相形见绌。)"
+    NIJAH "（让其他人都相形见绌。）"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:29
@@ -109,14 +108,14 @@ translate zh rom_Nijah_stage2_sexoptions_lines_c0604adf:
 translate zh rom_Nijah_stage2_sexoptions_lines_e5f6a7f8:
 
     # MC @ talk "(This feels amazing... She’s so good at it!)"
-    MC @ talk "(这感觉太棒了...她技术真好！)"
+    MC @ talk "（这感觉太棒了……她技术真好！）"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:31
 translate zh rom_Nijah_stage2_sexoptions_lines_9a1c01a2:
 
     # MC @ talk "...Nijah... Ahh..."
-    MC @ talk "...妮雅... 啊..."
+    MC @ talk "……妮雅……啊……"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:32
@@ -186,7 +185,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_3dd3e618:
 translate zh rom_Nijah_stage2_sexoptions_lines_df490bd3:
 
     # "Nijah did as she was told, pulling back once she was done to desperately gasp for air before opening her mouth to show me she had done it."
-    "N妮雅照做了，完成后她猛地抽身后退，贪婪地大口喘气，随后张开嘴向我证明她已经吞下去了。"
+    "妮雅照做了，完成后她猛地抽身后退，贪婪地大口喘气，随后张开嘴向我证明她已经吞下去了。"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:46
@@ -214,14 +213,14 @@ translate zh rom_Nijah_stage2_sexoptions_lines_3ccc1950:
 translate zh rom_Nijah_stage2_sexoptions_lines_0f6cfe60:
 
     # "Getting on the bed on all fours, Nijah stuck out her butt lewdly and lightly swayed it back and forth enticingly as she looked over her shoulder nervously."
-    "妮娅 四肢着地趴在床上，淫荡地撅起屁股，轻轻前后摇摆诱惑着，同时紧张地回头望来。"
+    "妮娅四肢着地趴在床上，淫荡地撅起屁股，轻轻前后摇摆诱惑着，同时紧张地回头望来。"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:53
 translate zh rom_Nijah_stage2_sexoptions_lines_f67b802d:
 
     # NIJAH "M-Master please... Claim me."
-    NIJAH "主-主人，求您...占有我吧。"
+    NIJAH "主——主人，求您……占有我吧。"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:54
@@ -242,14 +241,14 @@ translate zh rom_Nijah_stage2_sexoptions_lines_ce54766b:
 translate zh rom_Nijah_stage2_sexoptions_lines_5e57f709:
 
     # NIJAH "Ooooh! S-So good!"
-    NIJAH "噢噢！好-好舒服！"
+    NIJAH "噢噢！好——好舒服！"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:63
 translate zh rom_Nijah_stage2_sexoptions_lines_09e4a51f:
 
     # NIJAH "M-Mmmm...!"
-    NIJAH "嗯-嗯嗯...！"
+    NIJAH "嗯——嗯嗯……！"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:64
@@ -270,14 +269,14 @@ translate zh rom_Nijah_stage2_sexoptions_lines_8b460f86:
 translate zh rom_Nijah_stage2_sexoptions_lines_b8f59318:
 
     # NIJAH "Y-Yes, you are just very big."
-    NIJAH "还-还好，只是您实在太大了。"
+    NIJAH "还——还好，只是您实在太大了。"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:67
 translate zh rom_Nijah_stage2_sexoptions_lines_f6fe1463:
 
     # NIJAH "P-Please continue m-master."
-    NIJAH "请-请继续，主-主人。"
+    NIJAH "请——请继续，主——主人。"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:68
@@ -431,7 +430,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_8d801582:
 translate zh rom_Nijah_stage2_sexoptions_lines_fe95bea5:
 
     # NIJAH "J-Just hold for a moment..."
-    NIJAH "稍-稍等一下..."
+    NIJAH "稍——稍等一下……"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:103
@@ -452,7 +451,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_7b522c34:
 translate zh rom_Nijah_stage2_sexoptions_lines_0461430b:
 
     # NIJAH "Mmmhmm... Iz starting to feel g-good..."
-    NIJAH "嗯嗯...开始感觉舒-舒服了..."
+    NIJAH "嗯嗯……开始感觉舒——舒服了……"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:106
@@ -480,7 +479,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_0fe7efe6:
 translate zh rom_Nijah_stage2_sexoptions_lines_a8d18adc:
 
     # MC @ talk "NIJAH! {i}*Huff!*{/i} Your ass feels incredible!"
-    MC @ talk "NIJAH！{i}*哈！*{/i}你的屁股太棒了！"
+    MC @ talk "妮雅！{i}*哈！*{/i}你的屁股太棒了！"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:110
@@ -760,7 +759,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_769c891b:
 translate zh rom_Nijah_stage2_sexoptions_lines_eaf21169:
 
     # MC @ talk "Here Nijah, I already have some."
-    MC @ talk "给，Nijah，我已经有一些了。"
+    MC @ talk "给，妮雅，我已经有一些了。"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:181
@@ -998,7 +997,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_094ac86c:
 translate zh rom_Nijah_stage2_sexoptions_lines_19176102:
 
     # NIJAH "My love, p-please...!"
-    NIJAH "亲爱的，求-求你...!"
+    NIJAH "亲爱的，求-求你...！"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:236
@@ -1068,7 +1067,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_b0ff7d55:
 translate zh rom_Nijah_stage2_sexoptions_lines_3d238137:
 
     # NIJAH "Iz... Zo good~"
-    NIJAH "太...太舒服了~"
+    NIJAH "太……太舒服了~"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:265
@@ -1082,7 +1081,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_b0585830:
 translate zh rom_Nijah_stage2_sexoptions_lines_4b91b62b:
 
     # NIJAH "Z-Zat is-"
-    NIJAH "那-那里是——"
+    NIJAH "那——那里是——"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:267
@@ -1096,7 +1095,7 @@ translate zh rom_Nijah_stage2_sexoptions_lines_4fed9cb0:
 translate zh rom_Nijah_stage2_sexoptions_lines_b6a1a780:
 
     # NIJAH "{i}...Be gentle.{/i}"
-    NIJAH "{i}...温柔点{/i}"
+    NIJAH "{i}……温柔点{/i}"
     
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:269
@@ -1295,7 +1294,6 @@ translate zh rom_Nijah_stage2_sexoptions_lines_becef39e:
     NIJAH "别离开我太久，没有你兹里好孤单..."
     
 
-# TODO: Translation updated at 2026-03-18 22:49
 
 # game/data/world_romance/nijah/scr_home_sexoptions.rpy:88
 translate zh rom_Nijah_stage2_sexoptions_lines_488b2312:

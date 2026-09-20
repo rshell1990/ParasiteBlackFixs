@@ -268,8 +268,7 @@ translate ja dros_4_getDros_638c51ac:
 translate ja dros_4_getDros_0ea1a5c9:
 
     # "Sister Divine led us outside, and an ecstatic Draya leapt into my arms to hug me before I pulled her off."
-    "シスター・ディヴァインが外へと導く。  
-狂喜のドレイアが私に抱きついてきたが、私は彼女を引き離した。"
+    "シスター・ディヴァインが外へと導く。  狂喜のドレイアが私に抱きついてきたが、私は彼女を引き離した。"
 
 # game/data/world_quests/side/novaras/AGracefulRebirth/scr_getDrosAndRitual.rpy:78
 translate ja dros_4_getDros_1da34f0d:

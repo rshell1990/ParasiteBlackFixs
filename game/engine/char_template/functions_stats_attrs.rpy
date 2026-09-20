@@ -1,6 +1,6 @@
 define ATTRIBUTE_RANGE = 15 # <- "raise your lowest attribute first" range
 
-init -20 python:
+init -2 python:
 ########### derived stats (health, damage, armor n the like)
     def healthMaxCalc(dataObj):
         ResultValue = int(dataObj["base_health"] + max(dataObj["derived_Endurance"] * 5, 0))
@@ -23,9 +23,9 @@ init -20 python:
         hand_1_item = dataObj["eqp_hand1"] if dataObj["eqp_hand1"] is not None else None
         hand_2_item = dataObj["eqp_hand2"] if dataObj["eqp_hand2"] is not None else None
 
-        if hand_1_item and hand_1_item in all_items:
+        if hand_1_item:
             EquipmentValue += all_items[hand_1_item].get("Damage", 0)
-        if hand_2_item and hand_2_item in all_items:
+        if hand_2_item:
             EquipmentValue += all_items[hand_2_item].get("Damage", 0)
 
         ResultValue = int(dataObj["base_damage"] + dataObj["derived_Strength"] * 5 + EquipmentValue)
@@ -38,8 +38,7 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("Armor", 0)
+                ResultValue += all_items[ItemID].get("Armor", 0)
     
         ResultValue = max(ResultValue, 1)
         return(ResultValue)
@@ -49,31 +48,34 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_stat_mres", 0)
+                ResultValue += all_items[ItemID].get("add_stat_mres", 0)
     
         ResultValue = max(ResultValue, 1)
         return(ResultValue)
+
+    # attack rating == raw score to hit
+    def AttackRatingCalc(dataObj):
+        ResultValue = dataObj["base_att_rate"] + dataObj["derived_Agility"] * 2
+    
+        ResultValue = max(ResultValue, 1)
+        return ResultValue
+
+    # dodge rating == how hard enemy is to hit
+    def DodgeRatingCalc(dataObj):
+        ResultValue = dataObj["base_dodge_rate"] + dataObj["derived_Dexterity"] * 2
+    
+        ResultValue = max(ResultValue, 1)
+        return ResultValue
 
     def CritChanceCalc(dataObj):
         ResultValue = dataObj["base_crit_chance"] + int(dataObj["derived_Luck"] * 2.5)
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_stat_crit_chance", 0)
+                ResultValue += all_items[ItemID].get("add_stat_crit_chance", 0)
     
         ResultValue = max(ResultValue, 1)
         return(ResultValue)
-    def AttackRatingCalc(dataObj):
-        ResultValue = dataObj["base_att_rate"] + dataObj["derived_Agility"] * 2
-        ResultValue = max(ResultValue, 1)
-        return ResultValue
-
-    def DodgeRatingCalc(dataObj):
-        ResultValue = dataObj.get("base_dodge_rate", 0) + dataObj["derived_Dexterity"] * 2
-        ResultValue = max(ResultValue, 1)
-        return ResultValue
 
 ############# attributes, this will likely be compressed  
     def StrengthCalc(dataObj):
@@ -82,15 +84,14 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_str", 0)
+                ResultValue += all_items[ItemID].get("add_attr_str", 0)
 
         # if in battle, use battle status eff properties
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_StrengthMul", None) is not None:
+                if StatusEff.AttrMod_StrengthMul is not None:
                     ResultValue *= StatusEff.AttrMod_StrengthMul
-                if getattr(StatusEff, "AttrMod_StrengthAdd", None) is not None:
+                if StatusEff.AttrMod_StrengthAdd is not None:
                     ResultValue += StatusEff.AttrMod_StrengthAdd
         # story mode, separate calc path
         else:
@@ -102,39 +103,47 @@ init -20 python:
         ResultValue = math.ceil(max(ResultValue, 1))
         return(ResultValue)
 
-    def WillpowerCalc(dataObj):
-        ResultValue = dataObj["Willpower"]
-        for SlotID in EQP_SLOTS.ALL:
-            if dataObj[SlotID] is not None:
-                ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_will", 0)
-
-        if dataObj["BattleChar"] is not None:
-            for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_WillpowerMul", None) is not None:
-                    ResultValue *= StatusEff.AttrMod_WillpowerMul
-                if getattr(StatusEff, "AttrMod_WillpowerAdd", None) is not None:
-                    ResultValue += StatusEff.AttrMod_WillpowerAdd
-    
-        ResultValue = math.ceil(max(ResultValue, 1))
-        return(ResultValue)
-
     def EnduranceCalc(dataObj):
+        VerboseLog_General = False
         ResultValue = dataObj["Endurance"]
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
                 if ItemID in all_items:
                     ResultValue += all_items[ItemID].get("add_attr_end", 0)
+                else:
+                    if VerboseLog_General:
+                        print("warning: EnduranceCalc tried to add endurance to char %s from item with id %s which was not found in all_items" % (dataObj["name"], ItemID))
 
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_EnduranceMul", None) is not None:
+                if StatusEff.AttrMod_EnduranceMul is not None:
                     ResultValue *= StatusEff.AttrMod_EnduranceMul
-                if getattr(StatusEff, "AttrMod_EnduranceAdd", None) is not None:
+                if StatusEff.AttrMod_EnduranceAdd is not None:
                     ResultValue += StatusEff.AttrMod_EnduranceAdd
+        else:
+            if dataObj.CharID in StoryStatusEffects:
+                for StatusEffID in StoryStatusEffects[dataObj.CharID]:
+                    if "EnduranceAdd" in StoryStatEffDefs[StatusEffID]:
+                        ResultValue += StoryStatEffDefs[StatusEffID]["EnduranceAdd"]
+    
+        ResultValue = math.ceil(max(ResultValue, 1))
+        return(ResultValue)
 
+    def WillpowerCalc(dataObj):
+        ResultValue = dataObj["Willpower"]
+        for SlotID in EQP_SLOTS.ALL:
+            if dataObj[SlotID] is not None:
+                ItemID = dataObj[SlotID]
+                ResultValue += all_items[ItemID].get("add_attr_will", 0)
+
+        if dataObj["BattleChar"] is not None:
+            for StatusEff in dataObj["BattleChar"].StatusEffects:
+                if StatusEff.AttrMod_WillpowerMul is not None:
+                    ResultValue *= StatusEff.AttrMod_WillpowerMul
+                if StatusEff.AttrMod_WillpowerAdd is not None:
+                    ResultValue += StatusEff.AttrMod_WillpowerAdd
+    
         ResultValue = math.ceil(max(ResultValue, 1))
         return(ResultValue)
 
@@ -143,14 +152,13 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_agi", 0)
+                ResultValue += all_items[ItemID].get("add_attr_agi", 0)
 
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_AgilityMul", None) is not None:
+                if StatusEff.AttrMod_AgilityMul is not None:
                     ResultValue *= StatusEff.AttrMod_AgilityMul
-                if getattr(StatusEff, "AttrMod_AgilityAdd", None) is not None:
+                if StatusEff.AttrMod_AgilityAdd is not None:
                     ResultValue += StatusEff.AttrMod_AgilityAdd
     
         ResultValue = math.ceil(max(ResultValue, 1))
@@ -161,14 +169,13 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_dex", 0)
+                ResultValue += all_items[ItemID].get("add_attr_dex", 0)
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_DexterityMul", None) is not None:
+                if StatusEff.AttrMod_DexterityMul is not None:
                     ResultValue *= StatusEff.AttrMod_DexterityMul
-                if getattr(StatusEff, "AttrMod_DexterityAdd", None) is not None:
+                if StatusEff.AttrMod_DexterityAdd is not None:
                     ResultValue += StatusEff.AttrMod_DexterityAdd
         else:
             if dataObj.CharID in StoryStatusEffects:
@@ -184,14 +191,13 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_luck", 0)
+                ResultValue += all_items[ItemID].get("add_attr_luck", 0)
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_LuckMul", None) is not None:
+                if StatusEff.AttrMod_LuckMul is not None:
                     ResultValue *= StatusEff.AttrMod_LuckMul
-                if getattr(StatusEff, "AttrMod_LuckAdd", None) is not None:
+                if StatusEff.AttrMod_LuckAdd is not None:
                     ResultValue += StatusEff.AttrMod_LuckAdd
 
         ResultValue = math.ceil(max(ResultValue, 1))
@@ -202,13 +208,11 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_charisma", 0)
+                ResultValue += all_items[ItemID].get("add_attr_charisma", 0)
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_CharismaMul", None) is not None:
-                    ResultValue *= StatusEff.AttrMod_CharismaMul
+                ResultValue *= getattr(StatusEff, "AttrMod_CharismaMul")
 
         ResultValue = math.ceil(max(ResultValue, 1))
         return(ResultValue) 
@@ -218,16 +222,14 @@ init -20 python:
         for SlotID in EQP_SLOTS.ALL:
             if dataObj[SlotID] is not None:
                 ItemID = dataObj[SlotID]
-                if ItemID in all_items:
-                    ResultValue += all_items[ItemID].get("add_attr_barter", 0)
+                ResultValue += all_items[ItemID].get("add_attr_barter", 0)
     
         if dataObj["BattleChar"] is not None:
             for StatusEff in dataObj["BattleChar"].StatusEffects:
-                if getattr(StatusEff, "AttrMod_BarterMul", None) is not None:
-                    ResultValue *= StatusEff.AttrMod_BarterMul
+                ResultValue *= getattr(StatusEff, "AttrMod_BarterMul")
 
         ResultValue = math.ceil(max(ResultValue, 1))
-        return(ResultValue)
+        return(ResultValue) 
 
 ######### attribute set/add
     def SetCharAttr(dataObj, att_name, value):
@@ -358,16 +360,7 @@ init -20 python:
         30:["Strength", "Luck"],
         20:["Willpower", "Endurance"]
     }
-    attr_allocation_weights["summoner"] = {
-        50:["Agility", "Dexterity"],
-        30:["Strength", "Luck"],
-        20:["Willpower", "Endurance"]
-    }
-    attr_allocation_weights["necromancer"] = {
-        50:["Agility", "Dexterity"],
-        30:["Strength", "Luck"],
-        20:["Willpower", "Endurance"]
-    }
+
     ### descriptions last updated 23/09/2023
     # "Strength":     5, # +5 melee damage per point
     # "Endurance":    5, # +5 hp per point OVER 5, its value also equals phys damage resistance (armor)

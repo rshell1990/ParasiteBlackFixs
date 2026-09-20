@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsBerserker/SkillTree.rpy:2
     old "Berserker skills"
-    new "Berserker skills"
+    new "Berserker-Fähigkeiten"
 

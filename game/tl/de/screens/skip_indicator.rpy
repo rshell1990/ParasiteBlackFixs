@@ -4,5 +4,5 @@ translate de strings:
 
     # game/screens/skip_indicator.rpy:9
     old "Skipping"
-    new "Skipping"
+    new "Überspringen"
 

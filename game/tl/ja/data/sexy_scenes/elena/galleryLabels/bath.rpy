@@ -310,8 +310,7 @@ translate ja gallery_elena_bath_first_dc2224ec:
 translate ja gallery_elena_bath_first_44fb3b86:
 
     # MC "I mean, let us see where things go... There's no need to rush, is there?"
-    MC "つまり、まずは様子を見てみよう…  
-急ぐ必要はないだろう？"
+    MC "つまり、まずは様子を見てみよう…  急ぐ必要はないだろう？"
 
 # game/data/sexy_scenes/elena/galleryLabels/bath.rpy:82
 translate ja gallery_elena_bath_first_e42274ab:

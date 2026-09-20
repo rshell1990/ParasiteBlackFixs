@@ -1842,13 +1842,6 @@ translate tr qst_TheTarbecks_Room_Temptations_markus_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "Gözlemciler sırıttı, manzaradan eğlenmiş, Marcia'nın bacakları altımda acınasıca kıvrandı."
 
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:473
-translate tr qst_TheTarbecks_Room_Temptations_markus_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "Gücü tükenmiş, yapabileceği tek şey aletim memelerinin arasına çarparken çaresizce izlemekti."
-
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:474
 translate tr qst_TheTarbecks_Room_Temptations_markus_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -2477,4 +2470,3 @@ translate tr strings:
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:527
     old "Well, interested in trying a little wine with a little extra kick?"
     new "Pekala, biraz ekstra sert bir şarapla ilgilenir misin?"
-

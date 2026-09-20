@@ -76,8 +76,7 @@ translate ja qst_JudgementDay_SiegeStart_638bc5ba:
 translate ja qst_JudgementDay_SiegeStart_af24b38a:
 
     # MC @ angry "What about Markus? Where is-"
-    MC @ angry "マルクスは？
-どこに――"
+    MC @ angry "マルクスは？どこに――"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:58
 translate ja qst_JudgementDay_SiegeStart_54b023b2:
@@ -143,9 +142,7 @@ translate ja qst_JudgementDay_SiegeStart_dd6baa11:
 translate ja qst_JudgementDay_SiegeStart_64f69f68:
 
     # NYX @ angry "FUCK. THE FUCKING. INQUISITORS."
-    NYX @ angry "クソッタレ。  
-クソッタレな。  
-異端審問官め。"
+    NYX @ angry "クソッタレ。  クソッタレな。  異端審問官め。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:78
 translate ja qst_JudgementDay_SiegeStart_136224ec:
@@ -163,8 +160,7 @@ translate ja qst_JudgementDay_SiegeStart_5ecef9c1:
 translate ja qst_JudgementDay_SiegeStart_7c62ce15:
 
     # NYX @ angry "Fuck if I know! NOW GO!"
-    NYX @ angry "知るかよ!
-さっさと行け!"
+    NYX @ angry "知るかよ!さっさと行け!"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:85
 translate ja qst_JudgementDay_SiegeStart_e9cae8a9:
@@ -1256,8 +1252,7 @@ translate ja qst_JudgementDay_GoToEduDistrict_7b90c7be:
 translate ja qst_JudgementDay_GoToEduDistrict_a4346c4e:
 
     # "Vala, frozen between awe and terror, stumbled back as I lunged forward, my claws at the ready."
-    "ヴァラは、畏敬と恐怖の狭間で凍りついたように、よろめきながら後退した。
-爪を構えながら突進する私に。"
+    "ヴァラは、畏敬と恐怖の狭間で凍りついたように、よろめきながら後退した。爪を構えながら突進する私に。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:589
 translate ja qst_JudgementDay_GoToEduDistrict_1b2a1673:
@@ -1731,8 +1726,7 @@ translate ja qst_TheJudgementDay_FarmlandDist_Unprep_fb2544c3:
 translate ja qst_TheJudgementDay_FarmlandDist_Unprep_ca9ede81:
 
     # SECOND_GUARD "Kill it! LET'S KILL IT QUICKLY!"
-    SECOND_GUARD "倒せ!
-早く倒そう!"
+    SECOND_GUARD "倒せ!早く倒そう!"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:791
 translate ja qst_TheJudgementDay_FarmlandDist_Unprep_7d42f8c5:
@@ -2416,8 +2410,7 @@ translate ja qst_JudgementDay_GoToHousingDist_0d65f503:
 translate ja qst_JudgementDay_GoToHousingDist_93991100:
 
     # MC "No. They got out."
-    MC "いいえ。
-彼らは逃げた。"
+    MC "いいえ。彼らは逃げた。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1066
 translate ja qst_JudgementDay_GoToHousingDist_1bd2b144:
@@ -4061,8 +4054,7 @@ translate ja qst_JudgementDay_RescueMages_Prep_4c777b59:
 translate ja qst_JudgementDay_RescueMages_Prep_a7d1cbb7:
 
     # ERIKA "Who knows? We don't have time to speculate."
-    ERIKA "さあね。
-推測している暇はない。"
+    ERIKA "さあね。推測している暇はない。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1613
 translate ja qst_JudgementDay_RescueMages_Prep_00904404:
@@ -4308,9 +4300,7 @@ translate ja qst_JudgementDay_RescueMages_Unprep_cdd450ae:
 translate ja qst_JudgementDay_RescueMages_Unprep_2d53ad4b:
 
     # "She let out one last raspy cry of pain as the thing chewed on her, the deep red sinking through and overpowering the blue."
-    "最後の、かすれた痛みの声を彼女はあげた
-それを噛み砕くものと共に
-深紅が染み渡り、青を圧倒して。"
+    "最後の、かすれた痛みの声を彼女はあげたそれを噛み砕くものと共に深紅が染み渡り、青を圧倒して。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1699
 translate ja qst_JudgementDay_RescueMages_Unprep_ae6c5a83:
@@ -4640,8 +4630,7 @@ translate ja qst_JudgementDay_RescueMages_MoveOn_538e24d3:
 translate ja qst_JudgementDay_RescueMages_MoveOn_6186d54d:
 
     # ERIKA "We're heading up the wall. Is the prince safe?"
-    ERIKA "壁を登っている。
-王子は無事か？"
+    ERIKA "壁を登っている。王子は無事か？"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1795
 translate ja qst_JudgementDay_RescueMages_MoveOn_c6f5af92:
@@ -4815,8 +4804,7 @@ translate ja qst_JudgementDay_GotToTheWall_27615f39:
 translate ja qst_JudgementDay_GotToTheWall_aa491b95:
 
     # ERIKA "We don't have time to take the stairs! We're going up now!"
-    ERIKA "階段を使ってる時間はない!
-今すぐ上るぞ!"
+    ERIKA "階段を使ってる時間はない!今すぐ上るぞ!"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1837
 translate ja qst_JudgementDay_GotToTheWall_0897d6bb:
@@ -4870,8 +4858,7 @@ translate ja qst_JudgementDay_GotToTheWall_656dce71:
 translate ja qst_JudgementDay_GotToTheWall_f908c05a:
 
     # ERIKA "Stay focused. We're almost at the top."
-    ERIKA "集中しろ。
-頂上はもうすぐだ。"
+    ERIKA "集中しろ。頂上はもうすぐだ。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1857
 translate ja qst_JudgementDay_GotToTheWall_a17a25b5:
@@ -5041,13 +5028,6 @@ translate ja qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "攻撃がヒットした時でさえ、彼は何でもないかのように受け流した。"
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1909
-translate ja qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "疲れ果て、かろうじて踏みとどまっている仲間たちを見やると、私は恐ろしい真実を悟った…"
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1910
 translate ja qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."
@@ -5747,8 +5727,7 @@ translate ja qst_JudgementDay_SiegeOverPrison_a5ff08fc:
 translate ja qst_JudgementDay_SiegeOverPrison_c2501ff3:
 
     # "Were they safe? What was happening beyond these walls?"
-    "無事だろうか？
-この壁の向こうで、何が起きているんだ？"
+    "無事だろうか？この壁の向こうで、何が起きているんだ？"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2127
 translate ja qst_JudgementDay_SiegeOverPrison_b3f25241:
@@ -6252,9 +6231,7 @@ translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_466d3e9c:
 translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_0dd1f5a3:
 
     # "Every detail. Every horror. The worst nightmare of my life laid bare before him."
-    "細部のすべて。
-恐怖のすべて。
-私の人生最悪の悪夢が、彼の前に白日のもとに晒された。"
+    "細部のすべて。恐怖のすべて。私の人生最悪の悪夢が、彼の前に白日のもとに晒された。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2259
 translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_1749ec58:
@@ -6314,8 +6291,7 @@ translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_5d73558e:
 translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_6e6d66fc:
 
     # "And for the first time since this conversation began... I lied."
-    "この会話が始まって以来、初めて…  
-私は嘘をついたのだ。"
+    "この会話が始まって以来、初めて…  私は嘘をついたのだ。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2274
 translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_44dbc736:
@@ -6411,8 +6387,7 @@ translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_d6bc35d8:
 translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_1afd1403:
 
     # ALCOTT @ talk "Head Inquisitor Marion has charged you with treason and consorting with dark mages."
-    ALCOTT @ talk "首席審問官マリオンは、
-あなたを反逆罪及び闇の魔導師たちと通じた罪で告発しました。"
+    ALCOTT @ talk "首席審問官マリオンは、あなたを反逆罪及び闇の魔導師たちと通じた罪で告発しました。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2291
 translate ja qst_JudgementDay_SiegeOverPrison_alcott_menu_de3508db:
@@ -7204,8 +7179,7 @@ translate ja qst_JudgementDay_SiegeOverPrison_ReginaVisit_a0d89f4f:
 translate ja qst_JudgementDay_SiegeOverPrison_ReginaVisit_6cb801bf:
 
     # "My eyes grew heavy. My body swayed, legs barely able to keep me standing."
-    "目の重みを感じた。
-体が揺らぎ、かろうじて立っている。"
+    "目の重みを感じた。体が揺らぎ、かろうじて立っている。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2484
 translate ja qst_JudgementDay_SiegeOverPrison_ReginaVisit_ec3bfe40:
@@ -8627,8 +8601,7 @@ translate ja qst_JudgementDay_Trial_questions_236f812e:
 translate ja qst_JudgementDay_Trial_questions_86ef1207:
 
     # "The magic faded. Silence filled the courtroom."
-    "魔力が消えていった
-静寂が法廷に満ちた"
+    "魔力が消えていった静寂が法廷に満ちた"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2860
 translate ja qst_JudgementDay_Trial_questions_de618194:
@@ -8640,8 +8613,7 @@ translate ja qst_JudgementDay_Trial_questions_de618194:
 translate ja qst_JudgementDay_Trial_questions_889ac024:
 
     # KYLISA @ scared "But... how? I was certain—"
-    KYLISA @ scared "でも…どうやって？
-確かだったはず…"
+    KYLISA @ scared "でも…どうやって？確かだったはず…"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2863
 translate ja qst_JudgementDay_Trial_questions_c8180771:
@@ -8773,8 +8745,7 @@ translate ja qst_JudgementDay_Trial_questions_9583c3a5:
 translate ja qst_JudgementDay_Trial_questions_447671fe:
 
     # MC @ talk "Supplies weren't reaching the soldiers. No word from the defenders."
-    MC @ talk "物資は兵士に届いていなかった。
-防衛隊からの連絡もない。"
+    MC @ talk "物資は兵士に届いていなかった。防衛隊からの連絡もない。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2892
 translate ja qst_JudgementDay_Trial_questions_90c5d124:
@@ -8966,8 +8937,7 @@ translate ja qst_JudgementDay_Trial_questions_09535003:
 translate ja qst_JudgementDay_Trial_questions_a443d064:
 
     # MARION @ smile "Silence speaks volumes, doesn't it, your honor?"
-    MARION @ smile "沈黙は雄弁に物語る、
-そうですよね、裁判長？"
+    MARION @ smile "沈黙は雄弁に物語る、そうですよね、裁判長？"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2942
 translate ja qst_JudgementDay_Trial_questions_19e8bad7:
@@ -9063,8 +9033,7 @@ translate ja qst_JudgementDay_TrialStart_SummonMenu_5f3ec5b4:
 translate ja qst_JudgementDay_TrialStart_SummonMenu_ace9c56b:
 
     # DIVINE @ talk "I have known this man. I have seen his heart."
-    DIVINE @ talk "この男のことを知ってる。
-彼の心を、見た。"
+    DIVINE @ talk "この男のことを知ってる。彼の心を、見た。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2986
 translate ja qst_JudgementDay_TrialStart_SummonMenu_e3689e66:
@@ -9328,8 +9297,7 @@ translate ja qst_JudgementDay_TrialStart_SummonMenu_6627355c:
 translate ja qst_JudgementDay_TrialStart_SummonMenu_8fa4ab23:
 
     # JUDGE_FALWIND "The defense has summoned you as a witness. Will you recount the events of the siege?"
-    JUDGE_FALWIND "弁護側は証人としてあなたを召喚しました。
-包囲戦の経緯について、話していただけますか？"
+    JUDGE_FALWIND "弁護側は証人としてあなたを召喚しました。包囲戦の経緯について、話していただけますか？"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3049
 translate ja qst_JudgementDay_TrialStart_SummonMenu_f9279766:
@@ -9371,8 +9339,7 @@ translate ja qst_JudgementDay_TrialStart_SummonMenu_ae2b4e4f:
 translate ja qst_JudgementDay_TrialStart_SummonMenu_92fdc9f7:
 
     # SOPHIRA @ sad "... But—"
-    SOPHIRA @ sad "……
-だが――"
+    SOPHIRA @ sad "……だが――"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3061
 translate ja qst_JudgementDay_TrialStart_SummonMenu_b3423dae:
@@ -10554,8 +10521,7 @@ translate ja qst_JudgementDay_PostQuestTravelToHamun_KiaraTalk2_f0b02631:
 translate ja qst_JudgementDay_PostQuestTravelToHamun_KiaraTalk2_cc035047:
 
     # MC @ angry "What is going on? Why is the Emperor working with a demorai?"
-    MC @ angry "一体、何が起こっている？
-なぜ皇帝がデモライと手を組んでいる？"
+    MC @ angry "一体、何が起こっている？なぜ皇帝がデモライと手を組んでいる？"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3426
 translate ja qst_JudgementDay_PostQuestTravelToHamun_KiaraTalk2_4b2c42de:
@@ -11233,9 +11199,7 @@ translate ja qst_JudgementDay_PostQuestArrivedToHamun_GuardMenu_8baba82b:
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_GuardMenu_95d5d7eb:
 
     # KIARA @ talk "Rest. Stay here the night where it's safe, in the morning then, my mistress should join us."
-    KIARA @ talk "安らかに休め。
-安全な場所だ、ここで一夜を過ごせ。
-夜が明ければ、我が主君が合流されるだろう。"
+    KIARA @ talk "安らかに休め。安全な場所だ、ここで一夜を過ごせ。夜が明ければ、我が主君が合流されるだろう。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3648
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_GuardMenu_9483b162:
@@ -11566,8 +11530,7 @@ translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_61b39614:
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_c2ee7902:
 
     # HIRRAH "His flesh may be gone, but his spirit survives... Trapped beyond the gate of midnight."
-    HIRRAH "肉体は滅びようとも、魂はなお生き永らえる…  
-真夜中の門の彼方に閉ざされて。"
+    HIRRAH "肉体は滅びようとも、魂はなお生き永らえる…  真夜中の門の彼方に閉ざされて。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3746
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_b514f426:
@@ -11843,8 +11806,7 @@ translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_Menu_5810aa0a:
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_Menu_ce1de7b4:
 
     # HIRRAH "Ah... It's probably been so long since of your kind has seen us, it is little surprise you don't know."
-    HIRRAH "ああ…貴方のような者が我々を見るのは、長きに渡り絶えていた故、
-存じ上げぬのも無理からぬこと。"
+    HIRRAH "ああ…貴方のような者が我々を見るのは、長きに渡り絶えていた故、存じ上げぬのも無理からぬこと。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3804
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_Menu_8bba6f6b:
@@ -11910,8 +11872,7 @@ translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_Menu_564f281f:
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_Menu_746c0279:
 
     # PHOAH @ talk "Just surviving... Just... Hoping Al'Vazah brings us a new light."
-    PHOAH @ talk "ただ生き延びている…
-ただ…Al'Vazahが新しい光をもたらすのを願う。"
+    PHOAH @ talk "ただ生き延びている…ただ…Al'Vazahが新しい光をもたらすのを願う。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3815
 translate ja qst_JudgementDay_PostQuestArrivedToHamun_Dream_Menu_6e92921d:
@@ -13023,8 +12984,7 @@ translate ja qst_JudgementDay_GoToHousingDist_7156b8fe:
 translate ja qst_JudgementDay_GoToHousingDist_8b3cf18a:
 
     # MC "It's me… It's [player_name!t]."
-    MC "俺だ…
-俺は[player_name!t]だ。"
+    MC "俺だ…俺は[player_name!t]だ。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1100
 translate ja qst_JudgementDay_GoToHousingDist_d3233b1f:
@@ -13126,8 +13086,7 @@ translate ja qst_JudgementDay_SiegeOverPrison_ReginaVisit_8d9e3641:
 translate ja qst_JudgementDay_SiegeOverPrison_ReginaVisit_5ffe3e24:
 
     # REGINA "Poor baby, come... Come to [regina_ref!t]."
-    REGINA "かわいそうに、おいで...
-[regina_ref!t]のところにおいで。"
+    REGINA "かわいそうに、おいで...[regina_ref!t]のところにおいで。"
 
 # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:2333
 translate ja qst_JudgementDay_SiegeOverPrison_ReginaVisit_6eb8fe7a:
@@ -13254,4 +13213,3 @@ translate ja qst_JudgementDay_PostQuestArrivedToHamun_WakeUp_f1b9e26c:
 
     # KIARA @ talk "Goodnight, [player_name!t]."
     KIARA @ talk "おやすみなさい、[player_name!t]さん。"
-

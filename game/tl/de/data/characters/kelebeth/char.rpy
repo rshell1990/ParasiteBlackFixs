@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/kelebeth/char.rpy:30
     old "A succubus from the lust realm of the seven hells... She seems particularly interested in Shyahtan."
-    new "A succubus from the lust realm of the seven hells... She seems particularly interested in Shyahtan."
+    new "Eine Sukkubus aus dem Lustreich der sieben Höllen ... Sie scheint besonders an Shyahtan interessiert zu sein."
 

@@ -450,13 +450,6 @@ translate tr qst_dreamhouse_enter_manor_menu3_f85862f1:
     # ANYA @ talk "No matter what happens, I know he wouldn't want to hurt her!"
     ANYA @ talk "Ne olursa olsun, ona zarar vermek istemeyeceğini biliyorum!"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:151
-translate tr qst_dreamhouse_enter_manor_menu3_fbe08f8e:
-
-    # "Can you tell me more about why you separated from your husband?"
-    "Kocanızdan neden ayrıldığınız hakkında bana daha fazla şey söyleyebilir misin?"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:152
 translate tr qst_dreamhouse_enter_manor_menu3_a75f67f7:
 
     # ANYA @ sad "To be married to an inquisitor isn't an easy thing."
@@ -1944,19 +1937,6 @@ translate tr qst_dreamhouse_l2_start_0c6c5de5:
     # "... An inquisitor?"
     "... Bir engizisyoncu mu?"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:704
-translate tr qst_dreamhouse_l2_start_e1f057db:
-
-    # DAVIK "Who the fuck are you?!"
-    DAVIK "Sen de kimsin lanet?!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:705
-translate tr qst_dreamhouse_l2_start_26123b51:
-
-    # DAVIK "Help me! QUICKLY!"
-    DAVIK "Yardım edin! ÇABUK!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:706
 translate tr qst_dreamhouse_l2_start_d2876313:
 
     # "Before I could answer him, hurling itself around the corner, came a horde of walking corpses."
@@ -1968,31 +1948,11 @@ translate tr qst_dreamhouse_l2_start_a2f921c8:
     # "I barely had time to reach for my sword before they were upon us!"
     "Kılıcıma uzanmak için zar zor zamanım oldu, üstümüze çullanmadan!"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:714
-translate tr qst_dreamhouse_l2_start_08d46b3d:
-
-    # "Slaying the last of the creatures with a clean swipe to sever its head, I turned towards Davik."
-    "Yaratıkların sonuncusunu kafasını koparan temiz bir vuruşla katlederken, Davik'e döndüm."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:720
 translate tr qst_dreamhouse_l2_start_ef2310fb:
 
     # MC @ serious "What in the hells is this?"
     MC @ serious "Bu ne cehennemler?"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:721
-translate tr qst_dreamhouse_l2_start_1876686f:
-
-    # DAVIK "Ahhh! Damn things tore right through my armour..."
-    DAVIK "Ahhh! Lanet şeyler zırhımı delip geçti..."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:722
-translate tr qst_dreamhouse_l2_start_c0a019f3:
-
-    # DAVIK "My name is Davik."
-    DAVIK "Adım Davik."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:723
 translate tr qst_dreamhouse_l2_start_5f66bb5c:
 
     # DAVIK "Who sent you? You people shouldn't be here!"
@@ -2322,13 +2282,6 @@ translate tr qst_dreamhouse_l2_start_menu_e1c93801:
     # KIARA @ scared "Sure... As long as we don't get eaten first."
     KIARA @ scared "Tabii... Önce yenmezsek."
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:802
-translate tr qst_dreamhouse_l2_bathtub_d56cf1ec:
-
-    # "It tilted its head towards me as I drew my blade!"
-    "Bıçağımı çekerken başını bana doğru eğdi!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:812
 translate tr qst_dreamhouse_l2_bathtub_e44e84bf:
 
     # "I noticed something shimmer in the mixed blood water of the bath."
@@ -2358,37 +2311,6 @@ translate tr qst_dreamhouse_l2_mirror_665c1b26:
     # "Looks like there was a struggle in here."
     "Burada bir boğuşma olmuş gibi görünüyor."
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:833
-translate tr qst_dreamhouse_l2_bathtub_afterbattle_39e9d55f:
-
-    # "Looks like a mercenary... Maybe one of Davik's men?"
-    "Bir paralı askere benziyor... Belki Davik'in adamlarından biri?"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:834
-translate tr qst_dreamhouse_l2_bathtub_afterbattle_e44e84bf:
-
-    # "I noticed something shimmer in the mixed blood water of the bath."
-    "Banyonun karışmış kanlı suyunda parıldayan bir şey fark ettim."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:837
-translate tr qst_dreamhouse_l2_bathtub_afterbattle_427359f5:
-
-    # "Shoving my hand into the bloody water, I pulled out a small, dull key."
-    "Elimi kanlı suya daldırarak, küçük, donuk bir anahtar çıkardım."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:840
-translate tr qst_dreamhouse_l2_bathtub_afterbattle_854dd011:
-
-    # KIARA @ scared "I think I might be sick..."
-    KIARA @ scared "Sanırım hastalanabilirim..."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:843
-translate tr qst_dreamhouse_l2_bathtub_afterbattle_dd99af82:
-
-    # "(No way am I putting my hand in that.)"
-    "(Elimi ona sokmamın imkanı yok.)"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:849
 translate tr qst_dreamhouse_l2_nursery_oneoff_aec2ef82:
 
     # "Entering the room, the twisted corpses inside turned their attention towards us."
@@ -2742,19 +2664,6 @@ translate tr qst_dreamhouse_l2_library_bookshelf_1_29465ee2:
     # "The pages were ruined and covered in blood."
     "Sayfalar mahvolmuş ve kana bulanmıştı."
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1058
-translate tr qst_dreamhouse_l2_library_bookshelf_2_2612ac88:
-
-    # "There's a depicion of what seemed to be a dead servant boy in bed... He appeared to have thrown up blood."
-    "Yatakta ölü bir hizmetçi çocuk gibi görünen bir tasvir var... Kan kusmuş gibi görünüyordu."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1063
-translate tr qst_dreamhouse_l2_library_portrait_0a77bcf4:
-
-    # "... Just what kind of nightmares did this girl have?"
-    "... Bu kız ne tür kabuslar gördü?"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1064
 translate tr qst_dreamhouse_l2_library_portrait_dcac9c61:
 
     # "There's no keyhole this time."
@@ -3930,13 +3839,6 @@ translate tr qst_dreamhouse_l4_start_2c5a85f6:
     # KIARA @ talk "It's best just not to think about it too much, alright?"
     KIARA @ talk "Üzerinde çok fazla düşünmemek en iyisi, tamam mı?"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1605
-translate tr qst_dreamhouse_l4_start_7f338908:
-
-    # SYPHA @ happy "How'd you know about mother?"
-    SYPHA @ happy "Nine'yi nereden biliyordun?"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1606
 translate tr qst_dreamhouse_l4_start_ebebed92:
 
     # "I couldn't help but burst out laughing at the comment."
@@ -4458,37 +4360,6 @@ translate tr qst_dreamhouse_l4_boarhead_9c609144:
     # "(The mounted head of a boar.)"
     "(Duvara asılmış bir yaban domuzu kafası.)"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1820
-translate tr qst_dreamhouse_l4_portrait_fa37640b:
-
-    # MARKUS @ smile "Look, Sypha!"
-    MARKUS @ smile "Bak, Sypha!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1821
-translate tr qst_dreamhouse_l4_portrait_4857ee3d:
-
-    # MARKUS @ smile "Bring back any fond childhood memories?"
-    MARKUS @ smile "Tatlı çocukluk anılarını geri getiriyor mu?"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1822
-translate tr qst_dreamhouse_l4_portrait_645b522e:
-
-    # SYPHA @ talk "Sure it does!"
-    SYPHA @ talk "Elbette getiriyor!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1823
-translate tr qst_dreamhouse_l4_portrait_511d8b08:
-
-    # SYPHA @ happy "But we have much more creative ways of torturing wretches like you than that!"
-    SYPHA @ happy "Ama bizim senin gibi sefilleri işkence etmenin çok daha yaratıcı yollarımız var!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1824
-translate tr qst_dreamhouse_l4_portrait_9810f3c2:
-
-    # MARKUS @ talk "Charming..."
-    MARKUS @ talk "Büyüleyici..."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1832
 translate tr qst_dreamhouse_l4_kitchen_cupboards_d12fde13:
 
     # "Upon opening the cupboards, I find they are fully stocked."
@@ -4614,13 +4485,6 @@ translate tr qst_dreamhouse_l4_cellar_barrel_menu_8e30331e:
     # "The floating, tendriled creature suddenly lashed out!"
     "Yüzen, dokunaçlı yaratık aniden saldırdı!"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1902
-translate tr qst_dreamhouse_l4_cellar_barrel_menu_c820f137:
-
-    # "Dropping dead to the floor, its eye torn open by my blade, and inside... a demon-shaped key."
-    "Yere ölü olarak düşerken, gözü bıçağımla parçalanmış, ve içinde... şeytan şekilli bir anahtar."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1907
 translate tr qst_dreamhouse_l4_cellar_barrel_menu_6aadb649:
 
     # "Opening up the barrel, a small burst of needles came flying out."
@@ -4644,13 +4508,6 @@ translate tr qst_dreamhouse_l4_cellar_barrel_menu_f5fb20fe:
     # SYPHA @ angry "Careful..."
     SYPHA @ angry "Dikkatli ol..."
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1912
-translate tr qst_dreamhouse_l4_cellar_barrel_menu_cb4a12ec:
-
-    # "Inside, a key with a demon-shaped end."
-    "İçeride, şeytan şekilli ucu olan bir anahtar."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1918
 translate tr qst_dreamhouse_l4_cellar_barrel_menu_2d96ca42:
 
     # MC @ surprised "GAHH!"
@@ -4932,13 +4789,6 @@ translate tr qst_dreamhouse_l4_library_bookshelf_2_menu_7b0b2236:
     # "I've never even seen this man before in my life?"
     "Bu adamı hayatımda daha önce hiç görmedim?"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2028
-translate tr qst_dreamhouse_l4_library_portrait_20de2b90:
-
-    # "... Hmm."
-    "... Hmm."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2045
 translate tr qst_dreamhouse_l5_start_352f5d88:
 
     # "As we pushed on once more through the bright light, we found ourselves again in the entrance hallway of the house,"
@@ -5430,13 +5280,6 @@ translate tr qst_dreamhouse_final_housescene_d1be9a81:
     # "The nightmare creature retreated, pushed back into the darkness from which it tore through."
     "Kabus yaratığı geri çekildi, içinden geçerek yırttığı karanlığa geri itildi."
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2279
-translate tr qst_dreamhouse_final_housescene_d9e970d3:
-
-    # "With trembling hands, his body pushed to its absolute limits, the veins in his arms and temples seeming ready to burst at any moment,"
-    "Titreyen ellerle, bedeni mutlak sınırlarına kadar itilmiş, kollarındaki ve şakaklarındaki damarlar her an patlamaya hazır görünüyor,"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2280
 translate tr qst_dreamhouse_final_housescene_c9ab07b2:
 
     # "the great tear was slowly sealed shut, until at last, it was gone."
@@ -5472,13 +5315,6 @@ translate tr qst_dreamhouse_final_housescene_fa694f5d:
     # DAVIK "Serafina! SERAFINA!"
     DAVIK "Serafina! SERAFINA!"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2286
-translate tr qst_dreamhouse_final_housescene_ba447962:
-
-    # SERAFINA @ shock "Father!"
-    SERAFINA @ shock "Babacığım!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2287
 translate tr qst_dreamhouse_final_housescene_af99b283:
 
     # DAVIK "Are you alright, girl?"
@@ -5562,13 +5398,6 @@ translate tr qst_dreamhouse_final_housescene_2e1f113b:
     # "Slowly, the dark mage rose back to his feet."
     "Yavaşça, kara büyücü ayakları üzerine kalktı."
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2302
-translate tr qst_dreamhouse_final_housescene_e74cc5a9:
-
-    # VIRGO "Bring the girl back to her mothers, or let me take the girl as an apprentice."
-    VIRGO "Kızı annelerine geri götür, ya da kızı çırak olarak almama izin ver."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2303
 translate tr qst_dreamhouse_final_housescene_56420d6a:
 
     # DAVIK "ARE YOU INSANE?"
@@ -7078,31 +6907,6 @@ translate tr qst_dreamhouse_enter_house_d144812f_1:
     # "{i}Silence.{/i}"
     "{i}Sessizlik.{/i}"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:811
-translate tr qst_dreamhouse_l2_bathtub_ca772e26:
-
-    # "Entering the bathroom, a man lay dead in the tub, half-eaten as a strange specter appeared to be laping up his blood."
-    "Banyoya girince, küvette yarı yenmiş bir adam yatıyordu, garip bir hayalet onun kanını yalayıp yutuyor gibiydi."
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:819
-translate tr qst_dreamhouse_l2_bathtub_8e572365:
-
-    # MC @ surprised "Was that a fucking ghost?!"
-    MC @ surprised "O bir siktiğimin hayaleti miydi?!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:820
-translate tr qst_dreamhouse_l2_bathtub_2d14ed26:
-
-    # KIARA @ scared "No, no, no, no, no!"
-    KIARA @ scared "Hayır, hayır, hayır, hayır, hayır!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:821
-translate tr qst_dreamhouse_l2_bathtub_05a808cd:
-
-    # KIARA @ scared "You've got to be kidding me!"
-    KIARA @ scared "Dalga geçiyor olmalısın!"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2511
 translate tr qst_dreamhouse_conclusion_serafina_father_06e1034f:
 
     # ANYA @ sad "No!"
@@ -7861,4 +7665,3 @@ translate tr qst_dreamhouse_final_housescene_39f0c626:
 
     # VIRGO "Bring the girl back to her mothers and let me take the girl as an apprentice."
     VIRGO "Kızı annelerine geri götür ve kızı çırak olarak almama izin ver."
-

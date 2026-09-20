@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsParasiteWhite/Sup/GerminatingParasites.rpy:4
     old "Germinating Parasites"
-    new "Germinating Parasites"
+    new "Keimende Parasiten"
 
     # game/data/battle_skills_actions/SkillsParasiteWhite/Sup/GerminatingParasites.rpy:36
     old "Sacrifice 20%% of your current hp and recover the hp of all other allies by %s, then increase the armor of all allies by %s for 2 turns."
-    new "Sacrifice 20%% of your current hp and recover the hp of all other allies by %s, then increase the armor of all allies by %s for 2 turns."
+    new "Opfere 20%% deiner aktuellen TP und stelle die TP aller anderen Verbündeten um %s wieder her, dann erhöhe die Rüstung aller Verbündeten für 2 Runden um %s."
 

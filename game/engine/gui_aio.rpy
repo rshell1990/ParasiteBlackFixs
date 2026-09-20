@@ -47,7 +47,6 @@ define gui.button_size = (64.0, 64.0) # *mostly* access button sizes
 init python:
     config.overlay_screens.append("access_buttons")
     config.overlay_screens.append("location_name")
-    config.overlay_screens.append("time_tracker")
     config.overlay_screens.append("party_panel")
     config.overlay_screens.append("infection_bar")
     config.overlay_screens.append("menu_button")

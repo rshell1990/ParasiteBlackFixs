@@ -244,8 +244,7 @@ translate ja nov_vala_scr_firstmeet_a4f1e169:
 translate ja nov_vala_scr_firstmeet_7c3d9a85:
 
     # "Now, where to start? This place is huge..."
-    "さて、どこから始めよう？
-ここは広いな…"
+    "さて、どこから始めよう？ここは広いな…"
 
 # TODO: Translation updated at 2026-06-13 16:23
 

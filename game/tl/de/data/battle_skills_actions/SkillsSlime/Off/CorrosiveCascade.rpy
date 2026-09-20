@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsSlime/Off/CorrosiveCascade.rpy:4
     old "Corrosive Cascade"
-    new "Corrosive Cascade"
+    new "Korrosive Kaskade"
 
     # game/data/battle_skills_actions/SkillsSlime/Off/CorrosiveCascade.rpy:44
     old "Create a cascading wave of corrosive slime, dealing %s damage to all enemies and reducing their damage resistance by %s for 2 turns."
-    new "Create a cascading wave of corrosive slime, dealing %s damage to all enemies and reducing their damage resistance by %s for 2 turns."
+    new "Erzeugt eine kaskadierende Welle aus korrosivem Schleim, fügt allen Feinden %s Schaden zu und verringert ihre Schadensresistenz für 2 Runden um %s."
 

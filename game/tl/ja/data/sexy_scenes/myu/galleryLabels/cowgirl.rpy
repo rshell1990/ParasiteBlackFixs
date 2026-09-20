@@ -262,8 +262,7 @@ translate ja gallery_myu_cowgirl_nopreg_dae9c5fc:
 translate ja gallery_myu_cowgirl_nopreg_e54ae839:
 
     # MC "{i}*Huff*{/i} Myu..."
-    MC "{i}はあ{/i}
-みゅ…"
+    MC "{i}はあ{/i}みゅ…"
 
 # game/data/sexy_scenes/myu/galleryLabels/cowgirl.rpy:69
 translate ja gallery_myu_cowgirl_nopreg_2cb22995:
@@ -377,8 +376,7 @@ translate ja gallery_myu_cowgirl_preg_f24162f7:
 translate ja gallery_myu_cowgirl_preg_d1a094ef:
 
     # "I knew the body was something she created, I actually could have penetrated her {i}anywhere{/i} and it would have felt the same."
-    "彼女の肉体は、彼女自身が作り出したものだと知っていた。
-実際のところ、彼女の{i}どこであろうと{/i}貫通できたはずで、感覚は同じだったろう。"
+    "彼女の肉体は、彼女自身が作り出したものだと知っていた。実際のところ、彼女の{i}どこであろうと{/i}貫通できたはずで、感覚は同じだったろう。"
 
 # game/data/sexy_scenes/myu/galleryLabels/cowgirl.rpy:98
 translate ja gallery_myu_cowgirl_preg_5792ce88:

@@ -4,8 +4,7 @@
 translate ja ev_lukkan_tavern_talk_d33c877c:
 
     # LUKKAN @ talk "Oh no... Not when I'm off work kid."
-    LUKKAN @ talk "やれやれ…
-俺がオフの時はよしてくれよ、ぼや。"
+    LUKKAN @ talk "やれやれ…俺がオフの時はよしてくれよ、ぼや。"
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:25
 translate ja ev_lukkan_tavern_talk_aaecfe7c:
@@ -155,8 +154,7 @@ translate ja ev_lukkan_tavern_talk_2_menu_0fdb7a58:
 translate ja ev_lukkan_tavern_talk_2_menu_f9c07b15:
 
     # LUKKAN @ talk "No one had been down in those shafts in years, they had no idea whether the passageway was still even accessible but off they went anyway."
-    LUKKAN @ talk "誰もが長年、あの坑道には足を踏み入れていなかった。
-通路がまだ通行可能かどうかも分からないまま、それでも彼らは向かっていった。"
+    LUKKAN @ talk "誰もが長年、あの坑道には足を踏み入れていなかった。通路がまだ通行可能かどうかも分からないまま、それでも彼らは向かっていった。"
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:64
 translate ja ev_lukkan_tavern_talk_2_menu_5c9899b8:
@@ -426,8 +424,7 @@ translate ja ev_lukkan_tavern_talk_2_menu2_fa8eec20:
 translate ja ev_lukkan_tavern_talk_2_menu2_b2a5d91c:
 
     # LUKKAN @ talk "And just like that, it dawns on them, pretty soon, they won't be able to produce anywhere near the amount of armour they need for fresh troops."
-    LUKKAN @ talk "と、ふと彼らは気づく。
-やがて新兵のために必要な装備の量には、とても追いつかなくなるだろうと。"
+    LUKKAN @ talk "と、ふと彼らは気づく。やがて新兵のために必要な装備の量には、とても追いつかなくなるだろうと。"
 
 # game/data/world_events/novaras/lukkan_tavern/ev_lukkan_tavern.rpy:113
 translate ja ev_lukkan_tavern_talk_2_menu2_ec33bd11:

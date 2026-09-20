@@ -10,13 +10,13 @@ translate zh qst_jackpot_black_diamond_winward_cd1bd79a:
 translate zh qst_jackpot_black_diamond_winward_ae419554:
 
     # "DEV-ONLY: Autocomplete nijah quest?"
-    "DEV-ONLY: 自动完成妮雅任务？"
+    "仅限开发：自动完成妮雅任务？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:13
 translate zh qst_jackpot_black_diamond_winward_2f89ad83:
 
     # "DEV-ONLY: What happened during nijah quest?"
-    "DEV-ONLY: 妮雅任务期间发生了什么？"
+    "仅限开发：妮雅任务期间发生了什么？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:31
 translate zh qst_jackpot_black_diamond_winward_99b5fa81:
@@ -136,7 +136,7 @@ translate zh qst_jackpot_black_diamond_damzel_vulshan_893546ca:
 translate zh qst_jackpot_black_diamond_damzel_vulshan_0be1d784:
 
     # MC "(FUCK! That idiot's going to bankrupt himself and Kionni! What the hell is he thinking playing stakes like those?!)"
-    MC "(操！那个白痴会把自己和基奥尼都搞破产的！他到底在想什么居然玩这种赌注？！)"
+    MC "（操！那个白痴会把自己和基奥尼都搞破产的！他到底在想什么居然玩这种赌注？！）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:72
 translate zh qst_jackpot_black_diamond_damzel_vulshan_98ba018e:
@@ -244,13 +244,13 @@ translate zh qst_jackpot_black_diamond_damzel_vulshan_67a91629:
 translate zh qst_jackpot_black_diamond_damzel_vulshan_e5bd6599:
 
     # MC "(Hmm, I don't like the idea of putting my faith in someone called {i}Crystal eyes{/i} but the Vulshan vouches for him...)"
-    MC "(嗯，我不太放心把希望寄托在叫{i}水晶眼{/i}的人身上，但瓦尔珊为他担保...)"
+    MC "（嗯，我不太放心把希望寄托在叫{i}水晶眼{/i}的人身上，但瓦尔珊为他担保...）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:90
 translate zh qst_jackpot_black_diamond_damzel_vulshan_95489b26:
 
     # MC @ think "(Should I really trust them though? Favor or not, {i}they are criminals.{/i})"
-    MC @ think "(但我真该相信他们吗？不管有没有人情，{i}他们终究是罪犯。{/i})"
+    MC @ think "（但我真该相信他们吗？不管有没有人情，{i}他们终究是罪犯。{/i}）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:91
 translate zh qst_jackpot_black_diamond_damzel_vulshan_b89e7266:
@@ -274,7 +274,7 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_26e84333:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_1aeb6084:
 
     # MC @ serious "({i}Fuck.{/i})"
-    MC @ serious "({i}糟了。{/i})"
+    MC @ serious "（{i}糟了。{/i}）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:99
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_19b18c88:
@@ -364,7 +364,7 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_6ba65ea3:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_33cb0197:
 
     # VULSHAN_GUARD "You...!"
-    VULSHAN_GUARD "你...！"
+    VULSHAN_GUARD "你……！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:122
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_d998012a:
@@ -388,19 +388,19 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_bd1b63fc:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_8a8b7e4e:
 
     # MC "({i}*Sigh*{/i})"
-    MC "({i}*叹气*{/i})"
+    MC "（{i}*叹气*{/i}）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:127
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_9608d8e2:
 
     # MC "(That was a close one.)"
-    MC "(真是好险。)"
+    MC "（真是好险。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:130
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_406be817:
 
     # VULSHAN_GUARD "...You lie."
-    VULSHAN_GUARD "...你在撒谎。"
+    VULSHAN_GUARD "……你在撒谎。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:131
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_32850255:
@@ -424,7 +424,7 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_105b7106:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_ec4f8947:
 
     # MC "To try and stabilize his control, the Vulshan and Khazah are too powerful and volatile to control easily. Smaller gang territories are easier to manage in case one steps out of line."
-    MC "为了稳固统治，瓦尔珊和卡扎太强大且难以掌控。 smaller gang territories are easier to manage in case one steps out of line."
+    MC "为了稳固统治，瓦尔珊和卡扎太强大且难以掌控。较小的帮派地盘更容易管理，以防有人越界。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:135
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_a3553fc7:
@@ -460,13 +460,13 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_55105e0e:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_31130542:
 
     # MC "(That was close...)"
-    MC "(真是好险...)"
+    MC "（真是好险...）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:142
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_7eeec4a9:
 
     # MC "(I better figure something out fast.)"
-    MC "(我得赶快想个办法。)"
+    MC "（我得赶快想个办法。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:148
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_11d8ef90_1:
@@ -544,7 +544,7 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_55105e0e_1:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_ad1cc37f:
 
     # MC "(Something tells me that went badly...)"
-    MC "(感觉情况不太妙...)"
+    MC "（感觉情况不太妙……）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:172
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_8b2f196f:
@@ -562,7 +562,7 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_18e5d827:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_f73443ba:
 
     # VULSHAN_GUARD "...I do not know whether you tell the truth, but I shall warn you now."
-    VULSHAN_GUARD "...我不知道你是否说实话，但我要警告你。"
+    VULSHAN_GUARD "……我不知道你是否说实话，但我要警告你。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:175
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_c32ae31c:
@@ -574,13 +574,13 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_c32ae31c:
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_44c26503_1:
 
     # VULSHAN_GUARD "But be warned, other Vulshan and Khazahs, those with more loyalty to the rest of the leadership will not take kindly to your actions here..."
-    VULSHAN_GUARD "但警告你，其他瓦尔珊和卡扎成员，那些更忠于领导层的人不会对你的行为善罢甘休..."
+    VULSHAN_GUARD "但警告你，其他瓦尔珊和卡扎成员，那些更忠于领导层的人不会对你的行为善罢甘休……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:177
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_434f3894_1:
 
     # MC "...Noted."
-    MC "...知道了。"
+    MC "……知道了。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:179
 translate zh qst_jackpot_black_diamond_damzel_tarek_left_55105e0e_2:
@@ -592,13 +592,13 @@ translate zh qst_jackpot_black_diamond_damzel_tarek_left_55105e0e_2:
 translate zh qst_jackpot_black_diamond_damzel_assassinated_b58d8bbd:
 
     # VULSHAN_GUARD "...You... You were there the night Tarek died!"
-    VULSHAN_GUARD "...你...塔雷克死的那晚你在场！"
+    VULSHAN_GUARD "……你……塔雷克死的那晚你在场！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:185
 translate zh qst_jackpot_black_diamond_damzel_assassinated_8c023b48:
 
     # MC "(Fuck.)"
-    MC "(操。)"
+    MC "（操。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:186
 translate zh qst_jackpot_black_diamond_damzel_assassinated_e21b2c8a:
@@ -610,13 +610,13 @@ translate zh qst_jackpot_black_diamond_damzel_assassinated_e21b2c8a:
 translate zh qst_jackpot_black_diamond_damzel_assassinated_1c4184a0:
 
     # VULSHAN_GUARD "I remember... I escaped amidst all zer carnage."
-    VULSHAN_GUARD "我记得...我在那片屠杀中逃了出来。"
+    VULSHAN_GUARD "我记得……我在那片屠杀中逃了出来。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:188
 translate zh qst_jackpot_black_diamond_damzel_assassinated_8cb8cf01:
 
     # MC @ think "I think you have the wrong person friend, I have no idea what you're talking about..."
-    MC @ think "我想你认错人了朋友，我完全不知道你在说什么..."
+    MC @ think "我想你认错人了朋友，我完全不知道你在说什么……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:189
 translate zh qst_jackpot_black_diamond_damzel_assassinated_e10cc5f0:
@@ -724,7 +724,7 @@ translate zh qst_jackpot_black_diamond_damzel_assassinated_f3586903:
 translate zh qst_jackpot_black_diamond_damzel_assault_85703ffb:
 
     # VULSHAN_GUARD "Hello friends, the Khazah welcomes you to the Black Diamond..."
-    VULSHAN_GUARD "朋友们好，卡扎欢迎来到黑钻石..."
+    VULSHAN_GUARD "朋友们好，卡扎欢迎来到黑钻石……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:212
 translate zh qst_jackpot_black_diamond_damzel_assault_9cba5d21:
@@ -760,13 +760,13 @@ translate zh qst_jackpot_black_diamond_damzel_assault_9bd96c8f:
 translate zh qst_jackpot_black_diamond_damzel_assault_fc17bf49:
 
     # VULSHAN_GUARD "I zee..."
-    VULSHAN_GUARD "我明白了..."
+    VULSHAN_GUARD "我明白了……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:218
 translate zh qst_jackpot_black_diamond_damzel_assault_bf15b5d8:
 
     # VULSHAN_GUARD "There was... {i}An incident.{/i}"
-    VULSHAN_GUARD "之前发生了...{i}一起事件。{/i}"
+    VULSHAN_GUARD "之前发生了……{i}一起事件。{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:219
 translate zh qst_jackpot_black_diamond_damzel_assault_29d1df93:
@@ -778,7 +778,7 @@ translate zh qst_jackpot_black_diamond_damzel_assault_29d1df93:
 translate zh qst_jackpot_black_diamond_damzel_assault_c1170cce:
 
     # MC "Ah..."
-    MC "啊..."
+    MC "啊……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:221
 translate zh qst_jackpot_black_diamond_damzel_assault_950c3a52:
@@ -994,7 +994,7 @@ translate zh qst_jackpot_black_diamond_winward_2_90546219:
 translate zh qst_jackpot_black_diamond_winward_2_86baaf28:
 
     # VULSHAN_GUARD "Gentlemen ... The game for today is..."
-    VULSHAN_GUARD "诸位...今日的游戏是..."
+    VULSHAN_GUARD "诸位……今日的游戏是……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:281
 translate zh qst_jackpot_black_diamond_winward_2_599ed3ef:
@@ -1012,13 +1012,13 @@ translate zh qst_jackpot_black_diamond_winward_2_924a8ff2:
 translate zh qst_jackpot_black_diamond_winward_2_8dee82c6:
 
     # "(Barati game is under construction!)"
-    "(巴拉提游戏正在开发中！)"
+    "（巴拉提游戏正在开发中！）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:285
 translate zh qst_jackpot_black_diamond_winward_2_87072b1e:
 
     # MC "(Well, that's one good thing at least.)"
-    MC "(好吧，至少这是件好事。)"
+    MC "（好吧，至少这是件好事。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:286
 translate zh qst_jackpot_black_diamond_winward_2_3e77ad45:
@@ -1108,7 +1108,7 @@ translate zh qst_jackpot_black_diamond_winward_2_3568ae25:
 translate zh qst_jackpot_black_diamond_winward_2_a1a5cf3e:
 
     # MR_WINWARD "To see those who you always gave to readily, always supported in their time of need... Betray and abandon you like the flip of a coin?"
-    MR_WINWARD "看着那些你总是慷慨给予、在困难时刻始终支持的人...像抛硬币一样背叛抛弃你？"
+    MR_WINWARD "看着那些你总是慷慨给予、在困难时刻始终支持的人……像抛硬币一样背叛抛弃你？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:304
 translate zh qst_jackpot_black_diamond_winward_2_f1bbbaea:
@@ -1120,7 +1120,7 @@ translate zh qst_jackpot_black_diamond_winward_2_f1bbbaea:
 translate zh qst_jackpot_black_diamond_winward_2_195d0eb6:
 
     # MR_WINWARD "Now... Now we have nothing, and all of our {i}friends{/i} are either dead or have turned their backs on us."
-    MR_WINWARD "现在...现在我们一无所有，所有{i}朋友{/i}不是死了就是背弃了我们。"
+    MR_WINWARD "现在……现在我们一无所有，所有{i}朋友{/i}不是死了就是背弃了我们。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:306
 translate zh qst_jackpot_black_diamond_winward_2_31ccd9f4:
@@ -1156,7 +1156,7 @@ translate zh qst_jackpot_black_diamond_winward_2_76468f9d:
 translate zh qst_jackpot_black_diamond_winward_2_2c4f91fe:
 
     # MC "(There's no talking him out of this... Damn.)"
-    MC "(劝不动他了...该死。)"
+    MC "（劝不动他了……该死。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:316
 translate zh qst_jackpot_black_diamond_winward_2_f9f74572:
@@ -1180,19 +1180,19 @@ translate zh qst_jackpot_black_diamond_game_7072cc8f:
 translate zh qst_jackpot_black_diamond_game_e8afb45a:
 
     # MC @ smile "(It worked!)"
-    MC @ smile "(成功了！)"
+    MC @ smile "（成功了！）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:328
 translate zh qst_jackpot_black_diamond_game_322246ae:
 
     # MC "(That old prick is going to be pleased with this.)"
-    MC "(那老家伙会对此满意的。)"
+    MC "（那老家伙会对此满意的。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:329
 translate zh qst_jackpot_black_diamond_game_f390b8b4:
 
     # VULSHAN_GUARD "The games have now concluded. Gather up your earnings when ready, and please return to the main hall,"
-    VULSHAN_GUARD "游戏现已结束。请收拾好赢取的筹码，返回大厅,"
+    VULSHAN_GUARD "游戏现已结束。请收拾好赢取的筹码，返回大厅，"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:330
 translate zh qst_jackpot_black_diamond_game_edfd5666:
@@ -1276,19 +1276,19 @@ translate zh qst_jackpot_black_diamond_game_607e4614:
 translate zh qst_jackpot_black_diamond_game_eb7b47e3:
 
     # MC "(...Fuck.)"
-    MC "(...该死。)"
+    MC "（……该死。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:349
 translate zh qst_jackpot_black_diamond_game_8bdf4517:
 
     # MC "(The old man isn't going to be happy about this.)"
-    MC "(老头子不会高兴的。)"
+    MC "（老头子不会高兴的。）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:350
 translate zh qst_jackpot_black_diamond_game_f390b8b4_1:
 
     # VULSHAN_GUARD "The games have now concluded. Gather up your earnings when ready, and please return to the main hall,"
-    VULSHAN_GUARD "游戏现已结束。请收拾好赢取的筹码，返回大厅,"
+    VULSHAN_GUARD "游戏现已结束。请收拾好赢取的筹码，返回大厅，"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:351
 translate zh qst_jackpot_black_diamond_game_edfd5666_1:
@@ -1312,19 +1312,19 @@ translate zh qst_jackpot_black_diamond_game_0fa9b0ad:
 translate zh qst_jackpot_black_diamond_game_e30a3671:
 
     # MR_WINWARD @ shock "...Where's... Where's all the coin?"
-    MR_WINWARD @ shock "...钱呢...钱都哪去了？"
+    MR_WINWARD @ shock "……钱呢……钱都哪去了？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:355
 translate zh qst_jackpot_black_diamond_game_c06f1c24:
 
     # MC @ think "W-Well, you see..."
-    MC @ think "呃-这个，你看..."
+    MC @ think "呃——这个，你看……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:356
 translate zh qst_jackpot_black_diamond_game_d7571421:
 
     # MR_WINWARD @ shock "...You...You lost, didn't you?"
-    MR_WINWARD @ shock "...你...你输了，是不是？"
+    MR_WINWARD @ shock "……你……你输了，是不是？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:357
 translate zh qst_jackpot_black_diamond_game_26f287b7:
@@ -1378,7 +1378,7 @@ translate zh qst_jackpot_black_diamond_vulshan_distraction_9c914759:
 translate zh qst_jackpot_black_diamond_vulshan_distraction_9a2016ba:
 
     # VULSHAN_GUARD "Haha, let's say his drinks shall be a little {i}stronger{/i} than we usually serve..."
-    VULSHAN_GUARD "哈哈，就说他的酒会比平常{i}烈{/i}一点..."
+    VULSHAN_GUARD "哈哈，就说他的酒会比平常{i}烈{/i}一点……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:376
 translate zh qst_jackpot_black_diamond_vulshan_distraction_a3a13b2c:
@@ -1623,13 +1623,13 @@ translate zh qst_jackpot_black_diamond_vulshan_couch_e2fd4a62:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:452
 translate zh qst_jackpot_black_diamond_vulshan_couch_05a6acf5:
 
-    VULSHAN_GUARD "很高兴再次见到你，朋友。"
+    # VULSHAN_GUARD "很高兴再次见到你，朋友。"
     VULSHAN_GUARD "很高兴再次见到你，朋友。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:453
 translate zh qst_jackpot_black_diamond_vulshan_couch_05b31150:
 
-    VULSHAN_GUARD "随时欢迎再来..."
+    # VULSHAN_GUARD "随时欢迎再来..."
     VULSHAN_GUARD "随时欢迎再来..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:454
@@ -1641,157 +1641,157 @@ translate zh qst_jackpot_black_diamond_vulshan_couch_1aad024f:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:455
 translate zh qst_jackpot_black_diamond_vulshan_couch_15dd27a2:
 
-    MR_WINWARD "呃...发生了什么？"
+    # MR_WINWARD "呃...发生了什么？"
     MR_WINWARD "呃... 发生了什么？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:456
 translate zh qst_jackpot_black_diamond_vulshan_couch_2b66f0b1:
 
-    MR_WINWARD "我们...我们赢了吗？"
+    # MR_WINWARD "我们...我们赢了吗？"
     MR_WINWARD "我们...赢了吗？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:457
 translate zh qst_jackpot_black_diamond_vulshan_couch_62a82f90:
 
-    MR_WINWARD @ think "我记得的最后一件事是，我...我..."
+    # MR_WINWARD @ think "我记得的最后一件事是，我...我..."
     MR_WINWARD @ think "我记得的最后一件事是，我...我..."
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:459
 translate zh qst_jackpot_black_diamond_vulshan_couch_d52e9514:
 
-    MC "是的，我们赢了。"
+    # MC "是的，我们赢了。"
     MC "是的，我们赢了。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:461
 translate zh qst_jackpot_black_diamond_vulshan_couch_978fdb61:
 
-    MC "现在来吧，让我们离开这个地方。"
+    # MC "现在来吧，让我们离开这个地方。"
     MC "现在走吧，我们离开这里。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:462
 translate zh qst_jackpot_black_diamond_vulshan_couch_285cc892:
 
-    MR_WINWARD @ sad "{i}呃啊啊啊...我的头...{/i}"
+    # MR_WINWARD @ sad "{i}呃啊啊啊...我的头...{/i}"
     MR_WINWARD @ sad "{i}呃啊啊啊...我的头...{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:466
 translate zh qst_jackpot_black_diamond_vulshan_couch_f3fb06bb:
 
-    MC "(我想我会再四处看看一会儿。)"
+    # MC "(我想我会再四处看看一会儿。)"
     MC "(我想我会再四处看看。)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:480
 translate zh qst_jackpot_after_diamond_game_21c8995f:
 
-    MR_WINWARD @ sad "我发誓我...呃啊...我的头！"
-    MR_WINWARD @ sad "我发誓我...呃...我的头！"
+    # MR_WINWARD @ sad "我发誓我...呃啊...我的头！"
+    MR_WINWARD @ sad "我发誓我……呃……我的头！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:481
 translate zh qst_jackpot_after_diamond_game_28fa4597:
 
-    MR_WINWARD @ shock "我...赢了吗？"
-    MR_WINWARD @ shock "我...赢了吗？"
+    # MR_WINWARD @ shock "我...赢了吗？"
+    MR_WINWARD @ shock "我……赢了吗？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:482
 translate zh qst_jackpot_after_diamond_game_9d1bce55:
 
-    MC "你当然赢了！"
+    # MC "你当然赢了！"
     MC "当然赢了！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:483
 translate zh qst_jackpot_after_diamond_game_9a664bc5:
 
-    MC "我们有硬币可以证明，不是吗？"
+    # MC "我们有硬币可以证明，不是吗？"
     MC "我们有硬币为证，不是吗？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:484
 translate zh qst_jackpot_after_diamond_game_f1110674:
 
-    MR_WINWARD @ sad "我发誓我...我记得有些女孩和-"
-    MR_WINWARD @ sad "我发誓我...我记得有些女孩和-"
+    # MR_WINWARD @ sad "我发誓我...我记得有些女孩和-"
+    MR_WINWARD @ sad "我发誓我……我记得有些女孩和——"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:485
 translate zh qst_jackpot_after_diamond_game_ccec3faa:
 
-    MC @ serious "温沃德先生，我们快走吧。"
+    # MC @ serious "温沃德先生，我们快走吧。"
     MC @ serious "温沃德先生，我们快走吧。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:486
 translate zh qst_jackpot_after_diamond_game_ca3e9fe9:
 
-    MR_WINWARD @ sad "好的，好的...带路吧，啊..."
-    MR_WINWARD @ sad "对，对...带路吧，啊..."
+    # MR_WINWARD @ sad "好的，好的……带路吧，啊……"
+    MR_WINWARD @ sad "对，对……带路吧，啊……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:487
 translate zh qst_jackpot_after_diamond_game_96d1bb64:
 
-    MR_WINWARD @ sad "{i}我的头快疼死了。{/i}"
+    # MR_WINWARD @ sad "{i}我的头快疼死了。{/i}"
     MR_WINWARD @ sad "{i}我的头要炸了。{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:494
 translate zh qst_jackpot_after_diamond_game_ce9d2cd6:
 
-    MR_WINWARD @ happy "好了，小伙子。"
+    # MR_WINWARD @ happy "好了，小伙子。"
     MR_WINWARD @ happy "来吧，小伙子。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:495
 translate zh qst_jackpot_after_diamond_game_d0ca01bb:
 
-    MR_WINWARD @ think "根据我对这种地方的经验，一旦赢了钱，就得尽快离开！"
+    # MR_WINWARD @ think "根据我对这种地方的经验，一旦赢了钱，就得尽快离开！"
     MR_WINWARD @ think "根据我在这种地方的经验，一旦赢了，就得尽快离开！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:496
 translate zh qst_jackpot_after_diamond_game_5d8984a5:
 
-    MC "带路吧，我来确保没人跟踪我们。"
+    # MC "带路吧，我来确保没人跟踪我们。"
     MC "你带路，我确保没人跟踪我们。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:503
 translate zh qst_jackpot_after_diamond_game_c6cc2b67:
 
-    MR_WINWARD @ angry "哼，这下你他妈满意了吧！"
+    # MR_WINWARD @ angry "哼，这下你他妈满意了吧！"
     MR_WINWARD @ angry "好吧，我希望你他妈的高兴了！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:504
 translate zh qst_jackpot_after_diamond_game_fff8720f:
 
-    MR_WINWARD @ angry "你毁了我，小子，彻底毁了我！"
+    # MR_WINWARD @ angry "你毁了我，小子，彻底毁了我！"
     MR_WINWARD @ angry "你毁了我，小子，毁了我！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:505
 translate zh qst_jackpot_after_diamond_game_ace5d395:
 
-    MC @ angry "你这蠢货，最不该做的就是在这种地方把所有的钱都赌光！"
+    # MC @ angry "你这蠢货，最不该做的就是在这种地方把所有的钱都赌光！"
     MC @ angry "你这傻瓜，最不该做的就是在这种地方赌光你所有的硬币！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:506
 translate zh qst_jackpot_after_diamond_game_4f888d98:
 
-    MR_WINWARD @ angry "呸！你就是想让我输光钱，对吧？"
+    # MR_WINWARD @ angry "呸！你就是想让我输光钱，对吧？"
     MR_WINWARD @ angry "呸！你就是想让我输光硬币，对吧？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:507
 translate zh qst_jackpot_after_diamond_game_513e2618:
 
-    MR_WINWARD @ angry "我打赌是那个老婊子指使你干的，是不是？嗯？"
+    # MR_WINWARD @ angry "我打赌是那个老婊子指使你干的，是不是？嗯？"
     MR_WINWARD @ angry "我打赌是那个老婊子指使你的，对吧？嗯？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:508
 translate zh qst_jackpot_after_diamond_game_f45f51ec:
 
-    BLACK "(这个雄性正日益成为我们目标的阻碍...{i}要把他作为威胁清除掉吗？{/i})"
-    BLACK "(这个男性正越来越成为我们目标的障碍... {i}要把他作为威胁消除吗？{/i})"
+    # BLACK "(这个雄性正日益成为我们目标的阻碍……{i}要把他作为威胁清除掉吗？{/i})"
+    BLACK "(这个男性正越来越成为我们目标的障碍…… {i}要把他作为威胁消除吗？{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:511
 translate zh qst_jackpot_after_diamond_game_492fed1e:
 
-    MR_WINWARD @ angry "哼！"
+    # MR_WINWARD @ angry "哼！"
     MR_WINWARD @ angry "哼！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:512
 translate zh qst_jackpot_after_diamond_game_561645aa:
 
-    MR_WINWARD @ angry "我亲眼看到才会相信！"
+    # MR_WINWARD @ angry "我亲眼看到才会相信！"
     MR_WINWARD @ angry "等我亲眼看到才会相信！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:514
@@ -1803,14 +1803,14 @@ translate zh qst_jackpot_after_diamond_game_4ca94967:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:515
 translate zh qst_jackpot_after_diamond_game_a4f1e169:
 
-    MC "{i}*叹气*{/i}"
+    # MC "{i}*叹气*{/i}"
     MC "{i}*叹气*{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:521
 translate zh qst_jackpot_after_diamond_game_a55a9cbe:
 
     # "I couldn't hold it back any longer... More and more, I felt the dark rage swelling inside of me."
-    "我再也无法抑制了...越来越感到内心的黑暗愤怒在膨胀。"
+    "我再也无法抑制了……越来越感到内心的黑暗愤怒在膨胀。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:522
 translate zh qst_jackpot_after_diamond_game_583e0d9b:
@@ -1821,8 +1821,8 @@ translate zh qst_jackpot_after_diamond_game_583e0d9b:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:523
 translate zh qst_jackpot_after_diamond_game_cf9ab14e:
 
-    MR_WINWARD @ shock "我...你为什么这样看着我-"
-    MR_WINWARD @ shock "我...你为什么这样看着我-"
+    # MR_WINWARD @ shock "我……你为什么这样看着我——"
+    MR_WINWARD @ shock "我……你为什么这样看着我——"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:529
 translate zh qst_jackpot_after_diamond_game_5f1446a4:
@@ -1851,14 +1851,14 @@ translate zh qst_jackpot_after_diamond_game_65663ced:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:537
 translate zh qst_jackpot_after_diamond_game_1ebfc64b:
 
-    MC @ scared "(哦-哦，该死！我们刚刚做了什么？！)"
-    MC @ scared "(哦-哦操！我们刚刚做了什么?!)"
+    # MC @ scared "(哦-哦，该死！我们刚刚做了什么？！)"
+    MC @ scared "（哦——哦操！我们刚刚做了什么？！）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:538
 translate zh qst_jackpot_after_diamond_game_b90d6760:
 
-    BLACK "({i}我们离开这里吧。快点。{/i})"
-    BLACK "({i}我们离开这里。快。{/i})"
+    # BLACK "({i}我们离开这里吧。快点。{/i})"
+    BLACK "（{i}我们离开这里。快。{/i}）"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:541
 translate zh qst_jackpot_after_diamond_game_f6fb58be:
@@ -1869,79 +1869,79 @@ translate zh qst_jackpot_after_diamond_game_f6fb58be:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:542
 translate zh qst_jackpot_after_diamond_game_22545ffa:
 
+    # MC "(温沃德夫人，她会——)"
     MC "(温沃德夫人，她会——)"
-    MC "(温沃德夫人，她会-)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:543
 translate zh qst_jackpot_after_diamond_game_3f76402b:
 
-    BLACK "({i}永远不需要知道...她那愚蠢的丈夫只是碰巧遇到了{i}不该惹{/i}的人，并为此付出了代价。{/i})"
-    BLACK "({i}永远不需要知道...她愚蠢的丈夫只是偶然遇到了{i}错误{/i}的人并付出了代价。{/i})"
+    # BLACK "({i}永远不需要知道...她那愚蠢的丈夫只是碰巧遇到了{i}不该惹{/i}的人，并为此付出了代价。{/i})"
+    BLACK "({i}永远不需要知道……她愚蠢的丈夫只是偶然遇到了{i}错误{/i}的人并付出了代价。{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:544
 translate zh qst_jackpot_after_diamond_game_29e5a94c:
 
-    BLACK "({i}据我估计，以他目前鲁莽的行事方式，有百分之八十四点六的概率，这个结局是不可避免的。{/i})"
+    # BLACK "({i}据我估计，以他目前鲁莽的行事方式，有百分之八十四点六的概率，这个结局是不可避免的。{/i})"
     BLACK "({i}据我估计，以他目前鲁莽的道路，有84.6%%的几率这个结果是不可避免的。{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:545
 translate zh qst_jackpot_after_diamond_game_e7856eb4:
 
     # "Somehow, the cold calculations of my dark passenger made my horrific crime ever so slightly more tolerable to me... If only a little."
-    "不知何故，我黑暗乘客的冷酷计算让我那可怕的罪行变得稍微可以忍受...哪怕只是一点点。"
+    "不知何故，我黑暗乘客的冷酷计算让我那可怕的罪行变得稍微可以忍受……哪怕只是一点点。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:546
 translate zh qst_jackpot_after_diamond_game_62a4e637:
 
-    BLACK "({i}现在我们必须占有他的伴侣，让她满足。{/i})"
+    # BLACK "({i}现在我们必须占有他的伴侣，让她满足。{/i})"
     BLACK "({i}现在我们必须得到他的配偶并让她满意。{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:547
 translate zh qst_jackpot_after_diamond_game_4fbcd646:
 
-    MC "(...你知道吗，你有时候真可怕。)"
-    MC "(...你有时很可怕，知道吗?)"
+    # MC "(...你知道吗，你有时候真可怕。)"
+    MC "(……你有时很可怕，知道吗？)"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:548
 translate zh qst_jackpot_after_diamond_game_0239f662:
 
-    BLACK "({i}显然...你也是...{/i})"
-    BLACK "({i}显然，你也是...{/i})"
+    # BLACK "({i}显然...你也是...{/i})"
+    BLACK "({i}显然，你也是……{/i})"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:559
 translate zh qst_jackpot_black_diamond_vip_scene_2f7263e4:
 
     # "As I headed into one of the private rooms, a pleasant surprise was awaiting me..."
-    "当我走进一间私人房间时，一个愉快的惊喜正等着我..."
+    "当我走进一间私人房间时，一个愉快的惊喜正等着我……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:563
 translate zh qst_jackpot_black_diamond_vip_scene_e5d8e0a5:
 
-    BLACK_DIAMOND_SERVICE_GIRL "您想让我怎么做，先生？"
+    # BLACK_DIAMOND_SERVICE_GIRL "您想让我怎么做，先生？"
     BLACK_DIAMOND_SERVICE_GIRL "先生，您想要我怎么做？"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:568
 translate zh qst_jackpot_black_diamond_vip_scene_8371612d:
 
-    BLACK_DIAMOND_SERVICE_GIRL "嗯嗯，如您所愿。"
+    # BLACK_DIAMOND_SERVICE_GIRL "嗯嗯，如您所愿。"
     BLACK_DIAMOND_SERVICE_GIRL "嗯，如您所愿。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:573
 translate zh qst_jackpot_black_diamond_vip_scene_3ce5eacc:
 
-    BLACK_DIAMOND_SERVICE_GIRL "无论您想要什么。"
+    # BLACK_DIAMOND_SERVICE_GIRL "无论您想要什么。"
     BLACK_DIAMOND_SERVICE_GIRL "无论您想要什么。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:586
 translate zh qst_jackpot_black_diamond_vip_scene_741a30a5:
 
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*吸吮声！* *吸吮声！*{/i}"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*吮吸!* *吮吸!*{/i}"
+    # BLACK_DIAMOND_SERVICE_GIRL "{i}*吸吮声！* *吸吮声！*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*吮吸！* *吮吸！*{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:587
 translate zh qst_jackpot_black_diamond_vip_scene_51ab66f6:
 
-    BLACK_DIAMOND_SERVICE_GIRL "嗯嗯嗯嗯！舒恰比格嗯嗯嗯！"
+    # BLACK_DIAMOND_SERVICE_GIRL "嗯嗯嗯嗯！舒恰比格嗯嗯嗯！"
     BLACK_DIAMOND_SERVICE_GIRL "嗯嗯嗯！如此巨大 嗯嗯！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:588
@@ -1965,8 +1965,8 @@ translate zh qst_jackpot_black_diamond_vip_scene_0dc0cb3b:
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:591
 translate zh qst_jackpot_black_diamond_vip_scene_f406fe32:
 
-    MC "嗯嗯嗯..."
-    MC "嗯嗯..."
+    # MC "嗯嗯嗯..."
+    MC "嗯嗯……"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:599
 translate zh qst_jackpot_black_diamond_vip_scene_bc517590:
@@ -1984,7 +1984,7 @@ translate zh qst_jackpot_black_diamond_vip_scene_530e6c76:
 translate zh qst_jackpot_black_diamond_vip_scene_aebca5cc:
 
     #BLACK_DIAMOND_SERVICE_GIRL "{i}Mhhfh! *Shlick!*{/i} Shuchahhh - Mhhfhh! Ghooodhh chockhh! {i}*Slurp!*{/i}"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}嗯嗯! *舔舐!*{/i} 如此啊 - 嗯嗯! 好大 鸡巴! {i}*吮吸!*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}嗯嗯！*舔舐！*{/i} 如此啊——嗯嗯！好大 鸡巴！{i}*吮吸！*{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:602
 translate zh qst_jackpot_black_diamond_vip_scene_86eeb8ce:
@@ -2002,13 +2002,13 @@ translate zh qst_jackpot_black_diamond_vip_scene_f3f7ffc4:
 translate zh qst_jackpot_black_diamond_vip_scene_bd7307db:
 
     #MC "啊……！我要——"
-    MC "啊...! 我要-"
+    MC "啊……！我要——"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:605
 translate zh qst_jackpot_black_diamond_vip_scene_7a80cfd2:
 
     # BLACK_DIAMOND_SERVICE_GIRL "{i}*吸吮！*{/i} 嗯嗯嗯！就……就在准备好时结束吧！{i}*吸吮！*{/i} 嗯嗯！"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*吮吸!*{/i} 嗯嗯! 就射吧 当您准备好时! {i}*吮吸!*{/i} 嗯!"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*吮吸！*{/i} 嗯嗯！就射吧 当您准备好时！{i}*吮吸！*{/i} 嗯！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:606
 translate zh qst_jackpot_black_diamond_vip_scene_c614ef8f:
@@ -2026,13 +2026,13 @@ translate zh qst_jackpot_black_diamond_vip_scene_df527f38:
 translate zh qst_jackpot_black_diamond_vip_scene_37832b20:
 
     # MC "呃——啊啊啊啊！！"
-    MC "呵-啊啊啊!!"
+    MC "呵——啊啊啊！！"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:625
 translate zh qst_jackpot_black_diamond_vip_scene_80a86ee9:
 
     # BLACK_DIAMOND_SERVICE_GIRL "{i}*吞咽！*{/i} 嗯嗯！{i}*吸吮！*{/i}"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*吞咽!*{/i} 嗯! {i}*吮吸!*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*吞咽！*{/i} 嗯！{i}*吮吸！*{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:626
 translate zh qst_jackpot_black_diamond_vip_scene_6c79331e:
@@ -2193,9 +2193,8 @@ translate zh strings:
 
     # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:28
     old "No (don't change anything)"
-    new "不(什么也不改变)"
+    new "不（什么也不改变）"
 
-# TODO: Translation updated at 2026-06-13 12:54
 
 translate zh strings:
 

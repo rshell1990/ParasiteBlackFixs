@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/sexy_scenes/arwen/galleryDefs.rpy:22
     old "As Celeste (Captured)"
-    new "As Celeste (Captured)"
+    new "Als Celeste (Gefangen)"
 
     # game/data/sexy_scenes/arwen/galleryDefs.rpy:30
     old "As Celeste (Won Heart)"
-    new "As Celeste (Won Heart)"
+    new "Als Celeste (Herz gewonnen)"
 

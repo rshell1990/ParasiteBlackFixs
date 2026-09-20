@@ -340,8 +340,7 @@ translate ja qst_Terminus_KitchenEnterMorning_650e053a:
 translate ja qst_Terminus_KitchenEnterMorning_f0e4df88:
 
     # "I must admit, I missed her deeply as she went off, gallivanting around on great adventures..."
-    "私は認めなければならない、彼女のことが恋しかったと
-大冒険に出かける彼女の姿を見送りながら…"
+    "私は認めなければならない、彼女のことが恋しかったと大冒険に出かける彼女の姿を見送りながら…"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_0_TerminusDay.rpy:114
 translate ja qst_Terminus_KitchenEnterMorning_41ebf0a9:
@@ -1349,8 +1348,7 @@ translate ja qst_Terminus_EnterPalace_206a036b:
 translate ja qst_Terminus_EnterPalace_b2159af0:
 
     # ADARA @ talk "Where’s the Princess? Can you see her?"
-    ADARA @ talk "姫はどこ？
-見える？"
+    ADARA @ talk "姫はどこ？見える？"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_0_TerminusDay.rpy:362
 translate ja qst_Terminus_EnterPalace_cd8ebdee:
@@ -1584,8 +1582,7 @@ translate ja qst_Terminus_EnterPalace_33948c6a:
 translate ja qst_Terminus_EnterPalace_842aed12:
 
     # "There were murmurs and whispers amongst the crowd, Alcott was not popular by any metric, but he was respected, and above all... {i}feared.{/i}"
-    "群衆の中には囁きや私語が飛び交った。
-アルコットはどの基準でも人気があるわけではなかったが、尊敬はされており、そして何より…{i}怖れられていた。{/i}"
+    "群衆の中には囁きや私語が飛び交った。アルコットはどの基準でも人気があるわけではなかったが、尊敬はされており、そして何より…{i}怖れられていた。{/i}"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_0_TerminusDay.rpy:435
 translate ja qst_Terminus_EnterPalace_8ff1bc91:
@@ -1717,8 +1714,7 @@ translate ja qst_Terminus_EnterPalace_49080373:
 translate ja qst_Terminus_EnterPalace_525dee60:
 
     # MARKUS "We need more leaders like him. Leaders who will do what has to be done."
-    MARKUS "彼のような指導者が必要だ。
-やるべきことを成し遂げる指導者が。"
+    MARKUS "彼のような指導者が必要だ。やるべきことを成し遂げる指導者が。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_0_TerminusDay.rpy:469
 translate ja qst_Terminus_EnterPalace_6fa51ea6:
@@ -2442,8 +2438,7 @@ translate ja qst_Terminus_EnterPalace_6c35cf3a:
 translate ja qst_Terminus_EnterPalace_94fe48cb:
 
     # MARKUS "Adara... Live safe in the knowledge that I know you belong in [player_name!t]’s harem, not mine."
-    MARKUS "アダラ…安心して生きてくれ。
-君は私のではなく、[player_name!t]のハーレムに属していることを私は知っているから。"
+    MARKUS "アダラ…安心して生きてくれ。君は私のではなく、[player_name!t]のハーレムに属していることを私は知っているから。"
 
 # game/data/world_quests/main/Prologue/TheTerminus/scr_0_TerminusDay.rpy:390
 translate ja qst_Terminus_EnterPalace_64f61ef0:

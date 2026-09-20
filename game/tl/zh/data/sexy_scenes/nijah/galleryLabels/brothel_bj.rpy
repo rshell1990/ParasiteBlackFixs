@@ -10,13 +10,13 @@ translate zh gallery_nijah_prol_bj_b8198403:
 translate zh gallery_nijah_prol_bj_ac57432e:
 
     # NIJAH "So, how was zat, {i}lover?{/i}"
-    NIJAH "所以感觉如何，{i}小情人?{/i}"
+    NIJAH "所以感觉如何，{i}小情人？{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:6
 translate zh gallery_nijah_prol_bj_69e3376a:
 
     # MC "It was... {i}*huff*{/i} pretty great..."
-    MC "感觉... {i}*呼*{/i} 棒极了..."
+    MC "感觉……{i}*呼*{/i} 棒极了……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:7
 translate zh gallery_nijah_prol_bj_02fdebd5:
@@ -40,7 +40,7 @@ translate zh gallery_nijah_prol_bj_f14fd51c:
 translate zh gallery_nijah_prol_bj_859180d1:
 
     # MC "S-Sure..."
-    MC "当...当然..."
+    MC "当……当然……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:18
 translate zh gallery_nijah_prol_bj_87dac4de:
@@ -58,13 +58,13 @@ translate zh gallery_nijah_prol_bj_d406f57e:
 translate zh gallery_nijah_prol_bj_c2d70f7a:
 
     # MC "Ah... So... how did you end up in the Capital?"
-    MC "啊... 那么... 你是怎么来到首都的？"
+    MC "啊……那么……你是怎么来到首都的？"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:25
 translate zh gallery_nijah_prol_bj_80cd5b25:
 
     # NIJAH "{i}*PLOP*{/i} Many of my people, zey were stranded during ze first outbreak."
-    NIJAH "{i}*啵*{/i} 窝的族人...第一次瘟疫爆发时被困在这里。"
+    NIJAH "{i}*啵*{/i} 我的族人...第一次瘟疫爆发时被困在这里。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:26
 translate zh gallery_nijah_prol_bj_7257677b:
@@ -82,7 +82,7 @@ translate zh gallery_nijah_prol_bj_7ad9f963:
 translate zh gallery_nijah_prol_bj_b2e1d00b:
 
     # NIJAH @ sad "{i}*Sigh*{/i} I miss my home greatly..."
-    NIJAH @ sad "{i}*叹气*{/i} 窝好想家..."
+    NIJAH @ sad "{i}*叹气*{/i} 我好想家..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:29
 translate zh gallery_nijah_prol_bj_9661250a:
@@ -100,7 +100,7 @@ translate zh gallery_nijah_prol_bj_a32edefc:
 translate zh gallery_nijah_prol_bj_1b6a07e6:
 
     # NIJAH "Let me make you smile instead!"
-    NIJAH "让窝逗泥开心吧！"
+    NIJAH "让我逗你开心吧！"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:36
 translate zh gallery_nijah_prol_bj_5bc51621:
@@ -256,19 +256,19 @@ translate zh gallery_nijah_prol_bj_e35b1955:
 translate zh gallery_nijah_prol_bj_8e65e8dc:
 
     # MC "F-Fuck!"
-    MC "操-操啊！"
+    MC "操——操啊！"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:71
 translate zh gallery_nijah_prol_bj_86afa9ac:
 
     # NIJAH "{i}*Slurp!* *Slurp!*{/i} Mmm..."
-    NIJAH "{i}*吸吮声！* *吸吮声！*{/i} 嗯..."
+    NIJAH "{i}*吸吮声！* *吸吮声！*{/i} 嗯……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:72
 translate zh gallery_nijah_prol_bj_aa6abc7d:
 
     # MC "S-Shit! Nijah! I’m gonna cum again! I’m gonna—"
-    MC "靠-靠！妮雅！我又要射了！我要——"
+    MC "靠——靠！妮雅！我又要射了！我要——"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:73
 translate zh gallery_nijah_prol_bj_e7a6e42a:
@@ -298,19 +298,19 @@ translate zh gallery_nijah_prol_bj_dbcbfc3e:
 translate zh gallery_nijah_prol_bj_028232be:
 
     # MC "{i}*Huff*{/i} But I thought we... {i}*huff*{/i} were out of..."
-    MC "{i}*喘气*{/i} 但我以为我们... {i}*喘气*{/i} 已经没..."
+    MC "{i}*喘气*{/i} 但我以为我们…… {i}*喘气*{/i} 已经没……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:85
 translate zh gallery_nijah_prol_bj_bb2eb9b9:
 
     # NIJAH "You iz cute boy."
-    NIJAH "你兹（是）个可爱的男孩。"
+    NIJAH "你是个可爱的男孩。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:86
 translate zh gallery_nijah_prol_bj_d85defdc:
 
     # NIJAH "{i}I like you...{/i}"
-    NIJAH "{i}窝喜欢泥...{/i}"
+    NIJAH "{i}我喜欢你...{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:88
 translate zh gallery_nijah_prol_bj_a7f3cfe6:
@@ -325,7 +325,6 @@ translate zh gallery_nijah_prol_bj_aaf49699:
     MC "谢...谢谢..."
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:56
 translate zh gallery_nijah_prol_bj_443adfe5:

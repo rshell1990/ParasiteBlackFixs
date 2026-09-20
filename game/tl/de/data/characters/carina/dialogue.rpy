@@ -4,57 +4,57 @@
 translate de talk_carina_office_2f5021af:
 
     # CARINA "Yes, [player_name!t]?"
-    CARINA "Yes, [player_name!t]?"
+    CARINA "Ja, [player_name!t]?"
 
 # game/data/characters/carina/dialogue.rpy:22
 translate de talk_carina_hows_stuff_d1277275:
 
     # CARINA "Quite good, actually."
-    CARINA "Quite good, actually."
+    CARINA "Ziemlich gut, eigentlich."
 
 # game/data/characters/carina/dialogue.rpy:23
 translate de talk_carina_hows_stuff_d274484d:
 
     # CARINA "Was there something specific you wanted?"
-    CARINA "Was there something specific you wanted?"
+    CARINA "Wolltest du etwas Bestimmtes?"
 
 # game/data/characters/carina/dialogue.rpy:24
 translate de talk_carina_hows_stuff_8182f757:
 
     # MC "Not really."
-    MC "Not really."
+    MC "Nicht wirklich."
 
 # game/data/characters/carina/dialogue.rpy:28
 translate de talk_carina_bye_25c08c69:
 
     # CARINA "Safe travels, [player_name!t]."
-    CARINA "Safe travels, [player_name!t]."
+    CARINA "Gute Reise, [player_name!t]."
 
 # game/data/characters/carina/dialogue.rpy:29
 translate de talk_carina_bye_6d47afd1:
 
     # CARINA "Do pay me a visit every now and then, {i}alright?{/i}"
-    CARINA "Do pay me a visit every now and then, {i}alright?{/i}"
+    CARINA "Besuch mich ab und zu mal, {i}in Ordnung?{/i}"
 
 # game/data/characters/carina/dialogue.rpy:30
 translate de talk_carina_bye_690b7417:
 
     # MC "Sure."
-    MC "Sure."
+    MC "Klar."
 
 # game/data/characters/carina/dialogue.rpy:31
 translate de talk_carina_bye_59a554cf:
 
     # CARINA "Having you around is... good for business."
-    CARINA "Having you around is... good for business."
+    CARINA "Dich in der Nähe zu haben ist... gut fürs Geschäft."
 
 translate de strings:
 
     # game/data/characters/carina/dialogue.rpy:7
     old "Talk to Carina"
-    new "Talk to Carina"
+    new "Mit Carina sprechen"
 
     # game/data/characters/carina/dialogue.rpy:11
     old "How is the business?"
-    new "How is the business?"
+    new "Wie läuft das Geschäft?"
 

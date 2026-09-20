@@ -64,37 +64,37 @@ translate de gallery_jackpot_vip_bj_aebca5cc:
 translate de gallery_jackpot_vip_bj_86eeb8ce:
 
     # "Eventually, our brief time of play was at an end."
-    "Eventually, our brief time of play was at an end."
+    "Schließlich war unsere kurze Spielzeit zu Ende."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:41
 translate de gallery_jackpot_vip_bj_f3f7ffc4:
 
     # "As I felt my balls tighten and rise from her expert teasing, I grunted through gritted teeth to warn her of my impending finish."
-    "As I felt my balls tighten and rise from her expert teasing, I grunted through gritted teeth to warn her of my impending finish."
+    "Als ich spürte, wie sich meine Hoden durch ihre gekonnte Neckerei zusammenzogen und hoben, grunzte ich durch zusammengebissene Zähne, um sie vor meinem bevorstehenden Höhepunkt zu warnen."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:42
 translate de gallery_jackpot_vip_bj_bd7307db:
 
     # MC "Ahhh...! I'm gonna-"
-    MC "Ahhh...! I'm gonna-"
+    MC "Ahhh...! Ich werde-"
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:43
 translate de gallery_jackpot_vip_bj_7a80cfd2:
 
     # BLACK_DIAMOND_SERVICE_GIRL "{i}*Slurp!*{/i} Mhmmfhh! Jhusthh fhinishhh whennhh rheadhyy! {i}*Slurp!*{/i} Mhmmff!"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*Slurp!*{/i} Mhmmfhh! Jhusthh fhinishhh whennhh rheadhyy! {i}*Slurp!*{/i} Mhmmff!"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*Schlürf!*{/i} Mhmmfhh! Khommm eihnfach, wenn du bhereit bihst! {i}*Schlürf!*{/i} Mhmmff!"
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:44
 translate de gallery_jackpot_vip_bj_c614ef8f:
 
     # "Soon, as her tongue flickered over the head of my cock before gliding down to deep throat my member, she held it there and waited expectently."
-    "Soon, as her tongue flickered over the head of my cock before gliding down to deep throat my member, she held it there and waited expectently."
+    "Bald, als ihre Zunge über die Eichel meines Schwanzes flackerte, bevor sie hinabglitt, um mein Glied tief in den Rachen zu nehmen, hielt sie es dort und wartete erwartungsvoll."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:45
 translate de gallery_jackpot_vip_bj_df527f38:
 
     # "After her long, continuous teasing, I finally felt overwhelmed with her mouth, and grabbing the back of her head, held at her soft hair as I poured my thick load down her throat."
-    "After her long, continuous teasing, I finally felt overwhelmed with her mouth, and grabbing the back of her head, held at her soft hair as I poured my thick load down her throat."
+    "Nach ihrem langen, ununterbrochenen Necken fühlte ich mich endlich von ihrem Mund überwältigt, und packte ihren Hinterkopf, hielt mich an ihrem weichen Haar fest, während ich meine dicke Ladung in ihre Kehle goss."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:46
 translate de gallery_jackpot_vip_bj_37832b20:
@@ -106,45 +106,45 @@ translate de gallery_jackpot_vip_bj_37832b20:
 translate de gallery_jackpot_vip_bj_80a86ee9:
 
     # BLACK_DIAMOND_SERVICE_GIRL "{i}*Gulp!*{/i} Mhmmff! {i}*Slurp!*{/i}"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*Gulp!*{/i} Mhmmff! {i}*Slurp!*{/i}"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*Schluck!*{/i} Mhmmff! {i}*Schlürf!*{/i}"
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:57
 translate de gallery_jackpot_vip_bj_6c79331e:
 
     # "As the rush of seed flooded down her throat, I noticed her legs trembling slightly as some sweet, glistening juices dripped down between her legs onto the floor."
-    "As the rush of seed flooded down her throat, I noticed her legs trembling slightly as some sweet, glistening juices dripped down between her legs onto the floor."
+    "Als die Samenflut ihre Kehle hinunterströmte, bemerkte ich, wie ihre Beine leicht zitterten, während süße, glitzernde Säfte zwischen ihren Beinen auf den Boden tropften."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:58
 translate de gallery_jackpot_vip_bj_76302dec:
 
     # "{i}Had she just finished from sucking my cock alone?{/i}"
-    "{i}Had she just finished from sucking my cock alone?{/i}"
+    "{i}Hatte sie gerade allein vom Blasen meines Schwanzes ihren Höhepunkt erreicht?{/i}"
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:59
 translate de gallery_jackpot_vip_bj_34d9091c:
 
     # "The girl eagerly swallowed and licked up every last hint of my seed, making sure not to waste a drop."
-    "The girl eagerly swallowed and licked up every last hint of my seed, making sure not to waste a drop."
+    "Das Mädchen schluckte eifrig und leckte jede letzte Spur meines Samens auf, darauf bedacht, keinen Tropfen zu verschwenden."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:60
 translate de gallery_jackpot_vip_bj_f3de1b92:
 
     # "Satisfied my member had been cleaned, she pulled back, wipping her mouth clean with a cloth delicately."
-    "Satisfied my member had been cleaned, she pulled back, wipping her mouth clean with a cloth delicately."
+    "Zufrieden, dass mein Glied sauber war, zog sie sich zurück und wischte sich behutsam den Mund mit einem Tuch ab."
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:61
 translate de gallery_jackpot_vip_bj_949e47d7:
 
     # BLACK_DIAMOND_SERVICE_GIRL "Thank you for zer meal, sir, fufu {image=[ICON.HEART]}"
-    BLACK_DIAMOND_SERVICE_GIRL "Thank you for zer meal, sir, fufu {image=[ICON.HEART]}"
+    BLACK_DIAMOND_SERVICE_GIRL "Vielen Dank für das Mahl, Sir, fufu {image=[ICON.HEART]}"
 
 translate de strings:
 
     # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:6
     old "Wearing her dress?"
-    new "Wearing her dress?"
+    new "Im Kleid?"
 
     # game/data/sexy_scenes/bd_girls/galleryLabels/jackpot_vip_bj.rpy:8
     old "Naked?"
-    new "Naked?"
+    new "Nackt?"
 

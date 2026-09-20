@@ -298,8 +298,7 @@ translate ja qst_DamzelDizzt_3_ruckus_TarekDead_7780d8b1:
 translate ja qst_DamzelDizzt_3_ruckus_TarekDead_ce21b077:
 
     # NIJAH "Get back! Stay away!"
-    NIJAH "下がれ!
-近づくな!"
+    NIJAH "下がれ!近づくな!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_3.rpy:131
 translate ja qst_DamzelDizzt_3_ruckus_TarekDead_f3626d5e:

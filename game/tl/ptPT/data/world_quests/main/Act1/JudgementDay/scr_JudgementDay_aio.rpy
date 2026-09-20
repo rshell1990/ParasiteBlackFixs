@@ -5148,13 +5148,6 @@ translate ptPT qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "Mesmo quando um ataque o atingia, ele simplesmente o ignorava como se não fosse nada."
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1909
-translate ptPT qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "Enquanto eu olhava para meus companheiros, exaustos e mal se aguentando, percebi a verdade horripilante…"
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1910
 translate ptPT qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."
@@ -13213,4 +13206,3 @@ translate ptPT strings:
     # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3795
     old "Do all of the gods look so... {i}different?{/i}"
     new "Todos os deuses parecem tão... {i}diferentes?{/i}"
-

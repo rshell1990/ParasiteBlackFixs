@@ -30,7 +30,7 @@
 
   # game/data/world_quests/side/novaras/TheNewMyu/logic.rpy:22
   old "I should head back to Azul's safehouse now I've got all the items Myu asked for."
-  new "我现在应该回Azul的安全屋，我已经拿到了米尤要的所有东西。"
+  new "我现在应该回阿祖尔的安全屋，我已经拿到了米尤要的所有东西。"
 
   # game/data/world_quests/side/novaras/TheNewMyu/logic.rpy:22
   old "Let Myu cool down"

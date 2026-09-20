@@ -94,8 +94,7 @@ translate ja ev_AdaraDream_c76f59fa:
 translate ja ev_AdaraDream_32310a79:
 
     # "I couldn’t feel my feet touch the ground as I floated adrift in this sea of lights and blackness, reaching out towards those beautiful lights, almost as if I tried hard enough, I might just be able to reach one."
-    "光と闇の海に漂いながら、足が地に着いている感覚もなく、ただ美しい光たちへと手を伸ばしていた。  
-本気で届けようとすれば、ひょっとしたら一つくらいは掴めるかもしれない——そんな気さえしていた。"
+    "光と闇の海に漂いながら、足が地に着いている感覚もなく、ただ美しい光たちへと手を伸ばしていた。  本気で届けようとすれば、ひょっとしたら一つくらいは掴めるかもしれない——そんな気さえしていた。"
 
 # game/data/world_quests/side/novaras/AProperReunion/ev_adara_dream.rpy:56
 translate ja ev_AdaraDream_72fb50a0:
@@ -161,8 +160,7 @@ translate ja ev_AdaraDream_9c89dcd3:
 translate ja ev_AdaraDream_25ca0bc0:
 
     # MC @ talk "...Are these memories? {i}Or dreams?{/i}"
-    MC @ talk "…これらは記憶なのか
-{i}それとも夢なのか{/i}"
+    MC @ talk "…これらは記憶なのか{i}それとも夢なのか{/i}"
 
 # game/data/world_quests/side/novaras/AProperReunion/ev_adara_dream.rpy:70
 translate ja ev_AdaraDream_c92e89b3:
@@ -186,8 +184,7 @@ translate ja ev_AdaraDream_8f88444a:
 translate ja ev_AdaraDream_582666ea:
 
     # BLACK "With only one message prevailing... Chasing us as we move."
-    BLACK "ただ一つのメッセージが響く…
-僕らが動くたび追いかけてくる。"
+    BLACK "ただ一つのメッセージが響く…僕らが動くたび追いかけてくる。"
 
 # game/data/world_quests/side/novaras/AProperReunion/ev_adara_dream.rpy:75
 translate ja ev_AdaraDream_f3ab4321:
@@ -409,8 +406,7 @@ translate ja ev_AdaraDream_8418a966_1:
 translate ja ev_AdaraDream_a1526b94:
 
     # ADARA @ talk "All that fighting... Seeing your friends get hurt?"
-    ADARA @ talk "あの戦いの日々は...
-仲間が傷つくのを見るのは？"
+    ADARA @ talk "あの戦いの日々は...仲間が傷つくのを見るのは？"
 
 # game/data/world_quests/side/novaras/AProperReunion/ev_adara_dream.rpy:130
 translate ja ev_AdaraDream_0885a2df:
@@ -596,9 +592,7 @@ translate ja ev_AdaraDream_057f439f:
 translate ja ev_AdaraDream_77f8e0e5:
 
     # "Adara’s eyes were wide in shock, I could hear her heart racing as I pinned her down onto the bed, her soft warm skin now pressed against mine."
-    "アドラの瞳は衝撃で大きく見開かれていた。
-彼女をベッドに押し倒すと、柔らかく温かい肌が今や私の肌に密着し、
-そのとき、彼女の鼓動が早まっているのが聞こえた。"
+    "アドラの瞳は衝撃で大きく見開かれていた。彼女をベッドに押し倒すと、柔らかく温かい肌が今や私の肌に密着し、そのとき、彼女の鼓動が早まっているのが聞こえた。"
 
 # game/data/world_quests/side/novaras/AProperReunion/ev_adara_dream.rpy:180
 translate ja ev_AdaraDream_edef6130:
@@ -658,8 +652,7 @@ translate ja ev_AdaraDream_53647b1c:
 translate ja ev_AdaraDream_a8c1cbb9:
 
     # ADARA @ talk "I-It’s okay! You have no idea how long I’ve wanted this! "
-    ADARA @ talk "いいえ、そんなこと…!
-ずっと、こうしてもらいたかったんです…!"
+    ADARA @ talk "いいえ、そんなこと…!ずっと、こうしてもらいたかったんです…!"
 
 # game/data/world_quests/side/novaras/AProperReunion/ev_adara_dream.rpy:191
 translate ja ev_AdaraDream_2933d4c1:

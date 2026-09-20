@@ -178,9 +178,7 @@ translate ja event_Elena_training2_0070b698:
 translate ja event_Elena_training2_c0434411:
 
     # ELENA @ grumpy "Your strikes are clumsy, too obvious for a keen eye and you don't seem to fully grasp that body of yours yet."
-    ELENA @ grumpy "その動きは雑だ。目が肥えた者には
-見え透いている。その身体を
-まだ理解しきれてはいないようだ。"
+    ELENA @ grumpy "その動きは雑だ。目が肥えた者には見え透いている。その身体をまだ理解しきれてはいないようだ。"
 
 # game/data/world_events/novaras/elena/elena_training/scr_elena_training.rpy:66
 translate ja event_Elena_training2_0eaa780d:

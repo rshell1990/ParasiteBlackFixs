@@ -8,11 +8,11 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:64
     old "Demon frog"
-    new "Demon frog"
+    new "Dämonenfrosch"
 
     # game/data/battle_enemies/neutral.rpy:89
     old "Giant slimelark"
-    new "Giant slimelark"
+    new "Riesige Schleimlerche"
 
     # game/data/battle_enemies/neutral.rpy:111
     old "Caltrack"
@@ -20,27 +20,27 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:141
     old "The Abomination"
-    new "The Abomination"
+    new "Die Abscheulichkeit"
 
     # game/data/battle_enemies/neutral.rpy:164
     old "Green slime"
-    new "Green slime"
+    new "Grüner Schleim"
 
     # game/data/battle_enemies/neutral.rpy:189
     old "Man in Black"
-    new "Man in Black"
+    new "Mann in Schwarz"
 
     # game/data/battle_enemies/neutral.rpy:212
     old "Slimelark"
-    new "Slimelark"
+    new "Schleimlerche"
 
     # game/data/battle_enemies/neutral.rpy:235
     old "Kraken"
-    new "Kraken"
+    new "Krake"
 
     # game/data/battle_enemies/neutral.rpy:258
     old "Giant rat"
-    new "Giant rat"
+    new "Riesenratte"
 
     # game/data/battle_enemies/neutral.rpy:284
     old "Behemoth"
@@ -48,7 +48,7 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:307
     old "Desert rat queen"
-    new "Desert rat queen"
+    new "Wüstenrattenkönigin"
 
     # game/data/battle_enemies/neutral.rpy:331
     old "Camen"
@@ -56,11 +56,11 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:354
     old "Ghoul"
-    new "Ghoul"
+    new "Ghul"
 
     # game/data/battle_enemies/neutral.rpy:376
     old "Big ghoul"
-    new "Big ghoul"
+    new "Großer Ghul"
 
     # game/data/battle_enemies/neutral.rpy:398
     old "Goblin"
@@ -68,7 +68,7 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:420
     old "Bear"
-    new "Bear"
+    new "Bär"
 
     # game/data/battle_enemies/neutral.rpy:450
     old "Rhuvan"
@@ -76,15 +76,15 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:480
     old "Desert Skalith"
-    new "Desert Skalith"
+    new "Wüsten-Skalith"
 
     # game/data/battle_enemies/neutral.rpy:508
     old "Water Skalith"
-    new "Water Skalith"
+    new "Wasser-Skalith"
 
     # game/data/battle_enemies/neutral.rpy:536
     old "Forest Skalith"
-    new "Forest Skalith"
+    new "Wald Skalith"
 
     # game/data/battle_enemies/neutral.rpy:564
     old "Wolf"
@@ -92,19 +92,19 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:592
     old "Great Dire Wolf"
-    new "Great Dire Wolf"
+    new "Großer Schattenwolf"
 
     # game/data/battle_enemies/neutral.rpy:620
     old "Stag"
-    new "Stag"
+    new "Hirsch"
 
     # game/data/battle_enemies/neutral.rpy:655
     old "Merlanian Soldier"
-    new "Merlanian Soldier"
+    new "Merlanischer Soldat"
 
     # game/data/battle_enemies/neutral.rpy:679
     old "Merlanian General"
-    new "Merlanian General"
+    new "Merlanischer General"
 
     # game/data/battle_enemies/neutral.rpy:704
     old "Shyahtan"
@@ -112,11 +112,11 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:734
     old "Corpse Eater"
-    new "Corpse Eater"
+    new "Leichenfresser"
 
     # game/data/battle_enemies/neutral.rpy:758
     old "Succubus"
-    new "Succubus"
+    new "Sukkubus"
 
     # game/data/battle_enemies/neutral.rpy:781
     old "X-71"
@@ -124,11 +124,11 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:804
     old "The Face"
-    new "The Face"
+    new "Das Gesicht"
 
     # game/data/battle_enemies/neutral.rpy:827
     old "Lizard monster"
-    new "Lizard monster"
+    new "Echsenmonster"
 
     # game/data/battle_enemies/neutral.rpy:860
     old "Zombie"
@@ -136,31 +136,31 @@ translate de strings:
 
     # game/data/battle_enemies/neutral.rpy:913
     old "Dark specter"
-    new "Dark specter"
+    new "Dunkles Gespenst"
 
     # game/data/battle_enemies/neutral.rpy:944
     old "Zombie butcher"
-    new "Zombie butcher"
+    new "Zombie-Metzger"
 
     # game/data/battle_enemies/neutral.rpy:970
     old "Gator"
-    new "Gator"
+    new "Alligator"
 
     # game/data/battle_enemies/neutral.rpy:996
     old "Nightmare head"
-    new "Nightmare head"
+    new "Albtraumkopf"
 
     # game/data/battle_enemies/neutral.rpy:1022
     old "Left hand"
-    new "Left hand"
+    new "Linke Hand"
 
     # game/data/battle_enemies/neutral.rpy:1048
     old "Right hand"
-    new "Right hand"
+    new "Rechte Hand"
 
     # game/data/battle_enemies/neutral.rpy:1074
     old "Floating eye"
-    new "Floating eye"
+    new "Schwebendes Auge"
 
     # game/data/battle_enemies/neutral.rpy:1100
     old "Hugo"

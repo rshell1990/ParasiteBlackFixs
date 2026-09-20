@@ -58,8 +58,7 @@ translate ja qst_guild_price_life_son_start_130b5b72:
 translate ja qst_guild_price_life_son_start_7f9b2145:
 
     # MARAUDER_LEADER "See? He's fine... Now, onto business then."
-    MARAUDER_LEADER "ほら…大丈夫。
-じゃ、用件は？"
+    MARAUDER_LEADER "ほら…大丈夫。じゃ、用件は？"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_son.rpy:24
 translate ja qst_guild_price_life_son_start_9f35492d:
@@ -363,8 +362,7 @@ translate ja qst_guild_price_life_son_done_talking_1f2b0af6:
 translate ja qst_guild_price_life_son_done_talking_474b2baa:
 
     # "The boy's cheeks flushed red as he stared up at me not in horror but ...awe?"
-    "少年の頬が朱に染まる。
-彼が私を見つめる目は恐怖ではなく…畏怖か？"
+    "少年の頬が朱に染まる。彼が私を見つめる目は恐怖ではなく…畏怖か？"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_son.rpy:161
 translate ja qst_guild_price_life_son_done_talking_d806c8a7:
@@ -772,8 +770,7 @@ translate ja qst_guild_price_life_son_sex_offer_c8505160:
 translate ja qst_guild_price_life_son_sex_offer_9cbd3fa0:
 
     # "Grabbing a hold of Trayan by the shoulders, he let out a little gasp as I threw him onto the bed, stripping off the last of my clothes."
-    "トレイアンの肩を掴み、ベッドに押し倒すと、彼は小さな息を漏らした。
-私は残っていた服を脱ぎ捨てて。"
+    "トレイアンの肩を掴み、ベッドに押し倒すと、彼は小さな息を漏らした。私は残っていた服を脱ぎ捨てて。"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_son.rpy:273
 translate ja qst_guild_price_life_son_sex_offer_27e67e8c:
@@ -893,8 +890,7 @@ translate ja qst_guild_price_life_son_sex_offer_4f219199:
 translate ja qst_guild_price_life_son_sex_offer_bd7bd98f:
 
     # TRAYAN "{i}*Slurp!* *Slurp!*{/i} Mmmfhh! Chummm inhhmee!!"
-    TRAYAN "{i}*ズルズル!* *ズルズル!*{/i}
-うまあっ!最高だあ!!"
+    TRAYAN "{i}*ズルズル!* *ズルズル!*{/i}うまあっ!最高だあ!!"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_son.rpy:298
 translate ja qst_guild_price_life_son_sex_offer_ec7e72bf:
@@ -1014,8 +1010,7 @@ translate ja qst_guild_price_life_son_sex_offer_3912b45f:
 translate ja qst_guild_price_life_son_sex_offer_9ac05df6:
 
     # TRAYAN "Ooooh! That f-feels so good!"
-    TRAYAN "あああっ!  
-そ、そこ気持ちいい!"
+    TRAYAN "あああっ!  そ、そこ気持ちいい!"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_son.rpy:320
 translate ja qst_guild_price_life_son_sex_offer_f826c426:

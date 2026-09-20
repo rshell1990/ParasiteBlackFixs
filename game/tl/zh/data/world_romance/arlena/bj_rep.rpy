@@ -165,7 +165,7 @@ translate zh rom_ArlenaRepBj_02_0c10c1d9:
 translate zh rom_ArlenaRepBj_02_5c47c80f:
 
     # MC @ talk "Arlena... if you keep doing that..."
-    MC @ talk "艾琳娜...再这样下去..."
+    MC @ talk "艾琳娜……再这样下去……"
     
 
 # game/data/world_romance/arlena/bj_rep.rpy:56
@@ -186,7 +186,7 @@ translate zh rom_ArlenaRepBj_02_60d968d2:
 translate zh rom_ArlenaRepBj_02_7f5d887e:
 
     # MC @ talk "Arlena... {i}*huff!*{/i} ... I’m about to cum! "
-    MC @ talk "Arlena... {i}*呼！*{/i} ... 我快要射了！"
+    MC @ talk "艾琳娜……{i}*呼！*{/i}……我快要射了！"
     
 
 # game/data/world_romance/arlena/bj_rep.rpy:59
@@ -242,7 +242,7 @@ translate zh rom_ArlenaRepBj_02_eb88753a:
 translate zh rom_ArlenaRepBj_02_8ecca98f:
 
     # ARLENA "Almost, but I think I can handle you... I’d like to carry on if you would."
-    ARLENA "差点，但我想我能应付你...如果你愿意的话，我想继续。"
+    ARLENA "差点，但我想我能应付你……如果你愿意的话，我想继续。"
     
 
 # game/data/world_romance/arlena/bj_rep.rpy:80
@@ -263,7 +263,7 @@ translate zh rom_ArlenaRepBj_02_5b645226:
 translate zh rom_ArlenaRepBj_02_268efff3:
 
     # ARLENA "Thanks for the ‘help’."
-    ARLENA "谢谢你的'帮忙'。"
+    ARLENA "谢谢你的“帮忙”。"
     
 
 # game/data/world_romance/arlena/bj_rep.rpy:83
@@ -300,7 +300,6 @@ translate zh strings:
     
 
 #
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/arlena/bj_rep.rpy:6
 translate zh rom_ArlenaRepBj_58f6e2c7:

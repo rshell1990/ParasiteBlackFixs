@@ -4,5 +4,5 @@
 translate de gallery_lady_tarbeck_tavern_cowgirl_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie zu der Zeit schwanger?"
 

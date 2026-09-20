@@ -34,9 +34,7 @@ translate ja adara_talk_howareyou_7fe3643a:
 translate ja adara_talk_howareyou_0c7cccc7:
 
     # ADARA @ smile "I am well thank you! Have you seen that new market stall selling Ramonian food? It's very popular!"
-    ADARA @ smile "元気ですよ、ありがとう!
-ラモニア料理を売ってる新しい露店を見かけましたか？
-すごく話題になってるんですよ!"
+    ADARA @ smile "元気ですよ、ありがとう!ラモニア料理を売ってる新しい露店を見かけましたか？すごく話題になってるんですよ!"
 
 # game/data/characters/adara/dialogue.rpy:52
 translate ja adara_talk_howareyou_003c1185:

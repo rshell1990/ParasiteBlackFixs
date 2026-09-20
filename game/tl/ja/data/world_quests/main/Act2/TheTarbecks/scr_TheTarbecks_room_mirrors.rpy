@@ -136,8 +136,7 @@ translate ja qst_TheTarbecks_Room_Mirrors_markus_22e681a1:
 translate ja qst_TheTarbecks_Room_Mirrors_markus_cde45507:
 
     # MARKUS_FEM @ angry "Let's find a different room. We're not doing this."
-    MARKUS_FEM @ angry "別の部屋を探しましょう。
-これはやめておきましょう。"
+    MARKUS_FEM @ angry "別の部屋を探しましょう。これはやめておきましょう。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_mirrors.rpy:72
 translate ja qst_TheTarbecks_Room_Mirrors_kiara_45054af9:
@@ -935,8 +934,7 @@ translate ja qst_TheTarbecks_Room_Mirrors_esme_9325ce0b:
 translate ja qst_TheTarbecks_Room_Mirrors_esme_2bda7081:
 
     # ESME "HUGE cock into me until those massive balls fill me up!"
-    ESME "でかいチンコを奥まで突っ込んで、
-デカ玉の中身が私の中を満たすまで!"
+    ESME "でかいチンコを奥まで突っ込んで、デカ玉の中身が私の中を満たすまで!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_mirrors.rpy:270
 translate ja qst_TheTarbecks_Room_Mirrors_esme_e845f835:

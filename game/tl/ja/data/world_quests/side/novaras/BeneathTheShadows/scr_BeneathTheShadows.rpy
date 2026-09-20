@@ -394,8 +394,7 @@ translate ja qst_beneath_shadows_enter_bordello_meet_carina_menu_01fec8ee:
 translate ja qst_beneath_shadows_enter_bordello_meet_carina_menu_b4a4d14a:
 
     # CARINA @ talk "It's almost a shame though... With a body like hers, she could have easily avoided half the stress in her life if she chose a different path!"
-    CARINA @ talk "ただ、もったいないな…  
-あの体なら、別の道を選んでいれば人生の苦労も半減したはずなのに!"
+    CARINA @ talk "ただ、もったいないな…  あの体なら、別の道を選んでいれば人生の苦労も半減したはずなのに!"
 
 # game/data/world_quests/side/novaras/BeneathTheShadows/scr_BeneathTheShadows.rpy:116
 translate ja qst_beneath_shadows_enter_bordello_meet_carina_menu_2aff2c96:
@@ -641,8 +640,7 @@ translate ja qst_beneath_shadows_enter_bordello_meet_carina_menu_16dc8460:
 translate ja qst_beneath_shadows_enter_bordello_meet_carina_menu_c461a93c:
 
     # CARINA @ talk "Remember, I don't tolerate excuses... Make sure they bring me what they owe."
-    CARINA @ talk "覚えておけ、言い訳は聞かない…  
-借りたものは確実に持ってこさせるんだ。"
+    CARINA @ talk "覚えておけ、言い訳は聞かない…  借りたものは確実に持ってこさせるんだ。"
 
 # game/data/world_quests/side/novaras/BeneathTheShadows/scr_BeneathTheShadows.rpy:193
 translate ja qst_beneath_shadows_enter_bordello_meet_carina_menu_90f4d25d:
@@ -864,8 +862,7 @@ translate ja qst_beneath_shadows_dealer_market_dist_aee69420:
 translate ja qst_beneath_shadows_dealer_market_dist_d085a8f3:
 
     # DEALER "C-Can't! Breathe!"
-    DEALER "は、は……息が!
-できない!"
+    DEALER "は、は……息が!できない!"
 
 # game/data/world_quests/side/novaras/BeneathTheShadows/scr_BeneathTheShadows.rpy:297
 translate ja qst_beneath_shadows_dealer_market_dist_a41fff3b:

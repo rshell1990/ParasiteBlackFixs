@@ -472,8 +472,7 @@ translate ja rom_mika_first_post_birth_scene_1718897b:
 translate ja rom_mika_first_post_birth_scene_4379ebd8:
 
     # DIVINE @ talk "Give her a day or so to recover, then come see her."
-    DIVINE @ talk "一日ほど休ませて、
-それから会いに行ってね。"
+    DIVINE @ talk "一日ほど休ませて、それから会いに行ってね。"
 
 # game/data/world_romance/mika/preg_mika.rpy:162
 translate ja rom_mika_first_post_birth_scene_d976317a:

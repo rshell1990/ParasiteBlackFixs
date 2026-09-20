@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsInquisitor/Off/BurningJudgement.rpy:4
     old "Burning Judgement"
-    new "Burning Judgement"
+    new "Brennendes Urteil"
 
     # game/data/battle_skills_actions/SkillsInquisitor/Off/BurningJudgement.rpy:39
     old "Slash multiple times at the enemy dealing %s damage, each strike having a 70%% chance to curse for 1 turn and inflict 1 burning debuff on the enemy for 2 turns.(Cursed units cannot receive beneficial effects)"
-    new "Slash multiple times at the enemy dealing %s damage, each strike having a 70%% chance to curse for 1 turn and inflict 1 burning debuff on the enemy for 2 turns.(Cursed units cannot receive beneficial effects)"
+    new "Führe mehrere Schläge gegen den Feind aus und verursache %s Schaden, wobei jeder Schlag eine 70%% Chance hat, den Feind 1 Runde lang zu verfluchen und ihm 1 Brennen-Debuff für 2 Runden zuzufügen.(Verfluchte Einheiten können keine positiven Effekte erhalten)"
 

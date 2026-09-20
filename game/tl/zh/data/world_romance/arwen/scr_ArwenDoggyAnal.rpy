@@ -74,7 +74,7 @@ translate zh sexscene_arwen_backdoor_01e1c23e:
 translate zh sexscene_arwen_backdoor_d6137bd0:
 
     # MC @ smile "And here I thought you were the best fuck in Novaras."
-    MC @ smile "我还以为你是Novaras最好的操呢。"
+    MC @ smile "我还以为你是诺瓦拉斯最好的操呢。"
     
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:28
@@ -144,7 +144,7 @@ translate zh sexscene_arwen_backdoor_ce7df690:
 translate zh sexscene_arwen_backdoor_674d545a:
 
     # ARWEN "Ah! My fucking - Ah! Ass!"
-    ARWEN "啊！我的屁-啊！屁股！"
+    ARWEN "啊！我的屁——啊！屁股！"
     
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:46
@@ -158,21 +158,21 @@ translate zh sexscene_arwen_backdoor_5732228f:
 translate zh sexscene_arwen_backdoor_866ad19a:
 
     # ARWEN "You - Ah! You like that?"
-    ARWEN "你-啊！喜欢吗？"
+    ARWEN "你——啊！喜欢吗？"
     
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:48
 translate zh sexscene_arwen_backdoor_518b45df:
 
     # MC "Arwen, {i}*Huff*{/i} Do you-"
-    MC "雅雯，{i}*喘息*{/i} 你-"
+    MC "雅雯，{i}*喘息*{/i} 你——"
     
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:49
 translate zh sexscene_arwen_backdoor_3ef5861a:
 
     # ARWEN "K-Keep going!"
-    ARWEN "继-继续！"
+    ARWEN "继——继续！"
     
 
 # game/data/world_romance/arwen/scr_ArwenDoggyAnal.rpy:50

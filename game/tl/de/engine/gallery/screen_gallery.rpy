@@ -4,5 +4,5 @@ translate de strings:
 
     # game/engine/gallery/screen_gallery.rpy:17
     old "Erotic Memories"
-    new "Erotic Memories"
+    new "Erotische Erinnerungen"
 

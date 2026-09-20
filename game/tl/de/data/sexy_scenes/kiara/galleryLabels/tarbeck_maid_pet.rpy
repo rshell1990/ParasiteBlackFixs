@@ -4,151 +4,151 @@
 translate de gallery_kiara_tarbeck_maid_pet_f1d449c9:
 
     # "I snapped my fingers toward the floor."
-    "I snapped my fingers toward the floor."
+    "Ich schnippte mit den Fingern zum Boden."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:13
 translate de gallery_kiara_tarbeck_maid_pet_7ba1f346:
 
     # MC "Down."
-    MC "Down."
+    MC "Runter."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:14
 translate de gallery_kiara_tarbeck_maid_pet_41ee4e9d:
 
     # KIARA @ think "W-What?"
-    KIARA @ think "W-What?"
+    KIARA @ think "W-Was?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:15
 translate de gallery_kiara_tarbeck_maid_pet_57450cbd:
 
     # MC @ talk "On your knees... {i}pet.{/i}"
-    MC @ talk "On your knees... {i}pet.{/i}"
+    MC @ talk "Auf die Knie... {i}Haustier.{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:23
 translate de gallery_kiara_tarbeck_maid_pet_809c1d98:
 
     # "Kiara blinked, her cheeks burning a light rosy shade of red as she dropped to the floor."
-    "Kiara blinked, her cheeks burning a light rosy shade of red as she dropped to the floor."
+    "Kiara blinzelte, ihre Wangen brannten in einem hellen Rosenrot, als sie zu Boden sank."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:24
 translate de gallery_kiara_tarbeck_maid_pet_4df7e71d:
 
     # "As I wandered around, Kiara crawled obediently on her hands and knees beside me."
-    "As I wandered around, Kiara crawled obediently on her hands and knees beside me."
+    "Während ich umherwanderte, kroch Kiara gehorsam auf Händen und Knien neben mir her."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:25
 translate de gallery_kiara_tarbeck_maid_pet_08524407:
 
     # "For half an hour, I wandered almost aimlessly around the lobby as Kiara followed at my side."
-    "For half an hour, I wandered almost aimlessly around the lobby as Kiara followed at my side."
+    "Eine halbe Stunde lang wanderte ich fast ziellos durch die Lobby, während Kiara mir an meiner Seite folgte."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:26
 translate de gallery_kiara_tarbeck_maid_pet_22269899:
 
     # "Another couple did the same thing, except this one's wife seemed fully converted, a fake dog tail plugged into her ass."
-    "Another couple did the same thing, except this one's wife seemed fully converted, a fake dog tail plugged into her ass."
+    "Ein anderes Paar tat dasselbe, nur dass die Frau dieses Paares völlig verwandelt schien, ein künstlicher Hundeschwanz in ihren Arsch gesteckt."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:27
 translate de gallery_kiara_tarbeck_maid_pet_44f99bd5:
 
     # PARTY_GUEST "What a lovely pet you have."
-    PARTY_GUEST "What a lovely pet you have."
+    PARTY_GUEST "Was für ein reizendes Haustier du hast."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:28
 translate de gallery_kiara_tarbeck_maid_pet_55952d17:
 
     # MC "Thank you."
-    MC "Thank you."
+    MC "Danke."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:29
 translate de gallery_kiara_tarbeck_maid_pet_6d65d080:
 
     # "I looked down at Kiara, gently petting her head."
-    "I looked down at Kiara, gently petting her head."
+    "Ich sah auf Kiara hinab und streichelte sanft ihren Kopf."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:30
 translate de gallery_kiara_tarbeck_maid_pet_4400e0c1:
 
     # MC "{i}I'm still training this one.{/i}"
-    MC "{i}I'm still training this one.{/i}"
+    MC "{i}Ich trainiere diese hier noch.{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:31
 translate de gallery_kiara_tarbeck_maid_pet_a8ff8832:
 
     # "Kiara's cheeks burned red, and for a moment she gave me the slightest pout, as if to say '{i}Don't push it.{/i}'"
-    "Kiara's cheeks burned red, and for a moment she gave me the slightest pout, as if to say '{i}Don't push it.{/i}'"
+    "Kiaras Wangen brannten rot, und für einen Moment warf sie mir den leisesten Schmollmund zu, als wolle sie sagen: '{i}Nicht übertreiben.{/i}'"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:32
 translate de gallery_kiara_tarbeck_maid_pet_9146e633:
 
     # GUESTS_PET "{i}Woof!{/i}"
-    GUESTS_PET "{i}Woof!{/i}"
+    GUESTS_PET "{i}Wuff!{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:33
 translate de gallery_kiara_tarbeck_maid_pet_d70b9d1d:
 
     # "The woman panted, wagging her tail as she looked toward Kiara longingly."
-    "The woman panted, wagging her tail as she looked toward Kiara longingly."
+    "Die Frau hechelte und wedelte mit dem Schwanz, während sie sehnsüchtig zu Kiara blickte."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:34
 translate de gallery_kiara_tarbeck_maid_pet_60b7ac73:
 
     # PARTY_GUEST "... Would you like to let our pets play for a while?"
-    PARTY_GUEST "... Would you like to let our pets play for a while?"
+    PARTY_GUEST "... Möchten Sie unsere Haustiere eine Weile spielen lassen?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:35
 translate de gallery_kiara_tarbeck_maid_pet_83544d1f:
 
     # GUESTS_PET "{i}*Woof!*{/i}"
-    GUESTS_PET "{i}*Woof!*{/i}"
+    GUESTS_PET "{i}*Wuff!*{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:36
 translate de gallery_kiara_tarbeck_maid_pet_b5d30860:
 
     # "The guest's wife leapt onto Kiara, pinning her to the floor."
-    "The guest's wife leapt onto Kiara, pinning her to the floor."
+    "Die Frau des Gastes sprang auf Kiara und drückte sie zu Boden."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:41
 translate de gallery_kiara_tarbeck_maid_pet_1f7d72fc:
 
     # KIARA "W-Whoaaa!"
-    KIARA "W-Whoaaa!"
+    KIARA "W-Woah!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:42
 translate de gallery_kiara_tarbeck_maid_pet_c55c667c:
 
     # KIARA "E-Easy now, love!"
-    KIARA "E-Easy now, love!"
+    KIARA "S-Sachte, Liebes!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:43
 translate de gallery_kiara_tarbeck_maid_pet_737b9993:
 
     # KIARA "U-Uhh, good doggy?"
-    KIARA "U-Uhh, good doggy?"
+    KIARA "U-Uhh, braver Hündchen?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:44
 translate de gallery_kiara_tarbeck_maid_pet_c526eae7:
 
     # GUESTS_PET "Woooof..."
-    GUESTS_PET "Woooof..."
+    GUESTS_PET "Wuuuuff..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:45
 translate de gallery_kiara_tarbeck_maid_pet_1ed897b1:
 
     # KIARA "(Fuck, just how screwed up is her head?)"
-    KIARA "(Fuck, just how screwed up is her head?)"
+    KIARA "(Scheiße, wie kaputt ist ihr Kopf eigentlich?)"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:46
 translate de gallery_kiara_tarbeck_maid_pet_675deba5:
 
     # KIARA "(Does she really think she's a-)"
-    KIARA "(Does she really think she's a-)"
+    KIARA "(Glaubt sie wirklich, sie wäre ein-)"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:47
 translate de gallery_kiara_tarbeck_maid_pet_cefd70c6:
 
     # "The woman began to lick and lap at Kiara's pussy with her tongue."
-    "The woman began to lick and lap at Kiara's pussy with her tongue."
+    "Die Frau begann, mit ihrer Zunge an Kiaras Muschi zu lecken und zu schlabbern."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:50
 translate de gallery_kiara_tarbeck_maid_pet_fbb26db3:
@@ -160,25 +160,25 @@ translate de gallery_kiara_tarbeck_maid_pet_fbb26db3:
 translate de gallery_kiara_tarbeck_maid_pet_59170268:
 
     # KIARA "S-Shiittttt!"
-    KIARA "S-Shiittttt!"
+    KIARA "S-Scheißeee!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:52
 translate de gallery_kiara_tarbeck_maid_pet_3b224996:
 
     # PARTY_GUEST "... Your pet still talking, huh?"
-    PARTY_GUEST "... Your pet still talking, huh?"
+    PARTY_GUEST "... Dein Haustier redet immer noch, was?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:53
 translate de gallery_kiara_tarbeck_maid_pet_8a32989c:
 
     # PARTY_GUEST "Don't worry, it's taken years to get my wife to fully accept her new role."
-    PARTY_GUEST "Don't worry, it's taken years to get my wife to fully accept her new role."
+    PARTY_GUEST "Keine Sorge, es hat Jahre gedauert, bis meine Frau ihre neue Rolle vollständig akzeptiert hat."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:54
 translate de gallery_kiara_tarbeck_maid_pet_90fcfe37:
 
     # PARTY_GUEST "You simply have to... {i}break them a bit.{/i}"
-    PARTY_GUEST "You simply have to... {i}break them a bit.{/i}"
+    PARTY_GUEST "Man muss sie einfach... {i}ein bisschen brechen.{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:55
 translate de gallery_kiara_tarbeck_maid_pet_04b1ce37:
@@ -304,91 +304,91 @@ translate de gallery_kiara_tarbeck_maid_pet_85579f63:
 translate de gallery_kiara_tarbeck_maid_pet_6869ced5:
 
     # MC "I can see that..."
-    MC "I can see that..."
+    MC "Das sehe ich..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:86
 translate de gallery_kiara_tarbeck_maid_pet_7ff5d5ad:
 
     # "Kiara reached up to grab the woman's ass, squeezing her cheeks as she buried her tongue deeper."
-    "Kiara reached up to grab the woman's ass, squeezing her cheeks as she buried her tongue deeper."
+    "Kiara griff nach dem Hintern der Frau, drückte ihre Backen, während sie ihre Zunge tiefer vergrub."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:87
 translate de gallery_kiara_tarbeck_maid_pet_c5ece5ab:
 
     # "Their hot moans filled the lobby as eyes were drawn toward us from all around."
-    "Their hot moans filled the lobby as eyes were drawn toward us from all around."
+    "Ihre heißen Stöhnen erfüllten die Lobby, während von überall Blicke auf uns gezogen wurden."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:88
 translate de gallery_kiara_tarbeck_maid_pet_9081b315:
 
     # "A few guests raised their glasses and nodded approvingly as I watched the two sweaty, enthralled pets devour each other's cunts."
-    "A few guests raised their glasses and nodded approvingly as I watched the two sweaty, enthralled pets devour each other's cunts."
+    "Ein paar Gäste hoben ihre Gläser und nickten zustimmend, während ich den beiden verschwitzten, hingerissenen Haustieren dabei zusah, wie sie sich gegenseitig die Mösen leckten."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:89
 translate de gallery_kiara_tarbeck_maid_pet_916e79c2:
 
     # MC "So, should you win the game, what are you-"
-    MC "So, should you win the game, what are you-"
+    MC "Also, solltet ihr das Spiel gewinnen, was seid ihr-"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:90
 translate de gallery_kiara_tarbeck_maid_pet_b8cfa57c:
 
     # PARTY_GUEST "Oh, we just come here for the fun now."
-    PARTY_GUEST "Oh, we just come here for the fun now."
+    PARTY_GUEST "Oh, wir kommen jetzt nur noch zum Spaß hierher."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:91
 translate de gallery_kiara_tarbeck_maid_pet_899ad13b:
 
     # PARTY_GUEST "{i}We actually won last year's game.{/i}"
-    PARTY_GUEST "{i}We actually won last year's game.{/i}"
+    PARTY_GUEST "{i}Wir haben tatsächlich das Spiel vom letzten Jahr gewonnen.{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:92
 translate de gallery_kiara_tarbeck_maid_pet_95e59f81:
 
     # MC "What?!"
-    MC "What?!"
+    MC "Was?!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:93
 translate de gallery_kiara_tarbeck_maid_pet_8470ebd5:
 
     # PARTY_GUEST "Yes..."
-    PARTY_GUEST "Yes..."
+    PARTY_GUEST "Ja..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:94
 translate de gallery_kiara_tarbeck_maid_pet_b3fb959f:
 
     # "The man looked down at his wife, wiggling her fat ass on Kiara's face as the two women continued to moan."
-    "The man looked down at his wife, wiggling her fat ass on Kiara's face as the two women continued to moan."
+    "Der Mann blickte auf seine Frau herab, die ihren dicken Hintern auf Kiaras Gesicht wackeln ließ, während die beiden Frauen weiter stöhnten."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:95
 translate de gallery_kiara_tarbeck_maid_pet_d1526f71:
 
     # PARTY_GUEST "{i}We got what we were looking for.{/i}"
-    PARTY_GUEST "{i}We got what we were looking for.{/i}"
+    PARTY_GUEST "{i}Wir haben gefunden, wonach wir gesucht haben.{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:96
 translate de gallery_kiara_tarbeck_maid_pet_af74da3a:
 
     # PARTY_GUEST "Now we just come here for fun."
-    PARTY_GUEST "Now we just come here for fun."
+    PARTY_GUEST "Jetzt kommen wir nur noch zum Spaß hierher."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:97
 translate de gallery_kiara_tarbeck_maid_pet_0db2f411:
 
     # PARTY_GUEST "And you— is there some treasure you seek from Lord Zanzibat?"
-    PARTY_GUEST "And you— is there some treasure you seek from Lord Zanzibat?"
+    PARTY_GUEST "Und du – suchst du einen Schatz bei Lord Zanzibat?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:98
 translate de gallery_kiara_tarbeck_maid_pet_2f90b53d:
 
     # MC "Of a sort..."
-    MC "Of a sort..."
+    MC "Sozusagen ..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:99
 translate de gallery_kiara_tarbeck_maid_pet_22c459d5:
 
     # PARTY_GUEST "Ahh, interesting."
-    PARTY_GUEST "Ahh, interesting."
+    PARTY_GUEST "Ahh, interessant."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:103
 translate de gallery_kiara_tarbeck_maid_pet_aa99eb3b:
@@ -400,31 +400,31 @@ translate de gallery_kiara_tarbeck_maid_pet_aa99eb3b:
 translate de gallery_kiara_tarbeck_maid_pet_5191785a:
 
     # "The two women squirmed and shook on the floor, a hot, wet mess as Kiara was brought to climax."
-    "The two women squirmed and shook on the floor, a hot, wet mess as Kiara was brought to climax."
+    "Die beiden Frauen wanden sich und zitterten auf dem Boden, ein heißes, nasses Durcheinander, als Kiara zum Höhepunkt gebracht wurde."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:105
 translate de gallery_kiara_tarbeck_maid_pet_97c724fe:
 
     # PARTY_GUEST "Done already, dear?"
-    PARTY_GUEST "Done already, dear?"
+    PARTY_GUEST "Schon fertig, Liebling?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:106
 translate de gallery_kiara_tarbeck_maid_pet_83544d1f_2:
 
     # GUESTS_PET "{i}*Woof!*{/i}"
-    GUESTS_PET "{i}*Woof!*{/i}"
+    GUESTS_PET "{i}*Wuff!*{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:107
 translate de gallery_kiara_tarbeck_maid_pet_2e6d4517:
 
     # "The guest's wife leapt off Kiara, returning to her master's side, rubbing her face against his leg."
-    "The guest's wife leapt off Kiara, returning to her master's side, rubbing her face against his leg."
+    "Die Frau des Gastes sprang von Kiara, kehrte an die Seite ihres Meisters zurück und rieb ihr Gesicht an seinem Bein."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:108
 translate de gallery_kiara_tarbeck_maid_pet_8da55d5a:
 
     # "Kiara lay sprawled out and breathless, still twitching from her orgasm."
-    "Kiara lay sprawled out and breathless, still twitching from her orgasm."
+    "Kiara lag ausgestreckt und atemlos da, immer noch zuckend von ihrem Orgasmus."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:109
 translate de gallery_kiara_tarbeck_maid_pet_08142615:
@@ -436,11 +436,11 @@ translate de gallery_kiara_tarbeck_maid_pet_08142615:
 translate de gallery_kiara_tarbeck_maid_pet_ffc32e32:
 
     # KIARA "G-Good doggy..."
-    KIARA "G-Good doggy..."
+    KIARA "G-Gutes Hündchen..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_pet.rpy:111
 translate de gallery_kiara_tarbeck_maid_pet_e24e1b30:
 
     # KIARA "Such a— {i}*huff*{/i} good doggy..."
-    KIARA "Such a— {i}*huff*{/i} good doggy..."
+    KIARA "So ein— {i}*huff*{/i} gutes Hündchen..."
 

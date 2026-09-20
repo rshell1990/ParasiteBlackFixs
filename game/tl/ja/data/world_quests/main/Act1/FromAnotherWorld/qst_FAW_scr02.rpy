@@ -96,13 +96,6 @@ translate ja qst_FromAnotherWorld_ReturnHome_de6a39b0:
     # REGINA @ smile_talk "It’s a miracle you’re both alive."
     REGINA @ smile_talk "二人とも生きていたなんて奇跡だ。"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:29
-translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_15f57a0d:
-
-    # REGINA @ talk "I think they were suspicious that you and Markus had managed to survive through some sort of black magic."
-    REGINA @ talk "彼らは、君とマルカスが何らかの黒魔術で生き延びたのではないかと疑っていたんだ。"
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:30
 translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_498911e8:
 
     # REGINA @ talk "They searched your room but found nothing."
@@ -114,13 +107,6 @@ translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_9c998003:
     # MC @ talk "What did you tell them?"
     MC @ talk "あなたは彼らに何を言いましたか？"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:32
-translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_b5729cf7:
-
-    # REGINA @ talk "Just that you weren’t blessed with any kind of magic, let alone black."
-    REGINA @ talk "君はあらゆる魔法の祝福を受けていない、黒魔法はおろか。"
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:33
 translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_7112280f:
 
     # REGINA @ talk "It’s on your school record either way, don’t know why they made such a fuss."
@@ -538,8 +524,7 @@ translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_1818426b:
 translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_b1043635:
 
     # REGINA @ talk "I’ll come back with some more vegetables to make you a decent stew, it’s the least I can do."
-    REGINA @ talk "野菜をもう少し持ってくるよ、ちゃんとしたシチューを作ってあげるから。
-これくらいはしないと。"
+    REGINA @ talk "野菜をもう少し持ってくるよ、ちゃんとしたシチューを作ってあげるから。これくらいはしないと。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:117
 translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_ac49d286:
@@ -593,10 +578,7 @@ translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_caf32118:
 translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_c41f0caa:
 
     # "Now, everything seems so uncertain, like we are charting a course into some terrible storm, unable to stop ourselves as we are pulled into the watery ravages of the dreaded Black Ocean."
-    "今、すべてが不確かに見える。
-まるで恐ろしい嵐の中へ進路を定めるかのように、
-避けられない運命に引きずり込まれ、
-恐ろしい黒い海の荒れ狂う波へと沈んでいくように。"
+    "今、すべてが不確かに見える。まるで恐ろしい嵐の中へ進路を定めるかのように、避けられない運命に引きずり込まれ、恐ろしい黒い海の荒れ狂う波へと沈んでいくように。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:136
 translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_2898c036:
@@ -959,4 +941,3 @@ translate ja qst_FromAnotherWorld_ReturnHome_ReginaTalk_e169a1c3:
 
     # REGINA @ talk "Just that you weren’t blessed with any kind of magecraft, let alone black."
     REGINA @ talk "ただ、あんたにはどんな魔術の才能もなかったってだけさ。ましてや闇の魔術なんてね。"
-

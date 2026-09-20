@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/helena/char.rpy:12
     old "A {i}highly{/i} sought after and respected courtesan."
-    new "A {i}highly{/i} sought after and respected courtesan."
+    new "Eine {i}hoch{/i} begehrte und respektierte Kurtisane."
 

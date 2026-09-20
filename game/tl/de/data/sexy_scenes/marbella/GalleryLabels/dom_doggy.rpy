@@ -4,25 +4,25 @@
 translate de gallery_marbella_dom_doggy_a4573dac:
 
     # "Was it our first time?"
-    "Was it our first time?"
+    "War es unser erstes Mal?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:18
 translate de gallery_marbella_dom_doggy_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie damals schwanger?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:30
 translate de gallery_marbella_dom_doggy_1c5c083d:
 
     # "Was she naked or wearing her lingerie?"
-    "Was she naked or wearing her lingerie?"
+    "War sie nackt oder trug sie ihre Dessous?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:42
 translate de gallery_marbella_dom_doggy_c52240e0:
 
     # "Was it vaginal or anal?"
-    "Was it vaginal or anal?"
+    "War es vaginal oder anal?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:75
 translate de gallery_marbella_dom_doggy_first_a7678f4c:
@@ -34,109 +34,109 @@ translate de gallery_marbella_dom_doggy_first_a7678f4c:
 translate de gallery_marbella_dom_doggy_first_d8806d37:
 
     # MC @ smile "You and I are going on a date."
-    MC @ smile "You and I are going on a date."
+    MC @ smile "Du und ich gehen auf ein Date."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:77
 translate de gallery_marbella_dom_doggy_first_b76a0fe0:
 
     # MARBELLA @ shock "W-What?!"
-    MARBELLA @ shock "W-What?!"
+    MARBELLA @ shock "W-Was?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:79
 translate de gallery_marbella_dom_doggy_first_14924e89:
 
     # "One hour later..."
-    "One hour later..."
+    "Eine Stunde später..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:88
 translate de gallery_marbella_dom_doggy_first_29460e00:
 
     # "... Marbella sat sheepishly across from me, her body tucked tightly into the dress as I ate the small banquet laid out before us."
-    "... Marbella sat sheepishly across from me, her body tucked tightly into the dress as I ate the small banquet laid out before us."
+    "... Marbella saß verlegen mir gegenüber, ihr Körper eng in das Kleid geschmiegt, während ich das kleine Festmahl aß, das vor uns angerichtet war."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:89
 translate de gallery_marbella_dom_doggy_first_3bfe92f0:
 
     # MC "Mm, the food's great, isn't it?"
-    MC "Mm, the food's great, isn't it?"
+    MC "Mm, das Essen ist großartig, nicht wahr?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:90
 translate de gallery_marbella_dom_doggy_first_d26d67b5:
 
     # "Marbella's cheeks burned red, her eyes heavy as she struggled to control her wavering, shaky breath."
-    "Marbella's cheeks burned red, her eyes heavy as she struggled to control her wavering, shaky breath."
+    "Marbellas Wangen brannten rot, ihre Augen schwer, während sie versuchte, ihren zittrigen, unregelmäßigen Atem zu kontrollieren."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:91
 translate de gallery_marbella_dom_doggy_first_b39bf791:
 
     # MC "Darlingggg..."
-    MC "Darlingggg..."
+    MC "Lieblingggg..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:92
 translate de gallery_marbella_dom_doggy_first_4fb330c9:
 
     # "I waved my fork playfully in front of her."
-    "I waved my fork playfully in front of her."
+    "Ich wedelte spielerisch mit meiner Gabel vor ihr her."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:93
 translate de gallery_marbella_dom_doggy_first_808ec716:
 
     # MARBELLA "H-Huh?"
-    MARBELLA "H-Huh?"
+    MARBELLA "H-Häh?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:94
 translate de gallery_marbella_dom_doggy_first_554d0619:
 
     # MC "The food is good, right?"
-    MC "The food is good, right?"
+    MC "Das Essen ist gut, oder?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:95
 translate de gallery_marbella_dom_doggy_first_65a81088:
 
     # MARBELLA "Y-Yes."
-    MARBELLA "Y-Yes."
+    MARBELLA "J-Ja."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:96
 translate de gallery_marbella_dom_doggy_first_3482ac4a:
 
     # MARBELLA "{i}*Gasp!*{/i}"
-    MARBELLA "{i}*Gasp!*{/i}"
+    MARBELLA "{i}*Keuch!*{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:102
 translate de gallery_marbella_dom_doggy_first_0ce370c4:
 
     # MC "... Something the matter, love?"
-    MC "... Something the matter, love?"
+    MC "... Etwas nicht in Ordnung, Liebling?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:103
 translate de gallery_marbella_dom_doggy_first_2dd8b988:
 
     # MARBELLA "{i}*Whispering* Y-You know damn well what's the matter!{/i}"
-    MARBELLA "{i}*Whispering* Y-You know damn well what's the matter!{/i}"
+    MARBELLA "{i}*Flüsternd* D-Du weißt verdammt gut, was los ist!{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:104
 translate de gallery_marbella_dom_doggy_first_23e4f545:
 
     # "She moaned softly and quickly moved to cover her mouth."
-    "She moaned softly and quickly moved to cover her mouth."
+    "Sie stöhnte leise und bewegte sich schnell, um ihren Mund zu bedecken."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:105
 translate de gallery_marbella_dom_doggy_first_08e9ff10:
 
     # "I chuckled, grinning as I knew what was going on beneath that dress."
-    "I chuckled, grinning as I knew what was going on beneath that dress."
+    "Ich kicherte und grinste, da ich wusste, was unter diesem Kleid vor sich ging."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:106
 translate de gallery_marbella_dom_doggy_first_18aa81b3:
 
     # "Marbella squirmed in her seat; she had hardly touched her food."
-    "Marbella squirmed in her seat; she had hardly touched her food."
+    "Marbella wand sich auf ihrem Sitz; sie hatte ihr Essen kaum angerührt."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:107
 translate de gallery_marbella_dom_doggy_first_e89ecbce:
 
     # "Grinning, I could feel my thrall, like a limb I still controlled, greedily push its tendrils deeper."
-    "Grinning, I could feel my thrall, like a limb I still controlled, greedily push its tendrils deeper."
+    "Grinsend konnte ich spüren, wie mein Untergebener, wie ein Glied, das ich noch kontrollierte, gierig seine Ranken tiefer schob."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:108
 translate de gallery_marbella_dom_doggy_first_20cfcd33:
@@ -148,13 +148,13 @@ translate de gallery_marbella_dom_doggy_first_20cfcd33:
 translate de gallery_marbella_dom_doggy_first_c149b4f1:
 
     # MC "How do you like my trick?"
-    MC "How do you like my trick?"
+    MC "Wie gefällt dir mein Trick?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:110
 translate de gallery_marbella_dom_doggy_first_b0efb602:
 
     # MARBELLA "{i}*Huff*{/i} Your 'trick' is going to -"
-    MARBELLA "{i}*Huff*{/i} Your 'trick' is going to -"
+    MARBELLA "{i}*Huff*{/i} Dein 'Trick' wird -"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:115
 translate de gallery_marbella_dom_doggy_first_8649fee2:
@@ -166,61 +166,61 @@ translate de gallery_marbella_dom_doggy_first_8649fee2:
 translate de gallery_marbella_dom_doggy_first_6aa300cc:
 
     # MARBELLA "G-Gods... Was letting it slip one up my cunt not enough?"
-    MARBELLA "G-Gods... Was letting it slip one up my cunt not enough?"
+    MARBELLA "G-Götter... War es nicht genug, es in meine Muschi rutschen zu lassen?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:117
 translate de gallery_marbella_dom_doggy_first_0c7e4f8e:
 
     # MARBELLA "D-Did you really need to let it put itself in my arse too?"
-    MARBELLA "D-Did you really need to let it put itself in my arse too?"
+    MARBELLA "M-Musste es sich wirklich auch noch in meinen Arsch stecken lassen?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:118
 translate de gallery_marbella_dom_doggy_first_8b0ac931:
 
     # MC "Feeling a little... {i}full,{/i} are we?"
-    MC "Feeling a little... {i}full,{/i} are we?"
+    MC "Fühlst du dich ein wenig... {i}voll,{/i} was?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:119
 translate de gallery_marbella_dom_doggy_first_dafea4d5:
 
     # MARBELLA "F-Fuck... {i}*Huff*{/i}"
-    MARBELLA "F-Fuck... {i}*Huff*{/i}"
+    MARBELLA "F-Scheiße... {i}*Huff*{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:120
 translate de gallery_marbella_dom_doggy_first_d307e319:
 
     # MARBELLA "You... {i}*Huff*{/i}"
-    MARBELLA "You... {i}*Huff*{/i}"
+    MARBELLA "Du... {i}*Huff*{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:121
 translate de gallery_marbella_dom_doggy_first_6e3c677b:
 
     # MC "Feisty."
-    MC "Feisty."
+    MC "Trotzig."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:122
 translate de gallery_marbella_dom_doggy_first_0ed46500:
 
     # MARBELLA "{i}*Huff*{/i} P-Please..."
-    MARBELLA "{i}*Huff*{/i} P-Please..."
+    MARBELLA "{i}*Huff*{/i} B-Bitte..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:123
 translate de gallery_marbella_dom_doggy_first_02788f15:
 
     # MARBELLA "I can't take much more of this!"
-    MARBELLA "I can't take much more of this!"
+    MARBELLA "Ich halte das nicht mehr lange aus!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:124
 translate de gallery_marbella_dom_doggy_first_006d6a74:
 
     # MC "Then come back to my room for the evening."
-    MC "Then come back to my room for the evening."
+    MC "Dann komm heute Abend mit auf mein Zimmer."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:125
 translate de gallery_marbella_dom_doggy_first_d817b28e:
 
     # MARBELLA "N-Now?"
-    MARBELLA "N-Now?"
+    MARBELLA "J-Jetzt?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:126
 translate de gallery_marbella_dom_doggy_first_fadeaa28:
@@ -232,13 +232,13 @@ translate de gallery_marbella_dom_doggy_first_fadeaa28:
 translate de gallery_marbella_dom_doggy_first_3e73c6c7:
 
     # MC "It's either that... or I make you walk around this city with my thrall all night and we find out how many times you can cum before falling unconscious."
-    MC "It's either that... or I make you walk around this city with my thrall all night and we find out how many times you can cum before falling unconscious."
+    MC "Entweder das ... oder ich lasse dich die ganze Nacht mit meinem Knecht durch die Stadt laufen und wir finden heraus, wie oft du kommen kannst, bevor du ohnmächtig wirst."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:128
 translate de gallery_marbella_dom_doggy_first_3866036c:
 
     # MARBELLA "...You!"
-    MARBELLA "...You!"
+    MARBELLA "...Du!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:129
 translate de gallery_marbella_dom_doggy_first_7d6356c9:
@@ -304,115 +304,115 @@ translate de gallery_marbella_dom_doggy_first_4189190c:
 translate de gallery_marbella_dom_doggy_first_d0467234:
 
     # "She cooed softly as I slapped her ass, watching her cheeks jiggle as the sound rang out through the room."
-    "She cooed softly as I slapped her ass, watching her cheeks jiggle as the sound rang out through the room."
+    "Sie gurrte leise, als ich ihr auf den Hintern schlug und zusah, wie ihre Pobacken wackelten, als das Geräusch durch den Raum hallte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:150
 translate de gallery_marbella_dom_doggy_first_304e6268:
 
     # MARBELLA "Eeep!"
-    MARBELLA "Eeep!"
+    MARBELLA "Huch!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:151
 translate de gallery_marbella_dom_doggy_first_0ba22766:
 
     # MARBELLA "C-Careful!"
-    MARBELLA "C-Careful!"
+    MARBELLA "V-Vorsichtig!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:152
 translate de gallery_marbella_dom_doggy_first_bfff4be1:
 
     # MARBELLA "If the boys see a red handprint on my arse, they'll know what we've been up to for sure!"
-    MARBELLA "If the boys see a red handprint on my arse, they'll know what we've been up to for sure!"
+    MARBELLA "Wenn die Jungs einen roten Handabdruck auf meinem Hintern sehen, wissen sie genau, was wir getrieben haben!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:160
 translate de gallery_marbella_dom_doggy_first_4587cc9d:
 
     # "Her hands squeezed at the bed quilts as she waited nervously for what was to come."
-    "Her hands squeezed at the bed quilts as she waited nervously for what was to come."
+    "Ihre Hände krampften sich in die Bettdecke, während sie nervös darauf wartete, was kommen würde."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:161
 translate de gallery_marbella_dom_doggy_first_25cc3e7b:
 
     # MC "So... tell me, when my thrall was playing with your cunt and asshole, which did you prefer?"
-    MC "So... tell me, when my thrall was playing with your cunt and asshole, which did you prefer?"
+    MC "Also... sag mir, als meine Dienerin mit deiner Muschi und deinem Arschloch spielte, was hat dir besser gefallen?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:162
 translate de gallery_marbella_dom_doggy_first_a5d25f1f:
 
     # "Marbella's cheeks turned an even brighter shade of red. If she could have hidden her face beneath a pillow, she would have."
-    "Marbella's cheeks turned an even brighter shade of red. If she could have hidden her face beneath a pillow, she would have."
+    "Marbellas Wangen wurden noch eine Spur röter. Wenn sie ihr Gesicht unter einem Kissen hätte verbergen können, hätte sie es getan."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:163
 translate de gallery_marbella_dom_doggy_first_a2bb3368:
 
     # MARBELLA "Y-You can't be seriously asking me that!"
-    MARBELLA "Y-You can't be seriously asking me that!"
+    MARBELLA "D-Du kannst mich das nicht ernsthaft fragen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:164
 translate de gallery_marbella_dom_doggy_first_b9687edc:
 
     # MARBELLA "Not when I'm waving my fat ass in your face right now!"
-    MARBELLA "Not when I'm waving my fat ass in your face right now!"
+    MARBELLA "Nicht, wenn ich dir gerade meinen dicken Hintern ins Gesicht strecke!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:165
 translate de gallery_marbella_dom_doggy_first_96f1f483:
 
     # MC "Stop thinking about being embarrassed."
-    MC "Stop thinking about being embarrassed."
+    MC "Hör auf, dir Gedanken darüber zu machen, verlegen zu sein."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:166
 translate de gallery_marbella_dom_doggy_first_9479ed14:
 
     # "I gently traced my finger upward."
-    "I gently traced my finger upward."
+    "Ich fuhr sanft mit meinem Finger nach oben."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:167
 translate de gallery_marbella_dom_doggy_first_2e88ac5f:
 
     # MC "Be honest."
-    MC "Be honest."
+    MC "Sei ehrlich."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:168
 translate de gallery_marbella_dom_doggy_first_6dffc0b2:
 
     # "My finger pressed against her pussy, scooping up some of her juices before I lightly prodded my thumb against her asshole."
-    "My finger pressed against her pussy, scooping up some of her juices before I lightly prodded my thumb against her asshole."
+    "Mein Finger drückte gegen ihre Muschi und nahm etwas von ihrem Saft auf, bevor ich mit meinem Daumen sanft gegen ihr Arschloch stieß."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:169
 translate de gallery_marbella_dom_doggy_first_093a310c:
 
     # "She let out a little gasp, followed by a breathless, quiet moan."
-    "She let out a little gasp, followed by a breathless, quiet moan."
+    "Sie stieß ein kleines Keuchen aus, gefolgt von einem atemlosen, leisen Stöhnen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:170
 translate de gallery_marbella_dom_doggy_first_d463c87e:
 
     # MARBELLA "... Gods, I'll kill you if you ever talk to anyone about this."
-    MARBELLA "... Gods, I'll kill you if you ever talk to anyone about this."
+    MARBELLA "... Götter, ich bringe dich um, wenn du jemals mit jemandem darüber sprichst."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:171
 translate de gallery_marbella_dom_doggy_first_b651415d:
 
     # MC "Where do you want me to shove my cock, Marbella?"
-    MC "Where do you want me to shove my cock, Marbella?"
+    MC "Wo willst du, dass ich meinen Schwanz reinstecke, Marbella?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:172
 translate de gallery_marbella_dom_doggy_first_11cd6eec:
 
     # "She shuddered, breathing heavily."
-    "She shuddered, breathing heavily."
+    "Sie zitterte und atmete schwer."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:173
 translate de gallery_marbella_dom_doggy_first_86c13010:
 
     # MARBELLA "... P-Pick whatever hole you like, you big-dicked bastard."
-    MARBELLA "... P-Pick whatever hole you like, you big-dicked bastard."
+    MARBELLA "... S-Such dir das Loch aus, das dir gefällt, du großschwänziger Bastard."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:184
 translate de gallery_marbella_dom_doggy_first_acc06b22:
 
     # "As I pushed my cock against her wet slit, Marbella let out a guttural moan as she felt my member enter her."
-    "As I pushed my cock against her wet slit, Marbella let out a guttural moan as she felt my member enter her."
+    "Als ich meinen Schwanz gegen ihren feuchten Schlitz drückte, stieß Marbella ein gutturales Stöhnen aus, als sie spürte, wie mein Glied in sie eindrang."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:185
 translate de gallery_marbella_dom_doggy_first_3d5ba33e:
@@ -424,49 +424,49 @@ translate de gallery_marbella_dom_doggy_first_3d5ba33e:
 translate de gallery_marbella_dom_doggy_first_ba69701b:
 
     # MARBELLA "{i}*Huff*{/i} Oh fuck! Fuck! Fuck!"
-    MARBELLA "{i}*Huff*{/i} Oh fuck! Fuck! Fuck!"
+    MARBELLA "{i}*Huff*{/i} Oh verdammt! Verdammt! Verdammt!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:194
 translate de gallery_marbella_dom_doggy_first_77257f72:
 
     # MARBELLA "Y-You're stretching me good back there! Mmffghh!"
-    MARBELLA "Y-You're stretching me good back there! Mmffghh!"
+    MARBELLA "D-Du dehnst mich da hinten gut! Mmffghh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:195
 translate de gallery_marbella_dom_doggy_first_3823da8d:
 
     # "As I began to slowly move my cock in and out of her, Marbella gently bounced her ass back and forth, matching my pace."
-    "As I began to slowly move my cock in and out of her, Marbella gently bounced her ass back and forth, matching my pace."
+    "Als ich anfing, meinen Schwanz langsam in sie hinein und wieder heraus zu bewegen, wippte Marbella sanft mit ihrem Arsch vor und zurück und passte sich meinem Tempo an."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:196
 translate de gallery_marbella_dom_doggy_first_8534175a:
 
     # MC "Enjoying yourself?"
-    MC "Enjoying yourself?"
+    MC "Genießt du es?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:197
 translate de gallery_marbella_dom_doggy_first_17748687:
 
     # MARBELLA "S-Shut up!"
-    MARBELLA "S-Shut up!"
+    MARBELLA "H-Halt den Mund!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:198
 translate de gallery_marbella_dom_doggy_first_e06134c9:
 
     # MARBELLA "You could at least tell me how tight my cunt is or something! Ahh!"
-    MARBELLA "You could at least tell me how tight my cunt is or something! Ahh!"
+    MARBELLA "Du könntest mir wenigstens sagen, wie eng meine Fotze ist oder so! Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:207
 translate de gallery_marbella_dom_doggy_first_f8865f94:
 
     # "I slammed my cock deeper into her, moving faster as she moaned louder."
-    "I slammed my cock deeper into her, moving faster as she moaned louder."
+    "Ich rammte meinen Schwanz tiefer in sie hinein und bewegte mich schneller, als sie lauter stöhnte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:208
 translate de gallery_marbella_dom_doggy_first_174cfa45:
 
     # "The bedframe hit against the wall as she gasped, her round ass shaking with every thrust as the sounds of flesh colliding filled the room."
-    "The bedframe hit against the wall as she gasped, her round ass shaking with every thrust as the sounds of flesh colliding filled the room."
+    "Das Bettgestell schlug gegen die Wand, als sie keuchte, ihr runder Arsch wackelte bei jedem Stoß, während die Geräusche von aufeinanderprallendem Fleisch den Raum erfüllten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:209
 translate de gallery_marbella_dom_doggy_first_2ad9056b:
@@ -478,61 +478,61 @@ translate de gallery_marbella_dom_doggy_first_2ad9056b:
 translate de gallery_marbella_dom_doggy_first_06e8b4b1:
 
     # MARBELLA "OH GODSSSS...!"
-    MARBELLA "OH GODSSSS...!"
+    MARBELLA "OH GÖTTERSSSS...!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:211
 translate de gallery_marbella_dom_doggy_first_3ae943e7:
 
     # MC "Does that answer your question about how much I love your {i}tight{/i} cunt?"
-    MC "Does that answer your question about how much I love your {i}tight{/i} cunt?"
+    MC "Beantwortet das deine Frage, wie sehr ich deine {i}enge{/i} Fotze liebe?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:212
 translate de gallery_marbella_dom_doggy_first_aa5c3f57:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuck... More..."
-    MARBELLA "{i}*Huff*{/i} F-Fuck... More..."
+    MARBELLA "{i}*Schnauf*{/i} F-Fick... Mehr..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:213
 translate de gallery_marbella_dom_doggy_first_d8a63366:
 
     # MARBELLA "More, you fuck!"
-    MARBELLA "More, you fuck!"
+    MARBELLA "Mehr, du Fick!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:214
 translate de gallery_marbella_dom_doggy_first_f83dc250:
 
     # MARBELLA "Ahhh! S-Slam that cock into me!"
-    MARBELLA "Ahhh! S-Slam that cock into me!"
+    MARBELLA "Ahhh! R-ramm mir den Schwanz rein!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:215
 translate de gallery_marbella_dom_doggy_first_2fc4744f:
 
     # MARBELLA "And use those fucking things of yours to fuck me up!"
-    MARBELLA "And use those fucking things of yours to fuck me up!"
+    MARBELLA "Und benutz diese verdammten Dinger von dir, um mich durchzuficken!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:216
 translate de gallery_marbella_dom_doggy_first_43c15d99:
 
     # MC "Heh heh, whatever you wish, slut!"
-    MC "Heh heh, whatever you wish, slut!"
+    MC "Heh heh, was auch immer du wünschst, Schlampe!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:224
 translate de gallery_marbella_dom_doggy_first_549a4569:
 
     # "Two tendrils protruded from my back, slithering around to latch onto her breasts and suckle at them."
-    "Two tendrils protruded from my back, slithering around to latch onto her breasts and suckle at them."
+    "Zwei Tentakel ragten aus meinem Rücken, schlängelten sich um ihre Brüste und schlossen sich an ihnen fest, um daran zu saugen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:225
 translate de gallery_marbella_dom_doggy_first_0d1b14a3:
 
     # MARBELLA "Oooooh f-fuckkk!"
-    MARBELLA "Oooooh f-fuckkk!"
+    MARBELLA "Oooooh f-fickkk!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:226
 translate de gallery_marbella_dom_doggy_first_c18e52b6:
 
     # MARBELLA "Yer tryna milk me or— Mmfghh! Somethin'?!"
-    MARBELLA "Yer tryna milk me or— Mmfghh! Somethin'?!"
+    MARBELLA "Versuchst du, mich zu melken, oder – Mmfghh! Irgendwas?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:227
 translate de gallery_marbella_dom_doggy_first_2416cba9:
@@ -544,7 +544,7 @@ translate de gallery_marbella_dom_doggy_first_2416cba9:
 translate de gallery_marbella_dom_doggy_first_8981c531:
 
     # MC "I doubt any man could resist a chance to suckle on your tits!"
-    MC "I doubt any man could resist a chance to suckle on your tits!"
+    MC "Ich bezweifle, dass irgendein Mann der Gelegenheit widerstehen könnte, an deinen Titten zu saugen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:237
 translate de gallery_marbella_dom_doggy_first_adbe0ecf:
@@ -556,25 +556,25 @@ translate de gallery_marbella_dom_doggy_first_adbe0ecf:
 translate de gallery_marbella_dom_doggy_first_69ef3b42:
 
     # "Marbella bit down on her lower lip, her tight pussy squeezing around me with every thrust."
-    "Marbella bit down on her lower lip, her tight pussy squeezing around me with every thrust."
+    "Marbella biss sich auf die Unterlippe, ihre enge Muschi zog sich bei jedem Stoß um mich zusammen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:239
 translate de gallery_marbella_dom_doggy_first_c35d37e0:
 
     # MARBELLA "M-More!"
-    MARBELLA "M-More!"
+    MARBELLA "M-Mehr!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:240
 translate de gallery_marbella_dom_doggy_first_1edae673:
 
     # MC "More?"
-    MC "More?"
+    MC "Mehr?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:241
 translate de gallery_marbella_dom_doggy_first_6f6e9d56:
 
     # MARBELLA "AHHHHH! Yes! MORE!"
-    MARBELLA "AHHHHH! Yes! MORE!"
+    MARBELLA "AHHHHH! Ja! MEHR!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:242
 translate de gallery_marbella_dom_doggy_first_679fdfa3:
@@ -586,19 +586,19 @@ translate de gallery_marbella_dom_doggy_first_679fdfa3:
 translate de gallery_marbella_dom_doggy_first_924f0fac:
 
     # MARBELLA "You said you'd— Mmfghh! Fuck me up and handle all my needs, right?!"
-    MARBELLA "You said you'd— Mmfghh! Fuck me up and handle all my needs, right?!"
+    MARBELLA "Du hast gesagt, du würdest— Mmfghh! Mich ficken und alle meine Bedürfnisse befriedigen, oder?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:244
 translate de gallery_marbella_dom_doggy_first_e29640f9:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuck! I'm so pent up and stressed!"
-    MARBELLA "{i}*Huff*{/i} F-Fuck! I'm so pent up and stressed!"
+    MARBELLA "{i}*Keuch*{/i} F-Fuck! Ich bin so aufgestaut und gestresst!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:245
 translate de gallery_marbella_dom_doggy_first_075d7df9:
 
     # MARBELLA "Ooooh! This is so good!"
-    MARBELLA "Ooooh! This is so good!"
+    MARBELLA "Ooooh! Das ist so gut!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:246
 translate de gallery_marbella_dom_doggy_first_30881336:
@@ -724,7 +724,7 @@ translate de gallery_marbella_dom_doggy_first_61ec509f:
 translate de gallery_marbella_dom_doggy_first_fcd999de:
 
     # "The tight, hot sensation of her pussy pulsing around my cock was more than enough to push me over the edge as well."
-    "The tight, hot sensation of her pussy pulsing around my cock was more than enough to push me over the edge as well."
+    "Das enge, heiße Gefühl ihrer Muschi, die um meinen Schwanz pulsierte, war mehr als genug, um mich ebenfalls über die Kante zu treiben."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:290
 translate de gallery_marbella_dom_doggy_first_50aa82f4:
@@ -736,49 +736,49 @@ translate de gallery_marbella_dom_doggy_first_50aa82f4:
 translate de gallery_marbella_dom_doggy_first_1fe59638:
 
     # "I flooded her womb with my seed."
-    "I flooded her womb with my seed."
+    "Ich flutete ihre Gebärmutter mit meinem Samen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:299
 translate de gallery_marbella_dom_doggy_first_967354be:
 
     # "Marbella could only gasp as she felt the rush of warmth inside of her."
-    "Marbella could only gasp as she felt the rush of warmth inside of her."
+    "Marbella konnte nur keuchen, als sie die Wärme in ihrem Inneren spürte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:300
 translate de gallery_marbella_dom_doggy_first_3f9a807d:
 
     # "After a few moments, I slowly withdrew, grinning in satisfaction."
-    "After a few moments, I slowly withdrew, grinning in satisfaction."
+    "Nach ein paar Augenblicken zog ich mich langsam zurück und grinste zufrieden."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:301
 translate de gallery_marbella_dom_doggy_first_4620cccb:
 
     # "As I pulled out, she let out a soft, shocked shudder."
-    "As I pulled out, she let out a soft, shocked shudder."
+    "Als ich herauszog, stieß sie ein leises, schockiertes Zittern aus."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:302
 translate de gallery_marbella_dom_doggy_first_e75630c3:
 
     # "Released from my tendrils' grip, she collapsed face-forward onto the bed, exhausted."
-    "Released from my tendrils' grip, she collapsed face-forward onto the bed, exhausted."
+    "Von meinen Tentakeln losgelassen, sackte sie mit dem Gesicht voran aufs Bett, erschöpft."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:303
 translate de gallery_marbella_dom_doggy_first_3a3ef20b:
 
     # "She let out small 'ahhh...' sounds, nearly completely out of it."
-    "She let out small 'ahhh...' sounds, nearly completely out of it."
+    "Sie stieß leise 'ahhh...'-Laute aus, fast völlig weggetreten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:313
 translate de gallery_marbella_dom_doggy_first_8ba89bcf:
 
     # "With a mischievous smirk, I pressed the head of my cock against her tight rosebud."
-    "With a mischievous smirk, I pressed the head of my cock against her tight rosebud."
+    "Mit einem verschmitzten Grinsen drückte ich die Spitze meines Schwanzes gegen ihre enge Rosette."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:314
 translate de gallery_marbella_dom_doggy_first_6cfc515c:
 
     # MARBELLA "W-Wait a second! Uhh! I didn't think you'd actually—"
-    MARBELLA "W-Wait a second! Uhh! I didn't think you'd actually—"
+    MARBELLA "W-Warte eine Sekunde! Uhh! Ich dachte nicht, dass du tatsächlich—"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:323
 translate de gallery_marbella_dom_doggy_first_57c34961:
@@ -844,61 +844,61 @@ translate de gallery_marbella_dom_doggy_first_c385a82b:
 translate de gallery_marbella_dom_doggy_first_d9bc6815:
 
     # MC "Shall I stop?"
-    MC "Shall I stop?"
+    MC "Soll ich aufhören?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:349
 translate de gallery_marbella_dom_doggy_first_4abf4da2:
 
     # MARBELLA "N-No...!"
-    MARBELLA "N-No...!"
+    MARBELLA "N-Nein...!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:350
 translate de gallery_marbella_dom_doggy_first_42754186:
 
     # MARBELLA "... Just spit on the bloody thing at least!"
-    MARBELLA "... Just spit on the bloody thing at least!"
+    MARBELLA "... Spuck wenigstens auf das verdammte Ding!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:358
 translate de gallery_marbella_dom_doggy_first_12449a41:
 
     # "Grinning, I coated myself in saliva."
-    "Grinning, I coated myself in saliva."
+    "Grinsend bedeckte ich mich mit Speichel."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:359
 translate de gallery_marbella_dom_doggy_first_49ce6265:
 
     # "With the added slickness, she began pushing back against me with muffled, heated breaths."
-    "With the added slickness, she began pushing back against me with muffled, heated breaths."
+    "Mit der zusätzlichen Gleitfähigkeit begann sie, sich mit gedämpften, heißen Atemzügen gegen mich zu drücken."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:360
 translate de gallery_marbella_dom_doggy_first_d2a2d667:
 
     # MARBELLA "Hrghhh! You could at least tell me how tight I am or something!"
-    MARBELLA "Hrghhh! You could at least tell me how tight I am or something!"
+    MARBELLA "Hrghhh! Du könntest mir wenigstens sagen, wie eng ich bin oder so!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:361
 translate de gallery_marbella_dom_doggy_first_61bbb2c5:
 
     # MC "Fishing for compliments?"
-    MC "Fishing for compliments?"
+    MC "Fischst du nach Komplimenten?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:362
 translate de gallery_marbella_dom_doggy_first_f335afe8:
 
     # MARBELLA "I'VE EARNED SOME BLOODY COMPLIMENTS!"
-    MARBELLA "I'VE EARNED SOME BLOODY COMPLIMENTS!"
+    MARBELLA "ICH HABE MIR EIN PAAR VERDAMMTE KOMPLIMENTE VERDIENT!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:363
 translate de gallery_marbella_dom_doggy_first_52bfcb4a:
 
     # "I thrust deeper, picking up speed as she gasped."
-    "I thrust deeper, picking up speed as she gasped."
+    "Ich stieß tiefer und beschleunigte, während sie keuchte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:364
 translate de gallery_marbella_dom_doggy_first_243d9f7c:
 
     # MC "{b}Your ass is the tightest I've ever fucked.{/b}"
-    MC "{b}Your ass is the tightest I've ever fucked.{/b}"
+    MC "{b}Dein Arsch ist der engste, den ich je gefickt habe.{/b}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:365
 translate de gallery_marbella_dom_doggy_first_653c8447:
@@ -964,55 +964,55 @@ translate de gallery_marbella_dom_doggy_first_c8cf9a6b:
 translate de gallery_marbella_dom_doggy_first_b9ecc82d:
 
     # MC "Still hurting?"
-    MC "Still hurting?"
+    MC "Tut es noch weh?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:398
 translate de gallery_marbella_dom_doggy_first_d9611b37:
 
     # MARBELLA "F-Fucking yes!"
-    MARBELLA "F-Fucking yes!"
+    MARBELLA "V-Verdammt ja!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:399
 translate de gallery_marbella_dom_doggy_first_b6f20490:
 
     # MARBELLA "But don't you dare stop!"
-    MARBELLA "But don't you dare stop!"
+    MARBELLA "Aber wage es ja nicht aufzuhören!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:400
 translate de gallery_marbella_dom_doggy_first_861be95f:
 
     # MC "Say it then."
-    MC "Say it then."
+    MC "Dann sag es."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:401
 translate de gallery_marbella_dom_doggy_first_41f99ba5:
 
     # MC "Say you like me fucking your ass."
-    MC "Say you like me fucking your ass."
+    MC "Sag, dass du es magst, wenn ich deinen Arsch ficke."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:402
 translate de gallery_marbella_dom_doggy_first_6dac7b36:
 
     # MARBELLA "AHHHH! YES!"
-    MARBELLA "AHHHH! YES!"
+    MARBELLA "AHHHH! JA!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:403
 translate de gallery_marbella_dom_doggy_first_700cf037:
 
     # MARBELLA "I LIKE YOU FUCKING MY ASS, DAMN IT!"
-    MARBELLA "I LIKE YOU FUCKING MY ASS, DAMN IT!"
+    MARBELLA "ICH MAG ES, WENN DU MEINEN ARSCH FICKST, VERDAMMT NOCH MAL!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:404
 translate de gallery_marbella_dom_doggy_first_119553cf:
 
     # "Her body trembled violently as she climaxed around me."
-    "Her body trembled violently as she climaxed around me."
+    "Ihr Körper bebte heftig, als sie um mich herum kam."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:413
 translate de gallery_marbella_dom_doggy_first_3dbb83ec_1:
 
     # "A third tendril appeared, latching onto her face as it pushed its tip into her mouth."
-    "A third tendril appeared, latching onto her face as it pushed its tip into her mouth."
+    "Ein dritter Tentakel erschien, heftete sich an ihr Gesicht, während er seine Spitze in ihren Mund schob."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:414
 translate de gallery_marbella_dom_doggy_first_bf1e1d33_1:
@@ -1024,31 +1024,31 @@ translate de gallery_marbella_dom_doggy_first_bf1e1d33_1:
 translate de gallery_marbella_dom_doggy_first_d67eaba3_1:
 
     # "The small dwarf let out a muffled moan as her eyes rolled back."
-    "The small dwarf let out a muffled moan as her eyes rolled back."
+    "Die kleine Zwergin stieß ein ersticktes Stöhnen aus, als ihre Augen nach hinten rollten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:416
 translate de gallery_marbella_dom_doggy_first_9347f741:
 
     # MC "There you- Ahh! Go!"
-    MC "There you- Ahh! Go!"
+    MC "Da bist du- Ahh! Los!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:417
 translate de gallery_marbella_dom_doggy_first_67ffe51e_1:
 
     # MC "See? Isn't that better?"
-    MC "See? Isn't that better?"
+    MC "Siehst du? Ist das nicht besser?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:418
 translate de gallery_marbella_dom_doggy_first_ff301335:
 
     # MC "Instead of running your mouth so much! We just-"
-    MC "Instead of running your mouth so much! We just-"
+    MC "Anstatt so viel zu labern! Wir stopfen dich einfach-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:419
 translate de gallery_marbella_dom_doggy_first_5d85c32f_1:
 
     # MC "AHH! Stuff you full of cock!"
-    MC "AHH! Stuff you full of cock!"
+    MC "AHH! Stopfen dich voll mit Schwanz!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:420
 translate de gallery_marbella_dom_doggy_first_2801d86a_1:
@@ -1060,7 +1060,7 @@ translate de gallery_marbella_dom_doggy_first_2801d86a_1:
 translate de gallery_marbella_dom_doggy_first_c65f2dda_1:
 
     # MARBELLA "Yhourghh fhillighh mheee uphh!"
-    MARBELLA "Yhourghh fhillighh mheee uphh!"
+    MARBELLA "Dhu fhüllst mhich auus!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:422
 translate de gallery_marbella_dom_doggy_first_adbe0ecf_2:
@@ -1072,37 +1072,37 @@ translate de gallery_marbella_dom_doggy_first_adbe0ecf_2:
 translate de gallery_marbella_dom_doggy_first_99892448:
 
     # "My words seemed to trigger something in Marbella."
-    "My words seemed to trigger something in Marbella."
+    "Meine Worte schienen etwas in Marbella auszulösen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:431
 translate de gallery_marbella_dom_doggy_first_dc0509b7:
 
     # "Her guttural moans grew louder, more animal-like as she slammed her fat ass back onto me."
-    "Her guttural moans grew louder, more animal-like as she slammed her fat ass back onto me."
+    "Ihre gutturalen Stöhnen wurden lauter, tierähnlicher, als sie ihren dicken Arsch zurück auf mich schlug."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:432
 translate de gallery_marbella_dom_doggy_first_9ad88c4e:
 
     # "She took every inch of my cock, and I smirked as it bulged against her stomach."
-    "She took every inch of my cock, and I smirked as it bulged against her stomach."
+    "Sie nahm jeden Zentimeter meines Schwanzes in sich auf, und ich grinste, als er sich gegen ihren Bauch wölbte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:433
 translate de gallery_marbella_dom_doggy_first_df234e38:
 
     # MC "Greedy little- Ahh!"
-    MC "Greedy little- Ahh!"
+    MC "Gieriges kleines- Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:434
 translate de gallery_marbella_dom_doggy_first_3faaef0b_1:
 
     # MC "Dwarven cocksleeve!"
-    MC "Dwarven cocksleeve!"
+    MC "Zwergen-Schwanzhülle!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:435
 translate de gallery_marbella_dom_doggy_first_1fcde2c9:
 
     # "Marbella shuddered, her whole body shaking as her tight asshole squeezed around me."
-    "Marbella shuddered, her whole body shaking as her tight asshole squeezed around me."
+    "Marbella erschauderte, ihr ganzer Körper zitterte, als sich ihr enges Arschloch um mich zusammenzog."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:436
 translate de gallery_marbella_dom_doggy_first_daa14608_1:
@@ -1114,19 +1114,19 @@ translate de gallery_marbella_dom_doggy_first_daa14608_1:
 translate de gallery_marbella_dom_doggy_first_6bc33ab1:
 
     # "As she climaxed, I pulled her flush against me and held her there."
-    "As she climaxed, I pulled her flush against me and held her there."
+    "Als sie zum Höhepunkt kam, zog ich sie eng an mich und hielt sie dort."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:438
 translate de gallery_marbella_dom_doggy_first_1f28e4b2:
 
     # "The tight, hot sensation of her ass pulsing around my cock was more than enough to push me over the edge as well."
-    "The tight, hot sensation of her ass pulsing around my cock was more than enough to push me over the edge as well."
+    "Das enge, heiße Gefühl, wie ihr Arsch um meinen Schwanz pulsierte, war mehr als genug, um auch mich über die Kante zu stoßen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:447
 translate de gallery_marbella_dom_doggy_first_24d16a1a:
 
     # "I grunted, holding her folded body against mine as I filled her with my load."
-    "I grunted, holding her folded body against mine as I filled her with my load."
+    "Ich grunzte und hielt ihren gefalteten Körper an meinem, während ich sie mit meiner Ladung füllte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:448
 translate de gallery_marbella_dom_doggy_first_50aa82f4_1:
@@ -1138,211 +1138,211 @@ translate de gallery_marbella_dom_doggy_first_50aa82f4_1:
 translate de gallery_marbella_dom_doggy_first_b220a48c:
 
     # "Marbella let out another muffled moan as she felt the hot seed spill into her."
-    "Marbella let out another muffled moan as she felt the hot seed spill into her."
+    "Marbella stieß ein weiteres gedämpftes Stöhnen aus, als sie spürte, wie der heiße Samen in sie floss."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:450
 translate de gallery_marbella_dom_doggy_first_e144757d:
 
     # MARBELLA "Y-You're filling my ass!"
-    MARBELLA "Y-You're filling my ass!"
+    MARBELLA "D-Du füllst meinen Arsch!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:451
 translate de gallery_marbella_dom_doggy_first_5e104e2a:
 
     # "After a few moments, I slowly unsheathed my cock, grinning in satisfaction."
-    "After a few moments, I slowly unsheathed my cock, grinning in satisfaction."
+    "Nach ein paar Augenblicken zog ich langsam meinen Schwanz heraus und grinste zufrieden."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:459
 translate de gallery_marbella_dom_doggy_first_00ab80ef:
 
     # "As I pulled free, she let out a small shudder as my cum poured from her stretched ass onto the bed."
-    "As I pulled free, she let out a small shudder as my cum poured from her stretched ass onto the bed."
+    "Als ich mich befreite, entfuhr ihr ein leises Zittern, als mein Sperma aus ihrem gedehnten Arsch auf das Bett floss."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:460
 translate de gallery_marbella_dom_doggy_first_27252f4e:
 
     # "Releasing her from my tendrils' grip, she dropped face-first onto the bed, well fucked and exhausted."
-    "Releasing her from my tendrils' grip, she dropped face-first onto the bed, well fucked and exhausted."
+    "Als ich sie aus dem Griff meiner Ranken befreite, ließ sie sich mit dem Gesicht voran aufs Bett fallen, gut durchgefickt und erschöpft."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:461
 translate de gallery_marbella_dom_doggy_first_cf9223e4:
 
     # "She let out small 'ahhh...' sounds, barely conscious, as more of my cum occasionally seeped from her tight backdoor."
-    "She let out small 'ahhh...' sounds, barely conscious, as more of my cum occasionally seeped from her tight backdoor."
+    "Sie stieß leise 'ahhh...'-Laute aus, kaum bei Bewusstsein, während gelegentlich mehr meines Spermas aus ihrer engen Hintertür sickerte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:464
 translate de gallery_marbella_dom_doggy_first_80a15116:
 
     # "Afterward, I slowly withdrew."
-    "Afterward, I slowly withdrew."
+    "Danach zog ich mich langsam zurück."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:465
 translate de gallery_marbella_dom_doggy_first_76f1fbbf:
 
     # "Released from my tendrils, she collapsed forward, trembling and exhausted."
-    "Released from my tendrils, she collapsed forward, trembling and exhausted."
+    "Von meinen Ranken befreit, sackte sie nach vorne zusammen, zitternd und erschöpft."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:469
 translate de gallery_marbella_dom_doggy_rep_e3be188c:
 
     # MARBELLA @ smile "A date, huh?"
-    MARBELLA @ smile "A date, huh?"
+    MARBELLA @ smile "Ein Date, hm?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:470
 translate de gallery_marbella_dom_doggy_rep_31646f2b:
 
     # MARBELLA @ smile "Will I just be wearing a dress this time?"
-    MARBELLA @ smile "Will I just be wearing a dress this time?"
+    MARBELLA @ smile "Werde ich dieses Mal nur ein Kleid tragen?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:471
 translate de gallery_marbella_dom_doggy_rep_b7d73ddf:
 
     # MARBELLA @ lewd "Or uhh, will your little 'friend' be hiding under me dress again?"
-    MARBELLA @ lewd "Or uhh, will your little 'friend' be hiding under me dress again?"
+    MARBELLA @ lewd "Oder äh, versteckt sich dein kleiner 'Freund' wieder unter meinem Kleid?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:472
 translate de gallery_marbella_dom_doggy_rep_a0c489a4:
 
     # MC @ smile "You already know the answer."
-    MC @ smile "You already know the answer."
+    MC @ smile "Du kennst die Antwort bereits."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:473
 translate de gallery_marbella_dom_doggy_rep_da61ae97:
 
     # MARBELLA @ lewd "Mmm... Sounds like fun!"
-    MARBELLA @ lewd "Mmm... Sounds like fun!"
+    MARBELLA @ lewd "Mmm... Klingt nach Spaß!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:474
 translate de gallery_marbella_dom_doggy_rep_95f1723a:
 
     # MARBELLA @ lewd "I'll see you this evening!"
-    MARBELLA @ lewd "I'll see you this evening!"
+    MARBELLA @ lewd "Ich sehe dich heute Abend!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:479
 translate de gallery_marbella_dom_doggy_rep_20fd986c:
 
     # "Later that evening..."
-    "Later that evening..."
+    "Später an diesem Abend..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:489
 translate de gallery_marbella_dom_doggy_rep_29460e00:
 
     # "... Marbella sat sheepishly across from me, her body tucked tightly into the dress as I ate the small banquet laid out before us."
-    "... Marbella sat sheepishly across from me, her body tucked tightly into the dress as I ate the small banquet laid out before us."
+    "... Marbella saß verschämt mir gegenüber, ihr Körper eng in das Kleid geschmiegt, während ich das kleine Bankett aß, das vor uns ausgebreitet war."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:490
 translate de gallery_marbella_dom_doggy_rep_548c4dd4:
 
     # MC "I do love eating here, don't you?"
-    MC "I do love eating here, don't you?"
+    MC "Ich liebe es hier zu essen, nicht wahr?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:491
 translate de gallery_marbella_dom_doggy_rep_b25b6100:
 
     # "Marbella's cheeks burned red, her eyes heavy as she struggled to control her wavering breath."
-    "Marbella's cheeks burned red, her eyes heavy as she struggled to control her wavering breath."
+    "Marbellas Wangen brannten rot, ihre Augen schwer, während sie darum kämpfte, ihren zitternden Atem zu kontrollieren."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:492
 translate de gallery_marbella_dom_doggy_rep_5cd895cf:
 
     # MARBELLA "Y-Yes..."
-    MARBELLA "Y-Yes..."
+    MARBELLA "J-Ja..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:493
 translate de gallery_marbella_dom_doggy_rep_0c0a9e87:
 
     # MARBELLA "Coming here is- Mmhhfhh!"
-    MARBELLA "Coming here is- Mmhhfhh!"
+    MARBELLA "Hierher zu kommen ist- Mmhhfhh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:494
 translate de gallery_marbella_dom_doggy_rep_5150c428:
 
     # MARBELLA "THE BEST!"
-    MARBELLA "THE BEST!"
+    MARBELLA "DAS BESTE!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:495
 translate de gallery_marbella_dom_doggy_rep_b994e25c:
 
     # MC "The food that good, huh?"
-    MC "The food that good, huh?"
+    MC "Das Essen ist so gut, hm?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:496
 translate de gallery_marbella_dom_doggy_rep_4fb330c9:
 
     # "I waved my fork playfully in front of her."
-    "I waved my fork playfully in front of her."
+    "Ich wedelte spielerisch mit der Gabel vor ihr."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:497
 translate de gallery_marbella_dom_doggy_rep_808ec716:
 
     # MARBELLA "H-Huh?"
-    MARBELLA "H-Huh?"
+    MARBELLA "H-Hä?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:498
 translate de gallery_marbella_dom_doggy_rep_a53828d4:
 
     # MARBELLA "O-Oh y-yes..."
-    MARBELLA "O-Oh y-yes..."
+    MARBELLA "O-Oh j-ja..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:499
 translate de gallery_marbella_dom_doggy_rep_53d71d4d:
 
     # MARBELLA "The food is- Mmfghh!"
-    MARBELLA "The food is- Mmfghh!"
+    MARBELLA "Das Essen ist- Mmfghh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:500
 translate de gallery_marbella_dom_doggy_rep_2db18380:
 
     # MARBELLA "{i}Sooo good!{/i}"
-    MARBELLA "{i}Sooo good!{/i}"
+    MARBELLA "{i}Sooo gut!{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:501
 translate de gallery_marbella_dom_doggy_rep_3482ac4a:
 
     # MARBELLA "{i}*Gasp!*{/i}"
-    MARBELLA "{i}*Gasp!*{/i}"
+    MARBELLA "{i}*Keuch!*{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:502
 translate de gallery_marbella_dom_doggy_rep_0ce370c4:
 
     # MC "... Something the matter, love?"
-    MC "... Something the matter, love?"
+    MC "... Stimmt etwas nicht, Schatz?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:511
 translate de gallery_marbella_dom_doggy_rep_856ff10e:
 
     # MARBELLA "{i}*Whispering* Y-Your little friend is very enthusiastic tonight!{/i}"
-    MARBELLA "{i}*Whispering* Y-Your little friend is very enthusiastic tonight!{/i}"
+    MARBELLA "{i}*Flüsternd* D-Dein kleiner Freund ist heute Abend sehr begeistert!{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:512
 translate de gallery_marbella_dom_doggy_rep_3ea5ed60:
 
     # "She moaned softly and, as it slipped from her lips so casually, quickly moved to cover her mouth."
-    "She moaned softly and, as it slipped from her lips so casually, quickly moved to cover her mouth."
+    "Sie stöhnte leise, und als es ihr so beiläufig entfuhr, hob sie schnell die Hand, um ihren Mund zu bedecken."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:513
 translate de gallery_marbella_dom_doggy_rep_f5ce1973:
 
     # "I chuckled, grinning as I knew what was going on beneath that dress..."
-    "I chuckled, grinning as I knew what was going on beneath that dress..."
+    "Ich kicherte, grinsend, weil ich wusste, was unter diesem Kleid vor sich ging..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:514
 translate de gallery_marbella_dom_doggy_rep_4acdbf7e:
 
     # "Marbella squirmed in her seat. She had hardly touched her food."
-    "Marbella squirmed in her seat. She had hardly touched her food."
+    "Marbella windete sich auf ihrem Sitz. Sie hatte ihr Essen kaum angerührt."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:515
 translate de gallery_marbella_dom_doggy_rep_9dbac195:
 
     # "Grinning, I felt my thrall, like a limb I could still control, greedily push its tendrils deeper."
-    "Grinning, I felt my thrall, like a limb I could still control, greedily push its tendrils deeper."
+    "Grinsend spürte ich meinen Diener, wie ein Glied, das ich noch kontrollieren konnte, gierig seine Ranken tiefer drücken."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:516
 translate de gallery_marbella_dom_doggy_rep_0c5cd714:
 
     # "Beneath the dress, latched onto her skin, the thrall suckled at her breasts with two tendrils as it secretly worked its way into her."
-    "Beneath the dress, latched onto her skin, the thrall suckled at her breasts with two tendrils as it secretly worked its way into her."
+    "Unter ihrem Kleid, an ihre Haut geklammert, saugte der Diener mit zwei Ranken an ihren Brüsten, während er sich heimlich seinen Weg in sie hinein bahnte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:517
 translate de gallery_marbella_dom_doggy_rep_20cfcd33:
@@ -1354,13 +1354,13 @@ translate de gallery_marbella_dom_doggy_rep_20cfcd33:
 translate de gallery_marbella_dom_doggy_rep_c149b4f1:
 
     # MC "How do you like my trick?"
-    MC "How do you like my trick?"
+    MC "Wie gefällt dir mein Trick?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:519
 translate de gallery_marbella_dom_doggy_rep_49d9323e:
 
     # MARBELLA "{i}*Huff*{/i} Your 'trick' is going to-"
-    MARBELLA "{i}*Huff*{/i} Your 'trick' is going to-"
+    MARBELLA "{i}*Huff*{/i} Dein 'Trick' wird-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:520
 translate de gallery_marbella_dom_doggy_rep_8649fee2:
@@ -1372,13 +1372,13 @@ translate de gallery_marbella_dom_doggy_rep_8649fee2:
 translate de gallery_marbella_dom_doggy_rep_31ab165e:
 
     # MARBELLA "G-Gods... N-Now he's also in my-"
-    MARBELLA "G-Gods... N-Now he's also in my-"
+    MARBELLA "G-Götter... J-Jetzt ist er auch in meinem-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:529
 translate de gallery_marbella_dom_doggy_rep_6f71d5d8:
 
     # "Marbella squirmed in her seat."
-    "Marbella squirmed in her seat."
+    "Marbella windete sich auf ihrem Sitz."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:530
 translate de gallery_marbella_dom_doggy_rep_666acce9:
@@ -1390,43 +1390,43 @@ translate de gallery_marbella_dom_doggy_rep_666acce9:
 translate de gallery_marbella_dom_doggy_rep_bbcdc255:
 
     # "I smirked."
-    "I smirked."
+    "Ich grinste."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:532
 translate de gallery_marbella_dom_doggy_rep_d4ecc21e:
 
     # MC "Feeling a little... {i}full{/i}, are we?"
-    MC "Feeling a little... {i}full{/i}, are we?"
+    MC "Fühlst du dich ein wenig... {i}voll{/i}, hm?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:533
 translate de gallery_marbella_dom_doggy_rep_e2ac156e:
 
     # MARBELLA "I'm gonna... {i}*Huff*{/i}"
-    MARBELLA "I'm gonna... {i}*Huff*{/i}"
+    MARBELLA "Ich werde... {i}*Huff*{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:534
 translate de gallery_marbella_dom_doggy_rep_06d7078b:
 
     # MARBELLA "Make you pay tonight for this! {i}*Huff*{/i}"
-    MARBELLA "Make you pay tonight for this! {i}*Huff*{/i}"
+    MARBELLA "Das wirst du mir heute Nacht büßen! {i}*Huff*{/i}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:535
 translate de gallery_marbella_dom_doggy_rep_6e3c677b:
 
     # MC "Feisty."
-    MC "Feisty."
+    MC "Temperamentvoll."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:536
 translate de gallery_marbella_dom_doggy_rep_f4186e52:
 
     # "Marbella squirmed as I made the creature suckle and move faster, her eyes rolling back."
-    "Marbella squirmed as I made the creature suckle and move faster, her eyes rolling back."
+    "Marbella wand sich, als ich die Kreatur saugen und sich schneller bewegen ließ, ihre Augen verdrehten sich."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:537
 translate de gallery_marbella_dom_doggy_rep_36bf0a1c:
 
     # MARBELLA "Oh gods..."
-    MARBELLA "Oh gods..."
+    MARBELLA "Oh Götter..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:538
 translate de gallery_marbella_dom_doggy_rep_4941af16:
@@ -1438,67 +1438,67 @@ translate de gallery_marbella_dom_doggy_rep_4941af16:
 translate de gallery_marbella_dom_doggy_rep_0ed46500:
 
     # MARBELLA "{i}*Huff*{/i} P-Please..."
-    MARBELLA "{i}*Huff*{/i} P-Please..."
+    MARBELLA "{i}*Huff*{/i} B-Bitte..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:540
 translate de gallery_marbella_dom_doggy_rep_02788f15:
 
     # MARBELLA "I can't take much more of this!"
-    MARBELLA "I can't take much more of this!"
+    MARBELLA "Ich kann nicht mehr viel davon ertragen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:541
 translate de gallery_marbella_dom_doggy_rep_e2909828:
 
     # MC "Ready to get out of here?"
-    MC "Ready to get out of here?"
+    MC "Bereit, hier rauszukommen?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:542
 translate de gallery_marbella_dom_doggy_rep_c5a5ec19:
 
     # MARBELLA "Oh gods, yes!"
-    MARBELLA "Oh gods, yes!"
+    MARBELLA "Oh Götter, ja!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:543
 translate de gallery_marbella_dom_doggy_rep_61f084d0:
 
     # MARBELLA "Let's go alreadyyyy!"
-    MARBELLA "Let's go alreadyyyy!"
+    MARBELLA "Lass uns schoooon gehen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:548
 translate de gallery_marbella_dom_doggy_rep_8188a4f9:
 
     # "Later at The Pale Dragon..."
-    "Later at The Pale Dragon..."
+    "Später im Pale Dragon..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:550
 translate de gallery_marbella_dom_doggy_rep_3b737cb2:
 
     # MARBELLA @ lewd "Soooo... How should we-"
-    MARBELLA @ lewd "Soooo... How should we-"
+    MARBELLA @ lewd "Alsoooo... Wie sollen wir-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:564
 translate de gallery_marbella_dom_doggy_rep_acf87c56:
 
     # "Marbella squealed as I pushed her down onto the bed, the tendrils from my hand holding her in place as she stuck out her round, fat ass."
-    "Marbella squealed as I pushed her down onto the bed, the tendrils from my hand holding her in place as she stuck out her round, fat ass."
+    "Marbella quiekte, als ich sie auf das Bett drückte, die Ranken aus meiner Hand hielten sie fest, während sie ihren runden, fetten Hintern herausstreckte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:565
 translate de gallery_marbella_dom_doggy_rep_7882bf27:
 
     # MARBELLA "{i}*Giggles*{/i} Easy now, boy, we got alllll night, love!"
-    MARBELLA "{i}*Giggles*{/i} Easy now, boy, we got alllll night, love!"
+    MARBELLA "{i}*Kichert*{/i} Immer mit der Ruhe, Junge, wir haben die gaaanze Nacht, Schatz!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:566
 translate de gallery_marbella_dom_doggy_rep_c7907ad9:
 
     # "I moved behind her, kneading the soft flesh of her ass with both hands as I rubbed my cock against her glistening womanhood."
-    "I moved behind her, kneading the soft flesh of her ass with both hands as I rubbed my cock against her glistening womanhood."
+    "Ich stellte mich hinter sie, knetete das weiche Fleisch ihres Hinterns mit beiden Händen, während ich meinen Schwanz an ihrer glänzenden Weiblichkeit rieb."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:567
 translate de gallery_marbella_dom_doggy_rep_d0467234:
 
     # "She cooed softly as I slapped her ass, watching her cheeks jiggle as the sound rang out through the room."
-    "She cooed softly as I slapped her ass, watching her cheeks jiggle as the sound rang out through the room."
+    "Sie gurrte leise, als ich ihren Hintern schlug, und sah zu, wie ihre Backen wackelten, als das Geräusch durch den Raum hallte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:568
 translate de gallery_marbella_dom_doggy_rep_65a9f7e3:
@@ -1510,61 +1510,61 @@ translate de gallery_marbella_dom_doggy_rep_65a9f7e3:
 translate de gallery_marbella_dom_doggy_rep_5a89e3a1:
 
     # MARBELLA "Naughty little...!"
-    MARBELLA "Naughty little...!"
+    MARBELLA "Freches kleines...!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:570
 translate de gallery_marbella_dom_doggy_rep_fa7d6bc4:
 
     # MARBELLA "{i}*Giggles*{/i} You tryna mark me for Gavkat and all the others to see, hm?"
-    MARBELLA "{i}*Giggles*{/i} You tryna mark me for Gavkat and all the others to see, hm?"
+    MARBELLA "{i}*Kichern*{/i} Willst du mich etwa für Gavkat und alle anderen sichtbar markieren, hm?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:584
 translate de gallery_marbella_dom_doggy_rep_4587cc9d:
 
     # "Her hands squeezed at the bed quilts as she waited nervously for what was to come."
-    "Her hands squeezed at the bed quilts as she waited nervously for what was to come."
+    "Ihre Hände krallten sich in die Bettdecken, während sie nervös darauf wartete, was kommen würde."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:585
 translate de gallery_marbella_dom_doggy_rep_7b8408df:
 
     # MC "So... Tell me, when my thrall was playing with your cunt and asshole, which did you prefer?"
-    MC "So... Tell me, when my thrall was playing with your cunt and asshole, which did you prefer?"
+    MC "Also... Sag mir, als mein Diener mit deiner Muschi und deinem Arschloch spielte, was hat dir besser gefallen?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:586
 translate de gallery_marbella_dom_doggy_rep_a1a7af59:
 
     # "Marbella's cheeks turned an even brighter shade of red as she squirmed."
-    "Marbella's cheeks turned an even brighter shade of red as she squirmed."
+    "Marbellas Wangen färbten sich noch röter, als sie sich wand."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:587
 translate de gallery_marbella_dom_doggy_rep_7d89a1f8:
 
     # MARBELLA "Your big hard cock in this fat ass waving in your face is what I prefer!"
-    MARBELLA "Your big hard cock in this fat ass waving in your face is what I prefer!"
+    MARBELLA "Dein großer, harter Schwanz in diesem fetten Arsch, der dir ins Gesicht wedelt – das ist es, was ich bevorzuge!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:588
 translate de gallery_marbella_dom_doggy_rep_6c053311:
 
     # MC "Correct answer."
-    MC "Correct answer."
+    MC "Richtige Antwort."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:589
 translate de gallery_marbella_dom_doggy_rep_6ab506a2:
 
     # "I gently traced my finger up."
-    "I gently traced my finger up."
+    "Ich fuhr sanft mit meinem Finger nach oben."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:590
 translate de gallery_marbella_dom_doggy_rep_6dffc0b2:
 
     # "My finger pressed against her pussy, scooping up some of her juices before I lightly prodded my thumb against her asshole."
-    "My finger pressed against her pussy, scooping up some of her juices before I lightly prodded my thumb against her asshole."
+    "Mein Finger drückte gegen ihre Muschi, schöpfte etwas von ihrem Saft auf, bevor ich mit meinem Daumen sanft gegen ihr Arschloch stupste."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:591
 translate de gallery_marbella_dom_doggy_rep_337a25ec:
 
     # "She let out a small gasp, followed by a breathless moan."
-    "She let out a small gasp, followed by a breathless moan."
+    "Sie stieß ein leises Keuchen aus, gefolgt von einem atemlosen Stöhnen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:592
 translate de gallery_marbella_dom_doggy_rep_82b6d76d:
@@ -1576,109 +1576,109 @@ translate de gallery_marbella_dom_doggy_rep_82b6d76d:
 translate de gallery_marbella_dom_doggy_rep_ec60e707:
 
     # MARBELLA "Fuckin' tease!"
-    MARBELLA "Fuckin' tease!"
+    MARBELLA "Verdammtes Luder!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:594
 translate de gallery_marbella_dom_doggy_rep_b651415d:
 
     # MC "Where do you want me to shove my cock, Marbella?"
-    MC "Where do you want me to shove my cock, Marbella?"
+    MC "Wo willst du meinen Schwanz reinstecken, Marbella?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:595
 translate de gallery_marbella_dom_doggy_rep_11cd6eec:
 
     # "She shuddered, breathing heavily."
-    "She shuddered, breathing heavily."
+    "Sie zitterte und atmete schwer."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:596
 translate de gallery_marbella_dom_doggy_rep_86c13010:
 
     # MARBELLA "... P-Pick whatever hole you like, you big-dicked bastard."
-    MARBELLA "... P-Pick whatever hole you like, you big-dicked bastard."
+    MARBELLA "... S-Such dir das Loch aus, das du magst, du schwanzgroßer Bastard."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:611
 translate de gallery_marbella_dom_doggy_rep_4865f999:
 
     # "As I gently rubbed my cock against her glistening, wet hole, Marbella cooed with excitement."
-    "As I gently rubbed my cock against her glistening, wet hole, Marbella cooed with excitement."
+    "Als ich meinen Schwanz sanft an ihrem glitzernden, nassen Loch rieb, gurrte Marbella vor Erregung."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:612
 translate de gallery_marbella_dom_doggy_rep_09170c08:
 
     # MARBELLA "F-Fuck... it's like you're rubbing me with a club back there."
-    MARBELLA "F-Fuck... it's like you're rubbing me with a club back there."
+    MARBELLA "F-Fuck... es ist, als würdest du mich da hinten mit einem Knüppel reiben."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:613
 translate de gallery_marbella_dom_doggy_rep_69fa2a22:
 
     # MC "Ready?"
-    MC "Ready?"
+    MC "Bereit?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:614
 translate de gallery_marbella_dom_doggy_rep_dc6a8e12:
 
     # "Marbella sheepishly nodded."
-    "Marbella sheepishly nodded."
+    "Marbella nickte schüchtern."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:629
 translate de gallery_marbella_dom_doggy_rep_acc06b22:
 
     # "As I pushed my cock against her wet slit, Marbella let out a guttural moan as she felt my member enter her."
-    "As I pushed my cock against her wet slit, Marbella let out a guttural moan as she felt my member enter her."
+    "Als ich meinen Schwanz gegen ihre nasse Spalte drückte, stieß Marbella ein kehliges Stöhnen aus, als sie spürte, wie mein Glied in sie eindrang."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:630
 translate de gallery_marbella_dom_doggy_rep_3d5ba33e:
 
     # MARBELLA "F-FUCKKK!"
-    MARBELLA "F-FUCKKK!"
+    MARBELLA "F-FICKKK!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:631
 translate de gallery_marbella_dom_doggy_rep_ba69701b:
 
     # MARBELLA "{i}*Huff*{/i} Oh fuck! Fuck! Fuck!"
-    MARBELLA "{i}*Huff*{/i} Oh fuck! Fuck! Fuck!"
+    MARBELLA "{i}*Schnauf*{/i} Oh verdammt! Verdammt! Verdammt!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:632
 translate de gallery_marbella_dom_doggy_rep_77257f72:
 
     # MARBELLA "Y-You're stretching me good back there! Mmffghh!"
-    MARBELLA "Y-You're stretching me good back there! Mmffghh!"
+    MARBELLA "D-Du dehnst mich da hinten schön! Mmffghh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:646
 translate de gallery_marbella_dom_doggy_rep_5206e6c9:
 
     # "As I began to move in and out of her slowly, Marbella started to bounce her ass back and forth, matching my pace."
-    "As I began to move in and out of her slowly, Marbella started to bounce her ass back and forth, matching my pace."
+    "Als ich anfing, mich langsam in ihr zu bewegen, begann Marbella, ihren Arsch hin und her wippen zu lassen, und passte sich meinem Tempo an."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:647
 translate de gallery_marbella_dom_doggy_rep_8534175a:
 
     # MC "Enjoying yourself?"
-    MC "Enjoying yourself?"
+    MC "Genießt du es?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:648
 translate de gallery_marbella_dom_doggy_rep_17748687:
 
     # MARBELLA "S-Shut up!"
-    MARBELLA "S-Shut up!"
+    MARBELLA "H-Halt die Klappe!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:649
 translate de gallery_marbella_dom_doggy_rep_e06134c9:
 
     # MARBELLA "You could at least tell me how tight my cunt is or something! Ahh!"
-    MARBELLA "You could at least tell me how tight my cunt is or something! Ahh!"
+    MARBELLA "Du könntest mir wenigstens sagen, wie eng meine Fotze ist oder so! Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:664
 translate de gallery_marbella_dom_doggy_rep_8fcc3268:
 
     # "I slammed deeper into her, moving faster as she moaned louder."
-    "I slammed deeper into her, moving faster as she moaned louder."
+    "Ich stieß tiefer in sie hinein, bewegte mich schneller, als sie lauter stöhnte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:665
 translate de gallery_marbella_dom_doggy_rep_174cfa45:
 
     # "The bedframe hit against the wall as she gasped, her round ass shaking with every thrust as the sounds of flesh colliding filled the room."
-    "The bedframe hit against the wall as she gasped, her round ass shaking with every thrust as the sounds of flesh colliding filled the room."
+    "Das Bettgestell schlug gegen die Wand, während sie keuchte, ihr runder Arsch bebte bei jedem Stoß, und die Geräusche von aufeinanderprallendem Fleisch erfüllten den Raum."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:666
 translate de gallery_marbella_dom_doggy_rep_2ad9056b:
@@ -1690,61 +1690,61 @@ translate de gallery_marbella_dom_doggy_rep_2ad9056b:
 translate de gallery_marbella_dom_doggy_rep_06e8b4b1:
 
     # MARBELLA "OH GODSSSS...!"
-    MARBELLA "OH GODSSSS...!"
+    MARBELLA "OH GÖTTER...!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:681
 translate de gallery_marbella_dom_doggy_rep_1bcc86ae:
 
     # MC "Does that answer your question on how much I love your {i}tight{/i} cunt?"
-    MC "Does that answer your question on how much I love your {i}tight{/i} cunt?"
+    MC "Beantwortet das deine Frage, wie sehr ich deine {i}enge{/i} Fotze liebe?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:682
 translate de gallery_marbella_dom_doggy_rep_aa5c3f57:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuck... More..."
-    MARBELLA "{i}*Huff*{/i} F-Fuck... More..."
+    MARBELLA "{i}*Schnauf*{/i} F-Fick... Mehr..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:683
 translate de gallery_marbella_dom_doggy_rep_d8a63366:
 
     # MARBELLA "More, you fuck!"
-    MARBELLA "More, you fuck!"
+    MARBELLA "Mehr, du Fick!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:684
 translate de gallery_marbella_dom_doggy_rep_f83dc250:
 
     # MARBELLA "Ahhh! S-Slam that cock into me!"
-    MARBELLA "Ahhh! S-Slam that cock into me!"
+    MARBELLA "Ahhh! R-Ramm mir den Schwanz rein!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:685
 translate de gallery_marbella_dom_doggy_rep_2fc4744f:
 
     # MARBELLA "And use those fucking things of yours to fuck me up!"
-    MARBELLA "And use those fucking things of yours to fuck me up!"
+    MARBELLA "Und benutz deine verdammten Dinger, um mich durchzuficken!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:686
 translate de gallery_marbella_dom_doggy_rep_43c15d99:
 
     # MC "Heh heh, whatever you wish, slut!"
-    MC "Heh heh, whatever you wish, slut!"
+    MC "Heh heh, was auch immer du wünschst, Schlampe!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:700
 translate de gallery_marbella_dom_doggy_rep_549a4569:
 
     # "Two tendrils protruded from my back, slithering around to latch onto her breasts and suckle at them."
-    "Two tendrils protruded from my back, slithering around to latch onto her breasts and suckle at them."
+    "Zwei Tentakel ragten aus meinem Rücken, schlängelten sich herum, um sich an ihren Brüsten festzusaugen und daran zu saugen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:701
 translate de gallery_marbella_dom_doggy_rep_0d1b14a3:
 
     # MARBELLA "Oooooh f-fuckkk!"
-    MARBELLA "Oooooh f-fuckkk!"
+    MARBELLA "Oooooh F-Fuuuck!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:702
 translate de gallery_marbella_dom_doggy_rep_efc02aea:
 
     # MARBELLA "Yer tryna milk me or- Mmfghh! Somethin'?!"
-    MARBELLA "Yer tryna milk me or- Mmfghh! Somethin'?!"
+    MARBELLA "Versuchst du mich zu melken oder- Mmfghh! Irgendwas?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:703
 translate de gallery_marbella_dom_doggy_rep_2416cba9:
@@ -1756,7 +1756,7 @@ translate de gallery_marbella_dom_doggy_rep_2416cba9:
 translate de gallery_marbella_dom_doggy_rep_8981c531:
 
     # MC "I doubt any man could resist a chance to suckle on your tits!"
-    MC "I doubt any man could resist a chance to suckle on your tits!"
+    MC "Ich bezweifle, dass irgendein Mann der Chance widerstehen könnte, an deinen Titten zu saugen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:705
 translate de gallery_marbella_dom_doggy_rep_adbe0ecf:
@@ -1768,79 +1768,79 @@ translate de gallery_marbella_dom_doggy_rep_adbe0ecf:
 translate de gallery_marbella_dom_doggy_rep_03eb1eb7:
 
     # "Marbella bit down on her lower lip."
-    "Marbella bit down on her lower lip."
+    "Marbella biss sich auf die Unterlippe."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:707
 translate de gallery_marbella_dom_doggy_rep_047f7d25:
 
     # "Her tight pussy squeezed around me with every thrust."
-    "Her tight pussy squeezed around me with every thrust."
+    "Ihre enge Muschi presste sich bei jedem Stoß um mich."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:722
 translate de gallery_marbella_dom_doggy_rep_c35d37e0:
 
     # MARBELLA "M-More!"
-    MARBELLA "M-More!"
+    MARBELLA "M-Mehr!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:723
 translate de gallery_marbella_dom_doggy_rep_1edae673:
 
     # MC "More?"
-    MC "More?"
+    MC "Mehr?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:724
 translate de gallery_marbella_dom_doggy_rep_6f6e9d56:
 
     # MARBELLA "AHHHHH! Yes! MORE!"
-    MARBELLA "AHHHHH! Yes! MORE!"
+    MARBELLA "AHHHHH! Ja! MEHR!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:725
 translate de gallery_marbella_dom_doggy_rep_679fdfa3:
 
     # MARBELLA "Mmmfghh! Fuck!"
-    MARBELLA "Mmmfghh! Fuck!"
+    MARBELLA "Mmmfghh! Verdammt!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:726
 translate de gallery_marbella_dom_doggy_rep_0b574e4b:
 
     # MARBELLA "You said you'd- Mmfghh! Fuck me up and handle all my needs, right?!"
-    MARBELLA "You said you'd- Mmfghh! Fuck me up and handle all my needs, right?!"
+    MARBELLA "Du hast gesagt, du würdest- Mmfghh! Fick mich und kümmere dich um all meine Bedürfnisse, oder?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:727
 translate de gallery_marbella_dom_doggy_rep_e29640f9:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuck! I'm so pent up and stressed!"
-    MARBELLA "{i}*Huff*{/i} F-Fuck! I'm so pent up and stressed!"
+    MARBELLA "{i}*Huff*{/i} F-Fuck! Ich bin so aufgestaut und gestresst!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:728
 translate de gallery_marbella_dom_doggy_rep_075d7df9:
 
     # MARBELLA "Ooooh! This is so good!"
-    MARBELLA "Ooooh! This is so good!"
+    MARBELLA "Ooooh! Das ist so gut!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:729
 translate de gallery_marbella_dom_doggy_rep_c3327cf8:
 
     # MARBELLA "M-More! I just need a little more to push me over the edge!"
-    MARBELLA "M-More! I just need a little more to push me over the edge!"
+    MARBELLA "M-Mehr! Ich brauche nur noch ein bisschen mehr, um mich über die Kante zu stoßen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:730
 translate de gallery_marbella_dom_doggy_rep_db5302b0:
 
     # MC "I have just the thing!"
-    MC "I have just the thing!"
+    MC "Ich habe genau das Richtige!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:731
 translate de gallery_marbella_dom_doggy_rep_6e711821:
 
     # MARBELLA "What do you-"
-    MARBELLA "What do you-"
+    MARBELLA "Was willst du-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:746
 translate de gallery_marbella_dom_doggy_rep_3dbb83ec:
 
     # "A third tendril appeared, latching onto her face as it pushed its tip into her mouth."
-    "A third tendril appeared, latching onto her face as it pushed its tip into her mouth."
+    "Eine dritte Ranke erschien, hakte sich an ihrem Gesicht fest und schob ihre Spitze in ihren Mund."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:747
 translate de gallery_marbella_dom_doggy_rep_bf1e1d33:
@@ -1852,31 +1852,31 @@ translate de gallery_marbella_dom_doggy_rep_bf1e1d33:
 translate de gallery_marbella_dom_doggy_rep_d67eaba3:
 
     # "The small dwarf let out a muffled moan as her eyes rolled back."
-    "The small dwarf let out a muffled moan as her eyes rolled back."
+    "Die kleine Zwergin stieß ein gedämpftes Stöhnen aus, als ihre Augen nach hinten rollten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:749
 translate de gallery_marbella_dom_doggy_rep_9347f741:
 
     # MC "There you- Ahh! Go!"
-    MC "There you- Ahh! Go!"
+    MC "Da hast du- Ahh! Los!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:750
 translate de gallery_marbella_dom_doggy_rep_67ffe51e:
 
     # MC "See? Isn't that better?"
-    MC "See? Isn't that better?"
+    MC "Siehst du? Ist das nicht besser?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:751
 translate de gallery_marbella_dom_doggy_rep_ff301335:
 
     # MC "Instead of running your mouth so much! We just-"
-    MC "Instead of running your mouth so much! We just-"
+    MC "Anstatt so viel zu labern! Wir einfach-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:752
 translate de gallery_marbella_dom_doggy_rep_5d85c32f:
 
     # MC "AHH! Stuff you full of cock!"
-    MC "AHH! Stuff you full of cock!"
+    MC "AHH! Stopf dich voll mit Schwanz!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:766
 translate de gallery_marbella_dom_doggy_rep_2801d86a:
@@ -1888,7 +1888,7 @@ translate de gallery_marbella_dom_doggy_rep_2801d86a:
 translate de gallery_marbella_dom_doggy_rep_c65f2dda:
 
     # MARBELLA "Yhourghh fhillighh mheee uphh!"
-    MARBELLA "Yhourghh fhillighh mheee uphh!"
+    MARBELLA "Dhu füllighh mhich auphh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:768
 translate de gallery_marbella_dom_doggy_rep_adbe0ecf_1:
@@ -1900,37 +1900,37 @@ translate de gallery_marbella_dom_doggy_rep_adbe0ecf_1:
 translate de gallery_marbella_dom_doggy_rep_99892448:
 
     # "My words seemed to trigger something in Marbella."
-    "My words seemed to trigger something in Marbella."
+    "Meine Worte schienen etwas in Marbella auszulösen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:770
 translate de gallery_marbella_dom_doggy_rep_dc0509b7:
 
     # "Her guttural moans grew louder, more animal-like as she slammed her fat ass back onto me."
-    "Her guttural moans grew louder, more animal-like as she slammed her fat ass back onto me."
+    "Ihre kehligen Stöhnen wurden lauter, tierischer, als sie ihren dicken Arsch zurück auf mich knallte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:771
 translate de gallery_marbella_dom_doggy_rep_9ad88c4e:
 
     # "She took every inch of my cock, and I smirked as it bulged against her stomach."
-    "She took every inch of my cock, and I smirked as it bulged against her stomach."
+    "Sie nahm jeden Zentimeter meines Schwanzes auf, und ich grinste, als er sich gegen ihren Bauch wölbte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:772
 translate de gallery_marbella_dom_doggy_rep_df234e38:
 
     # MC "Greedy little- Ahh!"
-    MC "Greedy little- Ahh!"
+    MC "Gieriges kleines- Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:773
 translate de gallery_marbella_dom_doggy_rep_3faaef0b:
 
     # MC "Dwarven cocksleeve!"
-    MC "Dwarven cocksleeve!"
+    MC "Zwergen-Schwanzhülle!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:774
 translate de gallery_marbella_dom_doggy_rep_362901e6:
 
     # "Marbella shuddered, her whole body shaking as her wet hole tightened and squeezed around me."
-    "Marbella shuddered, her whole body shaking as her wet hole tightened and squeezed around me."
+    "Marbella erschauderte, ihr ganzer Körper bebte, als sich ihr nasses Loch um mich zusammenzog und mich umklammerte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:775
 translate de gallery_marbella_dom_doggy_rep_daa14608:
@@ -1942,19 +1942,19 @@ translate de gallery_marbella_dom_doggy_rep_daa14608:
 translate de gallery_marbella_dom_doggy_rep_e0d188e5:
 
     # "As she climaxed, I pulled the little dwarf to the hilt of my cock and held her there."
-    "As she climaxed, I pulled the little dwarf to the hilt of my cock and held her there."
+    "Als sie kam, zog ich die kleine Zwergin bis zum Anschlag auf meinen Schwanz und hielt sie dort."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:777
 translate de gallery_marbella_dom_doggy_rep_47aa2cb6:
 
     # "The tight, hot sensation of her pussy pulsing around me was more than enough to push me over the edge as well."
-    "The tight, hot sensation of her pussy pulsing around me was more than enough to push me over the edge as well."
+    "Das enge, heiße Gefühl ihrer Muschi, die um mich pulsierte, war mehr als genug, um auch mich über die Kante zu stoßen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:778
 translate de gallery_marbella_dom_doggy_rep_686eabce:
 
     # "I grunted, holding her against me as I filled her with my load."
-    "I grunted, holding her against me as I filled her with my load."
+    "Ich grunzte und hielt sie an mich gedrückt, während ich sie mit meiner Ladung füllte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:792
 translate de gallery_marbella_dom_doggy_rep_50aa82f4:
@@ -1966,205 +1966,205 @@ translate de gallery_marbella_dom_doggy_rep_50aa82f4:
 translate de gallery_marbella_dom_doggy_rep_b220a48c:
 
     # "Marbella let out another muffled moan as she felt the hot seed spill into her."
-    "Marbella let out another muffled moan as she felt the hot seed spill into her."
+    "Marbella stieß ein weiteres ersticktes Stöhnen aus, als sie spürte, wie die heiße Saat in sie floss."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:794
 translate de gallery_marbella_dom_doggy_rep_3ad7032c:
 
     # "Marbella laid there, quietly, wiggling her butt lightly to make sure every drop was poured into her."
-    "Marbella laid there, quietly, wiggling her butt lightly to make sure every drop was poured into her."
+    "Marbella lag still da, wackelte leicht mit ihrem Hintern, um sicherzustellen, dass jeder Tropfen in sie gegossen wurde."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:795
 translate de gallery_marbella_dom_doggy_rep_181ba573:
 
     # MARBELLA "{i}*Huff*{/i} I love you..."
-    MARBELLA "{i}*Huff*{/i} I love you..."
+    MARBELLA "{i}*Keuch*{/i} Ich liebe dich..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:803
 translate de gallery_marbella_dom_doggy_rep_5e104e2a:
 
     # "After a few moments, I slowly unsheathed my cock, grinning in satisfaction."
-    "After a few moments, I slowly unsheathed my cock, grinning in satisfaction."
+    "Nach ein paar Augenblicken zog ich langsam meinen Schwanz heraus und grinste zufrieden."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:804
 translate de gallery_marbella_dom_doggy_rep_2b9d8c81:
 
     # "As I pulled free, she let out a small shudder as my cum poured from her well-fucked hole onto the bed."
-    "As I pulled free, she let out a small shudder as my cum poured from her well-fucked hole onto the bed."
+    "Als ich mich befreite, zuckte sie leicht zusammen, als mein Sperma aus ihrem gut gefickten Loch auf das Bett floss."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:805
 translate de gallery_marbella_dom_doggy_rep_27252f4e:
 
     # "Releasing her from my tendrils' grip, she dropped face-first onto the bed, well fucked and exhausted."
-    "Releasing her from my tendrils' grip, she dropped face-first onto the bed, well fucked and exhausted."
+    "Ich ließ sie aus dem Griff meiner Ranken los, und sie fiel mit dem Gesicht voran aufs Bett, gut gefickt und erschöpft."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:806
 translate de gallery_marbella_dom_doggy_rep_6e98d458:
 
     # "She let out small 'ahhh...' sounds, barely conscious, as more of my cum occasionally leaked from her."
-    "She let out small 'ahhh...' sounds, barely conscious, as more of my cum occasionally leaked from her."
+    "Sie stieß leise 'Ahhh...'-Laute aus, kaum bei Bewusstsein, während gelegentlich mehr von meinem Sperma aus ihr herauslief."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:822
 translate de gallery_marbella_dom_doggy_rep_94f9f3f4:
 
     # "With a mischievous smirk, I began to prod and push the head of my cock against her tight little rosebud."
-    "With a mischievous smirk, I began to prod and push the head of my cock against her tight little rosebud."
+    "Mit einem verschmitzten Grinsen begann ich, die Eichel meines Schwanzes gegen ihre kleine, enge Rosenknospe zu stoßen und zu drücken."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:823
 translate de gallery_marbella_dom_doggy_rep_f9523f38:
 
     # MARBELLA "W-Wait a second! Uhh! I didn't think you'd actually-"
-    MARBELLA "W-Wait a second! Uhh! I didn't think you'd actually-"
+    MARBELLA "W-Warte eine Sekunde! Uhh! Ich dachte nicht, dass du tatsächlich-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:838
 translate de gallery_marbella_dom_doggy_rep_4d90e0a9:
 
     # "The head of my cock stretched her asshole as her eyes opened wide in shock."
-    "The head of my cock stretched her asshole as her eyes opened wide in shock."
+    "Die Eichel meines Schwanzes dehnte ihr Arschloch, während sich ihre Augen vor Schock weit öffneten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:839
 translate de gallery_marbella_dom_doggy_rep_45101bc9:
 
     # "Her hands clenched tightly to the bed quilts as she hissed."
-    "Her hands clenched tightly to the bed quilts as she hissed."
+    "Ihre Hände krallten sich fest in die Bettdecke, während sie zischte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:840
 translate de gallery_marbella_dom_doggy_rep_3d5ba33e_1:
 
     # MARBELLA "F-FUCKKK!"
-    MARBELLA "F-FUCKKK!"
+    MARBELLA "F-FUUUUCK!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:841
 translate de gallery_marbella_dom_doggy_rep_ba69701b_1:
 
     # MARBELLA "{i}*Huff*{/i} Oh fuck! Fuck! Fuck!"
-    MARBELLA "{i}*Huff*{/i} Oh fuck! Fuck! Fuck!"
+    MARBELLA "{i}*Schnauf*{/i} Oh Scheiße! Scheiße! Scheiße!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:842
 translate de gallery_marbella_dom_doggy_rep_b6fa2634:
 
     # MARBELLA "Y-YER PRICK IS IN MY ARSE, BASTARD!"
-    MARBELLA "Y-YER PRICK IS IN MY ARSE, BASTARD!"
+    MARBELLA "D-Dein Schwanz steckt in meinem Arsch, Bastard!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:856
 translate de gallery_marbella_dom_doggy_rep_36e29a5e:
 
     # MC "Never offer up 'any hole' if you aren't prepared for the consequences, my little slutty pet."
-    MC "Never offer up 'any hole' if you aren't prepared for the consequences, my little slutty pet."
+    MC "Biete niemals 'jedes Loch' an, wenn du nicht auf die Konsequenzen vorbereitet bist, mein kleines schlampiges Haustier."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:857
 translate de gallery_marbella_dom_doggy_rep_347fd74e:
 
     # MARBELLA "Ooophh!"
-    MARBELLA "Ooophh!"
+    MARBELLA "Uff!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:858
 translate de gallery_marbella_dom_doggy_rep_92037e5b:
 
     # MARBELLA "B-Bloody bastard!"
-    MARBELLA "B-Bloody bastard!"
+    MARBELLA "V-verdammter Bastard!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:873
 translate de gallery_marbella_dom_doggy_rep_1197f299:
 
     # "Slowly, I began to push my cock back and forth into her, her tight ass gripping me like a vice."
-    "Slowly, I began to push my cock back and forth into her, her tight ass gripping me like a vice."
+    "Langsam begann ich, meinen Schwanz in sie hinein und heraus zu schieben, ihr enger Arsch umklammerte mich wie ein Schraubstock."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:874
 translate de gallery_marbella_dom_doggy_rep_375ac2d6:
 
     # MC "Gods, are you tight!"
-    MC "Gods, are you tight!"
+    MC "Götter, bist du eng!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:875
 translate de gallery_marbella_dom_doggy_rep_1f861879:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuckin' hells!"
-    MARBELLA "{i}*Huff*{/i} F-Fuckin' hells!"
+    MARBELLA "{i}*Schnauf*{/i} V-verdammte Scheiße!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:876
 translate de gallery_marbella_dom_doggy_rep_c385a82b:
 
     # MARBELLA "It hurts!"
-    MARBELLA "It hurts!"
+    MARBELLA "Es tut weh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:877
 translate de gallery_marbella_dom_doggy_rep_d9bc6815:
 
     # MC "Shall I stop?"
-    MC "Shall I stop?"
+    MC "Soll ich aufhören?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:878
 translate de gallery_marbella_dom_doggy_rep_4abf4da2:
 
     # MARBELLA "N-No...!"
-    MARBELLA "N-No...!"
+    MARBELLA "N-Nein...!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:879
 translate de gallery_marbella_dom_doggy_rep_2324dbe6:
 
     # "Marbella paused for a moment, her cheeks flushed red."
-    "Marbella paused for a moment, her cheeks flushed red."
+    "Marbella hielt einen Moment inne, ihre Wangen gerötet."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:880
 translate de gallery_marbella_dom_doggy_rep_de107554:
 
     # MARBELLA "... Just spit on the bloody thing some more at least!"
-    MARBELLA "... Just spit on the bloody thing some more at least!"
+    MARBELLA "... Spuck wenigstens noch etwas mehr auf das verdammte Ding!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:894
 translate de gallery_marbella_dom_doggy_rep_f5c683de:
 
     # "Grinning, I did as she asked, coating my cock in more saliva."
-    "Grinning, I did as she asked, coating my cock in more saliva."
+    "Grinsend tat ich, was sie verlangte, und benetzte meinen Schwanz mit noch mehr Speichel."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:895
 translate de gallery_marbella_dom_doggy_rep_7184868a:
 
     # "Slowly, with the extra slickness, Marbella began to push her fat ass back onto me with muffled, heated breaths."
-    "Slowly, with the extra slickness, Marbella began to push her fat ass back onto me with muffled, heated breaths."
+    "Langsam, mit der zusätzlichen Gleitfähigkeit, begann Marbella ihren dicken Arsch mit gedämpften, heißen Atemzügen zurück auf mich zu schieben."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:896
 translate de gallery_marbella_dom_doggy_rep_f6995f7d:
 
     # MARBELLA "{i}*Huff*{/i} Fuck... Oh fuck..."
-    MARBELLA "{i}*Huff*{/i} Fuck... Oh fuck..."
+    MARBELLA "{i}*Huff*{/i} Scheiße... Oh Scheiße..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:897
 translate de gallery_marbella_dom_doggy_rep_b42141ae:
 
     # MARBELLA "Hrghhh! You could at least tell me how tight I am or something! Ahh!"
-    MARBELLA "Hrghhh! You could at least tell me how tight I am or something! Ahh!"
+    MARBELLA "Hrghhh! Du könntest mir wenigstens sagen, wie eng ich bin oder so! Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:898
 translate de gallery_marbella_dom_doggy_rep_c5f47841:
 
     # MC "Fishin' for compliments!"
-    MC "Fishin' for compliments!"
+    MC "Auf Komplimente aus!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:899
 translate de gallery_marbella_dom_doggy_rep_89e4a04d:
 
     # MARBELLA "By the gods, man! Mhfhh! I'm taking your huge cock up my brown hole!"
-    MARBELLA "By the gods, man! Mhfhh! I'm taking your huge cock up my brown hole!"
+    MARBELLA "Bei den Göttern, Mann! Mhfhh! Ich nehme deinen riesigen Schwanz in mein braunes Loch!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:900
 translate de gallery_marbella_dom_doggy_rep_f335afe8:
 
     # MARBELLA "I'VE EARNED SOME BLOODY COMPLIMENTS!"
-    MARBELLA "I'VE EARNED SOME BLOODY COMPLIMENTS!"
+    MARBELLA "ICH HABE MIR EIN PAAR VERDAMMTE KOMPLIMENTE VERDIENT!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:901
 translate de gallery_marbella_dom_doggy_rep_0f04ebab:
 
     # "I slammed deeper into her, thrusting faster as she gasped."
-    "I slammed deeper into her, thrusting faster as she gasped."
+    "Ich stieß tiefer in sie und stieß schneller zu, während sie keuchte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:902
 translate de gallery_marbella_dom_doggy_rep_243d9f7c:
 
     # MC "{b}Your ass is the tightest I've ever fucked.{/b}"
-    MC "{b}Your ass is the tightest I've ever fucked.{/b}"
+    MC "{b}Dein Arsch ist der engste, den ich je gefickt habe.{/b}"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:903
 translate de gallery_marbella_dom_doggy_rep_653c8447:
@@ -2176,7 +2176,7 @@ translate de gallery_marbella_dom_doggy_rep_653c8447:
 translate de gallery_marbella_dom_doggy_rep_234635f8:
 
     # "The bedframe hit against the wall as her round ass shook with every thrust, the sounds of flesh colliding filling the room."
-    "The bedframe hit against the wall as her round ass shook with every thrust, the sounds of flesh colliding filling the room."
+    "Das Bettgestell schlug gegen die Wand, während ihr runder Arsch bei jedem Stoß bebte und die Geräusche des aufeinanderklatschenden Fleisches den Raum füllten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:918
 translate de gallery_marbella_dom_doggy_rep_2ad9056b_1:
@@ -2188,43 +2188,43 @@ translate de gallery_marbella_dom_doggy_rep_2ad9056b_1:
 translate de gallery_marbella_dom_doggy_rep_5c9b01ac:
 
     # MARBELLA "M-MYHH AHHSSS...!"
-    MARBELLA "M-MYHH AHHSSS...!"
+    MARBELLA "M-MEIN AHHRSCH...!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:920
 translate de gallery_marbella_dom_doggy_rep_dfb8ec6c:
 
     # MARBELLA "OH GODSHHH MYHHH ASHHHH!"
-    MARBELLA "OH GODSHHH MYHHH ASHHHH!"
+    MARBELLA "OH GOTT MEIN AHHRSCH!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:921
 translate de gallery_marbella_dom_doggy_rep_71e2f8e2:
 
     # MC "Quite the little sadomasochistic anal slut, aren't we?"
-    MC "Quite the little sadomasochistic anal slut, aren't we?"
+    MC "Ganz schön kleine sadomasochistische Analschlampe, nicht wahr?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:922
 translate de gallery_marbella_dom_doggy_rep_aa5c3f57_1:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuck... More..."
-    MARBELLA "{i}*Huff*{/i} F-Fuck... More..."
+    MARBELLA "{i}*Huff*{/i} F-Fick... Mehr..."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:923
 translate de gallery_marbella_dom_doggy_rep_fca3ce4a:
 
     # MARBELLA "My ashhh!"
-    MARBELLA "My ashhh!"
+    MARBELLA "Mein Arsch!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:924
 translate de gallery_marbella_dom_doggy_rep_a9a64709:
 
     # MARBELLA "Y-You're ruining my ashhh!"
-    MARBELLA "Y-You're ruining my ashhh!"
+    MARBELLA "D-Du ruinierst meinen Arsch!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:925
 translate de gallery_marbella_dom_doggy_rep_e1495986:
 
     # MC "From the way your ass is gripping me, I think that's turning you on even more!"
-    MC "From the way your ass is gripping me, I think that's turning you on even more!"
+    MC "So wie dein Arsch mich packt, glaube ich, das macht dich sogar noch geiler!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:926
 translate de gallery_marbella_dom_doggy_rep_ca2bc7d3:
@@ -2236,19 +2236,19 @@ translate de gallery_marbella_dom_doggy_rep_ca2bc7d3:
 translate de gallery_marbella_dom_doggy_rep_9227accc:
 
     # MARBELLA "M-More... Use those fucking things of yours to fuck me up!"
-    MARBELLA "M-More... Use those fucking things of yours to fuck me up!"
+    MARBELLA "M-Mehr ... Benutze diese verdammten Dinger von dir, um mich fertigzumachen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:928
 translate de gallery_marbella_dom_doggy_rep_43c15d99_1:
 
     # MC "Heh heh, whatever you wish, slut!"
-    MC "Heh heh, whatever you wish, slut!"
+    MC "Heh heh, was immer du wünscht, Schlampe!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:943
 translate de gallery_marbella_dom_doggy_rep_549a4569_1:
 
     # "Two tendrils protruded from my back, slithering around to latch onto her breasts and suckle at them."
-    "Two tendrils protruded from my back, slithering around to latch onto her breasts and suckle at them."
+    "Zwei Tentakel ragten aus meinem Rücken, schlängelten sich herum, um sich an ihren Brüsten festzusaugen und daran zu saugen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:944
 translate de gallery_marbella_dom_doggy_rep_0d1b14a3_1:
@@ -2260,7 +2260,7 @@ translate de gallery_marbella_dom_doggy_rep_0d1b14a3_1:
 translate de gallery_marbella_dom_doggy_rep_efc02aea_1:
 
     # MARBELLA "Yer tryna milk me or- Mmfghh! Somethin'?!"
-    MARBELLA "Yer tryna milk me or- Mmfghh! Somethin'?!"
+    MARBELLA "Willst du mich melken oder- Mmfghh! Irgendwas?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:946
 translate de gallery_marbella_dom_doggy_rep_2416cba9_1:
@@ -2272,7 +2272,7 @@ translate de gallery_marbella_dom_doggy_rep_2416cba9_1:
 translate de gallery_marbella_dom_doggy_rep_8981c531_1:
 
     # MC "I doubt any man could resist a chance to suckle on your tits!"
-    MC "I doubt any man could resist a chance to suckle on your tits!"
+    MC "Ich bezweifle, dass irgendein Mann der Chance widerstehen könnte, an deinen Titten zu saugen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:948
 translate de gallery_marbella_dom_doggy_rep_adbe0ecf_2:
@@ -2284,109 +2284,109 @@ translate de gallery_marbella_dom_doggy_rep_adbe0ecf_2:
 translate de gallery_marbella_dom_doggy_rep_03eb1eb7_1:
 
     # "Marbella bit down on her lower lip."
-    "Marbella bit down on her lower lip."
+    "Marbella biss sich auf die Unterlippe."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:950
 translate de gallery_marbella_dom_doggy_rep_6bf51292:
 
     # MARBELLA "L-Least it distracts a bit from the- Ahh!"
-    MARBELLA "L-Least it distracts a bit from the- Ahh!"
+    MARBELLA "W-Wenigstens lenkt es ein bisschen vom- Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:951
 translate de gallery_marbella_dom_doggy_rep_afcf3b86:
 
     # MARBELLA "Pain of you stretchin' out this ass so much!"
-    MARBELLA "Pain of you stretchin' out this ass so much!"
+    MARBELLA "Schmerz, dass du diesen Arsch so sehr dehnst!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:965
 translate de gallery_marbella_dom_doggy_rep_b9ecc82d:
 
     # MC "Still hurting?"
-    MC "Still hurting?"
+    MC "Tut's noch weh?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:966
 translate de gallery_marbella_dom_doggy_rep_d9611b37:
 
     # MARBELLA "F-Fucking yes!"
-    MARBELLA "F-Fucking yes!"
+    MARBELLA "V-Verdammt ja!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:967
 translate de gallery_marbella_dom_doggy_rep_7542e032:
 
     # MARBELLA "B-But don't you dare stop! Mmfghh!"
-    MARBELLA "B-But don't you dare stop! Mmfghh!"
+    MARBELLA "A-Aber wag es ja nicht aufzuhören! Mmfghh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:968
 translate de gallery_marbella_dom_doggy_rep_ee8fc377:
 
     # MC "Say it then!"
-    MC "Say it then!"
+    MC "Sag es schon!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:969
 translate de gallery_marbella_dom_doggy_rep_85b8794a:
 
     # MC "Say you like me fucking your ass!"
-    MC "Say you like me fucking your ass!"
+    MC "Sag, dass du es magst, wenn ich deinen Arsch ficke!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:970
 translate de gallery_marbella_dom_doggy_rep_dbd0b3c9:
 
     # MARBELLA "AHHHH! Yes!"
-    MARBELLA "AHHHH! Yes!"
+    MARBELLA "AHHHH! Ja!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:971
 translate de gallery_marbella_dom_doggy_rep_700cf037:
 
     # MARBELLA "I LIKE YOU FUCKING MY ASS, DAMN IT!"
-    MARBELLA "I LIKE YOU FUCKING MY ASS, DAMN IT!"
+    MARBELLA "ICH MAG ES, WENN DU MEINEN ARSCH FICKST, VERDAMMT!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:972
 translate de gallery_marbella_dom_doggy_rep_6263761a:
 
     # MARBELLA "Mmmfghh! M-More!"
-    MARBELLA "Mmmfghh! M-More!"
+    MARBELLA "Mmmfghh! M-Mehr!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:973
 translate de gallery_marbella_dom_doggy_rep_0b574e4b_1:
 
     # MARBELLA "You said you'd- Mmfghh! Fuck me up and handle all my needs, right?!"
-    MARBELLA "You said you'd- Mmfghh! Fuck me up and handle all my needs, right?!"
+    MARBELLA "Du hast gesagt, du würdest- Mmfghh! Fick mich durch und kümmere dich um all meine Bedürfnisse, oder?!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:974
 translate de gallery_marbella_dom_doggy_rep_e29640f9_1:
 
     # MARBELLA "{i}*Huff*{/i} F-Fuck! I'm so pent up and stressed!"
-    MARBELLA "{i}*Huff*{/i} F-Fuck! I'm so pent up and stressed!"
+    MARBELLA "{i}*Huff*{/i} F-Fuck! Ich bin so aufgestaut und gestresst!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:975
 translate de gallery_marbella_dom_doggy_rep_075d7df9_1:
 
     # MARBELLA "Ooooh! This is so good!"
-    MARBELLA "Ooooh! This is so good!"
+    MARBELLA "Ooooh! Das ist so gut!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:976
 translate de gallery_marbella_dom_doggy_rep_c3327cf8_1:
 
     # MARBELLA "M-More! I just need a little more to push me over the edge!"
-    MARBELLA "M-More! I just need a little more to push me over the edge!"
+    MARBELLA "M-Mehr! Ich brauche nur noch ein bisschen mehr, um mich über die Kante zu bringen!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:977
 translate de gallery_marbella_dom_doggy_rep_db5302b0_1:
 
     # MC "I have just the thing!"
-    MC "I have just the thing!"
+    MC "Ich habe genau das Richtige!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:978
 translate de gallery_marbella_dom_doggy_rep_6e711821_1:
 
     # MARBELLA "What do you-"
-    MARBELLA "What do you-"
+    MARBELLA "Was willst du-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:993
 translate de gallery_marbella_dom_doggy_rep_3dbb83ec_1:
 
     # "A third tendril appeared, latching onto her face as it pushed its tip into her mouth."
-    "A third tendril appeared, latching onto her face as it pushed its tip into her mouth."
+    "Ein dritter Tentakel erschien und heftete sich an ihr Gesicht, während er seine Spitze in ihren Mund schob."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:994
 translate de gallery_marbella_dom_doggy_rep_bf1e1d33_1:
@@ -2398,31 +2398,31 @@ translate de gallery_marbella_dom_doggy_rep_bf1e1d33_1:
 translate de gallery_marbella_dom_doggy_rep_d67eaba3_1:
 
     # "The small dwarf let out a muffled moan as her eyes rolled back."
-    "The small dwarf let out a muffled moan as her eyes rolled back."
+    "Die kleine Zwergin stieß ein ersticktes Stöhnen aus, als ihre Augen nach hinten rollten."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:996
 translate de gallery_marbella_dom_doggy_rep_9347f741_1:
 
     # MC "There you- Ahh! Go!"
-    MC "There you- Ahh! Go!"
+    MC "Da hast du- Ahh! Los!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:997
 translate de gallery_marbella_dom_doggy_rep_67ffe51e_1:
 
     # MC "See? Isn't that better?"
-    MC "See? Isn't that better?"
+    MC "Siehst du? Ist das nicht besser?"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:998
 translate de gallery_marbella_dom_doggy_rep_ff301335_1:
 
     # MC "Instead of running your mouth so much! We just-"
-    MC "Instead of running your mouth so much! We just-"
+    MC "Anstatt so viel zu labern! Wir haben einfach-"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:999
 translate de gallery_marbella_dom_doggy_rep_5d85c32f_1:
 
     # MC "AHH! Stuff you full of cock!"
-    MC "AHH! Stuff you full of cock!"
+    MC "AHH! Stopf dich mit Schwanz voll!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1000
 translate de gallery_marbella_dom_doggy_rep_2801d86a_1:
@@ -2434,7 +2434,7 @@ translate de gallery_marbella_dom_doggy_rep_2801d86a_1:
 translate de gallery_marbella_dom_doggy_rep_c65f2dda_1:
 
     # MARBELLA "Yhourghh fhillighh mheee uphh!"
-    MARBELLA "Yhourghh fhillighh mheee uphh!"
+    MARBELLA "Dhu fhüllst mhich aushh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1002
 translate de gallery_marbella_dom_doggy_rep_adbe0ecf_3:
@@ -2446,37 +2446,37 @@ translate de gallery_marbella_dom_doggy_rep_adbe0ecf_3:
 translate de gallery_marbella_dom_doggy_rep_99892448_1:
 
     # "My words seemed to trigger something in Marbella."
-    "My words seemed to trigger something in Marbella."
+    "Meine Worte schienen etwas in Marbella auszulösen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1017
 translate de gallery_marbella_dom_doggy_rep_dc0509b7_1:
 
     # "Her guttural moans grew louder, more animal-like as she slammed her fat ass back onto me."
-    "Her guttural moans grew louder, more animal-like as she slammed her fat ass back onto me."
+    "Ihre gutturalen Stöhnen wurden lauter, tierähnlicher, als sie ihren fetten Arsch wieder auf mich knallte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1018
 translate de gallery_marbella_dom_doggy_rep_9ad88c4e_1:
 
     # "She took every inch of my cock, and I smirked as it bulged against her stomach."
-    "She took every inch of my cock, and I smirked as it bulged against her stomach."
+    "Sie nahm jeden Zentimeter meines Schwanzes, und ich grinste, als er sich gegen ihren Bauch wölbte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1019
 translate de gallery_marbella_dom_doggy_rep_df234e38_1:
 
     # MC "Greedy little- Ahh!"
-    MC "Greedy little- Ahh!"
+    MC "Gierige kleine- Ahh!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1020
 translate de gallery_marbella_dom_doggy_rep_3faaef0b_1:
 
     # MC "Dwarven cocksleeve!"
-    MC "Dwarven cocksleeve!"
+    MC "Zwergen-Schwanzfutteral!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1021
 translate de gallery_marbella_dom_doggy_rep_1fcde2c9:
 
     # "Marbella shuddered, her whole body shaking as her tight asshole squeezed around me."
-    "Marbella shuddered, her whole body shaking as her tight asshole squeezed around me."
+    "Marbella erschauerte, ihr ganzer Körper bebte, während sich ihr enges Arschloch um mich herum zusammenzog."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1022
 translate de gallery_marbella_dom_doggy_rep_daa14608_1:
@@ -2488,19 +2488,19 @@ translate de gallery_marbella_dom_doggy_rep_daa14608_1:
 translate de gallery_marbella_dom_doggy_rep_6bc33ab1:
 
     # "As she climaxed, I pulled her flush against me and held her there."
-    "As she climaxed, I pulled her flush against me and held her there."
+    "Als sie ihren Höhepunkt erreichte, zog ich sie dicht an mich und hielt sie dort."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1024
 translate de gallery_marbella_dom_doggy_rep_1f28e4b2:
 
     # "The tight, hot sensation of her ass pulsing around my cock was more than enough to push me over the edge as well."
-    "The tight, hot sensation of her ass pulsing around my cock was more than enough to push me over the edge as well."
+    "Das enge, heiße Pulsieren ihres Arsches um meinen Schwanz reichte völlig aus, um auch mich über den Rand zu bringen."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1039
 translate de gallery_marbella_dom_doggy_rep_24d16a1a:
 
     # "I grunted, holding her folded body against mine as I filled her with my load."
-    "I grunted, holding her folded body against mine as I filled her with my load."
+    "Ich grunzte und hielt ihren gefalteten Körper an meinen, während ich sie mit meiner Ladung füllte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1040
 translate de gallery_marbella_dom_doggy_rep_50aa82f4_1:
@@ -2512,51 +2512,51 @@ translate de gallery_marbella_dom_doggy_rep_50aa82f4_1:
 translate de gallery_marbella_dom_doggy_rep_b220a48c_1:
 
     # "Marbella let out another muffled moan as she felt the hot seed spill into her."
-    "Marbella let out another muffled moan as she felt the hot seed spill into her."
+    "Marbella stieß ein weiteres ersticktes Stöhnen aus, als sie fühlte, wie der heiße Samen in sie floss."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1042
 translate de gallery_marbella_dom_doggy_rep_e144757d:
 
     # MARBELLA "Y-You're filling my ass!"
-    MARBELLA "Y-You're filling my ass!"
+    MARBELLA "D-Du füllst meinen Arsch!"
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1043
 translate de gallery_marbella_dom_doggy_rep_5e104e2a_1:
 
     # "After a few moments, I slowly unsheathed my cock, grinning in satisfaction."
-    "After a few moments, I slowly unsheathed my cock, grinning in satisfaction."
+    "Nach einigen Momenten zog ich langsam meinen Schwanz heraus und grinste zufrieden."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1057
 translate de gallery_marbella_dom_doggy_rep_00ab80ef:
 
     # "As I pulled free, she let out a small shudder as my cum poured from her stretched ass onto the bed."
-    "As I pulled free, she let out a small shudder as my cum poured from her stretched ass onto the bed."
+    "Als ich mich herauszog, zuckte sie leicht zusammen, als mein Sperma aus ihrem gedehnten Arsch auf das Bett floss."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1058
 translate de gallery_marbella_dom_doggy_rep_27252f4e_1:
 
     # "Releasing her from my tendrils' grip, she dropped face-first onto the bed, well fucked and exhausted."
-    "Releasing her from my tendrils' grip, she dropped face-first onto the bed, well fucked and exhausted."
+    "Als ich sie aus dem Griff meiner Tentakel befreite, fiel sie mit dem Gesicht voran aufs Bett, gut durchgefickt und erschöpft."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1059
 translate de gallery_marbella_dom_doggy_rep_cf9223e4:
 
     # "She let out small 'ahhh...' sounds, barely conscious, as more of my cum occasionally seeped from her tight backdoor."
-    "She let out small 'ahhh...' sounds, barely conscious, as more of my cum occasionally seeped from her tight backdoor."
+    "Sie gab leise 'ahhh...'-Laute von sich, kaum bei Bewusstsein, während gelegentlich noch mehr von meinem Sperma aus ihrem engen Hintertürchen sickerte."
 
 # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:1062
 translate de gallery_marbella_dom_doggy_rep_bf2baef2:
 
     # "Satisfied and content, I dropped down onto the bed beside her."
-    "Satisfied and content, I dropped down onto the bed beside her."
+    "Befriedigt und zufrieden ließ ich mich neben ihr aufs Bett fallen."
 
 translate de strings:
 
     # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:32
     old "Naked"
-    new "Naked"
+    new "Nackt"
 
     # game/data/sexy_scenes/marbella/GalleryLabels/dom_doggy.rpy:34
     old "Lingerie"
-    new "Lingerie"
+    new "Dessous"
 

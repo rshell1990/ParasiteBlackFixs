@@ -1,85 +1,62 @@
 init python:
     def Battle_RunCharAnim(BattleChar, AnimID):
-        """
-        Executes a character pose animation safely without crashing if the key is missing.
-        """
-        if not hasattr(BattleChar, "BattleSkin") or not hasattr(BattleChar.BattleSkin, "AnimsDict"):
-            return None
+        if not hasattr(BattleChar, "SpriteTag"):
+            BattleChar.SpriteTag = "battle_char_%s_%s_%s" % (BattleChar.BattleSide, BattleChar.CharID, id(BattleChar))
+        renpy.hide(BattleChar.SpriteTag)
 
-        # Check if the requested pose key exists in the character's skin
-        if AnimID not in BattleChar.BattleSkin.AnimsDict:
-            renpy.log(f"WARNING: Animation '{AnimID}' missing for skin '{BattleChar.BattleSkin}'.")
-            return None
+        # Fall back to idle animation if requested animation key is missing
+        anims_dict = getattr(BattleChar.BattleSkin, "AnimsDict", {})
+        target_anim = anims_dict.get(AnimID, anims_dict.get("idle"))
 
-        # Retrieve the animation sequence/data and assign to AnimObj
-        AnimObj = BattleChar.BattleSkin.AnimsDict[AnimID]
+        if isinstance(target_anim, list):
+            AnimObj = renpy.random.choice(target_anim)
+        else:    
+            AnimObj = target_anim
 
-        # Some skins define a list of variant BattleAnimations for a given key; pick one at random
-        if isinstance(AnimObj, list):
-            AnimObj = renpy.random.choice(AnimObj)
-
-        # Safely evaluate looping and displayable properties
         if getattr(AnimObj, "AnimLoop", False):
-            ShowWhat = getattr(AnimObj, "Displayable", AnimObj)
+            ShowWhat = AnimObj.Displayable
         else:
-            IdleAnimObj = BattleChar.BattleSkin.AnimsDict.get("idle", None)
-            IdleDisplayable = getattr(IdleAnimObj, "Displayable", IdleAnimObj)
-            AnimDisplayable = getattr(AnimObj, "Displayable", AnimObj)
-            AnimLength = getattr(AnimObj, "LengthInSeconds", 0.5)
-
-            if IdleAnimObj:
-                ShowWhat = At(AnimDisplayable, Battle_TransformRevertToIdleAnim(AnimLength, IdleDisplayable))
-            else:
-                ShowWhat = AnimDisplayable
+            IdleAnimObj = anims_dict.get("idle")
+            idle_disp = getattr(IdleAnimObj, "Displayable", None) if IdleAnimObj else None
+            ShowWhat = At(AnimObj.Displayable, Battle_TransformRevertToIdleAnim(AnimObj.LengthInSeconds, idle_disp))
 
         renpy.show(
             BattleChar.SpriteTag, 
             what = ShowWhat, 
             at_list = [Battle_TransformCharPosition(BattleChar)], 
-            zorder = BattleChar.SpriteZorder
+            zorder = getattr(BattleChar, "SpriteZorder", 1)
         )
         return AnimObj
 
     def Battle_SpawnVfxOnChar(BattleChar, ImageID, RandomRotation = False, AutoXFlip = True):
         if RandomRotation:
-            Rotation = RngFloat(0, 360)
+            Rotation = renpy.random.uniform(0, 360)
         else:
             Rotation = 0
-        renpy.hide(ImageID + str(id(BattleChar)))
-        renpy.show(ImageID,
+
+        tag_name = str(ImageID) + "_" + str(id(BattleChar))
+        renpy.hide(tag_name)
+        renpy.show(
+            ImageID,
             at_list = [Battle_TransformVFXPosition(BattleChar, Rotation, AutoXFlip)],
-            zorder = BattleChar.SpriteZorder + 8,
-            tag = ImageID + str(id(BattleChar)))
-        return
-    def Battle_ShowChargeVFX(BattleChar):
-        """
-        Displays the particle/visual effect overlay when charging a skill.
-        """
-        # Determine target displayable tag or character position
-        char_tag = getattr(BattleChar, "SpriteTag", None) or getattr(BattleChar, "CharID", None)
-        
-        # Check if the charge VFX image exists in Ren'Py's image registry
-        if renpy.has_image("vfx_charge"):
-            renpy.show("vfx_charge", at_list=[Transform(center)])
-        elif char_tag and renpy.has_image(f"vfx_charge_{char_tag}"):
-            renpy.show(f"vfx_charge_{char_tag}")
-        else:
-            # Fallback log if no explicit charge VFX graphic is defined
-            renpy.log(f"VFX Warning: 'Battle_ShowChargeVFX' triggered for '{char_tag}', but no VFX asset was found.")
+            zorder = getattr(BattleChar, "SpriteZorder", 1) + 8,
+            tag = tag_name
+        )
+
 
 # char sprites root tf
 transform Battle_TransformCharPosition(BattleChar):
     anchor (0.5, 1.0)
     pos BattleChar_ScreenPositions[BattleChar.BattleSide][BattleChar.PositionSlotIndex]
-    xoffset BattleChar.BattleSkin.SpriteOffset[0]
-    yoffset BattleChar.BattleSkin.SpriteOffset[1] - 60
+    xoffset getattr(BattleChar.BattleSkin, "SpriteOffset", (0, 0))[0]
+    yoffset getattr(BattleChar.BattleSkin, "SpriteOffset", (0, 0))[1] - 60
     
     xzoom (1.0 if BattleChar.BattleSide == 0 else -1.0)
     zoom (0.9 if BattleChar.PositionSlotIndex in [0, 1] else 1.0)
 
 # helper tf that reverts to "idle" anim reliably
 transform Battle_TransformRevertToIdleAnim(Delay, IdleDisplayable):
-    Delay
+    pause Delay
     IdleDisplayable
 
 # spot at which vfx sprites appear
@@ -87,7 +64,7 @@ transform Battle_TransformVFXPosition(BattleChar, Rotation = 0, AutoXFlip = True
     anchor (0.5, 0.5)
     rotate Rotation
     pos BattleChar_ScreenPositions[BattleChar.BattleSide][BattleChar.PositionSlotIndex]
-    offset BattleChar.BattleSkin.SpriteVFXOffset
+    offset getattr(BattleChar.BattleSkin, "SpriteVFXOffset", (0, 0))
     xzoom (-1.0 if BattleChar.BattleSide == 0 and AutoXFlip else 1.0)
 
 ######### default impact image on all skills and attacks
@@ -102,11 +79,11 @@ transform Battle_TransformVfxImpact:
         zoom 1.5
         alpha 0.0
 
-############### "nod and bop (tm)" anims "
+############### "nod and bop (tm)" anims
 # 0.45
 transform Battle_TransformAttack(Char, Delay = 0.0, InLen = 0.05, OutLen = 0.4):
     subpixel True
-    Delay
+    pause Delay
     ease InLen:
         xoffset (-60 if Char.BattleSide == 1 else 60)
     ease OutLen:
@@ -135,8 +112,7 @@ transform Battle_TransformCast(Char):
 transform Battle_TransformHit(Char):
     subpixel True
     ease .05 xoffset 8
-    ease .05 xoffset -8 # 0.05
+    ease .05 xoffset -8
     ease .05 xoffset 5
-    ease .05 xoffset -5 # 0.1
+    ease .05 xoffset -5
     ease .05 xoffset 0
-##############

@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsParasiteBlack/Def/HealingWorms.rpy:4
     old "Healing Worms"
-    new "Healing Worms"
+    new "Heilwürmer"
 
     # game/data/battle_skills_actions/SkillsParasiteBlack/Def/HealingWorms.rpy:33
     old "Removes all harmful effects on yourself and recovers your energy and health by %s +5%% per harmful effect removed."
-    new "Removes all harmful effects on yourself and recovers your energy and health by %s +5%% per harmful effect removed."
+    new "Entfernt alle schädlichen Effekte auf dich und stellt deine Energie und Gesundheit um %s +5%% pro entferntem schädlichen Effekt wieder her."
 

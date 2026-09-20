@@ -766,8 +766,7 @@ translate ja gallery_myu_para_doggy_anal_tent_a97e607a:
 translate ja gallery_myu_para_doggy_anal_tent_16524ac5:
 
     # "I grunted and snarled in approval. Every dark impulse inside of the dark passenger burned with glee."
-    "俺は唸り声をあげ、満足げに唸った。
-闇の乗客の中にある、あらゆる闇の衝動が歓喜に燃えていた。"
+    "俺は唸り声をあげ、満足げに唸った。闇の乗客の中にある、あらゆる闇の衝動が歓喜に燃えていた。"
 
 # game/data/sexy_scenes/myu/galleryLabels/para_doggy.rpy:249
 translate ja gallery_myu_para_doggy_anal_tent_2b0aa1bd:

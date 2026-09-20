@@ -220,8 +220,7 @@ translate ja gallery_adara_alley_fing_38a1523c:
 translate ja gallery_adara_alley_fing_f636e0ee:
 
     # ADARA @ talk "...Thank you."
-    ADARA @ talk "…
-ありがとうございます。"
+    ADARA @ talk "…ありがとうございます。"
 
 # game/data/sexy_scenes/adara/galleryLabels/alley_fing.rpy:63
 translate ja gallery_adara_alley_fing_05f34ff2:

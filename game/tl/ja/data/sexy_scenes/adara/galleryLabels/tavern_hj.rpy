@@ -28,8 +28,7 @@ translate ja gallery_adara_tavern_hj_5aa5416c:
 translate ja gallery_adara_tavern_hj_48c750e3:
 
     # "In that moment, she said nothing as Adara’s hand began to trail down, resting over my crotch."
-    "その瞬間、彼女は何も言わなかった。
-アダラの手が滑り落ちて、私の性器の上に留まる。"
+    "その瞬間、彼女は何も言わなかった。アダラの手が滑り落ちて、私の性器の上に留まる。"
 
 # game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:13
 translate ja gallery_adara_tavern_hj_7d990802:
@@ -215,9 +214,7 @@ translate ja gallery_adara_tavern_hj_7171b7f4:
 translate ja gallery_adara_tavern_hj_498b3292:
 
     # "Shut up! Shut up! Shut up!"
-    "うるさい!
-うるさい!
-うるさい!"
+    "うるさい!うるさい!うるさい!"
 
 # game/data/sexy_scenes/adara/galleryLabels/tavern_hj.rpy:54
 translate ja gallery_adara_tavern_hj_3c7dd74b:

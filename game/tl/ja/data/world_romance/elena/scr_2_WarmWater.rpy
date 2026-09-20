@@ -304,8 +304,7 @@ translate ja rom_Elena_WaterWarm_dc2224ec:
 translate ja rom_Elena_WaterWarm_44fb3b86:
 
     # MC "I mean, let us see where things go... There's no need to rush, is there?"
-    MC "つまり、成り行きを見よう…  
-急ぐ必要なんてないだろう？"
+    MC "つまり、成り行きを見よう…  急ぐ必要なんてないだろう？"
 
 # game/data/world_romance/elena/scr_2_WarmWater.rpy:75
 translate ja rom_Elena_WaterWarm_e42274ab:

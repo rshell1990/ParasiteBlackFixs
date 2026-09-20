@@ -208,9 +208,7 @@ translate ja evscr_nijah_rescue_3_97ab3581:
 translate ja evscr_nijah_rescue_3_48308e13:
 
     # MC @ talk "She was being attacked! What was I supposed to do? Sit back and let it happen?"
-    MC @ talk "彼女が襲われている!  
-どうすればいいんだ？  
-ただ見てるだけか？"
+    MC @ talk "彼女が襲われている!  どうすればいいんだ？  ただ見てるだけか？"
 
 # game/data/world_events/novaras/nijah_rescue/scr_nijah_rescue_3.rpy:48
 translate ja evscr_nijah_rescue_3_d67fc98f:
@@ -270,8 +268,7 @@ translate ja evscr_nijah_rescue_3_b41b73a8:
 translate ja evscr_nijah_rescue_3_9aed3643:
 
     # REGINA @ talk "What don't you understand? It's a crime!"
-    REGINA @ talk "何がわからない？
-犯罪だよ!"
+    REGINA @ talk "何がわからない？犯罪だよ!"
 
 # game/data/world_events/novaras/nijah_rescue/scr_nijah_rescue_3.rpy:58
 translate ja evscr_nijah_rescue_3_3d823c19:

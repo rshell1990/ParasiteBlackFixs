@@ -74,7 +74,7 @@ translate zh preg_Nijah_goodNews_intro_b323444e:
 translate zh preg_Nijah_goodNews_intro_12df316d:
 
     # NIJAH "M-any Alderian men... They get Ramonian girls with child and go."
-    NIJAH "很-很多阿尔德雷男人...他们让莫尼亚女孩怀孕后就离开。"
+    NIJAH "很-很多阿尔德雷男人……他们让莫尼亚女孩怀孕后就离开。"
     
 
 # game/data/world_romance/nijah/scr_firstpreg.rpy:20
@@ -88,7 +88,7 @@ translate zh preg_Nijah_goodNews_intro_75857ca2:
 translate zh preg_Nijah_goodNews_intro_5df92709:
 
     # NIJAH "But... I want to keep your child."
-    NIJAH "但是...我想留下你的孩子。"
+    NIJAH "但是……我想留下你的孩子。"
     
 
 # game/data/world_romance/nijah/scr_firstpreg.rpy:22
@@ -109,7 +109,7 @@ translate zh preg_Nijah_goodNews_intro_d75d061d:
 translate zh preg_Nijah_goodNews_intro_2cebcdc8:
 
     # MC @ talk "...Nijah, I-"
-    MC @ talk "...妮雅，我-"
+    MC @ talk "……妮雅，我-"
     
 
 # game/data/world_romance/nijah/scr_firstpreg.rpy:25
@@ -137,7 +137,7 @@ translate zh preg_Nijah_goodNews_intro_a51e43f2:
 translate zh preg_Nijah_goodNews_intro_abd548b8:
 
     # MC @ talk "Nijah... {i}You are mine.{/i}"
-    MC @ talk "妮雅... {i}你是我的。{/i}"
+    MC @ talk "妮雅……{i}你是我的。{/i}"
     
 
 # game/data/world_romance/nijah/scr_firstpreg.rpy:29
@@ -158,7 +158,7 @@ translate zh preg_Nijah_goodNews_intro_d62be6ae:
 translate zh preg_Nijah_goodNews_intro_84ee69e2:
 
     # NIJAH "R-Really?"
-    NIJAH "真-真的吗？"
+    NIJAH "真、真的吗？"
     
 
 # game/data/world_romance/nijah/scr_firstpreg.rpy:32
@@ -172,7 +172,7 @@ translate zh preg_Nijah_goodNews_intro_78ec95d9:
 translate zh preg_Nijah_goodNews_intro_6bcb1c75:
 
     # NIJAH "M-Master... I love you so much!"
-    NIJAH "主-主人……我好爱你！"
+    NIJAH "主、主人……我好爱你！"
     
 
 # game/data/world_romance/nijah/scr_firstpreg.rpy:34
@@ -207,6 +207,6 @@ translate zh preg_Nijah_goodNews_intro_2eb2dd4a:
 translate zh preg_Nijah_goodNews_intro_6c38b146:
 
     # "After eating with Nijah, I departed once again, thinking about my soon to be new-born child I was now having with Nijah."
-    "和妮雅一起吃完饭后，我再次离开，想着我和妮娅即将迎来的新生儿。"
+    "和妮雅一起吃完饭后，我再次离开，想着我和妮雅即将迎来的新生儿。"
     
 

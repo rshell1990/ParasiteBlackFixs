@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2026-04-11 22:42
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:26
 translate zh rom_marbella_love_meet_date_de041b29:
@@ -64,7 +63,7 @@ translate zh rom_marbella_love_meet_date_5ef0f7b8:
 translate zh rom_marbella_love_meet_date_ea18a25a:
 
     # MC @ smile "Relax, 玛贝拉."
-    MC @ smile "放松点，马尔贝拉。"
+    MC @ smile "放松点，玛贝拉。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:54
 translate zh rom_marbella_love_meet_date_841f5595:
@@ -94,7 +93,7 @@ translate zh rom_marbella_love_meet_date_ae3bcd91:
 translate zh rom_marbella_love_meet_date_7e5e1b1c:
 
     # "The two of us took a seat at the table, ordering wine and food. 玛贝拉 did her best to make small talk, but as her eyes nervously looked around the room, her awkwardness was obvious."
-    "我们俩在桌边坐下，点了酒和食物。马尔贝拉尽力找话题闲聊，但当她紧张地环顾房间时，她的尴尬显而易见。"
+    "我们俩在桌边坐下，点了酒和食物。玛贝拉尽力找话题闲聊，但当她紧张地环顾房间时，她的尴尬显而易见。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:124
 translate zh rom_marbella_love_meet_date_6ad10a13:
@@ -2182,13 +2181,13 @@ translate zh rom_marbella_love_return_after_date_72e1b663:
 translate zh rom_marbella_love_return_after_date_cf1ae544:
 
     # MARBELLA @ emb "... O-Oh."
-    MARBELLA @ emb "...哦-哦。"
+    MARBELLA @ emb "……哦——哦。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:664
 translate zh rom_marbella_love_return_after_date_3a270f49:
 
     # MARBELLA @ emb "F-Fuck, mate, um..."
-    MARBELLA @ emb "靠，伙计，呃..."
+    MARBELLA @ emb "靠，伙计，呃……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:665
 translate zh rom_marbella_love_return_after_date_00cb972d:
@@ -2548,37 +2547,37 @@ translate zh replay_marbella_love_69_1f112ecd:
 translate zh replay_marbella_love_69_81fcd645:
 
     # MARBELLA "(W-What is happening?!)"
-    MARBELLA "(发-发生了什么？！)"
+    MARBELLA "（发——发生了什么？！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:765
 translate zh replay_marbella_love_69_364d3e55:
 
     # MARBELLA "(Gods, this is fucking crazy!)"
-    MARBELLA "(天哪，这他妈太疯狂了！)"
+    MARBELLA "（天哪，这他妈太疯狂了！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:766
 translate zh replay_marbella_love_69_4e987977:
 
     # MARBELLA "(He could kill a woman with this thing?!)"
-    MARBELLA "(他可以用这东西杀死一个女人？！)"
+    MARBELLA "（他可以用这东西杀死一个女人？！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:767
 translate zh replay_marbella_love_69_9a8876d3:
 
     # MARBELLA "(F-Fuckkkk...! His tongue! This crazy bastard! Mmmfghh...!)"
-    MARBELLA "(操-操操操...！他的舌头！这个疯狂的混蛋！嗯嗯嗯...！)"
+    MARBELLA "（操——操操操……！他的舌头！这个疯狂的混蛋！嗯嗯嗯……！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:768
 translate zh replay_marbella_love_69_1390cb42:
 
     # MARBELLA "(H-He's gonna make me cum!)"
-    MARBELLA "(他-他要让我高潮了！)"
+    MARBELLA "（他——他要让我高潮了！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:769
 translate zh replay_marbella_love_69_d80bdd52:
 
     # MARBELLA "(He's gonna-)"
-    MARBELLA "(他要-)"
+    MARBELLA "（他要——）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:771
 translate zh replay_marbella_love_69_96dccf12:
@@ -3142,43 +3141,43 @@ translate zh rom_marbella_love_come_to_zanzibat_after_guard_killed_548d0917:
 translate zh rom_marbella_love_theface_para_memo_8d628245:
 
     # MC "(Can you actually track the creature from this?)"
-    MC "(你真的能根据这个追踪到那生物吗？)"
+    MC "（你真的能根据这个追踪到那生物吗？）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:951
 translate zh rom_marbella_love_theface_para_memo_f65a36f3:
 
     # SHYAHTAN "(Yes...)"
-    SHYAHTAN "(是的……)"
+    SHYAHTAN "（是的……）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:952
 translate zh rom_marbella_love_theface_para_memo_ae0196ec:
 
     # SHYAHTAN "(And I want to devour it.)"
-    SHYAHTAN "(而且我想吞噬它。)"
+    SHYAHTAN "（而且我想吞噬它。）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:954
 translate zh rom_marbella_love_theface_para_memo_9f3a7097:
 
     # MC @ surprised "(What?!)"
-    MC @ surprised "(什么？！)"
+    MC @ surprised "（什么？！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:955
 translate zh rom_marbella_love_theface_para_memo_3ec9741e:
 
     # SHYAHTAN "(Devouring it will prove beneficial to us in the long run due to its genetic makeup.)"
-    SHYAHTAN "(吞噬它从长远来看对我们有益，因为它的基因构成特殊。)"
+    SHYAHTAN "（吞噬它从长远来看对我们有益，因为它的基因构成特殊。）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:956
 translate zh rom_marbella_love_theface_para_memo_20a52570:
 
     # SHYAHTAN "(It is a mostly nocturnal predator... We should look out for it in the evening.)"
-    SHYAHTAN "(它主要是夜行性捕食者……我们应该在傍晚时分留意它。)"
+    SHYAHTAN "（它主要是夜行性捕食者……我们应该在傍晚时分留意它。）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:957
 translate zh rom_marbella_love_theface_para_memo_b57b7d77:
 
     # SHYAHTAN "(I will let you know when I have its scent.)"
-    SHYAHTAN "(一旦我闻到它的气味，我会通知你。)"
+    SHYAHTAN "（一旦我闻到它的气味，我会通知你。）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:968
 translate zh rom_marbella_love_zanzibat_aboutthatcreature_00d4f402:
@@ -3424,7 +3423,7 @@ translate zh rom_marbella_love_return_after_face_0c5bcabf:
 translate zh rom_marbella_love_return_after_face_ece027f8:
 
     # "Later that day..."
-    "那天晚些时候..."
+    "那天晚些时候……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1039
 translate zh rom_marbella_love_return_after_face_bf3cb1d7:
@@ -3454,7 +3453,7 @@ translate zh rom_marbella_love_return_after_face_f1e49324:
 translate zh rom_marbella_love_return_after_face_7e488c57:
 
     # MARBELLA @ emb "So, uhh... I'll get us the first round?"
-    MARBELLA @ emb "那么，呃... 第一轮我来请？"
+    MARBELLA @ emb "那么，呃……第一轮我来请？"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1045
 translate zh rom_marbella_love_return_after_face_9c9c9eb5:
@@ -3472,7 +3471,7 @@ translate zh rom_marbella_love_return_after_face_009b4946:
 translate zh rom_marbella_love_return_after_face_d8d7de02:
 
     # MARBELLA @ lewd "Listen, mmm... It's getting kinda late, could you walk me back, handsome?"
-    MARBELLA @ lewd "听着，嗯... 有点晚了，你能送我回去吗，帅哥？"
+    MARBELLA @ lewd "听着，嗯……有点晚了，你能送我回去吗，帅哥？"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1052
 translate zh rom_marbella_love_return_after_face_55e6ea5b:
@@ -3556,7 +3555,7 @@ translate zh marbella_love_alleyway_repeat_796116a0:
 translate zh replay_marbella_love_alleyway_0d0ef688:
 
     # MC "玛贝拉... {i}*Huff*{/i}"
-    MC "玛贝拉... {i}*呼*{/i}"
+    MC "玛贝拉……{i}*呼*{/i}"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1085
 translate zh replay_marbella_love_alleyway_c20c6793:
@@ -3574,7 +3573,7 @@ translate zh replay_marbella_love_alleyway_660e634a:
 translate zh replay_marbella_love_alleyway_febb962b:
 
     # MARBELLA "Listen, handsome..."
-    MARBELLA "听着，帅哥..."
+    MARBELLA "听着，帅哥……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1088
 translate zh replay_marbella_love_alleyway_2036766d:
@@ -3586,7 +3585,7 @@ translate zh replay_marbella_love_alleyway_2036766d:
 translate zh replay_marbella_love_alleyway_5063122b:
 
     # MARBELLA "{i}Yer special to me... and I know what I want.{/i}"
-    MARBELLA "{i}你对我很特别...而且我知道我想要什么。{/i}"
+    MARBELLA "{i}你对我很特别……而且我知道我想要什么。{/i}"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1090
 translate zh replay_marbella_love_alleyway_18eb3a72:
@@ -3598,7 +3597,7 @@ translate zh replay_marbella_love_alleyway_18eb3a72:
 translate zh replay_marbella_love_alleyway_02547f8b:
 
     # MARBELLA "So quit yer worrying, andddd..."
-    MARBELLA "所以别瞎担心了，然后呢..."
+    MARBELLA "所以别瞎担心了，然后呢……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1094
 translate zh replay_marbella_love_alleyway_235e1b64:
@@ -3754,31 +3753,31 @@ translate zh replay_marbella_love_alleyway_ff2aec51:
 translate zh replay_marbella_love_alleyway_30277103:
 
     # MARBELLA "(Mwhaa! I can't help it!)"
-    MARBELLA "(呜哇！我忍不住了！)"
+    MARBELLA "（呜哇！我忍不住了！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1129
 translate zh replay_marbella_love_alleyway_d8b59122:
 
     # MARBELLA "(Every time I see him I just want to kiss him!)"
-    MARBELLA "(每次见到他，我就想亲他！)"
+    MARBELLA "（每次见到他，我就想亲他！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1130
 translate zh replay_marbella_love_alleyway_eba393be:
 
     # MARBELLA "(I wanna sit on his big stupid face and have him bend me over my desk and-)"
-    MARBELLA "(我想坐在他那张傻乎乎的大脸上，让他把我按在办公桌上——)"
+    MARBELLA "（我想坐在他那张傻乎乎的大脸上，让他把我按在办公桌上——）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1131
 translate zh replay_marbella_love_alleyway_07c8dfa3:
 
     # MARBELLA "(AHHH! WHY THE FUCK AM I FEELING LIKE THIS?!)"
-    MARBELLA "(啊啊啊！我他妈为什么会有这种感觉？！)"
+    MARBELLA "（啊啊啊！我他妈为什么会有这种感觉？！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1132
 translate zh replay_marbella_love_alleyway_e4d90bcf:
 
     # MARBELLA "(It's never been - {i}*Huff*{/i} like this before!)"
-    MARBELLA "(以前从没——{i}*喘气*{/i}这样过！)"
+    MARBELLA "（以前从没——{i}*喘气*{/i}这样过！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1133
 translate zh replay_marbella_love_alleyway_5bff3b5f:
@@ -3904,7 +3903,7 @@ translate zh replay_marbella_love_alleyway_25a47a56:
 translate zh replay_marbella_love_alleyway_9ee22412:
 
     # MC @ think "Figured you would be more of a... 'take me slowly in bed' kind of girl."
-    MC @ think "还以为你更像是那种...'在床上慢慢来'的女孩。"
+    MC @ think "还以为你更像是那种……'在床上慢慢来'的女孩。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1169
 translate zh replay_marbella_love_alleyway_5a14bddf:
@@ -3922,7 +3921,7 @@ translate zh replay_marbella_love_alleyway_c728c88b:
 translate zh replay_marbella_love_alleyway_6e5e1dfd:
 
     # MARBELLA @ emb "Someone like..."
-    MARBELLA @ emb "比如像..."
+    MARBELLA @ emb "比如像……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1172
 translate zh replay_marbella_love_alleyway_a6a9263f:
@@ -3940,7 +3939,7 @@ translate zh replay_marbella_love_alleyway_7b53cfde:
 translate zh replay_marbella_love_alleyway_c38bbb2e:
 
     # MC @ smile "As you command, my lady..."
-    MC @ smile "遵命，我的女士..."
+    MC @ smile "遵命，我的女士……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1178
 translate zh replay_marbella_love_alleyway_55ab4290:
@@ -4462,13 +4461,13 @@ translate zh rom_marbella_love_theplan_setout_3fcc6bb1:
 translate zh rom_marbella_love_theplan_setout_4ffee623:
 
     # MC @ serious "I said you could walk away..."
-    MC @ serious "我说过你可以离开的..."
+    MC @ serious "我说过你可以离开的……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1375
 translate zh rom_marbella_love_theplan_setout_17028578:
 
     # MARBELLA @ scared "F-Fuck... There's so much blood!"
-    MARBELLA @ scared "操... 这么多血！"
+    MARBELLA @ scared "操……这么多血！"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1376
 translate zh rom_marbella_love_theplan_setout_b1ebeb23:
@@ -4492,13 +4491,13 @@ translate zh rom_marbella_love_theplan_setout_4644ef8f:
 translate zh rom_marbella_love_theplan_setout_14432732:
 
     # MARBELLA @ scared "D-Don't leave me here!"
-    MARBELLA @ scared "别...别把我留在这里！"
+    MARBELLA @ scared "别……别把我留在这里！"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1381
 translate zh rom_marbella_love_theplan_setout_5efe07c4:
 
     # "玛贝拉 stepped closer, clinging to me."
-    "玛贝拉 靠得更近了些，紧紧依偎着我。"
+    "玛贝拉靠得更近了些，紧紧依偎着我。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1382
 translate zh rom_marbella_love_theplan_setout_88098c17:
@@ -4522,7 +4521,7 @@ translate zh rom_marbella_love_theplan_setout_64f9130e:
 translate zh rom_marbella_love_theplan_setout_4e84224a:
 
     # "玛贝拉 nodded sheepishly as we headed deeper into the mine."
-    "玛贝拉 羞涩地点点头，我们继续向矿井深处走去。"
+    "玛贝拉羞涩地点点头，我们继续向矿井深处走去。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1388
 translate zh rom_marbella_love_theplan_setout_f7f1c243:
@@ -4546,7 +4545,7 @@ translate zh rom_marbella_love_theplan_setout_ece46472:
 translate zh rom_marbella_love_theplan_setout_cf485bed:
 
     # "玛贝拉 didn't need much persuading, nodding sheepishly as we headed back to the wagon."
-    "玛贝拉 无需多劝，便羞涩地点点头，我们一同返回马车。"
+    "玛贝拉无需多劝，便羞涩地点点头，我们一同返回马车。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1402
 translate zh rom_marbella_love_theplan_setout_aac42d00:
@@ -5524,7 +5523,7 @@ translate zh marbella_love_wedding_repeat_26f91822:
 translate zh marbella_love_wedding_repeat_a5e9f4ab:
 
     # MARBELLA @ emb "I-I was wonderin' if you wanted to try something a little {i}'different'{/i} tonight."
-    MARBELLA @ emb "我、我在想今晚要不要尝试一点{i}'不一样'{/i}的。"
+    MARBELLA @ emb "我、我在想今晚要不要尝试一点{i}不一样{/i}的。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1777
 translate zh marbella_love_wedding_repeat_7de49adc:
@@ -5692,7 +5691,7 @@ translate zh marbella_love_wedding_repeat_4aeb301f:
 translate zh marbella_love_wedding_repeat_09faa5a1:
 
     # MC @ smile "(玛贝拉...)"
-    MC @ smile "(马贝拉……)"
+    MC @ smile "(玛贝拉……)"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1832
 translate zh marbella_love_wedding_repeat_0d893be8:
@@ -5890,7 +5889,7 @@ translate zh rom_marbella_love_wedding_vag_f5b61882:
 translate zh rom_marbella_love_wedding_vag_dbd6b505:
 
     # MARBELLA "{i}*Huff*{/i} Please... Cum..."
-    MARBELLA "{i}*哈啊*{/i} 求求你... 射..."
+    MARBELLA "{i}*哈啊*{/i} 求求你……射……"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1887
 translate zh rom_marbella_love_wedding_vag_27e84a5a:
@@ -5920,7 +5919,7 @@ translate zh rom_marbella_love_wedding_vag_3482ac4a:
 translate zh rom_marbella_love_wedding_vag_136386fa:
 
     # MC "Hrghhhhhhh...!"
-    MC "呃啊啊啊啊...！"
+    MC "呃啊啊啊啊……！"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:1898
 translate zh rom_marbella_love_wedding_vag_ec6af4d3:
@@ -6526,7 +6525,7 @@ translate zh rom_marbella_love_wedding_anal_f5e83f72:
 translate zh rom_marbella_love_wedding_anal_e1203b85:
 
     # MC "Ahh... 玛贝拉!"
-    MC "啊…马贝拉！"
+    MC "啊…玛贝拉！"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:2048
 translate zh rom_marbella_love_wedding_anal_87999a9c:
@@ -6836,7 +6835,6 @@ translate zh strings:
     old "I was wondering if I could do more than just look at your tits..."
     new "我在想，我能不能不只是看看你的胸部……"
 
-# TODO: Translation updated at 2026-04-21 00:15
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:70
 translate zh rom_marbella_love_meet_date_f37af44a:
@@ -7016,19 +7014,19 @@ translate zh rom_marbella_love_meet_date_6f3fa7b6:
 translate zh rom_marbella_love_meet_date_c5917b6e:
 
     # MARBELLA @ emb "Or um, maybe we could head back to your place for a bit?"
-    MARBELLA @ emb "或者…先去你那边坐一会儿？"
+    MARBELLA @ emb "或者……先去你那边坐一会儿？"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:111
 translate zh rom_marbella_love_meet_date_3f821e2f:
 
     # MARBELLA @ emb "For umm... drinks and stuff!"
-    MARBELLA @ emb "就是…喝点什么之类的！"
+    MARBELLA @ emb "就是……喝点什么之类的！"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:117
 translate zh rom_marbella_love_meet_date_aecf5b2f:
 
     # MARBELLA @ emb "Oh, uh... Alright then."
-    MARBELLA @ emb "哦，呃…那好吧。"
+    MARBELLA @ emb "哦，呃……那好吧。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:130
 translate zh rom_marbella_love_meet_date_5314c6b5:
@@ -7040,7 +7038,7 @@ translate zh rom_marbella_love_meet_date_5314c6b5:
 translate zh rom_marbella_love_meet_date_2c806acf:
 
     # MARBELLA @ emb "(Oh fuck... I didn't think he'd actually agree!)"
-    MARBELLA @ emb "（糟了…我没想到他真会答应！）"
+    MARBELLA @ emb "（糟了……我没想到他真会答应！）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:132
 translate zh rom_marbella_love_meet_date_e3855e10:
@@ -7052,7 +7050,7 @@ translate zh rom_marbella_love_meet_date_e3855e10:
 translate zh rom_marbella_love_meet_date_f9c95732:
 
     # MARBELLA @ emb "(R-Right...?)"
-    MARBELLA @ emb "（对、对吧…？）"
+    MARBELLA @ emb "（对、对吧……？）"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:2098
 translate zh rom_marbella_love_repeat_options_004464be:
@@ -7061,7 +7059,6 @@ translate zh rom_marbella_love_repeat_options_004464be:
     "抱歉亲爱的，现在文书工作太多，实在抽不开身……"
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:112
 translate zh rom_marbella_love_meet_date_98c0fbbd:
@@ -7079,7 +7076,7 @@ translate zh rom_marbella_love_meet_date_10ae197d:
 translate zh rom_marbella_love_meet_date_b2b56680:
 
     # "She muttered something about 'seeing me in the morning' as she closed the door."
-    "她嘀咕着什么"明早见"，然后关上了门。"
+    "她嘀咕着什么'明早见'，然后关上了门。"
 
 # game/data/world_romance/marbella/rom_marbella_love.rpy:121
 translate zh rom_marbella_love_meet_date_4ef61627:
@@ -7165,7 +7162,6 @@ translate zh rom_marbella_love_luna_get_wine_2cd71b24:
     # LUNA @ talk "I'll keep it back behind the counter for you."
     LUNA @ talk "我会帮你放在柜台后面。"
 
-# TODO: Translation updated at 2026-07-23 23:40
 
 translate zh strings:
 

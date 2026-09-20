@@ -10,13 +10,13 @@ translate de dialogue_anya_entry_dd8021a1:
 translate de anya_bye_60bc6fb9:
 
     # ANYA @ talk "Speak to Chanyi if you want to arrange... umm..."
-    ANYA @ talk "Speak to Chanyi if you want to arrange... umm..."
+    ANYA @ talk "Sprich mit Chanyi, wenn du... ähm... etwas arrangieren möchtest..."
 
 # game/data/characters/faymore_anya/char.rpy:40
 translate de anya_bye_99c61a5c:
 
     # ANYA @ lewd "Some 'evening entertainment' for us."
-    ANYA @ lewd "Some 'evening entertainment' for us."
+    ANYA @ lewd "Etwas 'Abendunterhaltung' für uns."
 
 translate de strings:
 
@@ -26,13 +26,13 @@ translate de strings:
 
     # game/data/characters/faymore_anya/char.rpy:14
     old "The wife of Chanyi Faymore and mother of Serafina... A merchant lord who seems particularly easy going."
-    new "The wife of Chanyi Faymore and mother of Serafina... A merchant lord who seems particularly easy going."
+    new "Die Frau von Chanyi Faymore und Mutter von Serafina... Eine Händlerin, die besonders gelassen wirkt."
 
     # game/data/characters/faymore_anya/char.rpy:24
     old "Talk to Anya"
-    new "Talk to Anya"
+    new "Sprich mit Anya"
 
     # game/data/characters/faymore_anya/char.rpy:28
     old "That's all."
-    new "That's all."
+    new "Das ist alles."
 

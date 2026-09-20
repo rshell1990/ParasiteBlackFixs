@@ -4,5 +4,5 @@ translate de strings:
 
     # game/engine/notes/notes.rpy:17
     old "New note: [note_title!t]"
-    new "New note: [note_title!t]"
+    new "Neue Notiz: [note_title!t]"
 

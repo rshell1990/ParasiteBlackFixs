@@ -25,7 +25,7 @@ translate zh rom_Dros_store_sex_cooldown_4546d1d1:
 translate zh dros_store_sex_postTf_b52c928e:
 
     # "Draya blushed at the comment."
-    "德拉娅 因这句话脸红了。"
+    "德拉娅因这句话脸红了。"
     
 
 # game/data/world_romance/dros/sexScene_store.rpy:17
@@ -46,7 +46,7 @@ translate zh dros_store_sex_postTf_765dfb20:
 translate zh dros_store_sex_postTf_d86ae19a:
 
     # "Draya stuttered as they leaned in to whisper, looking around the empty store for anyone who might be listening."
-    "德拉娅 结结巴巴地靠过来低语，环顾空荡荡的商店，看是否有人在听。"
+    "德拉娅结结巴巴地靠过来低语，环顾空荡荡的商店，看是否有人在听。"
     
 
 # game/data/world_romance/dros/sexScene_store.rpy:20
@@ -74,7 +74,7 @@ translate zh dros_store_sex_postTf_11a5ab44:
 translate zh dros_store_sex_postTf_37d94b8b:
 
     # "Draya bit down on her lower lip as she sheepishly headed towards the door to lock it, drawing what blinds she could."
-    "德拉娅 咬着下唇，羞怯地走向门口锁门，尽可能拉上窗帘。"
+    "德拉娅咬着下唇，羞怯地走向门口锁门，尽可能拉上窗帘。"
     
 
 # game/data/world_romance/dros/sexScene_store.rpy:24
@@ -109,7 +109,7 @@ translate zh dros_store_sex_postTf_16a8390b:
 translate zh dros_store_sex_postTf_8b6667a0:
 
     # "Draya bent over the counter and waited with bated breath as I stripped down and lined up behind her."
-    "德拉亚趴在柜台上屏息以待，我脱光衣服在她身后排好位置。"
+    "德拉娅趴在柜台上屏息以待，我脱光衣服在她身后排好位置。"
     
 
 # game/data/world_romance/dros/sexScene_store.rpy:39
@@ -130,7 +130,7 @@ translate zh dros_store_sex_postTf_b15649e3:
 translate zh dros_store_sex_postTf_911e1cd1:
 
     # "As my cock pushed into her tight ass, Draya gasped and moaned as I began to fuck her from behind."
-    "当肉棒挤进她紧致的后穴时，德拉亚倒抽一口气发出呻吟，我开始从后方抽插她。"
+    "当肉棒挤进她紧致的后穴时，德拉娅倒抽一口气发出呻吟，我开始从后方抽插她。"
     
 
 # game/data/world_romance/dros/sexScene_store.rpy:49
@@ -594,7 +594,6 @@ translate zh strings:
     
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/dros/sexScene_store.rpy:63
 translate zh dros_store_sex_postTf_c1917f07:

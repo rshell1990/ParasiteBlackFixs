@@ -16,8 +16,7 @@ translate ja gallery_winward_grave_04e0b4d1:
 translate ja gallery_winward_grave_020fe1c3:
 
     # MRS_WINWARD "I hope you're watching this, dear... Wherever you are."
-    MRS_WINWARD "あなたがこれを見ていますように…  
-どこにいても。"
+    MRS_WINWARD "あなたがこれを見ていますように…  どこにいても。"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/graveyard.rpy:27
 translate ja gallery_winward_grave_767d5402:

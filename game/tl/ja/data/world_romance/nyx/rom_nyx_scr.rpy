@@ -310,8 +310,7 @@ translate ja rom_nyx_start_aa83e39b:
 translate ja rom_nyx_start_9355bfd8:
 
     # MC "There we go ... See? Aren't you much happier when I put things in your mouth?"
-    MC "ほら…？  
-口に入れてあげると、ずっと嬉しいでしょう？"
+    MC "ほら…？  口に入れてあげると、ずっと嬉しいでしょう？"
 
 # game/data/world_romance/nyx/rom_nyx_scr.rpy:81
 translate ja rom_nyx_start_43ecf3b3:

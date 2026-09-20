@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/luna/char_luna.rpy:14
     old "A thirty-something katai woman, the proud owner of the Princess' Dream bathhouse in Hamun... she seems a little lonely?"
-    new "A thirty-something katai woman, the proud owner of the Princess' Dream bathhouse in Hamun... she seems a little lonely?"
+    new "Eine etwa dreißigjährige katai-Frau, die stolze Besitzerin des Badehauses Prinzessinnen-Traum in Hamun ... sie wirkt ein wenig einsam?"
 

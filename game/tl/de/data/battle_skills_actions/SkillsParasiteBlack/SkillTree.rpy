@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsParasiteBlack/SkillTree.rpy:2
     old "Parasite skills"
-    new "Parasite skills"
+    new "Parasitenfähigkeiten"
 

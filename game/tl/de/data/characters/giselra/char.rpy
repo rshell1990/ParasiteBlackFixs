@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/giselra/char.rpy:10
     old "Giselra, the owner of Giselra's tailor. A charming, if slightly lonely, older woman from Hamun who runs a popular tailors."
-    new "Giselra, the owner of Giselra's tailor. A charming, if slightly lonely, older woman from Hamun who runs a popular tailors."
+    new "Giselra, die Besitzerin von Giselras Schneiderei. Eine charmante, wenn auch etwas einsame, ältere Frau aus Hamun, die eine beliebte Schneiderei betreibt."
 

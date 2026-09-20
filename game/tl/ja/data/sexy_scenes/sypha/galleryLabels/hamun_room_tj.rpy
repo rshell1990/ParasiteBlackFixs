@@ -112,9 +112,7 @@ translate ja gallery_sypha_hamun_room_tj_fe440f43:
 translate ja gallery_sypha_hamun_room_tj_15f0b2f0:
 
     # "I resisted against the chains. Perhaps I should use my powers, break free and pin her to the-"
-    "鎖に抗った。
-力を解放すべきか、
-解放して彼女を押さえつけるんだ"
+    "鎖に抗った。力を解放すべきか、解放して彼女を押さえつけるんだ"
 
 # game/data/sexy_scenes/sypha/galleryLabels/hamun_room_tj.rpy:30
 translate ja gallery_sypha_hamun_room_tj_7fd1e9cd:
@@ -264,9 +262,7 @@ translate ja gallery_sypha_hamun_room_tj_7ec87e1b:
 translate ja gallery_sypha_hamun_room_tj_49113b6f:
 
     # "As she yanked sharply on the chain once more, I grunted. The overwhelming sensation became unbearable, and Sypha let out a pleased gasp as she felt my whole body tense up before I came."
-    "彼女が再び鎖を強く引っ張ると、私はうめいた。
-圧倒的な感覚に耐えられなくなり、シファは満足げな吐息を漏らす。
-私の全身が硬直するのを感じた直後、私は射精したのだ。"
+    "彼女が再び鎖を強く引っ張ると、私はうめいた。圧倒的な感覚に耐えられなくなり、シファは満足げな吐息を漏らす。私の全身が硬直するのを感じた直後、私は射精したのだ。"
 
 # game/data/sexy_scenes/sypha/galleryLabels/hamun_room_tj.rpy:60
 translate ja gallery_sypha_hamun_room_tj_b66f7d77:

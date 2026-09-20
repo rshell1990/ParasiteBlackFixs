@@ -208,8 +208,7 @@ translate ja gallery_thea_firstdate_cecd76f8:
 translate ja gallery_thea_firstdate_0b91187c:
 
     # THEA "Time for the {i}real{/i} reward. {image=[ICON.HEART]}"
-    THEA "{image=[ICON.HEART]}
-さあ、{i}本物の{/i}ご褒美の時間だ。"
+    THEA "{image=[ICON.HEART]}さあ、{i}本物の{/i}ご褒美の時間だ。"
 
 # game/data/sexy_scenes/thea/galleryLabels/first_date.rpy:129
 translate ja gallery_thea_firstdate_d7885d71:

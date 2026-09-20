@@ -280,8 +280,7 @@ translate ja gallery_adara_titjob_75e8de04:
 translate ja gallery_adara_titjob_84681078:
 
     # ADARA @ talk "Was... Was that good for you?"
-    ADARA @ talk "そ、それ……気持ちよかった？  
-よかった……？"
+    ADARA @ talk "そ、それ……気持ちよかった？  よかった……？"
 
 # TODO: Translation updated at 2026-06-13 16:23
 

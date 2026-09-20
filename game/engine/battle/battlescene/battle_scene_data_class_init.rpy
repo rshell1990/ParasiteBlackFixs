@@ -1,19 +1,18 @@
-define TargetBattleScene = None
-
 init python:
-    class BattleData:
-        def __init__(self,  BackgroundImage = None,
-                            
-                            CharIDList_Right = [],
-                            CharIDList_Left = [], 
-                            CharIDList_LeftExtra = [], 
+    import copy
+
+    class BattleData(object):
+        def __init__(self, BackgroundImage = None,
+                            CharIDList_Right = None,
+                            CharIDList_Left = None, 
+                            CharIDList_LeftExtra = None, 
 
                             AutoNightBackground = True,
                             CanRetreat = False,
                             CanAutoBattle = True,
                             GrantXp = True, 
 
-                            RiggedOnWinLoot = dict(),
+                            RiggedOnWinLoot = None,
                             GiveLoot = True, # can be disabled (for arena fights)
 
                             CanTransform = True,
@@ -29,15 +28,14 @@ init python:
                             
                             TurnLimit = None,       # < integer, forces "defeat" after certain number of turns passed
 
-                            LeftSideForcedAIControl = False, # for fully forced "auto battles" (arena)
-
+                            LeftSideForcedAIControl = False # for fully forced "auto battles" (arena)
                             ):
 
             self.BackgroundImage = BackgroundImage 
 
-            self.CharIDList_Right = CharIDList_Right
-            self.CharIDList_Left = CharIDList_Left 
-            self.CharIDList_LeftExtra = CharIDList_LeftExtra 
+            self.CharIDList_Right = CharIDList_Right if CharIDList_Right is not None else []
+            self.CharIDList_Left = CharIDList_Left if CharIDList_Left is not None else []
+            self.CharIDList_LeftExtra = CharIDList_LeftExtra if CharIDList_LeftExtra is not None else []
 
             self.AutoNightBackground = AutoNightBackground
 
@@ -46,7 +44,7 @@ init python:
             self.CanTransform = CanTransform
             
             self.GrantXp = GrantXp 
-            self.RiggedOnWinLoot = RiggedOnWinLoot # {"goblin_cleaver":3 "scout_sword":5}
+            self.RiggedOnWinLoot = RiggedOnWinLoot if RiggedOnWinLoot is not None else {} # {"goblin_cleaver":3 "scout_sword":5}
             self.GiveLoot = GiveLoot
 
             # if not none these jump to the specified label on corresp. outcome
@@ -63,12 +61,12 @@ init python:
             self.TurnLimit = TurnLimit
 
             self.LeftSideForcedAIControl = LeftSideForcedAIControl
-            return
+
 
     class BattleSceneClass(object):
         def __init__(self, BattleData):
             # looks trippy but all it does is auto-sets to night/day variant
-            if BattleData.AutoNightBackground:
+            if BattleData.AutoNightBackground and BattleData.BackgroundImage:
                 if BattleData.BackgroundImage.endswith("_night"):
                     if IsDaytime():
                         if renpy.has_image(BattleData.BackgroundImage.removesuffix("_night")):
@@ -120,28 +118,28 @@ init python:
                     # auto-select the chars who were on the list, 
                     # then IF len of that list greater than max chars, trim
                     # then call screen 
-                    if store.LastCombatTeam is not None:
-                        setattr(store, "PlayerCombatTeam", [])
+                    if getattr(store, "LastCombatTeam", None) is not None:
+                        store.PlayerCombatTeam = []
 
                         RemainingCharIDs = copy.copy(player_party)
                         for CharID in store.LastCombatTeam:
                             if CharInParty(CharID):
-                                getattr(store, "PlayerCombatTeam").append(CharID)
+                                store.PlayerCombatTeam.append(CharID)
                                 RemainingCharIDs.remove(CharID)
 
                         # this *can* happen if our last stored combat team was larger than currently available one
-                        if len(getattr(store, "PlayerCombatTeam")) > MaximumChars:
-                            setattr(store, "PlayerCombatTeam", getattr(store, "PlayerCombatTeam")[:MaximumChars])
+                        if len(store.PlayerCombatTeam) > MaximumChars:
+                            store.PlayerCombatTeam = store.PlayerCombatTeam[:MaximumChars]
                             renpy.call_screen("select_combat_team", RightBeforeBattle = True, MaximumCharsForTeam = MaximumChars)
                         
                         # if we're less than max chars *and theres some remaining chars*,
                         # fill with them
-                        elif len(getattr(store, "PlayerCombatTeam")) < MaximumChars:
-                            if (len(getattr(store, "PlayerCombatTeam")) + len(RemainingCharIDs)) <= MaximumChars:
-                                setattr(store, "PlayerCombatTeam", getattr(store, "PlayerCombatTeam") + RemainingCharIDs)
+                        elif len(store.PlayerCombatTeam) < MaximumChars:
+                            if (len(store.PlayerCombatTeam) + len(RemainingCharIDs)) <= MaximumChars:
+                                store.PlayerCombatTeam += RemainingCharIDs
                             else:
-                                while len(getattr(store, "PlayerCombatTeam")) < MaximumChars:
-                                    getattr(store, "PlayerCombatTeam").append(RemainingCharIDs.pop())
+                                while len(store.PlayerCombatTeam) < MaximumChars:
+                                    store.PlayerCombatTeam.append(RemainingCharIDs.pop())
                                 renpy.call_screen("select_combat_team", RightBeforeBattle = True, MaximumCharsForTeam = MaximumChars)
                         
                         else:
@@ -150,20 +148,20 @@ init python:
 
                     # else just auto-select then call screen
                     else:
-                        setattr(store, "PlayerCombatTeam", player_party[:MaximumChars])
+                        store.PlayerCombatTeam = player_party[:MaximumChars]
                         renpy.call_screen("select_combat_team", RightBeforeBattle = True, MaximumCharsForTeam = MaximumChars)
 
                 # case 2, player has less chars than maximum. if autofill is true, then autofill, else call for screen
                 else:
-                    if persistent.BattlePref_AutoFillPlayerCombatTeam:
-                        setattr(store, "PlayerCombatTeam", player_party[:MaximumChars])
+                    if getattr(persistent, "BattlePref_AutoFillPlayerCombatTeam", False):
+                        store.PlayerCombatTeam = player_party[:MaximumChars]
                     else:
                         renpy.call_screen("select_combat_team", RightBeforeBattle = True, MaximumCharsForTeam = MaximumChars)
 
                 # the list of left chars is now finalized, set the variable
-                self.CharIDList_Left = copy.deepcopy(getattr(store, "PlayerCombatTeam"))
+                self.CharIDList_Left = copy.deepcopy(store.PlayerCombatTeam)
                 # and also store the Last Used Combat Team
-                store.LastCombatTeam = getattr(store, "PlayerCombatTeam")
+                store.LastCombatTeam = store.PlayerCombatTeam
 
             # if the left list is passed in, use it
             else:
@@ -173,8 +171,8 @@ init python:
             # a battle initiated with PlayerCombatTeam + ["ves"] will 100% have ves present
             self.CharIDList_Left = (self.CharIDList_Left + BattleData.CharIDList_LeftExtra)[-4:]
 
-            Assert(4 >= len(self.CharIDList_Left) > 0,  "Left side is empty/too big, wtf!")
-            Assert(4 >= len(self.CharIDList_Right) > 0, "Right side is empty/too big, wtf!")
+            assert 4 >= len(self.CharIDList_Left) > 0,  "Left side is empty/too big, wtf!"
+            assert 4 >= len(self.CharIDList_Right) > 0, "Right side is empty/too big, wtf!"
 
             # 0 are left side 1 are right side
             self.BattleChars = {}
@@ -183,7 +181,7 @@ init python:
 
             self.ItemPools = {}
 
-            self.ItemPools[0] = player_inv
+            self.ItemPools[0] = getattr(store, "player_inv", {})
             self.ItemPools[1] = {} # unused, eventually will be enemy-used items. EVENTUALLY
 
             # BattleSide:{ItemID:Qty}
@@ -200,38 +198,34 @@ init python:
                     if isinstance(CharID, dict):
                         CharID = list(CharID.keys())[0]
                     # if char id has no loot drop data, bail
-                    if CharID not in LootDropData:
+                    if CharID not in getattr(store, "LootDropData", {}):
                         continue
                     
                     # work through lootdrop entries and assemble resulting ItemID:Qty collection
-                    for ItemEntryDict in LootDropData[CharID]:
+                    for ItemEntryDict in store.LootDropData[CharID]:
                         DropItemID = ItemEntryDict["ItemID"]
                         DropItemMinDropRolls = ItemEntryDict["MinDropRolls"]
                         DropItemMaxDropRolls = ItemEntryDict["MaxDropRolls"]
                         DropChance = ItemEntryDict["ChancePerSingleEntry"]
-                        if "AmountPerSingleEntry" in ItemEntryDict:
-                            AmountPerSingleEntry = ItemEntryDict["AmountPerSingleEntry"]
-                        else:
-                            AmountPerSingleEntry = 1
+                        AmountPerSingleEntry = ItemEntryDict.get("AmountPerSingleEntry", 1)
 
                         DropRolls = renpy.random.randint(DropItemMinDropRolls, DropItemMaxDropRolls)
                         SuccRolls = 0
                         for i in range(DropRolls):
-                            if RngFloat(0.0, 1.0) > DropChance:
+                            if renpy.random.random() > DropChance:
                                 continue
                             else:
                                 SuccRolls += 1
 
                         if SuccRolls > 0:
-                            self.ItemsToBeDroppedOnVictory.append({DropItemID:SuccRolls * AmountPerSingleEntry})
+                            self.ItemsToBeDroppedOnVictory.append({DropItemID: SuccRolls * AmountPerSingleEntry})
 
                 # add rigged loot to items to be dropped
                 for ItemID, ItemQty in BattleData.RiggedOnWinLoot.items():
-                    self.ItemsToBeDroppedOnVictory.append({ItemID:ItemQty})
+                    self.ItemsToBeDroppedOnVictory.append({ItemID: ItemQty})
 
             # for restarting the battle
             self.StoredPlayerInfectionValue = InfectionModule().CurrentValue
-
 
             self.Turn = 0
             self.Outcome = None # "victory", "defeat", "retreat"
@@ -254,7 +248,7 @@ init python:
                 self.CanAutoBattle = False 
             else:
                 if self.CanAutoBattle:
-                    self.AIControlSide[0] = (True if persistent.BattlePref_AutoBattleByDefault else False)
+                    self.AIControlSide[0] = bool(getattr(persistent, "BattlePref_AutoBattleByDefault", False))
 
             self.ActingSide = 0
 
@@ -270,7 +264,7 @@ init python:
 
             self.NextFloatingValScreenIndex = 0
 
-            self.PostBattleGlobalPoison = dict() # battlechar:poisonduration
+            self.PostBattleGlobalPoison = {} # battlechar:poisonduration
 
             # this is ONLY for inventory description check to tell that we're both "in battle" and "in loot screen"
             self.PostBattleFlag = False
@@ -302,12 +296,10 @@ init python:
         TargetBattleScene.ActionAwaitingTarget_PotentialTargetsList = []
 
         TargetBattleScene.TauntedCharsForCurrentlyActiveSide = []
-        TargetBattleScene.PostBattleGlobalPoison = dict()
+        TargetBattleScene.PostBattleGlobalPoison = {}
 
         for SideID in range(2):
             for ItemID, ItemQty in TargetBattleScene.ItemsRemovedDuringBattle[SideID].items():
                 AddItemTo(TargetBattleScene.ItemPools[SideID], ItemID, ItemQty)
 
         TargetBattleScene.ItemsRemovedDuringBattle = {0:{}, 1:{}}
-
-        return

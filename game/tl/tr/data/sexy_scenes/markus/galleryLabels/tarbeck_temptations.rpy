@@ -264,13 +264,6 @@ translate tr gallery_markus_fem_tarbeck_temptations_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "Gözcüler sırıttı, sahneden eğlendi, Marcia'nın bacakları altımda acınası bir şekilde kıvrandı."
 
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:73
-translate tr gallery_markus_fem_tarbeck_temptations_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "Gücü tükenmiş, yapabileceği tek şey aletim göğüslerinin arasına çakarken çaresizce izlemekti."
-
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:74
 translate tr gallery_markus_fem_tarbeck_temptations_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -389,4 +382,3 @@ translate tr gallery_markus_fem_tarbeck_temptations_142972cd:
 
     # "As the overwhelming lust finally began to subside, it dawned on us what we had just done..."
     "Ezici şehvet sonunda yatışmaya başlarken, az önce ne yaptığımızın farkına vardık..."
-

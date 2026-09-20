@@ -862,8 +862,7 @@ translate ja rom_divine_missionary_b3fe9c7c:
 translate ja rom_divine_missionary_0af0094d:
 
     # DIVINE "Mmmfgh! I've missed this!"
-    DIVINE "うぐっ…!
-これ、待ちわびてたんだ!"
+    DIVINE "うぐっ…!これ、待ちわびてたんだ!"
 
 # game/data/world_romance/divine/scr_repeat.rpy:316
 translate ja rom_divine_missionary_d0474fa8:
@@ -1007,8 +1006,7 @@ translate ja rom_divine_missionary_fd06f8aa:
 translate ja rom_divine_missionary_4a2a9071:
 
     # DIVINE "Ooooh! I can feel how hard you are in me..."
-    DIVINE "ああっ…すごく感じる…
-中で、こんなに硬くなってるの"
+    DIVINE "ああっ…すごく感じる…中で、こんなに硬くなってるの"
 
 # game/data/world_romance/divine/scr_repeat.rpy:351
 translate ja rom_divine_missionary_4449800d:
@@ -1272,15 +1270,13 @@ translate ja rom_divine_missionary_7d564716_1:
 translate ja rom_divine_missionary_1ca8e82a:
 
     # DIVINE "Ah... They sure are – Oooh!~"
-    DIVINE "あ…ほんとだー  
-うわっ!～"
+    DIVINE "あ…ほんとだー  うわっ!～"
 
 # game/data/world_romance/divine/scr_repeat.rpy:441
 translate ja rom_divine_missionary_b3366b54_1:
 
     # DIVINE "Hungry...aren’t they? Ah! {image=[ICON.HEART]}"
-    DIVINE "お腹がすいてるのかな…
-あっ!{image=[ICON.HEART]}"
+    DIVINE "お腹がすいてるのかな…あっ!{image=[ICON.HEART]}"
 
 # game/data/world_romance/divine/scr_repeat.rpy:442
 translate ja rom_divine_missionary_15788047_1:

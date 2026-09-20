@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/tarbeck_lord/char.rpy:12
     old "A rich, powerful merchant lord famous for his decadence and lust... He is as cunning as he is brutal."
-    new "A rich, powerful merchant lord famous for his decadence and lust... He is as cunning as he is brutal."
+    new "Ein reicher, mächtiger Handelsherr, berühmt für seine Dekadenz und Wollust... Er ist ebenso gerissen wie brutal."
 

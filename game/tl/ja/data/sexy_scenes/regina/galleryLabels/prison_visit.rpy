@@ -76,8 +76,7 @@ translate ja gallery_regina_prison_visit_f834a9d3:
 translate ja gallery_regina_prison_visit_7be10a23:
 
     # MC @ angry "No more! Who are you really?"
-    MC @ angry "もうたくさんだ!
-あなたの正体は何なの？"
+    MC @ angry "もうたくさんだ!あなたの正体は何なの？"
 
 # game/data/sexy_scenes/regina/galleryLabels/prison_visit.rpy:22
 translate ja gallery_regina_prison_visit_c0bf3f94:
@@ -695,8 +694,7 @@ translate ja gallery_regina_prison_visit_1efd2573:
 translate ja gallery_regina_prison_visit_c4a7603d:
 
     # "The cell blurred before my eyes. My strength left me."
-    "檻が視界の中でぼやけた。
-力が抜けていった。"
+    "檻が視界の中でぼやけた。力が抜けていった。"
 
 # game/data/sexy_scenes/regina/galleryLabels/prison_visit.rpy:173
 translate ja gallery_regina_prison_visit_7af1c229:

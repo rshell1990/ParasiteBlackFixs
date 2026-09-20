@@ -4,13 +4,13 @@
 translate de rom_Nijah_stage0_intro_lines_5cba255b:
 
     # "As I entered her home, Nijah smiled. It was small inside, covered in various trinkets and pieces from her homeland."
-    "As I entered her home, Nijah smiled. It was small inside, covered in various trinkets and pieces from her homeland."
+    "Als ich ihr Haus betrat, lächelte Nijah. Es war innen klein, bedeckt mit verschiedenen Schmuckstücken und Gegenständen aus ihrer Heimat."
 
 # game/data/world_romance/nijah/scr_intro.rpy:6
 translate de rom_Nijah_stage0_intro_lines_2e30b1a5:
 
     # "The air choked on various incenses that she had scattered around the place, and littered around were the strange, ornate lanterns that comfortingly illuminated the room in the darkness."
-    "The air choked on various incenses that she had scattered around the place, and littered around were the strange, ornate lanterns that comfortingly illuminated the room in the darkness."
+    "Die Luft war erfüllt von verschiedenen Räucherstäbchen, die sie überall verteilt hatte, und überall lagen die seltsamen, verzierten Laternen, die den Raum in der Dunkelheit wohltuend erhellten."
 
 # game/data/world_romance/nijah/scr_intro.rpy:7
 translate de rom_Nijah_stage0_intro_lines_0c6e584f:
@@ -22,29 +22,29 @@ translate de rom_Nijah_stage0_intro_lines_0c6e584f:
 translate de rom_Nijah_stage0_intro_lines_f722eb9a:
 
     # NIJAH "Iz not much but..."
-    NIJAH "Iz not much but..."
+    NIJAH "Is nich viel, aber..."
 
 # game/data/world_romance/nijah/scr_intro.rpy:9
 translate de rom_Nijah_stage0_intro_lines_dba2e8fc:
 
     # NIJAH "Zis is home."
-    NIJAH "Zis is home."
+    NIJAH "Das is' Zuhause."
 
 # game/data/world_romance/nijah/scr_intro.rpy:10
 translate de rom_Nijah_stage0_intro_lines_7ae03b3c:
 
     # MC @ talk "It’s... smaller than I imagined."
-    MC @ talk "It’s... smaller than I imagined."
+    MC @ talk "Es ist... kleiner, als ich es mir vorgestellt habe."
 
 # game/data/world_romance/nijah/scr_intro.rpy:11
 translate de rom_Nijah_stage0_intro_lines_e1d67423:
 
     # NIJAH "This is the best Ramonians trapped here can do."
-    NIJAH "This is the best Ramonians trapped here can do."
+    NIJAH "Das ist das Beste, was die hier gefangenen Ramonier tun können."
 
 # game/data/world_romance/nijah/scr_intro.rpy:12
 translate de rom_Nijah_stage0_intro_lines_01f22c18:
 
     # NIJAH "You can be at home here, [player_name!t]."
-    NIJAH "You can be at home here, [player_name!t]."
+    NIJAH "Du kannst hier zu Hause sein, [player_name!t]."
 

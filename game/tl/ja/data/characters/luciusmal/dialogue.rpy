@@ -4,8 +4,7 @@
 translate ja luciusmal_talk_42c75cc3:
 
     # LUCIUSMAL "Hello traveler! Need anything?"
-    LUCIUSMAL "やあ、旅人さん!
-何か必要なものは？"
+    LUCIUSMAL "やあ、旅人さん!何か必要なものは？"
 
 # game/data/characters/luciusmal/dialogue.rpy:55
 translate ja luciusmal_shop_4a23ec27:

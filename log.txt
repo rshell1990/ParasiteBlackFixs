@@ -1,76 +1,38 @@
-2026-09-15 13:22:27 UTC
+2026-09-19 22:30:54 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 419 ms
-Loading error handling took 2248 ms
-10846 script files skipped.
-Loading script took 1931 ms
-Loading save slot metadata took 60 ms
+Early init took 480 ms
+Loading error handling took 2221 ms
+10851 script files skipped.
+Loading script took 16280 ms
+Loading save slot metadata took 114 ms
 Loading persistent took 0 ms
 Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 505 ms
-Loading analysis data took 19 ms
-Analyze and compile ATL took 28 ms
-Reloading save slot metadata took 8 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 74 ms
+ - Init at renpy/common/00steam.rpy:879 took 254 ms.
+ - Init at game/engine/publisher_launcher/satyrlauncher.rpy:3 took 451 ms.
+Running init code took 1130 ms
+Loading analysis data took 16 ms
+Analyze and compile ATL took 32 ms
+Reloading save slot metadata took 16 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlack':
+Dump and make backups took 32 ms
 Cleaning cache took 0 ms
 Making clean stores took 0 ms
-Initial gc took 100 ms
+Initial gc took 95 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 2 ms
-Init translation took 9 ms
-Cleaning stores took 1 ms
-Load screen analysis took 0 ms
-Analyze screens took 30 ms
-Save screen analysis took 40 ms
-Save pyanalysis took 0 ms
-Save bytecode took 136 ms
-Running _start took 1 ms
-Interface start took 708 ms
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1600, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: 'ATI Technologies Inc.'
-Renderer: 'Radeon RX550/550 Series'
-Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
-Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1361, 766) drawable=(1361, 766)
-Maximum texture size: 4096x4096
-INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-Resetting cache.
-Early init took 392 ms
-Loading error handling took 2432 ms
-10846 script files skipped.
-Loading script took 2254 ms
-Loading save slot metadata took 53 ms
-Loading persistent took 0 ms
-Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
-Running init code took 285 ms
-Loading analysis data took 18 ms
-Analyze and compile ATL took 31 ms
-Reloading save slot metadata took 8 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
-Dump and make backups took 74 ms
-Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 148 ms
-DPI scale factor: 1.000000
-Creating interface object took 1 ms
-Init translation took 10 ms
+Creating interface object took 32 ms
+Init translation took 0 ms
 Cleaning stores took 0 ms
-Load screen analysis took 1 ms
-Analyze screens took 28 ms
-Save screen analysis took 38 ms
+Load screen analysis took 16 ms
+Analyze screens took 16 ms
+Save screen analysis took 32 ms
 Save pyanalysis took 0 ms
-Save bytecode took 0 ms
-Running _start took 2 ms
-Interface start took 707 ms
+Save bytecode took 126 ms
+Running _start took 0 ms
+Interface start took 684 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -80,6 +42,98 @@ Vendor: 'ATI Technologies Inc.'
 Renderer: 'Radeon RX550/550 Series'
 Version: '4.6.0 Compatibility Profile Context 22.11.2.221130'
 Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 255, 0), 'shifts': (16, 8, 0, 0), 'losses': (0, 0, 0, 8), 'current_w': 1600, 'current_h': 900, 'refresh_rate': 60, 'hw': False, 'wm': True, 'video_mem': 268435456, 'blit_hw': False, 'blit_hw_CC': False, 'blit_hw_A': False, 'blit_sw': False, 'blit_sw_CC': False, 'blit_sw_A': False})>
-Screen sizes: virtual=(1920, 1080) physical=(1361, 766) drawable=(1361, 766)
+Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
+save update: unequipped missing item '5' from markus
+save update: unequipped missing item '5' from markus
+save update: unequipped missing item '4' from markus
+save update: unequipped missing item '20' from mc
+save update: unequipped missing item '21' from mc
+save update: unequipped missing item '4' from mc
+save update: purged missing item '17' from container 'player_inv'
+save update: purged missing item '18' from container 'player_inv'
+save update: purged missing item '8' from container 'player_inv'
+save update: purged missing item '0' from container 'player_inv'
+save update: purged missing item '9' from container 'player_inv'
+save update: purged missing item '19' from container 'player_inv'
+save update: purged missing item '20' from container 'player_inv'
+save update: purged missing item '21' from container 'player_inv'
+save update: purged missing item '27' from container 'player_inv'
+save update: purged missing item '28' from container 'player_inv'
+save update: purged missing item '4' from container 'player_inv'
+save update: purged missing item '5' from container 'player_inv'
+save update: purged missing item '26' from container 'player_inv'
+save update: purged missing item '31' from container 'player_inv'
+save update: purged missing item '7' from container 'player_inv'
+save update: purged missing item '42' from container 'player_inv'
+save update: purged missing item '6' from container 'player_inv'
+save update: purged missing item '44' from container 'player_inv'
+save update: purged missing item '45' from container 'player_inv'
+save update: purged missing item '46' from container 'player_inv'
+save update: purged missing item '48' from container 'player_inv'
+save update: purged missing item '49' from container 'player_inv'
+save update: purged missing item '22' from container 'bookshelf_library_novaras'
+save update: purged missing item '23' from container 'bookshelf_library_novaras'
+save update: purged missing item '24' from container 'bookshelf_library_novaras'
+save update: purged missing item '2' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '0' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '32' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '33' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '34' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '35' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '3' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '36' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '37' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '5' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '38' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '39' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '4' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '40' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '41' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: unequipped missing item '5' from markus
+save update: unequipped missing item '5' from markus
+save update: unequipped missing item '4' from markus
+save update: unequipped missing item '20' from mc
+save update: unequipped missing item '21' from mc
+save update: unequipped missing item '1' from mc
+save update: purged missing item '17' from container 'player_inv'
+save update: purged missing item '18' from container 'player_inv'
+save update: purged missing item '8' from container 'player_inv'
+save update: purged missing item '0' from container 'player_inv'
+save update: purged missing item '9' from container 'player_inv'
+save update: purged missing item '19' from container 'player_inv'
+save update: purged missing item '20' from container 'player_inv'
+save update: purged missing item '21' from container 'player_inv'
+save update: purged missing item '27' from container 'player_inv'
+save update: purged missing item '28' from container 'player_inv'
+save update: purged missing item '4' from container 'player_inv'
+save update: purged missing item '5' from container 'player_inv'
+save update: purged missing item '26' from container 'player_inv'
+save update: purged missing item '31' from container 'player_inv'
+save update: purged missing item '7' from container 'player_inv'
+save update: purged missing item '42' from container 'player_inv'
+save update: purged missing item '6' from container 'player_inv'
+save update: purged missing item '44' from container 'player_inv'
+save update: purged missing item '45' from container 'player_inv'
+save update: purged missing item '49' from container 'player_inv'
+save update: purged missing item '1' from container 'player_inv'
+save update: purged missing item '11' from container 'player_inv'
+save update: purged missing item '22' from container 'bookshelf_library_novaras'
+save update: purged missing item '23' from container 'bookshelf_library_novaras'
+save update: purged missing item '24' from container 'bookshelf_library_novaras'
+save update: purged missing item '2' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '0' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '32' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '33' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '34' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '35' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '3' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '36' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '37' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '5' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '38' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '39' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '4' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '40' from container 'DraxCraftRecipesAndIngredientsContainer'
+save update: purged missing item '41' from container 'DraxCraftRecipesAndIngredientsContainer'

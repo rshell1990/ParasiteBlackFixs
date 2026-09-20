@@ -70,8 +70,7 @@ translate ja travelmodebanter_city_novaras_mc_markus_1_c6b1acbe:
 translate ja travelmodebanter_city_novaras_mc_markus_1_947995b2:
 
     # MARKUS @ talk "Anyway, that's all I had to ask. Let's keep moving."
-    MARKUS @ talk "とにかく、私の質問はそれだけだ。
-先に進もう。"
+    MARKUS @ talk "とにかく、私の質問はそれだけだ。先に進もう。"
 
 # game/data/world_events/global_shared/BanterInCities/banter_in_cities_aio.rpy:155
 translate ja travelmodebanter_city_novaras_mc_markus_2_3e258d59:
@@ -107,8 +106,7 @@ translate ja travelmodebanter_city_novaras_mc_markus_2_5aabd170:
 translate ja travelmodebanter_city_novaras_mc_markus_2_92d3a3be:
 
     # MARKUS @ smile "You can hide many things from me. Your feelings for her aren't one of them."
-    MARKUS @ smile "君はたくさんのことを隠せる。
-でも、君の彼女への想いは違う。"
+    MARKUS @ smile "君はたくさんのことを隠せる。でも、君の彼女への想いは違う。"
 
 # game/data/world_events/global_shared/BanterInCities/banter_in_cities_aio.rpy:163
 translate ja travelmodebanter_city_novaras_mc_markus_2_cb43410c:
@@ -372,8 +370,7 @@ translate ja travelmodebanter_city_hamun_mc_ves_2_b453ae43:
 translate ja travelmodebanter_city_hamun_mc_ves_2_b081eb66:
 
     # "A pause. More sniffing."
-    "間。
-さらにすすり泣く。"
+    "間。さらにすすり泣く。"
 
 # game/data/world_events/global_shared/BanterInCities/banter_in_cities_aio.rpy:249
 translate ja travelmodebanter_city_hamun_mc_ves_2_eea07cd3:

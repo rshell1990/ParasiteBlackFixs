@@ -80,7 +80,7 @@ init python:
         FreezeChanceByLevel = {1: 0.50, 2: 0.70, 3: 0.85, 4: 1.00}
 
         def CanExecute(self):
-            if not super(BattleSkill_Freeze, self).CanExecute():
+            if not BattleSkill.CanExecute(self):
                 return False
             return True
 

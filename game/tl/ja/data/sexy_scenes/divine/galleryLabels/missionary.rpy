@@ -610,10 +610,7 @@ translate ja gallery_divine_missionary_anal_15788047:
 translate ja gallery_divine_missionary_anal_48f1bb53:
 
     # DIVINE "Oh gods! Yes! Pound that little ass!"
-    DIVINE "ああっ…! 神よ…!  
-ええ…!  
-そのちっぽけなケツを  
-思いっきり突いて…!"
+    DIVINE "ああっ…! 神よ…!  ええ…!  そのちっぽけなケツを  思いっきり突いて…!"
 
 # game/data/sexy_scenes/divine/galleryLabels/missionary.rpy:275
 translate ja gallery_divine_missionary_anal_4b8a729f:

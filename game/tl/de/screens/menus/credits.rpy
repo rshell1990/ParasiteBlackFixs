@@ -4,7 +4,7 @@ translate de strings:
 
     # game/screens/menus/credits.rpy:9
     old "Credits"
-    new "Credits"
+    new "Mitwirkende"
 
     # game/screens/menus/credits.rpy:22
     old "Damned Studios"
@@ -12,5 +12,5 @@ translate de strings:
 
     # game/screens/menus/credits.rpy:45
     old "Ex-members / contractors"
-    new "Ex-members / contractors"
+    new "Ehemalige Mitglieder / Freiberufler"
 

@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsBerserker/Sup/TheCryOfATrueWarrior.rpy:4
     old "Cry of A True Warrior"
-    new "Cry of A True Warrior"
+    new "Schrei eines wahren Kriegers"
 
     # game/data/battle_skills_actions/SkillsBerserker/Sup/TheCryOfATrueWarrior.rpy:34
     old "Removes all harmful effects from all allies, grants immunity and willpower to all allies for 2 turns.\nAllies under willpower effect cannot die."
-    new "Removes all harmful effects from all allies, grants immunity and willpower to all allies for 2 turns.\nAllies under willpower effect cannot die."
+    new "Entfernt alle schädlichen Effekte von allen Verbündeten, gewährt allen Verbündeten für 2 Runden Immunität und Willenskraft.\nVerbündete unter dem Effekt von Willenskraft können nicht sterben."
 

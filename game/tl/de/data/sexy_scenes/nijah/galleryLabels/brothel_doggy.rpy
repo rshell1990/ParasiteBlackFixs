@@ -64,37 +64,37 @@ translate de gallery_nijah_doggy_72f584c4:
 translate de gallery_nijah_doggy_b5ac8622:
 
     # "Nijah shuddered a little as I filled her up and I gasped at how tight and warm she was."
-    "Nijah shuddered a little as I filled her up and I gasped at how tight and warm she was."
+    "Nijah erschauderte ein wenig, als ich sie ausfüllte, und ich keuchte, wie eng und warm sie war."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:22
 translate de gallery_nijah_doggy_818b33b4:
 
     # MC "Is this okay?"
-    MC "Is this okay?"
+    MC "Ist das in Ordnung?"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:23
 translate de gallery_nijah_doggy_c318a916:
 
     # NIJAH "Mmm... Y-Yis, continue for me, please."
-    NIJAH "Mmm... Y-Yis, continue for me, please."
+    NIJAH "Mmm... J-Ja, mach bitte für mich weiter."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:27
 translate de gallery_nijah_doggy_07d9eae2:
 
     # "With both hands on her soft round rump, I thrusted into her with maddening lust. Each stroke inside her felt warmer and wetter than the previous."
-    "With both hands on her soft round rump, I thrusted into her with maddening lust. Each stroke inside her felt warmer and wetter than the previous."
+    "Mit beiden Händen auf ihrem weichen runden Hintern stieß ich mit wahnsinniger Lust in sie hinein. Jeder Stoß in ihr fühlte sich wärmer und feuchter an als der vorherige."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:28
 translate de gallery_nijah_doggy_491b10a1:
 
     # "Fuelled on by the thoughts of death, of love that wouldn’t be, of anger at where {i}I should{/i} be, I grunted harder as I filled her tender hole."
-    "Fuelled on by the thoughts of death, of love that wouldn’t be, of anger at where {i}I should{/i} be, I grunted harder as I filled her tender hole."
+    "Angetrieben von Gedanken an den Tod, an eine Liebe, die es nicht geben würde, an Wut darüber, wo {i}ich sein sollte{/i}, grunzte ich härter, als ich ihr zartes Loch füllte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:29
 translate de gallery_nijah_doggy_76a4e9ec:
 
     # NIJAH "Mmm! Mmm! Z-Zomeone is v-very p-passionate!"
-    NIJAH "Mmm! Mmm! Z-Zomeone is v-very p-passionate!"
+    NIJAH "Mmm! Mmm! J-Jemand ist s-sehr l-leidenschaftlich!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:30
 translate de gallery_nijah_doggy_95c24ac3:
@@ -112,13 +112,13 @@ translate de gallery_nijah_doggy_2d761257:
 translate de gallery_nijah_doggy_8ef5bed6:
 
     # MC "Is it okay to carry on like this? D’you like it?"
-    MC "Is it okay to carry on like this? D’you like it?"
+    MC "Ist es in Ordnung, so weiterzumachen? Magst du es?"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:33
 translate de gallery_nijah_doggy_d30e37fd:
 
     # "Nijah looked back at me, flushed with arousal as she nodded."
-    "Nijah looked back at me, flushed with arousal as she nodded."
+    "Nijah sah zu mir zurück, vor Erregung errötet, als sie nickte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:34
 translate de gallery_nijah_doggy_0774671e:
@@ -154,7 +154,7 @@ translate de gallery_nijah_doggy_3124e010:
 translate de gallery_nijah_doggy_2316a966:
 
     # "We soon became a hot sweaty mess as our heavy fuck session continued. "
-    "We soon became a hot sweaty mess as our heavy fuck session continued. "
+    "We soon became a hot sweaty mess as our heavy fuck session continued."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:43
 translate de gallery_nijah_doggy_e123bd53:

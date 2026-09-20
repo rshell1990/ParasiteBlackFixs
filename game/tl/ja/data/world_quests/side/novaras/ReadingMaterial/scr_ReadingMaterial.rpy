@@ -70,8 +70,7 @@ translate ja scr_ReadingMaterial_primer_fce5c4f6:
 translate ja scr_ReadingMaterial_primer_862ad323:
 
     # MC @ talk "{i}*Sigh*{/i} So you want a book to pass the time?"
-    MC @ talk "{i}はあ…{/i}
-時間つぶしに本が欲しいってわけ？"
+    MC @ talk "{i}はあ…{/i}時間つぶしに本が欲しいってわけ？"
 
 # game/data/world_quests/side/novaras/ReadingMaterial/scr_ReadingMaterial.rpy:15
 translate ja scr_ReadingMaterial_primer_6a136ceb:

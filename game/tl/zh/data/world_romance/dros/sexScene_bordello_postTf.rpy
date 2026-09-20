@@ -4,7 +4,7 @@
 translate zh dros_postTf_payMenu_a6388705:
 
     # DROS @ talk "Oh sure, I... Need to charge you for the room."
-    DROS @ talk "哦，当然，我... 需要向你收取房间的费用。"
+    DROS @ talk "哦，当然，我……需要向你收取房间的费用。"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:3
@@ -32,7 +32,7 @@ translate zh dros_postTf_payMenu_64bae45d:
 translate zh dros_postTf_payMenu_a637ad69:
 
     # DROS @ talk "Oh, I see..."
-    DROS @ talk "哦，我明白了..."
+    DROS @ talk "哦，我明白了……"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:12
@@ -46,7 +46,7 @@ translate zh dros_postTf_payMenu_815ac9cb:
 translate zh dros_bordello_sex_postTf_root_041b57fb:
 
     # DROS @ smile "Soooo..."
-    DROS @ smile "那么..."
+    DROS @ smile "那么……"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:25
@@ -60,14 +60,14 @@ translate zh dros_bordello_sex_postTf_root_ff2a64bc:
 translate zh dros_bordello_sex_postTf_root_2825ade6:
 
     # DROS @ smile "Whatever turns you on more..."
-    DROS @ smile "只要能让你更兴奋..."
+    DROS @ smile "只要能让你更兴奋……"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:31
 translate zh dros_bordello_sex_postTf_root_613acb4d:
 
     # DROS @ shock "Oooh...!"
-    DROS @ shock "哦哦...！"
+    DROS @ shock "哦哦……！"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:35
@@ -116,7 +116,7 @@ translate zh dros_brothel_bj_postTf_73a7c509:
 translate zh dros_brothel_bj_postTf_8fdc1cb7:
 
     # DROS "Gods..."
-    DROS "天啊..."
+    DROS "天啊……"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:62
@@ -144,7 +144,7 @@ translate zh dros_brothel_bj_postTf_59f197a7:
 translate zh dros_brothel_bj_postTf_bcb06ad5:
 
     # DROS "W-Would you perhaps, um... {i}Be a little mean to me please?{/i}"
-    DROS "能...能不能请你...{i}对我粗暴一点？{/i}"
+    DROS "能……能不能请你……{i}对我粗暴一点？{/i}"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:66
@@ -158,7 +158,7 @@ translate zh dros_brothel_bj_postTf_319fa36c:
 translate zh dros_brothel_bj_postTf_75f84e32:
 
     # DROS "H-Hey..."
-    DROS "嘿..."
+    DROS "嘿……"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:68
@@ -172,7 +172,7 @@ translate zh dros_brothel_bj_postTf_94dc1918:
 translate zh dros_brothel_bj_postTf_c4b62a9c:
 
     # MC "...Are you still talking? You should be worshipping my cock slut."
-    MC "...还在废话？你该好好侍奉我的肉棒了，骚货。"
+    MC "……还在废话？你该好好侍奉我的肉棒了，骚货。"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:71
@@ -193,7 +193,7 @@ translate zh dros_brothel_bj_postTf_ab1c30b8:
 translate zh dros_brothel_bj_postTf_061bce84:
 
     # MC "Ahhh... That's it."
-    MC "啊...就是这样。"
+    MC "啊……就是这样。"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:74
@@ -207,7 +207,7 @@ translate zh dros_brothel_bj_postTf_8264933b:
 translate zh dros_brothel_bj_postTf_b8332c74:
 
     # DROS "{i}*Slurp!*{/i} Mmfghh...! {i}*Slurp!*{/i}"
-    DROS "{i}*吸吮声!*{/i} 嗯嗯...! {i}*吸吮声!*{/i}"
+    DROS "{i}*吸吮声!*{/i} 嗯嗯……! {i}*吸吮声!*{/i}"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:76
@@ -375,7 +375,7 @@ translate zh dros_brothel_bj_postTf_ed444a47:
 translate zh dros_brothel_bj_postTf_de14dccb:
 
     # DROS "(G-Gods... Does he ever stop cumming?)"
-    DROS "(天...他射个没完吗?)"
+    DROS "（天...他射个没完吗？）"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:122
@@ -564,7 +564,7 @@ translate zh dros_brothel_missionary_postTf_ecf41726:
 translate zh dros_brothel_missionary_postTf_8acd6f26:
 
     # DROS "S-Soo... {i}much...{/i}"
-    DROS "好-好多... {i}啊...{/i}"
+    DROS "好-好多…… {i}啊……{/i}"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:176
@@ -578,14 +578,14 @@ translate zh dros_brothel_missionary_postTf_26f8848c:
 translate zh dros_brothel_missionary_postTf_282752e6:
 
     # "Draya giggled weakly."
-    "德拉亚虚弱地轻笑。"
+    "德拉娅虚弱地轻笑。"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:178
 translate zh dros_brothel_missionary_postTf_c888d043:
 
     # DROS "S-Soo... full... and..."
-    DROS "好-好满... 而且..."
+    DROS "好-好满…… 而且……"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:179
@@ -606,7 +606,7 @@ translate zh dros_brothel_missionary_postTf_242f6c06:
 translate zh dros_brothel_missionary_postTf_2e3a75dc:
 
     # DROS "(My legs feel so weak, gods only know if I'll be able to walk home after that monster!)"
-    DROS "(我的腿好软，天知道被那个怪物搞过后我还能不能走回家！)"
+    DROS "（我的腿好软，天知道被那个怪物搞过后我还能不能走回家！）"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:192
@@ -620,14 +620,14 @@ translate zh dros_bordello_sex_postTf_aftersex_6e17a8a3:
 translate zh dros_bordello_sex_postTf_aftersex_a94917c5:
 
     # DROS @ lewd "(Gods, I'm shaking!)"
-    DROS @ lewd "(天啊，我在发抖！)"
+    DROS @ lewd "（天啊，我在发抖！）"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:195
 translate zh dros_bordello_sex_postTf_aftersex_552697b1:
 
     # "Draya leaned forward to kiss me and I squeezed her soft ass."
-    "德拉娅 倾身吻我，我捏了捏她柔软的屁股。"
+    "德拉娅倾身吻我，我捏了捏她柔软的屁股。"
     
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:196
@@ -675,7 +675,6 @@ translate zh strings:
     
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/dros/sexScene_bordello_postTf.rpy:17
 translate zh dros_bordello_sex_postTf_root_ac51aa67:

@@ -264,13 +264,6 @@ translate ptBR gallery_markus_fem_tarbeck_temptations_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "The watchers smirked, amused by the scene, as Marcia's pernas squirmed pitifully beneath mim."
 
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:73
-translate ptBR gallery_markus_fem_tarbeck_temptations_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "Zapped of dela strength, all ela poderia fazer era helplessly observar as meu pau slammed between dela tits."
-
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:74
 translate ptBR gallery_markus_fem_tarbeck_temptations_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -389,4 +382,3 @@ translate ptBR gallery_markus_fem_tarbeck_temptations_142972cd:
 
     # "As the overwhelming lust finally began to subside, it dawned on us what we had just done..."
     "As the overwhelming lust finally começou to subside, isso dawned on nós o que nós tinha just feito..."
-

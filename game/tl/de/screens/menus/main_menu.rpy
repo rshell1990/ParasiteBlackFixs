@@ -4,19 +4,19 @@ translate de strings:
 
     # game/screens/menus/main_menu.rpy:36
     old "New Game"
-    new "New Game"
+    new "Neues Spiel"
 
     # game/screens/menus/main_menu.rpy:39
     old "Load"
-    new "Load"
+    new "Laden"
 
     # game/screens/menus/main_menu.rpy:42
     old "Save Menu"
-    new "Save Menu"
+    new "Speichermenü"
 
     # game/screens/menus/main_menu.rpy:43
     old "Options"
-    new "Options"
+    new "Optionen"
 
     # game/screens/menus/main_menu.rpy:45
     old "DLC"
@@ -24,9 +24,9 @@ translate de strings:
 
     # game/screens/menus/main_menu.rpy:49
     old "Main Menu"
-    new "Main Menu"
+    new "Hauptmenü"
 
     # game/screens/menus/main_menu.rpy:51
     old "Quit"
-    new "Quit"
+    new "Beenden"
 

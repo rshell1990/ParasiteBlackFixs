@@ -448,8 +448,7 @@ translate ja novaras_sex_dungeon_mika_vag_b07d176b:
 translate ja novaras_sex_dungeon_mika_vag_cad86d4a:
 
     # MIKA "T-That's right! Fuck me, my love!"
-    MIKA "そ、そうだよ!
-私を犯して、愛しい人!"
+    MIKA "そ、そうだよ!私を犯して、愛しい人!"
 
 # game/data/world_interactions/novaras_sex_dungeon.rpy:175
 translate ja novaras_sex_dungeon_mika_vag_d7f48a5c:
@@ -485,8 +484,7 @@ translate ja novaras_sex_dungeon_mika_vag_391e79d4:
 translate ja novaras_sex_dungeon_mika_vag_91073b0a:
 
     # MIKA "D-Do it! Just let it out!"
-    MIKA "や、やっちゃえ!  
-思い切りぶちまけろ!"
+    MIKA "や、やっちゃえ!  思い切りぶちまけろ!"
 
 # game/data/world_interactions/novaras_sex_dungeon.rpy:181
 translate ja novaras_sex_dungeon_mika_vag_e72c256c:
@@ -780,8 +778,7 @@ translate ja novaras_sex_dungeon_mika_anal_1e731259:
 translate ja novaras_sex_dungeon_mika_anal_81d5ee0b:
 
     # MIKA "Mmhhfh! Y-Yes sir?"
-    MIKA "むぅっ…  
-は、はい…お兄様？"
+    MIKA "むぅっ…  は、はい…お兄様？"
 
 # game/data/world_interactions/novaras_sex_dungeon.rpy:268
 translate ja novaras_sex_dungeon_mika_anal_6a6e242d:
@@ -871,8 +868,7 @@ translate ja novaras_sex_dungeon_mika_anal_f9702060:
 translate ja novaras_sex_dungeon_mika_anal_b07d176b:
 
     # MIKA "H-Hrghhh! Yessss!"
-    MIKA "はっ…んぐっ…!
-イっ…!"
+    MIKA "はっ…んぐっ…!イっ…!"
 
 # game/data/world_interactions/novaras_sex_dungeon.rpy:287
 translate ja novaras_sex_dungeon_mika_anal_cad86d4a:
@@ -980,8 +976,7 @@ translate ja novaras_sex_dungeon_mika_anal_ebf65457:
 translate ja novaras_sex_dungeon_mika_anal_fc548404:
 
     # MIKA @ lewd "My ... My poor ass! Mmm..."
-    MIKA @ lewd "ううっ…お尻が…
-痛たた…"
+    MIKA @ lewd "ううっ…お尻が…痛たた…"
 
 # game/data/world_interactions/novaras_sex_dungeon.rpy:325
 translate ja novaras_sex_dungeon_mika_anal_08c22ce9:

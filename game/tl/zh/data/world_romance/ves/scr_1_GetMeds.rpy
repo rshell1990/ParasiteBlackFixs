@@ -81,7 +81,7 @@ translate zh rom_Ves_1_GetMeds_8de1629b:
 translate zh rom_Ves_1_GetMeds_0e82ffe0:
 
     # MC @ talk "It’s... Never mind."
-    MC @ talk "那是... 算了。"
+    MC @ talk "那是……算了。"
     
 
 # game/data/world_romance/ves/scr_1_GetMeds.rpy:24
@@ -116,7 +116,7 @@ translate zh rom_Ves_1_GetMeds_c3085500:
 translate zh rom_Ves_1_GetMeds_ab64a171:
 
     # MC @ talk "... 维斯."
-    MC @ talk "...维斯。"
+    MC @ talk "……维斯。"
     
 
 # game/data/world_romance/ves/scr_1_GetMeds.rpy:32
@@ -276,7 +276,7 @@ translate zh rom_Ves_1_GetMeds_a717f106:
 translate zh rom_Ves_1_GetMeds_41fbb86b:
 
     # MC @ talk "I can bring whatever you need from Novaras if you want."
-    MC @ talk "如果你想要，我可以从Novaras带任何你需要的东西来。"
+    MC @ talk "如果你想要，我可以从诺瓦拉斯带任何你需要的东西来。"
     
 
 # game/data/world_romance/ves/scr_1_GetMeds.rpy:60
@@ -353,14 +353,14 @@ translate zh rom_Ves_1_GetMeds_d9b0f4ef:
 translate zh rom_Ves_1_GetMeds_7b62683d:
 
     # MC "(If it’s anti-venom and potions for healing I’m looking for, the Mages of Palam would be my best bet.)"
-    MC "(如果我在找解毒剂和治疗药水，帕拉姆的法师们会是我的最佳选择。)"
+    MC "（如果我在找解毒剂和治疗药水，帕拉姆的法师们会是我的最佳选择。）"
     
 
 # game/data/world_romance/ves/scr_1_GetMeds.rpy:72
 translate zh rom_Ves_1_GetMeds_c3b90adf:
 
     # MC "(They have an entire tower at the Mage’s Academy devoted to the goddess Palam... I should head there.)"
-    MC "(他们在法师学院有一座专门献给女神帕拉姆的塔... 我应该去那里。)"
+    MC "（他们在法师学院有一座专门献给女神帕拉姆的塔……我应该去那里。）"
     
 
 translate zh strings:
@@ -372,7 +372,7 @@ translate zh strings:
 
     # game/data/world_romance/ves/scr_1_GetMeds.rpy:18
     old "It’s not a trick, Ves... I’m concerned about you."
-    new "这不是骗局，维斯... 我担心你。"
+    new "这不是骗局，维斯……我担心你。"
     
 
     # game/data/world_romance/ves/scr_1_GetMeds.rpy:27
@@ -382,7 +382,7 @@ translate zh strings:
 
     # game/data/world_romance/ves/scr_1_GetMeds.rpy:27
     old "I don’t know... Just because, I suppose..."
-    new "我不知道... 只是，我想是吧..."
+    new "我不知道……只是，我想是吧……"
     
 
     # game/data/world_romance/ves/scr_1_GetMeds.rpy:27

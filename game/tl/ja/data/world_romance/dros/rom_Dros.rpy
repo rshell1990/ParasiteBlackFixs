@@ -52,8 +52,7 @@ translate ja rom_Dros_howYouBeen_cdd413c6:
 translate ja rom_Dros_howYouBeen_2061974f:
 
     # DROS @ smile "Silly, I know... But it makes me feel better."
-    DROS @ smile "バカみたいだよね…  
-でも気が楽になるんだ。"
+    DROS @ smile "バカみたいだよね…  でも気が楽になるんだ。"
 
 translate ja strings:
 

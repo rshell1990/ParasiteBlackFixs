@@ -70,7 +70,7 @@ translate zh qst_thecomingstorm_alt_investigation_reginatalk_87da8348:
 translate zh qst_thecomingstorm_alt_investigation_reginatalk_15f0f8a8:
 
     # REGINA @ talk "I haven't read it yet, but..."
-    REGINA @ talk "我还没看，但..."
+    REGINA @ talk "我还没看，但……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:24
 translate zh qst_thecomingstorm_alt_investigation_reginatalk_e5982709:
@@ -106,13 +106,13 @@ translate zh qst_thecomingstorm_alt_investigation_reginatalk_4d6c74bb:
 translate zh qst_thecomingstorm_alt_investigation_reginatalk_5d224505:
 
     # "{i}Start with...{/i}"
-    "{i}从...开始{/i}"
+    "{i}从……开始{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:32
 translate zh qst_thecomingstorm_alt_investigation_reginatalk_fa16a5b0:
 
     # "{i}'Dreams of Astatar.'{/i}"
-    "{i}'《Astatar之梦》。'{/i}"
+    "{i}“《阿斯塔塔之梦》。”{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:33
 translate zh qst_thecomingstorm_alt_investigation_reginatalk_0f388cd7:
@@ -244,7 +244,7 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_e5212ab8:
 translate zh qst_thecomingstorm_alt_investigation_vala_password_0971894e:
 
     # VALA @ scared "You... {i}You're the contact?{/i}"
-    VALA @ scared "你...{i}你就是联络人？{/i}"
+    VALA @ scared "你……{i}你就是联络人？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:135
 translate zh qst_thecomingstorm_alt_investigation_vala_password_bde6c2b6:
@@ -256,7 +256,7 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_bde6c2b6:
 translate zh qst_thecomingstorm_alt_investigation_vala_password_70fb3be3:
 
     # VALA @ scared "I... I thought-"
-    VALA @ scared "我...我以为——"
+    VALA @ scared "我……我以为——"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:137
 translate zh qst_thecomingstorm_alt_investigation_vala_password_20b58f0a:
@@ -268,7 +268,7 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_20b58f0a:
 translate zh qst_thecomingstorm_alt_investigation_vala_password_3ef33c1d:
 
     # VALA @ sad "Please... {i}You have to help me.{/i}"
-    VALA @ sad "求求你...{i}你得帮帮我。{/i}"
+    VALA @ sad "求求你……{i}你得帮帮我。{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:139
 translate zh qst_thecomingstorm_alt_investigation_vala_password_3ce0fd8f:
@@ -316,13 +316,13 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_f15833bc:
 translate zh qst_thecomingstorm_alt_investigation_vala_password_1da33a2f:
 
     # VALA @ embar "{i}...And maybe there was talk of a heresy charge involving a very graphic novel about Newheart being seduced by an oil covered muscle-bound orc.{/i}"
-    VALA @ embar "{i}...可能还有涉及异端的指控，因为一本描绘纽哈特被抹油肌肉兽人诱惑的露骨小说。{/i}"
+    VALA @ embar "{i}……可能还有涉及异端的指控，因为一本描绘纽哈特被抹油肌肉兽人诱惑的露骨小说。{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:147
 translate zh qst_thecomingstorm_alt_investigation_vala_password_8ed700c3:
 
     # MC @ surprised "... Wait, what was that last part?"
-    MC @ surprised "...等等，最后一部分是什么？"
+    MC @ surprised "……等等，最后一部分是什么？"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:149
 translate zh qst_thecomingstorm_alt_investigation_vala_password_a45019d6:
@@ -334,7 +334,7 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_a45019d6:
 translate zh qst_thecomingstorm_alt_investigation_vala_password_9b75f72d:
 
     # VALA @ scared "Point is... they keep giving me {i}assignments.{/i}"
-    VALA @ scared "重点是...他们不断给我{i}任务{/i}。"
+    VALA @ scared "重点是……他们不断给我{i}任务{/i}。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:151
 translate zh qst_thecomingstorm_alt_investigation_vala_password_ac418cb3:
@@ -352,13 +352,13 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_d884c6fd:
 translate zh qst_thecomingstorm_alt_investigation_vala_password_aefd95b6:
 
     # VALA @ sad "I've been told to pick up a parcel..."
-    VALA @ sad "他们让我去取一个包裹..."
+    VALA @ sad "他们让我去取一个包裹……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:154
 translate zh qst_thecomingstorm_alt_investigation_vala_password_024fc761:
 
     # VALA @ scared "But I'm terrified, the people I'm supposed to be meeting..."
-    VALA @ scared "但我很害怕，我要见的人..."
+    VALA @ scared "但我很害怕，我要见的人……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:155
 translate zh qst_thecomingstorm_alt_investigation_vala_password_a04f30be:
@@ -436,7 +436,7 @@ translate zh qst_thecomingstorm_alt_investigation_vala_password_parcel_menu_06e1
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_242986ed:
 
     # MC "(It looks like someone is waving me over towards that alleyway...)"
-    MC "(看起来有人在朝那条小巷向我招手...)"
+    MC "（看起来有人在朝那条小巷向我招手...）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:183
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_6035f267:
@@ -604,7 +604,7 @@ translate zh qst_thecomingstorm_alt_investigation_enter_market_district_56958656
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_71598518:
 
     # "Heart racing, I scrambled to pry the {i}'parcel'{/i} from the man's still-warm, dead hands."
-    "我的心怦怦直跳，手忙脚乱地从那人尚有余温的死手中撬出那个{i}'包裹'{/i}。"
+    "我的心怦怦直跳，手忙脚乱地从那人尚有余温的死手中撬出那个{i}包裹{/i}。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:249
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_843bc819:
@@ -622,13 +622,13 @@ translate zh qst_thecomingstorm_alt_investigation_enter_market_district_ac13a5b3
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_bea4e6fe:
 
     # MC @ angry "(Shit!)"
-    MC @ angry "(该死！)"
+    MC @ angry "（该死！）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:253
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_b2824dae:
 
     # MC @ angry "(I can't let them get away!)"
-    MC @ angry "(不能让他们跑了！)"
+    MC @ angry "（不能让他们跑了！）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:259
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_35b3bbc6:
@@ -646,7 +646,7 @@ translate zh qst_thecomingstorm_alt_investigation_enter_market_district_64ff974f
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_637e8ea2:
 
     # MC @ angry "(Damn it! Where did he go?!)"
-    MC @ angry "(该死！他跑哪去了？！)"
+    MC @ angry "（该死！他跑哪去了？！）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:266
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_63444f32:
@@ -862,7 +862,7 @@ translate zh qst_thecomingstorm_alt_investigation_enter_market_district_057be36e
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_d7908990:
 
     # MC @ talk "Now, where in the hells did that-"
-    MC @ talk "现在，那家伙到底去哪了-"
+    MC @ talk "现在，那家伙到底去哪了——"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:371
 translate zh qst_thecomingstorm_alt_investigation_enter_market_district_97d9075f:
@@ -1060,25 +1060,25 @@ translate zh qst_thecomingstorm_alt_investigation_enter_market_district_6c76aec4
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_next_night_4c9a57a2:
 
     # MC "(That's the spot.)"
-    MC "(就是那里。)"
+    MC "（就是那里。）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:429
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_next_night_69c299aa:
 
     # MC "(It's too early to stash the money though, {i}for what I have in mind{/i}.)"
-    MC "(但现在藏钱还太早，{i}按我的计划{/i}。)"
+    MC "（但现在藏钱还太早，{i}按我的计划{/i}。）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:430
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_next_night_9b420f86:
 
     # MC "(I must wait for another night.)"
-    MC "(必须再等一晚。)"
+    MC "（必须再等一晚。）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:436
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_23adf551:
 
     # MC "(This is where he said to hide the coin... Should I?)"
-    MC "(这就是他说要藏钱币的地方...我要放吗？)"
+    MC "（这就是他说要藏钱币的地方...我要放吗？）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:443
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_62465e17:
@@ -1096,19 +1096,19 @@ translate zh qst_thecomingstorm_alt_investigation_stash_gold_fe6ab909:
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_8783205d:
 
     # MC @ serious "(There's no way in the seven hells I'm just going to trust that thief.)"
-    MC @ serious "(我绝不可能相信那个小偷。)"
+    MC @ serious "（我绝不可能相信那个小偷。）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:447
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_f4f7a10c:
 
     # MC @ serious "(I'll keep from a distance and watch... )"
-    MC @ serious "(我会保持距离监视着...)"
+    MC @ serious "（我会保持距离监视着……）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:454
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_0dcc7202:
 
     # "As I watched and waited... and waited... {i}and waited.{/i}"
-    "我观察着，等待着...等待着... {i}继续等待着。{/i}"
+    "我观察着，等待着……等待着……{i}继续等待着。{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:456
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_96eafe13:
@@ -1222,7 +1222,7 @@ translate zh qst_thecomingstorm_alt_investigation_stash_gold_f7432983:
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_892d4541:
 
     # "With a shaky hand, the assassin reached into his cloak and tossed the parcel towards me."
-    "刺客用颤抖的手伸进斗篷，将包裹，朝我扔了过来。"
+    "刺客用颤抖的手伸进斗篷，将包裹朝我扔了过来。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:516
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_059e1ca5:
@@ -1288,19 +1288,19 @@ translate zh qst_thecomingstorm_alt_investigation_stash_gold_88c2c8b3:
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_c3853f56:
 
     # ASSASSIN "I felt... {i}*huff*{/i} weaker during the fight."
-    ASSASSIN "我感觉...{i}*喘气*{/i}打斗时越来越虚弱"
+    ASSASSIN "我感觉……{i}*喘气*{/i}打斗时越来越虚弱"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:528
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_2fcf48be:
 
     # ASSASSIN "That... {i}*Huff*{/i} bitch..."
-    ASSASSIN "那个...{i}*喘气*{/i}贱人..."
+    ASSASSIN "那个……{i}*喘气*{/i}贱人……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:529
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_524c0be7:
 
     # ASSASSIN "The tea... The fucking-"
-    ASSASSIN "那茶...那该死的——"
+    ASSASSIN "那茶……那该死的——"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:532
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_977f168f:
@@ -1318,7 +1318,7 @@ translate zh qst_thecomingstorm_alt_investigation_stash_gold_153c6242:
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_2df3a875:
 
     # MARKUS @ talk "... What the fuck is going on?"
-    MARKUS @ talk "...这他妈到底是怎么回事？"
+    MARKUS @ talk "……这他妈到底是怎么回事？"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:540
 translate zh qst_thecomingstorm_alt_investigation_stash_gold_26ca1497:
@@ -1390,13 +1390,13 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_0f1be708:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_39f767cd:
 
     # MC @ surprised "{i}... What in the hells kind of librarian are you?{/i}"
-    MC @ surprised "{i}...你到底是什么样的图书管理员？{/i}"
+    MC @ surprised "{i}……你到底是什么样的图书管理员？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:567
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_21c13335:
 
     # VALA @ talk "{i}...Have you really not figured it out?{/i}"
-    VALA @ talk "{i}...你还没想明白吗？{/i}"
+    VALA @ talk "{i}……你还没想明白吗？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:568
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_87f79bc8:
@@ -1408,7 +1408,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_87f79bc8:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_d82c24f4:
 
     # MC @ surprised "..."
-    MC @ surprised "..."
+    MC @ surprised "……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:570
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_bb1e74e9:
@@ -1426,13 +1426,13 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_089e1661:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_543f72f9:
 
     # VALA @ smile "Now please... hand over the parcel."
-    VALA @ smile "那么现在...请把包裹交出来。"
+    VALA @ smile "那么现在……请把包裹交出来。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:574
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_faf1dc97:
 
     # MC @ surprised "You... {i}You're the inquisitor?{/i}"
-    MC @ surprised "你... {i}你就是审判官？{/i}"
+    MC @ surprised "你……{i}你就是审判官？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:575
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_cb341c21:
@@ -1456,7 +1456,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_556ab177:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_e3a76b6f:
 
     # VALA @ talk "Now please, if you don't mind handing over the parcel..."
-    VALA @ talk "那么现在，如果您不介意交出包裹..."
+    VALA @ talk "那么现在，如果您不介意交出包裹……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:579
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_2dbd9624:
@@ -1480,7 +1480,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_23546bdc:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_245749ba:
 
     # MC @ serious "Why... Why have you done all this?!"
-    MC @ serious "为什么...你为什么要做这一切？！"
+    MC @ serious "为什么……你为什么要做这一切？！"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:583
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_b400dd76:
@@ -1510,7 +1510,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_334fa368:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_91d79d05:
 
     # VALA @ talk "Nothing personal..."
-    VALA @ talk "不是针对个人..."
+    VALA @ talk "不是针对个人……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:588
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_22397556:
@@ -1570,7 +1570,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_199eabf7:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_34bca79f:
 
     # VALA @ talk "Now please, the parcel..."
-    VALA @ talk "现在，请把包裹..."
+    VALA @ talk "现在，请把包裹……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:599
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_3a797de7:
@@ -1582,7 +1582,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_3a797de7:
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_cd82fafa:
 
     # VALA @ smile "So... You have questions, feel free to ask."
-    VALA @ smile "那么... 你有问题的话，尽管问。"
+    VALA @ smile "那么……你有问题的话，尽管问。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:607
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_d75ea310:
@@ -1750,7 +1750,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_3c0994f7:
 
     # VALA @ talk "I'm far more comfortable in my library... gathering whispers and information as I go."
-    VALA @ talk "我更愿意待在我的图书馆里... 一边走动一边收集流言和信息。"
+    VALA @ talk "我更愿意待在我的图书馆里……一边走动一边收集流言和信息。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:641
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_c9885a2c:
@@ -1762,7 +1762,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_379ff748:
 
     # MC @ think "...Then it's Vala?"
-    MC @ think "...那你是瓦拉？"
+    MC @ think "……那你是瓦拉？"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:643
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_149a0777:
@@ -1984,7 +1984,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_b51663d0:
 
     # MC @ surprised "What are you-"
-    MC @ surprised "你这是-"
+    MC @ surprised "你这是——"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:696
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_69faa2b8:
@@ -1996,13 +1996,13 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_32ebc86e:
 
     # VALA @ blush "And you're... {i}a very interesting man.{/i}"
-    VALA @ blush "而你... {i}是个非常有趣的男人。{/i}"
+    VALA @ blush "而你……{i}是个非常有趣的男人。{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:698
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_d71d42b7:
 
     # MC @ surprised "This... {i}Here? Now?{/i}"
-    MC @ surprised "这... {i}在这里？现在？{/i}"
+    MC @ surprised "这……{i}在这里？现在？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:699
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_0614af5d:
@@ -2020,7 +2020,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_c764f4dd:
 
     # VALA @ blush "And don't worry... I know a quiet section of the library no one ever visits."
-    VALA @ blush "别担心... 我知道图书馆里一个僻静的角落，从来没人去。"
+    VALA @ blush "别担心……我知道图书馆里一个僻静的角落，从来没人去。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:702
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_43df578d:
@@ -2032,7 +2032,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_810d2a85:
 
     # VALA @ sad "Hmmm..."
-    VALA @ sad "嗯..."
+    VALA @ sad "嗯……"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:710
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_69abd27c:
@@ -2056,7 +2056,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_a37b897e:
 
     # MC "(She's right... I shouldn't delay. I should head straight to the Captain!)"
-    MC "(她说得对... 我不该耽搁。我应该直接去找队长！)"
+    MC "（她说得对……我不该耽搁。我应该直接去找队长！）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:724
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_a1d51544:
@@ -2086,7 +2086,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_9d7a28da:
 
     # VALA @ talk "{i}Just relax... let me show you how I reward interesting men.{/i}"
-    VALA @ talk "{i}放松点... 让我向你展示我如何奖励有趣的男人。{/i}"
+    VALA @ talk "{i}放松点……让我向你展示我如何奖励有趣的男人。{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:734
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_edcdb245:
@@ -2104,7 +2104,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_c70601ff:
 
     # VALA "Clothes off."
-    VALA "衣服脱掉。"
+    VALA "把衣服脱掉。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:738
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_30dac4df:
@@ -2140,7 +2140,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_15bba888:
 
     # MC "A-Ahh...!"
-    MC "啊-啊...！"
+    MC "啊——啊……！"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:751
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_3891bda3:
@@ -2158,7 +2158,7 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_38cf1962:
 
     # VALA "My... {i}From how pent-up you seem, you've really needed some release, haven't you?{/i}"
-    VALA "我的天... {i}看你憋得这么厉害，你真的很需要释放一下，不是吗？{/i}"
+    VALA "我的天……{i}看你憋得这么厉害，你真的很需要释放一下，不是吗？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:754
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_d6ff94db:
@@ -2422,31 +2422,31 @@ translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_ce8084f5:
 
     # MC "(Crazy bitch.)"
-    MC "(疯婆子。)"
+    MC "（疯婆子。）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:828
 translate zh qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_ce6544d5:
 
     # MC "(She's right though. I shouldn't delay—Captain 妮克斯 needs to hear what I've learned!)"
-    MC "(但她说得对。不能耽搁——妮克斯队长必须知道我发现的情报！)"
+    MC "（但她说得对。不能耽搁——妮克斯队长必须知道我发现的情报！）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:836
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_068e3ae2:
 
     # MC "(The door is locked... And I can't see Vala anywhere.)"
-    MC "(门锁着...而且我到处都看不到瓦拉。)"
+    MC "（门锁着……而且我到处都看不到瓦拉。）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:837
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_ad37c73b:
 
     # MC "(No choice. Gotta force my way in...)"
-    MC "(别无选择。只能强行进去了...)"
+    MC "（别无选择。只能强行进去了……）"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:846
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_b4d56732:
 
     # VALA @ surp "Oh... Now this is a surprise!"
-    VALA @ surp "噢...真是意外之喜！"
+    VALA @ surp "噢……真是意外之喜！"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:848
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_7690eee6:
@@ -2476,7 +2476,7 @@ translate zh qst_TheComingStorm_GetToValaSneak_Arrived_b5e062f7:
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_8c6bb0d4:
 
     # MC @ serious "You used me... again."
-    MC @ serious "你利用了我...又一次。"
+    MC @ serious "你利用了我……又一次。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:854
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_d9be6cdb:
@@ -2512,7 +2512,7 @@ translate zh qst_TheComingStorm_GetToValaSneak_Arrived_07408a3e:
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_9cdd7fdc:
 
     # VALA @ smile "Besides... I believe you and the Captain are onto something."
-    VALA @ smile "况且...我相信你和队长发现了重要线索。"
+    VALA @ smile "况且……我相信你和队长发现了重要线索。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:860
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_bde6c2b6:
@@ -2584,7 +2584,7 @@ translate zh qst_TheComingStorm_GetToValaSneak_Arrived_c75d953a:
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_7a6dc5e0:
 
     # VALA @ talk "...But whether you trust me or not, I believe {i}you{/i} are going to be needed for whatever is to come."
-    VALA @ talk "...但无论你信不信，我认为{i}你{/i}对即将发生的事至关重要。"
+    VALA @ talk "……但无论你信不信，我认为{i}你{/i}对即将发生的事至关重要。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:881
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_49393759:
@@ -2596,7 +2596,7 @@ translate zh qst_TheComingStorm_GetToValaSneak_Arrived_49393759:
 translate zh qst_TheComingStorm_GetToValaSneak_Arrived_ee81c4ac:
 
     # VALA @ talk "You smell rather... {i}Unpleasant.{/i}"
-    VALA @ talk "你闻起来相当...{i}不妙。{/i}"
+    VALA @ talk "你闻起来相当……{i}不妙。{/i}"
 
 translate zh strings:
 
@@ -2695,7 +2695,6 @@ translate zh strings:
     # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:708
     old "No... I can't."
     new "不……我不能。"# 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:10
 translate zh qst_thecomingstorm_alt_investigation_reginatalk_74b8b510:

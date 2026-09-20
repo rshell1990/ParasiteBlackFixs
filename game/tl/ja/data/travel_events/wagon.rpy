@@ -34,8 +34,7 @@ translate ja travel_event_wagon_wreck_37aa5862:
 translate ja travel_event_wagon_wreck_dae18eb3:
 
     # MARKUS "Let's walk around... I've got a bad feeling about this."
-    MARKUS "歩こうか…  
-悪い予感がするぞ"
+    MARKUS "歩こうか…  悪い予感がするぞ"
 
 # game/data/travel_events/wagon.rpy:16
 translate ja travel_event_wagon_wreck_a04b9dc6:
@@ -113,8 +112,7 @@ translate ja travel_event_wagon_wreck_987aff00:
 translate ja travel_event_wagon_wreck_demorai_c90e163a:
 
     # "I found my foot pressed up against a wire tied across the path, connected from one of the many littered corpses to a loud bell attached to the wagon."
-    "足元が、道に張られたワイヤーに引っかかっていることに気づいた。  
-それは無数に転がる死体の一つから伸び、馬車に取り付けられた大きな鈴へと繋がっていた。"
+    "足元が、道に張られたワイヤーに引っかかっていることに気づいた。  それは無数に転がる死体の一つから伸び、馬車に取り付けられた大きな鈴へと繋がっていた。"
 
 # game/data/travel_events/wagon.rpy:55
 translate ja travel_event_wagon_wreck_demorai_3bc104b5:
@@ -168,8 +166,7 @@ translate ja travel_event_wagon_wreck_demorai_588fed4a:
 translate ja travel_event_wagon_wreck_demorai_800484cb:
 
     # VES @ angry "These damn things are tough to kill... Much tougher than the scouts they usually send out."
-    VES @ angry "くそっ…手強い。
-いつもの斥候とは比べ物にならん。"
+    VES @ angry "くそっ…手強い。いつもの斥候とは比べ物にならん。"
 
 # game/data/travel_events/wagon.rpy:72
 translate ja travel_event_wagon_wreck_demorai_4ea7e921:
@@ -325,8 +322,7 @@ translate ja travel_event_wagon_wreck_bandits_01e0b0b5:
 translate ja travel_event_wagon_wreck_bandits_dca4e3a1:
 
     # MC @ serious "Why do you think we're here? We were sent to head along this path and find the lost wagon!"
-    MC @ serious "なんでここにいるんだ？
-道を進んで、迷子の荷車を見つけるんだって言われただろ!"
+    MC @ serious "なんでここにいるんだ？道を進んで、迷子の荷車を見つけるんだって言われただろ!"
 
 # game/data/travel_events/wagon.rpy:127
 translate ja travel_event_wagon_wreck_bandits_0e9be35d:

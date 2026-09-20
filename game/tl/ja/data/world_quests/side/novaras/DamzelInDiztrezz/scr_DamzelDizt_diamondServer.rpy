@@ -202,8 +202,7 @@ translate ja qst_damzeldizzt_3_server_menu_689b6aa2:
 translate ja qst_damzeldizzt_3_server_menu_c42246ad:
 
     # MC "Is that your real name or the one you give to patrons?"
-    MC "それはあなたの本名ですか？
-それとも接客名ですか？"
+    MC "それはあなたの本名ですか？それとも接客名ですか？"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:73
 translate ja qst_damzeldizzt_3_server_menu_befd9305:
@@ -215,8 +214,7 @@ translate ja qst_damzeldizzt_3_server_menu_befd9305:
 translate ja qst_damzeldizzt_3_server_menu_60f5f1c9:
 
     # MC "Not at all, I just make it a policy to try and remember the names of girls who wrap their tits around my cock."
-    MC "まさか、乳で絡みついてくる女の名前くらい  
-覚えておく主義なだけさ。"
+    MC "まさか、乳で絡みついてくる女の名前くらい  覚えておく主義なだけさ。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:75
 translate ja qst_damzeldizzt_3_server_menu_eed77429:
@@ -498,8 +496,7 @@ translate ja qst_damzeldizzt_3_server_menu_1757d869:
 translate ja qst_damzeldizzt_3_server_menu_f3b2e5e2:
 
     # FAWHA "I'm glad I could please you my lord."
-    FAWHA "何よりです
-お役に立てて嬉しいです、殿。"
+    FAWHA "何よりですお役に立てて嬉しいです、殿。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:142
 translate ja qst_damzeldizzt_3_server_menu_cd0ecbbc:
@@ -625,8 +622,7 @@ translate ja qst_damzeldizzt_3_server_menu_64c92501_1:
 translate ja qst_damzeldizzt_3_server_menu_46340205_1:
 
     # FAWHA "Shall I wear my mask while I please you my lord? Or do you wish to see my face?"
-    FAWHA "仮面をつけたままお望みを叶えましょうか…  
-それとも、私のお顔をお見せしましょうか？"
+    FAWHA "仮面をつけたままお望みを叶えましょうか…  それとも、私のお顔をお見せしましょうか？"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:185
 translate ja qst_damzeldizzt_3_server_menu_43069009_2:
@@ -1160,9 +1156,7 @@ translate ja qst_damzeldizzt_3_server_menu_557abad9_1:
 translate ja qst_damzeldizzt_3_server_menu_f6ff04e2_1:
 
     # ALEA "Don't, cover me in your hot seed! Come on! Do it! DO IT!"
-    ALEA "やめて、私を熱い種で満たさないで! 
-さあ! やって! 
-やるんだ!"
+    ALEA "やめて、私を熱い種で満たさないで! さあ! やって! やるんだ!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:319
 translate ja qst_damzeldizzt_3_server_menu_2d5a7ab1:
@@ -1180,8 +1174,7 @@ translate ja qst_damzeldizzt_3_server_menu_2bc8a8f8:
 translate ja qst_damzeldizzt_3_server_menu_4afc5509:
 
     # ALEA "{i}*Giggles*{/i} Well... That was a lot."
-    ALEA "{i}*クスクス*{/i}
-まあ…結構なことになったわね。"
+    ALEA "{i}*クスクス*{/i}まあ…結構なことになったわね。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:322
 translate ja qst_damzeldizzt_3_server_menu_e0011955:
@@ -1289,8 +1282,7 @@ translate ja qst_damzeldizzt_3_server_menu_9d66c913_1:
 translate ja qst_damzeldizzt_3_server_menu_eec82f44_1:
 
     # FAWHA "Then return to me whenever you are need of my services."
-    FAWHA "その時は私のもとへ戻ってきてください  
-必要とあらば、私の力を。"
+    FAWHA "その時は私のもとへ戻ってきてください  必要とあらば、私の力を。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_diamondServer.rpy:352
 translate ja qst_damzeldizzt_3_server_menu_92e760fd_1:

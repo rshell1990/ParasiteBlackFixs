@@ -4,7 +4,7 @@ translate de strings:
 
     # game/data/sexy_scenes/arlena/galleryDefs.rpy:6
     old "Mirror"
-    new "Mirror"
+    new "Spiegel"
 
     # game/data/sexy_scenes/arlena/galleryDefs.rpy:11
     old "Blowjob"
@@ -16,5 +16,5 @@ translate de strings:
 
     # game/data/sexy_scenes/arlena/galleryDefs.rpy:21
     old "Forge Anal"
-    new "Forge Anal"
+    new "Anal-Schmiede"
 

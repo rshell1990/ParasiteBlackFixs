@@ -748,8 +748,7 @@ translate ja qst_DaughterOfMetal_02_2_72671085:
 translate ja qst_DaughterOfMetal_02_2_811c035a:
 
     # ARLENA "... So, uhh..."
-    ARLENA "そう…
-えっと…"
+    ARLENA "そう…えっと…"
 
 # game/data/world_quests/side/novaras/DaughterOfMetal/scr_02.rpy:155
 translate ja qst_DaughterOfMetal_02_2_a2c7e5ed:
@@ -869,8 +868,7 @@ translate ja qst_DaughterOfMetal_02_2_78f3fba2:
 translate ja qst_DaughterOfMetal_02_2_9e1ff1b6:
 
     # ARLENA "You come waltzing back into town looking like you could lift an anvil with just your little finger, sooo... "
-    ARLENA "町へ闊歩して戻ってくる姿は、
-まるで小指一本でアンビルを持ち上げられるって風で、そりゃあ…"
+    ARLENA "町へ闊歩して戻ってくる姿は、まるで小指一本でアンビルを持ち上げられるって風で、そりゃあ…"
 
 # game/data/world_quests/side/novaras/DaughterOfMetal/scr_02.rpy:186
 translate ja qst_DaughterOfMetal_02_2_1bb1d9c9:

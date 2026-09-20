@@ -76,8 +76,7 @@ translate ja nov_helena_services_2a12bf32:
 translate ja nov_helena_services_052927c7:
 
     # HELENA @ lewd2 "Not necessarily... I make special priced exceptions for men who have truly carved out a name for themselves."
-    HELENA @ lewd2 "必ずしもそうとは…  
-とくに名を上げたという方には、特別料金で承ることもございます。"
+    HELENA @ lewd2 "必ずしもそうとは…  とくに名を上げたという方には、特別料金で承ることもございます。"
 
 # game/data/characters/helena/dialogue_script.rpy:23
 translate ja nov_helena_services_074a27e5:
@@ -155,8 +154,7 @@ translate ja nov_helena_services_f2a6779b:
 translate ja nov_helena_services_326690ca:
 
     # HELENA @ talk "Thus, our companionship is sold for the whole evening... Partly to avoid too much scrutiny."
-    HELENA @ talk "こうして、我々の付き合いは丸々一晩中、売り渡される…  
-詮索を避けるため、一部は。"
+    HELENA @ talk "こうして、我々の付き合いは丸々一晩中、売り渡される…  詮索を避けるため、一部は。"
 
 # game/data/characters/helena/dialogue_script.rpy:36
 translate ja nov_helena_services_dc064c48:

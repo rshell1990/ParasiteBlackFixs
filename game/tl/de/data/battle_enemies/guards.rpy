@@ -4,11 +4,11 @@ translate de strings:
 
     # game/data/battle_enemies/guards.rpy:4
     old "City guard"
-    new "City guard"
+    new "Stadtwache"
 
     # game/data/battle_enemies/guards.rpy:36
     old "Corrupt guard"
-    new "Corrupt guard"
+    new "Korrupte Wache"
 
     # game/data/battle_enemies/guards.rpy:69
     old "Jurgen"
@@ -16,5 +16,5 @@ translate de strings:
 
     # game/data/battle_enemies/guards.rpy:120
     old "Hamun guard"
-    new "Hamun guard"
+    new "Hamun-Wache"
 

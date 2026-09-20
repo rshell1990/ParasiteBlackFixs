@@ -184,8 +184,7 @@ translate ja qst_the_mages_path_meet_1_3017e100:
 translate ja qst_the_mages_path_meet_1_0ac90431:
 
     # MIKA @ sad "Would she think I was a coward? Even more useless than she already thinks?"
-    MIKA @ sad "彼女は私を臆病者だと思うだろうか？
-今よりもさらに役立たずだと思うだろうか？"
+    MIKA @ sad "彼女は私を臆病者だと思うだろうか？今よりもさらに役立たずだと思うだろうか？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:60
 translate ja qst_the_mages_path_meet_1_ad9e0c94:
@@ -1139,8 +1138,7 @@ translate ja qst_the_mages_path_meet_4_28ebbdb0:
 translate ja qst_the_mages_path_meet_4_5c7a67bf:
 
     # BLACK "...Done."
-    BLACK "…
-完了。"
+    BLACK "…完了。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:351
 translate ja qst_the_mages_path_meet_4_386a81c6:
@@ -1254,8 +1252,7 @@ translate ja qst_the_mages_path_meet_5_d06d779a:
 translate ja qst_the_mages_path_meet_5_e9388f30:
 
     # MIKA @ blush "And, since you've been so patient and kind with me ... I don't think I've ever met another man quite like you."
-    MIKA @ blush "そして、ずっと優しくしてくれたから…
-あなたのような男性は、今までいなかったと思う"
+    MIKA @ blush "そして、ずっと優しくしてくれたから…あなたのような男性は、今までいなかったと思う"
 
 # game/data/world_quests/side/novaras/GirlTroubles/TheMagesPath/src_TheMagesPath.rpy:376
 translate ja qst_the_mages_path_meet_5_4db00717:

@@ -232,7 +232,7 @@ screen Arena_NewRankPopup(RankIndex):
     #modal True
     zorder 200
 
-    on "show" action Play("sound", "audio/interface/fanfare_synth.ogg")
+    on "show" action Play("sound2", "audio/interface/fanfare_synth.ogg")
 
     add "images/gui/unsorted/black_under.webp"
     add HamunArena_Ranks[RankIndex]["icon"]:

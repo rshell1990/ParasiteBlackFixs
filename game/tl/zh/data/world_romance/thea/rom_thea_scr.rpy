@@ -95,7 +95,7 @@ translate zh rom_thea_unicorn_menu1_7429efc5:
 translate zh rom_thea_unicorn_menu1_432f2bae:
 
     # THEA @ smile "There's a nice wine bottle I've been eyeing up, {i}'Huville Cépage'{/i}"
-    THEA @ smile "有一瓶不错的葡萄酒我一直盯着，{i}'Huville Cépage'{/i}"
+    THEA @ smile "有一瓶不错的葡萄酒我一直盯着，{i}'于维尔·塞帕日'{/i}"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:38
@@ -131,7 +131,7 @@ translate zh rom_thea_unicorn_menu2_7eaabd57:
 translate zh rom_thea_unicorn_menu2_ce8ed3e8:
 
     # MC @ talk "So then, how does a girl like you end up running the Adventures Guild in Novaras?"
-    MC @ talk "那么，像你这样的女孩是怎么最终管理Novaras的冒险者公会的？"
+    MC @ talk "那么，像你这样的女孩是怎么最终管理诺瓦拉斯的冒险者公会的？"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:66
@@ -411,7 +411,7 @@ translate zh rom_thea_unicorn_menu3_40b97817:
 translate zh rom_thea_unicorn_menu3_55848778:
 
     # MC "(I think I'm beginning to see where this fetish of hers has come from)."
-    MC "(我想我开始明白她的这个癖好是从哪来的了)。"
+    MC "（我想我开始明白她的这个癖好是从哪来的了）。"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:130
@@ -572,7 +572,7 @@ translate zh rom_thea_after_date_8743bd46:
 translate zh rom_thea_after_date_76abaaad:
 
     # THEA "There's just something so ... {i}different{/i} about you."
-    THEA "你身上有种...如此{i}特别{/i}的气质。"
+    THEA "你身上有种……如此{i}特别{/i}的气质。"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:211
@@ -600,7 +600,7 @@ translate zh rom_thea_after_date_dcd2e862:
 translate zh rom_thea_after_date_176b434f:
 
     # MC "Thea ..."
-    MC "希雅..."
+    MC "希雅……"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:215
@@ -782,7 +782,7 @@ translate zh rom_thea_after_date_1dee6c38:
 translate zh rom_thea_after_date_674488ff:
 
     # BLACK "({i}She has exceptional talents as a breeding mate{/i})."
-    BLACK "({i}作为繁衍伴侣，她拥有非凡天赋{/i})。"
+    BLACK "（{i}作为繁衍伴侣，她拥有非凡天赋{/i}）。"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:247
@@ -1006,7 +1006,7 @@ translate zh rom_thea_after_date_0f33a818:
 translate zh rom_thea_after_date_be267bcd:
 
     # "I left a short time later after a quick kiss goodbye..."
-    "匆匆一吻告别后，我很快离开了..."
+    "匆匆一吻告别后，我很快离开了……"
     
 
 # game/data/world_romance/thea/rom_thea_scr.rpy:337

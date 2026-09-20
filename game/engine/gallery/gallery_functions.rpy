@@ -100,6 +100,9 @@ init python:
         return
 
     def IsPlayerInGalleryScene():
-        # Safely fetch PlayerInGallery from store without throwing an AttributeError
+        # Safely fetch variables without raising AttributeError during screen init
         in_gallery = getattr(store, "PlayerInGallery", False)
-        return (in_gallery == True) or (getattr(store, "_in_replay", None) is not None)
+        in_replay = getattr(store, "_in_replay", None)
+        
+        # Returns True if either PlayerInGallery is True or a replay is active
+        return bool(in_gallery or (in_replay is not None))

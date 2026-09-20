@@ -172,15 +172,13 @@ translate ja dros_1_at_palam_menu_9d3d34a1:
 translate ja dros_1_at_palam_menu_fa4e89b7:
 
     # DIVINE "And finally... I'd need you to talk to Dros about whether he's sure about going through with this."
-    DIVINE "そして最後に…  
-彼が本当に覚悟ができているのか、ドロスと話を聞いてきてくれないか。"
+    DIVINE "そして最後に…  彼が本当に覚悟ができているのか、ドロスと話を聞いてきてくれないか。"
 
 # game/data/world_quests/side/novaras/AGracefulRebirth/scr_at_Palam.rpy:47
 translate ja dros_1_at_palam_menu_e6680765:
 
     # DIVINE "He needs to understand the risk he's taking... I can't guarantee his safety."
-    DIVINE "彼には理解させなければならない…自分が冒している危険性を。
-彼の安全は保証できない。"
+    DIVINE "彼には理解させなければならない…自分が冒している危険性を。彼の安全は保証できない。"
 
 # game/data/world_quests/side/novaras/AGracefulRebirth/scr_at_Palam.rpy:48
 translate ja dros_1_at_palam_menu_5e9e7edb:

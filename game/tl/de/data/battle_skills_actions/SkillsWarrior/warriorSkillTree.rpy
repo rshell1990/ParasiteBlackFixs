@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsWarrior/warriorSkillTree.rpy:2
     old "Warrior"
-    new "Warrior"
+    new "Krieger"
 
     # game/data/battle_skills_actions/SkillsWarrior/warriorSkillTree.rpy:2
     old "Warrior skills"
-    new "Warrior skills"
+    new "Kriegerfähigkeiten"
 

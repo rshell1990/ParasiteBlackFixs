@@ -1018,8 +1018,7 @@ translate ja rom_divine_firsttime_missionary_029f7d9c:
 translate ja rom_divine_firsttime_missionary_16800204:
 
     # DIVINE "Y-Yes! So good!"
-    DIVINE "あ、あっ!
-気持ちいい!"
+    DIVINE "あ、あっ!気持ちいい!"
 
 # game/data/world_romance/divine/scr_firstEncounter.rpy:263
 translate ja rom_divine_firsttime_missionary_87798230:
@@ -1157,8 +1156,7 @@ translate ja rom_divine_firsttime_missionary_91a99d43:
 translate ja rom_divine_firsttime_missionary_aa4b236e:
 
     # "Unable to hold back any longer, I dragged Sister Divine towards me, forcing myself as deeply as I could into her."
-    "もう、我慢の限界だ。
-私は聖女ディバインをぐいと引き寄せ、思い切り奥へと押し込んだ。"
+    "もう、我慢の限界だ。私は聖女ディバインをぐいと引き寄せ、思い切り奥へと押し込んだ。"
 
 # game/data/world_romance/divine/scr_firstEncounter.rpy:289
 translate ja rom_divine_firsttime_missionary_d1881455:

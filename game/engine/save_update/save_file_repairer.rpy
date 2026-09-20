@@ -602,8 +602,6 @@ label save_state_update:
             $ store.PlayerPos = loc
             $ store.PlayerPos.DoExitCheck = False
             $ del loc
-            #else:
-            #    $ store.PlayerPos = WorldPosition()
 
         if QstIsOver(QstJudgementDay):
             $ QstStart(DialogueGiselra)
@@ -812,6 +810,7 @@ label save_state_update_shared:
     $ SAVEFIX_QstCreateMissing()
     #### items
     $ BuildAllItemContainers()          # creates all the variables like "house chest" or "hamun store"
+    $ SAVEFIX_SanitizeDLCInventoryAndEquipment() # cleans up removed DLC weapons/armors safely
     $ SAVEFIX_UpdateAllLogicModuleFields()
     $ RelSet_Regina()
     $ RelSet_Erika()
@@ -860,27 +859,16 @@ init python:
         return
 
     def SAVEFIX_InitializeMissingWorldChars():
-        # #1 is "kind" (for variables) #2 is message.
-        # inside it should do
-        # funcname = sys._getframe().f_code.co_name
-        # DEBUG_ConsLog("savefix", "save update: doing a missing world chars pass (SAVEFIX_InitializeMissingWorldChars)")
         CharsRebuilt = 0
         for CharID in CharDefs:
             if CharDefs[CharID]["IsMob"] == False:
                 if CharID not in getattr(store, "worldChars"):
-                    # print("save update: initializing missing char %s" % CharID)
                     CreateWorldCharFromID(CharID)
                     CharsRebuilt += 1
-        # if CharsRebuilt != 0:
-            # if DEBUG_ConsoleOutput_Savefix_General:
-                # print("save update: initialized %s missing characters (SAVEFIX_InitializeMissingWorldChars)" % CharsRebuilt)
         return
 
     def SAVEFIX_UpdateCharTemplateRefAndDeleteObsoleteChars():
         VerboseLog_General = False
-        # when save is loaded, TemplateRefs in characters are actually copies
-        # theres some other crap goin on there too, 
-        # tl;dr is this will make templateRef point to actual CharDef not the shadow-copy
         ObsoleteWorldCharIDs = []
         for CharID, CharData in worldChars.items():
             if CharID in CharDefs:
@@ -912,6 +900,39 @@ init python:
         for CharID in player_party:
             RecalcSkillAndAttrPoints(CharID)
         return
+
+    # Safely purges/unequips missing or uninstalled DLC items from saves
+    def SAVEFIX_SanitizeDLCInventoryAndEquipment():
+        # Determine master item definition set
+        master_item_defs = getattr(store, "static_item_defs", getattr(store, "all_items", {}))
+
+        # 1. Clean equipment slots across all characters
+        if hasattr(store, "worldChars"):
+            for CharID, CharData in worldChars.items():
+                for SlotID in getattr(EQP_SLOTS, "ALL", []):
+                    EquippedItemID = CharData.get(SlotID)
+                    if EquippedItemID and EquippedItemID not in master_item_defs:
+                        CharData[SlotID] = None
+                        if config.developer:
+                            print("save update: unequipped missing item '%s' from %s" % (EquippedItemID, CharID))
+
+        # 2. Clean item containers in AllContainers
+        if hasattr(store, "AllContainers"):
+            for ContainerID, ContainerItems in AllContainers.items():
+                if isinstance(ContainerItems, dict):
+                    for ItemID in list(ContainerItems.keys()):
+                        if ItemID not in master_item_defs:
+                            ContainerItems.pop(ItemID, None)
+                            if config.developer:
+                                print("save update: purged missing item '%s' from container '%s'" % (ItemID, ContainerID))
+
+        # 3. Clean player inventory directly if declared separately
+        if hasattr(store, "player_inv") and isinstance(store.player_inv, dict):
+            for ItemID in list(store.player_inv.keys()):
+                if ItemID not in master_item_defs:
+                    store.player_inv.pop(ItemID, None)
+                    if config.developer:
+                        print("save update: purged missing item '%s' from player_inv" % ItemID)
 
     # CRAZY, if this works we're 9999x saner
     def SAVEFIX_UpdateAllLogicModuleFields():
@@ -985,7 +1006,6 @@ init python:
         IdxIDMap = {} # <- for laters, to replace equipment with ids
         for ContainerID, ContainerItems in AllContainers.items():
             for ItemIndex in list(ContainerItems):
-                # this check because logic modules with shops with IDs might have already been initialized (yea fucked but WHAT YOU GOONNA DOO HUH)
                 if isinstance(ItemIndex, str):
                     continue
                 else:

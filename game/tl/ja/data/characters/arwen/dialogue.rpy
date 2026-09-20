@@ -112,8 +112,7 @@ translate ja arwen_whyCeleste_9530a2ec:
 translate ja arwen_whyCeleste_e7a80d41:
 
     # ARWEN @ talk "Fantasy is a powerful thing... The reality of something rarely meets the expectation."
-    ARWEN @ talk "幻想は強力なものだ...  
-現実は期待に... 滅多に応えない"
+    ARWEN @ talk "幻想は強力なものだ...  現実は期待に... 滅多に応えない"
 
 # game/data/characters/arwen/dialogue.rpy:93
 translate ja arwen_whyCeleste_67cb03f1:
@@ -167,8 +166,7 @@ translate ja dialogue_arwen_services_cel_c7c5bcc5:
 translate ja dialogue_arwen_services_cel_67a3c006:
 
     # ARWEN @ talk "Then if you don't mind, other customers are waiting."
-    ARWEN @ talk "では、お手数ですが
-他のお客様がお待ちですので。"
+    ARWEN @ talk "では、お手数ですが他のお客様がお待ちですので。"
 
 translate ja strings:
 

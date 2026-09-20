@@ -472,8 +472,7 @@ translate ja qst_TheTarbecks_GiselraClothesRetrieveAndContinue_909f6cd3:
 translate ja qst_TheTarbecks_GiselraClothesRetrieveAndContinue_3b742630:
 
     # MC @ smile "I’ll be sure to remind you of that when you have to wear one of these someday."
-    MC @ smile "必ず覚えていてあげる。  
-あなたにもそういう時が来て、こういうものを身につける羽目になった時にはね。"
+    MC @ smile "必ず覚えていてあげる。  あなたにもそういう時が来て、こういうものを身につける羽目になった時にはね。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:170
 translate ja qst_TheTarbecks_GiselraClothesRetrieveAndContinue_4ba403e8:
@@ -1481,8 +1480,7 @@ translate ja qst_TheTarbecks_ArriveToParty_f24c5d63_2:
 translate ja qst_TheTarbecks_ArriveToParty_16f17aec:
 
     # "Tarbeck’s home was a monument to excess."
-    "ターベックの家は、豪華の極みであった。
-あるいは、贅沢の象徴とも言える家だった。"
+    "ターベックの家は、豪華の極みであった。あるいは、贅沢の象徴とも言える家だった。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:489
 translate ja qst_TheTarbecks_ArriveToParty_264bc797:
@@ -1716,8 +1714,7 @@ translate ja qst_TheTarbecks_MeetSyphaInGarden_67f7596c:
 translate ja qst_TheTarbecks_MeetSyphaInGarden_0200482f:
 
     # SYPHA @ talk "You? No."
-    SYPHA @ talk "あなた？  
-いいえ。"
+    SYPHA @ talk "あなた？  いいえ。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:563
 translate ja qst_TheTarbecks_MeetSyphaInGarden_9d05c231:
@@ -2329,8 +2326,7 @@ translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_e23d0697:
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_c9233fa5:
 
     # TARBECK @ think "Hmm? A katai?"
-    TARBECK @ think "ん？  
-硬い？"
+    TARBECK @ think "ん？  硬い？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:739
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_b3a044ee:
@@ -2372,8 +2368,7 @@ translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_7cd39c62:
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_86bef584:
 
     # TARBECK @ smile "Well then! There will be plenty of time for socializing shortly!"
-    TARBECK @ smile "では!  
-これから交流の時間はたっぷりありますよ!"
+    TARBECK @ smile "では!  これから交流の時間はたっぷりありますよ!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:746
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_92ee8f98:
@@ -3519,9 +3514,7 @@ translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_99843523:
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_47ec9358:
 
     # TARBECK "Your rooms. Your comforts. Your life."
-    TARBECK "あなたの部屋。
-あなたの安らぎ。
-あなたの人生。"
+    TARBECK "あなたの部屋。あなたの安らぎ。あなたの人生。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1013
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_5595a755:
@@ -3755,8 +3748,7 @@ translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_83ca3022:
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_6409766f:
 
     # "Her tight heat squeezed and pulsed around me, clinging almost desperately, refusing to let me go."
-    "緊く熱い彼女の奥が、ぎゅっと私を締めつけてくる。  
-まるで必死にしがみつくように、離すまいとするかのようだ。"
+    "緊く熱い彼女の奥が、ぎゅっと私を締めつけてくる。  まるで必死にしがみつくように、離すまいとするかのようだ。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1063
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_3b00bc59:
@@ -4266,8 +4258,7 @@ translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_f7ce4000:
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_3ecdf4e8:
 
     # VES @ talk "Very well then. I shall return to {i}The Pale Dragon.{/i}"
-    VES @ talk "それでは。
-{i}The Pale Dragon{/i}へと戻ろう。"
+    VES @ talk "それでは。{i}The Pale Dragon{/i}へと戻ろう。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1183
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_32963866:
@@ -4387,8 +4378,7 @@ translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_a282344c:
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_71bea252:
 
     # MARKUS_FEM @ talk "What about you? Must've been strange taking me as your date."
-    MARKUS_FEM @ talk "あなたは？
-デートに連れてくるのは変だったでしょう"
+    MARKUS_FEM @ talk "あなたは？デートに連れてくるのは変だったでしょう"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_start_finish.rpy:1209
 translate ja qst_TheTarbecks_WatcherMainhall_TurnInTokens_763c558e:

@@ -136,8 +136,7 @@ translate ja evscr_nijah_rescue_4_aa3aec3c:
 translate ja evscr_nijah_rescue_4_a0494a76:
 
     # NIJAH "Took my earnings... No longer afford room..."
-    NIJAH "貯金を持っていかれた…
-部屋代も払えなくなった…"
+    NIJAH "貯金を持っていかれた…部屋代も払えなくなった…"
 
 # game/data/world_events/novaras/nijah_rescue/scr_nijah_rescue_4.rpy:31
 translate ja evscr_nijah_rescue_4_d5ebf628:
@@ -269,8 +268,7 @@ translate ja evscr_nijah_rescue_4_22736377:
 translate ja evscr_nijah_rescue_4_0f7c1306:
 
     # NIJAH "Most people from Farah’Sand cannot find work... Illegal for refugees..."
-    NIJAH "ファラーサンドの大半の者は仕事に就くことができず…
-難民には違法です…"
+    NIJAH "ファラーサンドの大半の者は仕事に就くことができず…難民には違法です…"
 
 # game/data/world_events/novaras/nijah_rescue/scr_nijah_rescue_4.rpy:53
 translate ja evscr_nijah_rescue_4_a6fb481d:

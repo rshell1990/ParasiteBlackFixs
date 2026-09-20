@@ -11,7 +11,7 @@ translate zh rom_Ves_0_checkup_48262153:
 translate zh rom_Ves_0_checkup_469dc015:
 
     # VES @ talk "... I’m fine."
-    VES @ talk "...我没事。"
+    VES @ talk "……我没事。"
     
 
 # game/data/world_romance/ves/scr_0_checkup.rpy:4
@@ -39,14 +39,14 @@ translate zh rom_Ves_0_checkup_c1e12f59:
 translate zh rom_Ves_0_checkup_b340494c:
 
     # VES @ talk "... Where is safe for an orc in this land?"
-    VES @ talk "...在这片土地上，哪里对兽人是安全的？"
+    VES @ talk "……在这片土地上，哪里对兽人是安全的？"
     
 
 # game/data/world_romance/ves/scr_0_checkup.rpy:8
 translate zh rom_Ves_0_checkup_45eff587:
 
     # VES @ talk "I have survived this long... I will find my kin eventually and leave this empty place."
-    VES @ talk "我已经活到现在了...我最终会找到我的族人，离开这个荒芜之地。"
+    VES @ talk "我已经活到现在了……我最终会找到我的族人，离开这个荒芜之地。"
     
 
 # game/data/world_romance/ves/scr_0_checkup.rpy:9

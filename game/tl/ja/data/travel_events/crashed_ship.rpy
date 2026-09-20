@@ -52,8 +52,7 @@ translate ja travel_event_crashed_ship_934fef82:
 translate ja travel_event_crashed_ship_a4b26b88:
 
     # "The fall lasted only moments, wind whipping past as panic surged through me."
-    "ほんの一瞬の落下、
-風がビュッと通り過ぎる間、恐怖が走った。"
+    "ほんの一瞬の落下、風がビュッと通り過ぎる間、恐怖が走った。"
 
 # game/data/travel_events/crashed_ship.rpy:29
 translate ja travel_event_crashed_ship_b71673c2:
@@ -335,9 +334,7 @@ translate ja travel_event_crashed_ship_inside_881f07eb:
 translate ja travel_event_crashed_ship_inside_e84fa312:
 
     # ANDRAS "I still tell the crew that's what we're looking for... Someplace safe."
-    ANDRAS "今でもクルーにはそう言っている…  
-それが私たちの探しているものだって。  
-安全な場所。"
+    ANDRAS "今でもクルーにはそう言っている…  それが私たちの探しているものだって。  安全な場所。"
 
 # game/data/travel_events/crashed_ship.rpy:129
 translate ja travel_event_crashed_ship_inside_ec95d44a:

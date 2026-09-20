@@ -4,9 +4,9 @@ translate de strings:
 
     # game/engine/gallery/gallery_functions.rpy:19
     old "Scene unlocked!"
-    new "Scene unlocked!"
+    new "Szene freigeschaltet!"
 
     # game/engine/gallery/gallery_functions.rpy:30
     old "Scene memory updated!"
-    new "Scene memory updated!"
+    new "Szenenspeicher aktualisiert!"
 

@@ -736,9 +736,7 @@ translate ja rom_Ves_6_Drunk_b5181c29:
 translate ja rom_Ves_6_Drunk_30ecfac2:
 
     # VES @ talk "O’rlarak commands you to live and fight on. For those who were not so fortunate. For those who have been denied what you have."
-    VES @ talk "オルララクは、生きて戦い続けるよう命じる。  
-不幸だった者たちのために。  
-貴方が得たものを拒絶された者たちのために。"
+    VES @ talk "オルララクは、生きて戦い続けるよう命じる。  不幸だった者たちのために。  貴方が得たものを拒絶された者たちのために。"
 
 # game/data/world_romance/ves/scr_6_Drunk.rpy:154
 translate ja rom_Ves_6_Drunk_6bede656:
@@ -888,8 +886,7 @@ translate ja rom_Ves_6_Drunk_8c056903:
 translate ja rom_Ves_6_Drunk_8cb295ba:
 
     # VES @ talk "It is an old tradition... Some don’t like it but..."
-    VES @ talk "それは古くからのならわし…
-好まない者もいるが…"
+    VES @ talk "それは古くからのならわし…好まない者もいるが…"
 
 # game/data/world_romance/ves/scr_6_Drunk.rpy:182
 translate ja rom_Ves_6_Drunk_988d95b0:

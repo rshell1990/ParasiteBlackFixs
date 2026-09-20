@@ -67,6 +67,7 @@ init python:
 
         def onComplete(self):
             BlockWaitGlobal(False)
+            QstStart(PrimerMalakai)
             QstStart(EventNovarasMarkusTavernTwoEmps)
             WorldMapLocAdd("demorai_temple")
             QstStart(TravelButtonDemoraiTemple)

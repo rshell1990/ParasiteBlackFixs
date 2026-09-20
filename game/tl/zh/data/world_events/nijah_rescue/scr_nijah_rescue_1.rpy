@@ -4,7 +4,7 @@
 translate zh evscr_nijah_rescue_1_53260509:
 
     # MC "Sounds like sure trouble... Should I?" nointeract
-    MC "听起来肯定有麻烦...我要管吗？" nointeract
+    MC "听起来肯定有麻烦……我要管吗？" 
 
 # game/data/world_events/nijah_rescue/scr_nijah_rescue_1.rpy:6
 translate zh evscr_nijah_rescue_1_f8d6d024:
@@ -216,7 +216,7 @@ translate zh strings:
 
     # game/data/world_events/nijah_rescue/scr_nijah_rescue_1.rpy:36
     old "You'll be leaving now... or else."
-    new "你们最好立刻离开...否则后果自负。"
+    new "你们最好立刻离开……否则后果自负。"
 
     # game/data/world_events/nijah_rescue/scr_nijah_rescue_1.rpy:36
     old "{image=[ICON.SWORDS]} I am death incarnate, come to claim you wretches."

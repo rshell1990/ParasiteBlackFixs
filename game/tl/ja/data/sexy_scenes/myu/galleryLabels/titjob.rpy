@@ -10,8 +10,7 @@ translate ja gallery_myu_titjob_38686540:
 translate ja gallery_myu_titjob_a612fe8a:
 
     # MC @ talk "Whoa! What are you-"
-    MC @ talk "おっ!
-なにをする―"
+    MC @ talk "おっ!なにをする―"
 
 # game/data/sexy_scenes/myu/galleryLabels/titjob.rpy:10
 translate ja gallery_myu_titjob_ec551849:
@@ -149,8 +148,7 @@ translate ja gallery_myu_titjob_beaab886:
 translate ja gallery_myu_titjob_c7f030d2:
 
     # MC "{i}*Huff*{/i} Myu... Shit."
-    MC "{i}*はあ*{/i}
-ミュ…クソ。"
+    MC "{i}*はあ*{/i}ミュ…クソ。"
 
 # game/data/sexy_scenes/myu/galleryLabels/titjob.rpy:35
 translate ja gallery_myu_titjob_2e62a2cc:

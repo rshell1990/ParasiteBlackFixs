@@ -33,12 +33,12 @@ label travel_node_logic_normal:
     # ship crash (4)
     if TravelState.RouteID == "novaras_balun":
         if QstIsActive(EventCrashedShipEncounter):
-            if RngInt(1, 60) == 1:
+            if RngInt(1, 3) == 1:
                 $ tmpvar.append(4)
     # jackal girl (5)
     if Travel_GetCurrentBiome() == "desert":
         if QstIsActive(EventJackalGirlEncounter):
-            if RngInt(1, 100) <= 5: # 5%
+            if RngInt(1, 19) == 1: # 5%
                 $ tmpvar.append(5)
     # fortress inn (6)
     if Travel_GetCurrentBiome() == "forest":
@@ -112,7 +112,7 @@ label travel_node_logic_nature:
     # jackal girl
     if Travel_GetCurrentBiome() == "desert":
         if QstIsActive(EventJackalGirlEncounter):
-            if RngInt(1, 100) <= 40:
+            if RngInt(1, 10) <= 4:
                 $ tmpvar.append(4)
 
     # in case of no events, return

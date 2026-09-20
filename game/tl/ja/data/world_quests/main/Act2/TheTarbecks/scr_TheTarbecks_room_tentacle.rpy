@@ -148,8 +148,7 @@ translate ja qst_TheTarbecks_Room_Tentacle_kiara_d148b4dc:
 translate ja qst_TheTarbecks_Room_Tentacle_kiara_753803e8:
 
     # KIARA @ smile "Come on love, you really think Lord Perv's-His-Name wouldn't find something like this?"
-    KIARA @ smile "ねえ、愛しい人よ
-そんなもの、ペルヴィ様が見つけられないとでも？"
+    KIARA @ smile "ねえ、愛しい人よそんなもの、ペルヴィ様が見つけられないとでも？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_tentacle.rpy:72
 translate ja qst_TheTarbecks_Room_Tentacle_kiara_9983f3f5:
@@ -371,9 +370,7 @@ translate ja qst_TheTarbecks_Room_Tentacle_kiara_28cc513f:
 translate ja qst_TheTarbecks_Room_Tentacle_kiara_a5d1ea28:
 
     # KIARA "Little - {i}*huff*{/i} shit!"
-    KIARA "Little - 
-{i}*ふん*{/i}
-ちびっ子め!"
+    KIARA "Little - {i}*ふん*{/i}ちびっ子め!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_tentacle.rpy:130
 translate ja qst_TheTarbecks_Room_Tentacle_kiara_6380f3ce:
@@ -955,8 +952,7 @@ translate ja qst_TheTarbecks_Room_Tentacle_ves_33589434:
 translate ja qst_TheTarbecks_Room_Tentacle_ves_33be40bb:
 
     # "I watched as the tendrils pounded her holes. Ves, reduced to a helpless plaything for the fleshy mass, could only groan as her eyes rolled into the back of her skull."
-    "その触手が彼女の穴を次々と穿つのを私は見ていた。
-肉塊の無力なおもちゃと化したヴェスは、目玉が裏返り、うめき声を漏らすしかなかった。"
+    "その触手が彼女の穴を次々と穿つのを私は見ていた。肉塊の無力なおもちゃと化したヴェスは、目玉が裏返り、うめき声を漏らすしかなかった。"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_tentacle.rpy:279
 translate ja qst_TheTarbecks_Room_Tentacle_ves_8813c962:

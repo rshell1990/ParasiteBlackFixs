@@ -5028,13 +5028,6 @@ translate zh qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "即使攻击命中，他也只是若无其事地承受。"
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1909
-translate zh qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "当我瞥见精疲力竭、勉强支撑的同伴们，我意识到一个可怕的事实…"
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1910
 translate zh qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."

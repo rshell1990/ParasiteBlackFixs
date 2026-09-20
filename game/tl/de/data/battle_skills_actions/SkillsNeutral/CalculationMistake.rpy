@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/CalculationMistake.rpy:4
     old "Calculation Mistake"
-    new "Calculation Mistake"
+    new "Rechenfehler"
 
     # game/data/battle_skills_actions/SkillsNeutral/CalculationMistake.rpy:34
     old "Attacks all enemies with a blow that cannot be dodged, dealing %s damage and removing all their beneficial effects. Enemies with removed beneficial effects will be stunned for 1 turn."
-    new "Attacks all enemies with a blow that cannot be dodged, dealing %s damage and removing all their beneficial effects. Enemies with removed beneficial effects will be stunned for 1 turn."
+    new "Greift alle Feinde mit einem nicht ausweichbaren Schlag an, fügt %s Schaden zu und entfernt alle ihre vorteilhaften Effekte. Feinde, deren vorteilhafte Effekte entfernt wurden, werden für 1 Runde betäubt."
 

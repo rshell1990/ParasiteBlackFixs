@@ -226,8 +226,7 @@ translate ja gallery_ves_titjob_naked_016db76f_1:
 translate ja gallery_ves_titjob_naked_2b47f4e1_1:
 
     # MC @ talk "{i}*Huff*{/i} Y-Yeah, but you—"
-    MC @ talk "{i}*はあはあ*{/i}
-ヤ…ヤー、でもお前は…"
+    MC @ talk "{i}*はあはあ*{/i}ヤ…ヤー、でもお前は…"
 
 # game/data/sexy_scenes/ves/galleryLabels/tj.rpy:66
 translate ja gallery_ves_titjob_naked_ff443633_1:

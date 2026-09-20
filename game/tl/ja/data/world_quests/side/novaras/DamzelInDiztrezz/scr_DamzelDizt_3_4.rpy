@@ -556,8 +556,7 @@ translate ja qst_DamzelDizzt_3_talkTarek_successCharm_248b2a40:
 translate ja qst_DamzelDizzt_3_talkTarek_successCharm_78f307c6:
 
     # BLACK "Drink... Fear not..."
-    BLACK "飲め……  
-恐れるな……"
+    BLACK "飲め……  恐れるな……"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_4.rpy:121
 translate ja qst_DamzelDizzt_3_talkTarek_successCharm_8ddf6569:

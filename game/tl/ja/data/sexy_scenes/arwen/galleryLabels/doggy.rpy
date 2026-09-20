@@ -328,8 +328,7 @@ translate ja gallery_arwen_doggy_vag_dress_19570c32:
 translate ja gallery_arwen_doggy_vag_dress_865cea2f:
 
     # ARWEN "Tell me why cunt is the best - Argh! Damn it!"
-    ARWEN "なぜクソが最高だって言えよ
-ぐっ…ちくしょう!この野郎!"
+    ARWEN "なぜクソが最高だって言えよぐっ…ちくしょう!この野郎!"
 
 # game/data/sexy_scenes/arwen/galleryLabels/doggy.rpy:108
 translate ja gallery_arwen_doggy_vag_dress_3a7547f3:
@@ -401,8 +400,7 @@ translate ja gallery_arwen_doggy_vag_dress_0236a622:
 translate ja gallery_arwen_doggy_vag_dress_f1f3848c:
 
     # ARWEN "Oooh! Y-Yes..."
-    ARWEN "ウッ…  
-あ、ああ…"
+    ARWEN "ウッ…  あ、ああ…"
 
 # game/data/sexy_scenes/arwen/galleryLabels/doggy.rpy:123
 translate ja gallery_arwen_doggy_vag_dress_333862e8:
@@ -414,8 +412,7 @@ translate ja gallery_arwen_doggy_vag_dress_333862e8:
 translate ja gallery_arwen_doggy_vag_dress_6ca3f2e3:
 
     # "Arwen began to tremble beneath my hands, drenched in sweat as she breathed heavily tryig to recompose herself."
-    "アーウェンは、我が両手の下で震え出す。
-汗にまみれ、必死に息を整えようとする。"
+    "アーウェンは、我が両手の下で震え出す。汗にまみれ、必死に息を整えようとする。"
 
 # game/data/sexy_scenes/arwen/galleryLabels/doggy.rpy:125
 translate ja gallery_arwen_doggy_vag_dress_372c6d78:
@@ -559,9 +556,7 @@ translate ja gallery_arwen_doggy_anal_naked_411a5ddf:
 translate ja gallery_arwen_doggy_anal_naked_de79ccd8:
 
     # "The pulsing darkness inside of me struggled to restrain myself, to consider her well-being, driven by hot-bloodedness, her body felt too good."
-    "体内に脈打つ闇が、理性を縛り付けようとする。  
-彼女を思いやれと――  
-しかし熱血に駆られ、その身体の快感が強すぎた。"
+    "体内に脈打つ闇が、理性を縛り付けようとする。  彼女を思いやれと――  しかし熱血に駆られ、その身体の快感が強すぎた。"
 
 # game/data/sexy_scenes/arwen/galleryLabels/doggy.rpy:157
 translate ja gallery_arwen_doggy_anal_naked_fd0af249:
@@ -585,8 +580,7 @@ translate ja gallery_arwen_doggy_anal_naked_df35a9d5:
 translate ja gallery_arwen_doggy_anal_naked_7d143dca:
 
     # ARWEN "A perfect little ass for a perfect little whore, r-right? Ahh!"
-    ARWEN "完璧な小さなお尻だね、完璧な売女にふさわしい…
-そ、そうでしょ？あっ!"
+    ARWEN "完璧な小さなお尻だね、完璧な売女にふさわしい…そ、そうでしょ？あっ!"
 
 # game/data/sexy_scenes/arwen/galleryLabels/doggy.rpy:163
 translate ja gallery_arwen_doggy_anal_naked_233c013b:

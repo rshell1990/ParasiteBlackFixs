@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/sexy_scenes/betty/galleryDefs.rpy:12
     old "Missionary"
-    new "Missionary"
+    new "Missionarsstellung"
 

@@ -34,8 +34,7 @@ translate ja qst_thecomingstorm_alt_investigation_reginatalk_80e99453:
 translate ja qst_thecomingstorm_alt_investigation_reginatalk_890f9675:
 
     # REGINA @ think "... I don't recall the name, {i}but I do recall her mentioning something about missing guardsmen if that's what you mean?{/i}"
-    REGINA @ think "…名前は覚えてないけど、
-{i}確か、警備隊員の失踪について話していたような…ご指摘の件はそれでしょうか？{/i}"
+    REGINA @ think "…名前は覚えてないけど、{i}確か、警備隊員の失踪について話していたような…ご指摘の件はそれでしょうか？{/i}"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:16
 translate ja qst_thecomingstorm_alt_investigation_reginatalk_8e78ec11:
@@ -497,8 +496,7 @@ translate ja qst_thecomingstorm_alt_investigation_enter_market_district_10ebbead
 translate ja qst_thecomingstorm_alt_investigation_enter_market_district_79e7f1fb:
 
     # MC @ angry "What are you talking about? I was sent to pick up some kind of parcel!"
-    MC @ angry "何を言ってるんだ？
-小包を受け取りに来ただけだ!"
+    MC @ angry "何を言ってるんだ？小包を受け取りに来ただけだ!"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:202
 translate ja qst_thecomingstorm_alt_investigation_enter_market_district_ce3f1abf:
@@ -930,8 +928,7 @@ translate ja qst_thecomingstorm_alt_investigation_enter_market_district_525eaf76
 translate ja qst_thecomingstorm_alt_investigation_enter_market_district_c398469f:
 
     # MC @ talk "I'm here for the parcel. Nothing else."
-    MC @ talk "荷物を受け取りに来た。
-それだけだ。"
+    MC @ talk "荷物を受け取りに来た。それだけだ。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:387
 translate ja qst_thecomingstorm_alt_investigation_enter_market_district_dec3c378:
@@ -1603,8 +1600,7 @@ translate ja qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate ja qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_69eabdd7:
 
     # VALA @ talk "Well, right now, if someone were to investigate what has happened, what would they find?"
-    VALA @ talk "さて、今、仮に誰かが起きたことを調査するとしたら、
-一体何が明らかになるだろうか？"
+    VALA @ talk "さて、今、仮に誰かが起きたことを調査するとしたら、一体何が明らかになるだろうか？"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:610
 translate ja qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_070e91fd:
@@ -2240,8 +2236,7 @@ translate ja qst_thecomingstorm_alt_investigation_return_with_parcel_questions_m
 translate ja qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_9c02228f:
 
     # VALA "You know—Mmm..."
-    VALA "あのさ…
-うーん…"
+    VALA "あのさ…うーん…"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_AltInvestigation.rpy:767
 translate ja qst_thecomingstorm_alt_investigation_return_with_parcel_questions_menu_5c27edd3:

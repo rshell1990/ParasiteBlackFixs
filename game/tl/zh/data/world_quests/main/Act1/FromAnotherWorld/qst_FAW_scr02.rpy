@@ -96,13 +96,6 @@ translate zh qst_FromAnotherWorld_ReturnHome_de6a39b0:
     # REGINA @ smile_talk "It’s a miracle you’re both alive."
     REGINA @ smile_talk "你们俩都活着真是个奇迹。"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:29
-translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_15f57a0d:
-
-    # REGINA @ talk "I think they were suspicious that you and 马库斯 had managed to survive through some sort of black magic."
-    REGINA @ talk "我觉得他们怀疑你和马库斯是靠某种黑魔法活下来的。"
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:30
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_498911e8:
 
     # REGINA @ talk "They searched your room but found nothing."
@@ -114,13 +107,6 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_9c998003:
     # MC @ talk "What did you tell them?"
     MC @ talk "你怎么对他们说的？"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:32
-translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_b5729cf7:
-
-    # REGINA @ talk "Just that you weren’t blessed with any kind of magic, let alone black."
-    REGINA @ talk "只说你们没有任何魔法天赋，更别提黑魔法了。"
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:33
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7112280f:
 
     # REGINA @ talk "It’s on your school record either way, don’t know why they made such a fuss."
@@ -136,7 +122,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_074ecab7:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_000e9a42:
 
     # REGINA @ talk "The investigation was brief, Erika helped ease things along without too much trouble."
-    REGINA @ talk "调查很简短，Erika帮忙顺利解决了问题。"
+    REGINA @ talk "调查很简短，艾莉卡帮忙顺利解决了问题。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:39
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_79a7badb:
@@ -160,7 +146,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_5d14884b:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_6fae0609:
 
     # REGINA @ talk "Busy dealing with her usual Inquisitor business... You know how she is, always busy."
-    REGINA @ talk "忙着处理她平常的审判官事务...你知道她的，永远都在忙。"
+    REGINA @ talk "忙着处理她平常的审判官事务……你知道她的，永远都在忙。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:46
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_5e5d29c1:
@@ -178,7 +164,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_60784276:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_d825194b:
 
     # MC @ talk "... I’m sorry for putting you both through so much."
-    MC @ talk "...让你们经历这些，我很抱歉。"
+    MC @ talk "……让你们经历这些，我很抱歉。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:49
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_d20e97c2:
@@ -202,25 +188,25 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_1d04ed6f:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_321c8c4e:
 
     # REGINA @ shy_talk "You... {i}You got taller.{/i}"
-    REGINA @ shy_talk "你...{i}长高了{/i}。"
+    REGINA @ shy_talk "你……{i}长高了{/i}。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:55
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_5528f248:
 
     # MC @ talk "Uhh... yeah."
-    MC @ talk "呃...是啊。"
+    MC @ talk "呃……是啊。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:56
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7153c2b9:
 
     # REGINA @ shy_talk "And, so much... um... {i}bigger.{/i}"
-    REGINA @ shy_talk "而且...壮实了好多...嗯...{i}块头变大了{/i}。"
+    REGINA @ shy_talk "而且……壮实了好多……嗯……{i}块头变大了{/i}。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:57
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_3795a481:
 
     # MC @ talk "Y-Yes... The Scouts had us training rigorously... a lot."
-    MC @ talk "是-是的...侦察队让我们进行了严格训练...强度很大。"
+    MC @ talk "是——是的……侦察队让我们进行了严格训练……强度很大。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:58
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7647683f:
@@ -238,7 +224,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_3a10b65e:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_300bd8d7:
 
     # MC @ talk "I..."
-    MC @ talk "我..."
+    MC @ talk "我……"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:61
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7ca38eb6:
@@ -250,13 +236,13 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7ca38eb6:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_cd733010:
 
     # REGINA @ talk "Well, I’ve heard everything from you both stole horses and fought your way back like a pair of men possessed, riding day and night till you got home..."
-    REGINA @ talk "我听到了各种说法，有说你们偷了马像着了魔似的杀回来，日夜兼程直到回家..."
+    REGINA @ talk "我听到了各种说法，有说你们偷了马像着了魔似的杀回来，日夜兼程直到回家……"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:63
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_caa43f22:
 
     # REGINA @ talk "To the spirit of Newheart himself helped guide you back."
-    REGINA @ talk "还有说是Newheart的英灵指引你们回来的。"
+    REGINA @ talk "还有说是纽哈特的英灵指引你们回来的。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:64
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_19ae015d:
@@ -274,7 +260,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_a78a0340:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_5241621d:
 
     # REGINA @ talk "Nobody even knows what you were all doing so deep in Demorai lands."
-    REGINA @ talk "甚至没人知道你们为什么深入Demorai领地那么远。"
+    REGINA @ talk "甚至没人知道你们为什么深入德莫莱领地那么远。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:67
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7d151e13:
@@ -436,7 +422,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_8db10537:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_5393c762:
 
     # REGINA @ talk "If you notice anything strange..."
-    REGINA @ talk "如果发现任何异常..."
+    REGINA @ talk "如果发现任何异常……"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:96
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_80fae3b6:
@@ -448,7 +434,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_80fae3b6:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_4a1911c5:
 
     # MC @ talk "... There was... a voice last night..."
-    MC @ talk "...昨晚...有个声音..."
+    MC @ talk "……昨晚……有个声音……"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:98
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_66115aa9:
@@ -460,13 +446,13 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_66115aa9:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_bbdd87f3:
 
     # MC @ talk "I think whatever it is... or {i}was{/i}... wanted to keep me safe."
-    MC @ talk "我觉得它...{i}曾经{/i}...想保护我。"
+    MC @ talk "我觉得它……{i}曾经{/i}……想保护我。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:100
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_cbd68443:
 
     # REGINA @ talk "... Hmm."
-    REGINA @ talk "...嗯。"
+    REGINA @ talk "……嗯。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:101
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_b49f6fdc:
@@ -490,7 +476,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_e09176d9:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_014d1605:
 
     # REGINA @ talk "... But thank you for trusting me."
-    REGINA @ talk "...不过谢谢你信任我。"
+    REGINA @ talk "……不过谢谢你信任我。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:107
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_e9b7963c:
@@ -586,7 +572,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_69e7ddcf:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_caf32118:
 
     # "It all seemed so simple back then... even in a world as chaotic as this one."
-    "那时一切都如此简单...即便在这个混乱的世界里。"
+    "那时一切都如此简单……即便在这个混乱的世界里。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:134
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_c41f0caa:
@@ -610,7 +596,7 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_9fd34d7c:
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_b371400e:
 
     # MC @ talk "...Hello?"
-    MC @ talk "...喂？"
+    MC @ talk "……喂？"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:139
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_7760b7a8:
@@ -879,7 +865,6 @@ translate zh strings:
     # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:76
     old "Omit the truth."
     new "隐瞒真相"# 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:113
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_092fcd93:
@@ -941,14 +926,12 @@ translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_00478683:
     # "Slowly, [regina_ref!t]'s embrace lessened as she let me head off and finally make my way towards Markus' house."
     "慢慢地，[regina_ref!t]松开了拥抱，让我离开，终于能前往马库斯的家。"
 
-# TODO: Translation updated at 2026-06-13 12:54
 
 translate zh strings:
 
     # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:43
     old "Where is Erika?"
     new "艾丽卡在哪？"
-# TODO: Translation updated at 2026-07-13 23:37
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:29
 translate zh qst_FromAnotherWorld_ReturnHome_ReginaTalk_ffb1c6be:

@@ -4,17 +4,17 @@ translate de strings:
 
     # game/engine/relations/aio.rpy:8
     old "Lover"
-    new "Lover"
+    new "Liebhaber"
 
     # game/engine/relations/aio.rpy:8
     old "Enemy"
-    new "Enemy"
+    new "Feind"
 
     # game/engine/relations/aio.rpy:122
     old "New character entry: %s"
-    new "New character entry: %s"
+    new "Neuer Charaktereintrag: %s"
 
     # game/engine/relations/aio.rpy:166
     old "%s is now your lover!"
-    new "%s is now your lover!"
+    new "%s ist jetzt dein Liebhaber!"
 

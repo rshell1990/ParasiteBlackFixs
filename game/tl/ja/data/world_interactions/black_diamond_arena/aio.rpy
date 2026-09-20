@@ -142,8 +142,7 @@ translate ja black_diamond_bookkeeper_talk_menu_40d9f557:
 translate ja black_diamond_bookkeeper_talk_menu_2ade3781:
 
     # BOOKKEEPER "One try poisoning a beasty and placing huge bet on other."
-    BOOKKEEPER "一匹のベスティーに毒を仕掛け、
-もう片方に大金を賭けるという手だ。"
+    BOOKKEEPER "一匹のベスティーに毒を仕掛け、もう片方に大金を賭けるという手だ。"
 
 # game/data/world_interactions/black_diamond_arena/aio.rpy:86
 translate ja black_diamond_bookkeeper_talk_menu_f8b9be59:

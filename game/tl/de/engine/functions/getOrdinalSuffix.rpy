@@ -4,17 +4,17 @@ translate de strings:
 
     # game/engine/functions/getOrdinalSuffix.rpy:6
     old "th"
-    new "th"
+    new "."
 
     # game/engine/functions/getOrdinalSuffix.rpy:8
     old "st"
-    new "st"
+    new "."
 
     # game/engine/functions/getOrdinalSuffix.rpy:8
     old "nd"
-    new "nd"
+    new "."
 
     # game/engine/functions/getOrdinalSuffix.rpy:8
     old "rd"
-    new "rd"
+    new "."
 

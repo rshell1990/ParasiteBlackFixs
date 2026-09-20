@@ -10,8 +10,7 @@ translate ja travel_event_deer_1df70267:
 translate ja travel_event_deer_b632c376:
 
     # "The thought crossed my mind that their hide and meat could prove valuable... {i}If we can catch them before they bolt.{/i}"
-    "彼らの肉や皮は役に立つかもしれない…そんな考えが頭をよぎった。
-{i}もし捕まえられればの話だが。{/i}"
+    "彼らの肉や皮は役に立つかもしれない…そんな考えが頭をよぎった。{i}もし捕まえられればの話だが。{/i}"
 
 # game/data/travel_events/deer.rpy:10
 translate ja travel_event_deer_783b92c5:

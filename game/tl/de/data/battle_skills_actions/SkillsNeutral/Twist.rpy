@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsNeutral/Twist.rpy:32
     old "Attacks all enemies for %s damage and reduces the damage they deal by 50%% for 2 turns."
-    new "Attacks all enemies for %s damage and reduces the damage they deal by 50%% for 2 turns."
+    new "Fügt allen Feinden %s Schaden zu und verringert den von ihnen verursachten Schaden 2 Runden lang um 50%%."
 

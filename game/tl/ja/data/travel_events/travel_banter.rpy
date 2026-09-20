@@ -214,8 +214,7 @@ translate ja travelmodebanter_map_elena_mc_2_094bce6b:
 translate ja travelmodebanter_map_elena_mc_2_e1f4d040:
 
     # MC @ smile "Before the gift, I felt powerless. Like my life wasn't mine."
-    MC @ smile "贈り物の前では、無力だった。
-自分のものではない誰かの人生のように。"
+    MC @ smile "贈り物の前では、無力だった。自分のものではない誰かの人生のように。"
 
 # game/data/travel_events/travel_banter.rpy:91
 translate ja travelmodebanter_map_elena_mc_2_92dfa1e6:
@@ -647,8 +646,7 @@ translate ja travelmodebanter_map_myu_1_cf82bd78:
 translate ja travelmodebanter_map_myu_1_299a78da:
 
     # MYU @ talk "Myu can change. You can only change a little."
-    MYU @ talk "ミュは変われる。
-あなたは少しだけ変われる。"
+    MYU @ talk "ミュは変われる。あなたは少しだけ変われる。"
 
 # game/data/travel_events/travel_banter.rpy:219
 translate ja travelmodebanter_map_myu_1_fde560eb:

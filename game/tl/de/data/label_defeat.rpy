@@ -4,15 +4,15 @@
 translate de defeat_generic_d62c8ec4:
 
     # "Your adventure has come to an end."
-    "Your adventure has come to an end."
+    "Dein Abenteuer ist zu Ende."
 
 translate de strings:
 
     # game/data/label_defeat.rpy:14
     old "Load game"
-    new "Load game"
+    new "Spiel laden"
 
     # game/data/label_defeat.rpy:18
     old "Quit to main menu"
-    new "Quit to main menu"
+    new "Zum Hauptmenü beenden"
 

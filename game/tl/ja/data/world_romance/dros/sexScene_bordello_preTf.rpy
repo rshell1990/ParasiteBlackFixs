@@ -58,8 +58,7 @@ translate ja dros_bordello_sex_preTf_root_43504798:
 translate ja dros_bordello_sex_preTf_root_2825ade6:
 
     # DROS @ smile "Whatever turns you on more..."
-    DROS @ smile "お好きにどうぞ…
-どちらがお好き？"
+    DROS @ smile "お好きにどうぞ…どちらがお好き？"
 
 # game/data/world_romance/dros/sexScene_bordello_preTf.rpy:32
 translate ja dros_bordello_sex_preTf_root_613acb4d:

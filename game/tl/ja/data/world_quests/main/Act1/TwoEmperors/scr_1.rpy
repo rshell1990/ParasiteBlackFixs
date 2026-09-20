@@ -40,8 +40,7 @@ translate ja qst_TwoEmperors_meetMarkus_revisitable_81d1ed5c:
 translate ja qst_TwoEmperors_meetMarkus_revisitable_2485a991:
 
     # MARKUS @ sad "This isn't what I wanted for us."
-    MARKUS @ sad "これは…二人のための結末じゃなかった。
-こんな結末を望んでいたんじゃない。"
+    MARKUS @ sad "これは…二人のための結末じゃなかった。こんな結末を望んでいたんじゃない。"
 
 # game/data/world_quests/main/Act1/TwoEmperors/scr_1.rpy:14
 translate ja qst_TwoEmperors_meetMarkus_revisitable_0218142f:
@@ -137,8 +136,7 @@ translate ja qst_TwoEmperors_1_3c22afc7:
 translate ja qst_TwoEmperors_1_148afef6:
 
     # MARKUS "I'd see a sign saying {i}'All Demorai go this way?'{/i}"
-    MARKUS "看板にはこう書かれていた。
-{i}「デモライは皆こっちへ？」{/i}"
+    MARKUS "看板にはこう書かれていた。{i}「デモライは皆こっちへ？」{/i}"
 
 # game/data/world_quests/main/Act1/TwoEmperors/scr_1.rpy:50
 translate ja qst_TwoEmperors_1_04bc1ef4:
@@ -180,9 +178,7 @@ translate ja qst_TwoEmperors_1_df99d1f5:
 translate ja qst_TwoEmperors_1_ab117a1f:
 
     # MARKUS "They're so faint though... The desert winds will cover them up before we have any chance to get wherever they lead."
-    MARKUS "それでもあまりにかすかすぎて…  
-砂漠の風が、その跡を消し飛ばしてしまう。  
-どこへ続いているのか、辿り着ける前に。"
+    MARKUS "それでもあまりにかすかすぎて…  砂漠の風が、その跡を消し飛ばしてしまう。  どこへ続いているのか、辿り着ける前に。"
 
 # game/data/world_quests/main/Act1/TwoEmperors/scr_1.rpy:61
 translate ja qst_TwoEmperors_1_d2ed565b:
@@ -218,8 +214,7 @@ translate ja qst_TwoEmperors_1_19fe3894:
 translate ja qst_TwoEmperors_1_a1b91de7:
 
     # MARKUS "I can smell it too now... Its weak though."
-    MARKUS "私にも…今、その匂いがする  
-でも、かすかだ"
+    MARKUS "私にも…今、その匂いがする  でも、かすかだ"
 
 # game/data/world_quests/main/Act1/TwoEmperors/scr_1.rpy:67
 translate ja qst_TwoEmperors_1_67da0f1b:

@@ -178,8 +178,7 @@ translate ja gallery_arwen_cosp_won_anal_5a17edd5:
 translate ja gallery_arwen_cosp_won_anal_dc64aa16:
 
     # ARWEN "H-Hurry! Just finish inside me already!"
-    ARWEN "は、早く!
-もう、中に出して!"
+    ARWEN "は、早く!もう、中に出して!"
 
 # game/data/sexy_scenes/arwen/galleryLabels/cosp_won.rpy:51
 translate ja gallery_arwen_cosp_won_anal_d0ecb794:
@@ -269,8 +268,7 @@ translate ja gallery_arwen_cosp_won_vag_2aa797f1:
 translate ja gallery_arwen_cosp_won_vag_0f442c59:
 
     # ARWEN "M-My love! Mmmfghh!"
-    ARWEN "わ、私の愛しい人!
-んんっ!"
+    ARWEN "わ、私の愛しい人!んんっ!"
 
 # game/data/sexy_scenes/arwen/galleryLabels/cosp_won.rpy:77
 translate ja gallery_arwen_cosp_won_vag_f459be59:
@@ -330,8 +328,7 @@ translate ja gallery_arwen_cosp_won_vag_b772116e:
 translate ja gallery_arwen_cosp_won_vag_02f30576:
 
     # "As she moaned to the sound of every thrust, how easy it was to convince myself I was fucking someone else..."
-    "彼女の喘ぎ声が突き上げる度に響く中、
-他の誰かとしていると自分に言い聞かせるのは、なんて容易かったことか…"
+    "彼女の喘ぎ声が突き上げる度に響く中、他の誰かとしていると自分に言い聞かせるのは、なんて容易かったことか…"
 
 # game/data/sexy_scenes/arwen/galleryLabels/cosp_won.rpy:87
 translate ja gallery_arwen_cosp_won_vag_e0bcc5ec:

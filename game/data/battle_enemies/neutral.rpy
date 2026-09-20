@@ -42,12 +42,12 @@ init python:
         BattleSkin =  "bazark_worm",
 
         base_health = 1340,
-        base_damage = 55,
-        base_energy = 125,
+        base_damage = 15,
+        base_energy = 65,
 
-        Strength = 0,
+        Strength = 5,
         Endurance = 26,
-        Willpower = 0,
+        Willpower = 5,
         Agility = 10,
         Dexterity = 2,
         Luck = 2,

@@ -652,8 +652,7 @@ translate ja rom_winward_control_visit_next_day_sexmenu_c35b61e7:
 translate ja rom_winward_control_visit_next_day_sexmenu_09309c18:
 
     # MRS_WINWARD "Y-Yes deary, I just... Mhmm... N-Need to close my eyes a little."
-    MRS_WINWARD "あ、あの…おねえちゃん、ちょっと…うん…  
-ま、まぶたを閉じないと…"
+    MRS_WINWARD "あ、あの…おねえちゃん、ちょっと…うん…  ま、まぶたを閉じないと…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_control.rpy:167
 translate ja rom_winward_control_visit_next_day_sexmenu_db06d394:
@@ -1439,8 +1438,7 @@ translate ja rom_winward_control_doggywall_rep_sexmenu_fb8824eb:
 translate ja rom_winward_control_doggywall_rep_sexmenu_ccd2dfc6:
 
     # MRS_WINWARD "You feel so - Mhmm! Big!"
-    MRS_WINWARD "感じるの…
-んんっ!大きい!"
+    MRS_WINWARD "感じるの…んんっ!大きい!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_control.rpy:454
 translate ja rom_winward_control_doggywall_rep_sexmenu_10b1b4d4:
@@ -2484,9 +2482,7 @@ translate ja rom_winward_control_visit_bedroom_miss_sexmenu_73304965:
 translate ja rom_winward_control_visit_bedroom_miss_sexmenu_a27f0bdc:
 
     # MRS_WINWARD "Fuck my asshhh! It feels shooo ghoood! Mhfhh!"
-    MRS_WINWARD "あたしのケツっっ!
-めちゃくちゃ気持ちいいいい!
-んんっ!"
+    MRS_WINWARD "あたしのケツっっ!めちゃくちゃ気持ちいいいい!んんっ!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_control.rpy:809
 translate ja rom_winward_control_visit_bedroom_miss_sexmenu_9d9461c9:

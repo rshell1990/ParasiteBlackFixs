@@ -124,7 +124,7 @@ translate de gallery_nijah_prol_bj_6a9b53a5:
 translate de gallery_nijah_prol_bj_8c8725ad:
 
     # NIJAH "Mmmm... {i}*Slurp!* *Slurp!*{/i}"
-    NIJAH "Mmmm... {i}*Slurp!* *Slurp!*{/i}"
+    NIJAH "Mmmm... {i}*Schlürf!* *Schlürf!*{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:40
 translate de gallery_nijah_prol_bj_0434bc31:
@@ -136,49 +136,49 @@ translate de gallery_nijah_prol_bj_0434bc31:
 translate de gallery_nijah_prol_bj_737c561e:
 
     # "As I began to feel myself slowly building towards an orgasm once again, I asked."
-    "As I began to feel myself slowly building towards an orgasm once again, I asked."
+    "Als ich spürte, dass ich mich langsam wieder einem Orgasmus näherte, fragte ich."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:42
 translate de gallery_nijah_prol_bj_ae03b701:
 
     # MC "S-So, do you get many customers?"
-    MC "S-So, do you get many customers?"
+    MC "A-Also, hast du viele Kunden?"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:47
 translate de gallery_nijah_prol_bj_f89a3747:
 
     # NIJAH "{i}*PLOP*{/i} Hmm? Oh, Not really..."
-    NIJAH "{i}*PLOP*{/i} Hmm? Oh, Not really..."
+    NIJAH "{i}*PLOP*{/i} Hmm? Oh, nicht wirklich..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:48
 translate de gallery_nijah_prol_bj_1c093f7c:
 
     # MC "Huh? But you’re so beautiful!"
-    MC "Huh? But you’re so beautiful!"
+    MC "Hä? Aber du bist so schön!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:49
 translate de gallery_nijah_prol_bj_89ce7672:
 
     # NIJAH "Ah! Thank you!"
-    NIJAH "Ah! Thank you!"
+    NIJAH "Ah! Danke!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:50
 translate de gallery_nijah_prol_bj_63efbe31:
 
     # NIJAH "But no, many are wary of my people."
-    NIJAH "But no, many are wary of my people."
+    NIJAH "Aber nein, viele sind misstrauisch gegenüber meinem Volk."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:51
 translate de gallery_nijah_prol_bj_068acee9:
 
     # NIJAH "We are not trusted by ze common folk."
-    NIJAH "We are not trusted by ze common folk."
+    NIJAH "Wir werden von ze einfachen Volk nicht vertraut."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:52
 translate de gallery_nijah_prol_bj_81a0ea5d:
 
     # NIJAH "Many think we are like, uhh, how you say, ‘leeches’?"
-    NIJAH "Many think we are like, uhh, how you say, ‘leeches’?"
+    NIJAH "Viele denken, wir sind wie, äh, wie sagt man, ‘Blutegel’?"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:53
 translate de gallery_nijah_prol_bj_e47c7f56:
@@ -244,89 +244,89 @@ translate de gallery_nijah_prol_bj_4359b271:
 translate de gallery_nijah_prol_bj_e79ed82a:
 
     # MC "Huh?"
-    MC "Huh?"
+    MC "Hä?"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:68
 translate de gallery_nijah_prol_bj_c4a83d2a:
 
     # "Suddenly, Nijah lunged forward, sucking on my cock furiously, her lips tight around me as she slammed her mouth up and down."
-    "Suddenly, Nijah lunged forward, sucking on my cock furiously, her lips tight around me as she slammed her mouth up and down."
+    "Plötzlich stürzte sich Nijah nach vorn und saugte heftig an meinem Schwanz, ihre Lippen eng um mich geschlossen, während sie ihren Mund auf und ab rammte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:69
 translate de gallery_nijah_prol_bj_e35b1955:
 
     # "I gasped as my already sensitive cock was suddenly and quickly overwhelmed by the hot, wet sensation."
-    "I gasped as my already sensitive cock was suddenly and quickly overwhelmed by the hot, wet sensation."
+    "Ich keuchte, als mein ohnehin schon empfindlicher Schwanz plötzlich und schnell von dem heißen, feuchten Gefühl überwältigt wurde."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:70
 translate de gallery_nijah_prol_bj_8e65e8dc:
 
     # MC "F-Fuck!"
-    MC "F-Fuck!"
+    MC "V-Verdammt!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:71
 translate de gallery_nijah_prol_bj_86afa9ac:
 
     # NIJAH "{i}*Slurp!* *Slurp!*{/i} Mmm..."
-    NIJAH "{i}*Slurp!* *Slurp!*{/i} Mmm..."
+    NIJAH "{i}*Schlürf!* *Schlürf!*{/i} Mmm..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:72
 translate de gallery_nijah_prol_bj_aa6abc7d:
 
     # MC "S-Shit! Nijah! I’m gonna cum again! I’m gonna—"
-    MC "S-Shit! Nijah! I’m gonna cum again! I’m gonna—"
+    MC "S-Scheiße! Nijah! Ich komme gleich nochmal! Ich werde—"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:73
 translate de gallery_nijah_prol_bj_e7a6e42a:
 
     # "With both hands wrapped around me, Nijah made sure to push me in as deeply as possible, moaning with anticipation."
-    "With both hands wrapped around me, Nijah made sure to push me in as deeply as possible, moaning with anticipation."
+    "Mit beiden Händen um mich geschlungen, sorgte Nijah dafür, mich so tief wie möglich reinzudrücken, und stöhnte vor Erwartung."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:74
 translate de gallery_nijah_prol_bj_5db84fca:
 
     # "I gasped, overwhelmed with pleasure as I felt my cock convulse in her mouth and poured myself hot and sticky down her throat."
-    "I gasped, overwhelmed with pleasure as I felt my cock convulse in her mouth and poured myself hot and sticky down her throat."
+    "Ich keuchte, von Lust überwältigt, als ich meinen Schwanz in ihrem Mund zucken spürte und mich heiß und klebrig in ihre Kehle ergoss."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:79
 translate de gallery_nijah_prol_bj_6884e9b2:
 
     # "Exhausted, I unsheathed my cock from her mouth, she looked up at me and swallowed the load."
-    "Exhausted, I unsheathed my cock from her mouth, she looked up at me and swallowed the load."
+    "Erschöpft zog ich meinen Schwanz aus ihrem Mund; sie sah zu mir auf und schluckte die Ladung."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:80
 translate de gallery_nijah_prol_bj_dbcbfc3e:
 
     # "She then took me gently in her hands and very softly ran her tongue from my balls to the head again, making certain to have licked up every last drop."
-    "She then took me gently in her hands and very softly ran her tongue from my balls to the head again, making certain to have licked up every last drop."
+    "Dann nahm sie mich sanft in ihre Hände und ließ ihre Zunge ganz weich noch einmal von meinen Eiern bis zur Eichel gleiten, um sicherzugehen, dass sie jeden letzten Tropfen aufgeleckt hatte."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:81
 translate de gallery_nijah_prol_bj_028232be:
 
     # MC "{i}*Huff*{/i} But I thought we... {i}*huff*{/i} were out of..."
-    MC "{i}*Huff*{/i} But I thought we... {i}*huff*{/i} were out of..."
+    MC "{i}*Huff*{/i} Aber ich dachte, wir... {i}*huff*{/i} wären aus..."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:85
 translate de gallery_nijah_prol_bj_bb2eb9b9:
 
     # NIJAH "You iz cute boy."
-    NIJAH "You iz cute boy."
+    NIJAH "Du bist ein süßer Junge."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:86
 translate de gallery_nijah_prol_bj_d85defdc:
 
     # NIJAH "{i}I like you...{/i}"
-    NIJAH "{i}I like you...{/i}"
+    NIJAH "{i}Ich mag dich...{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:88
 translate de gallery_nijah_prol_bj_a7f3cfe6:
 
     # "I became almost bashful at her words and couldn’t stop myself from smiling."
-    "I became almost bashful at her words and couldn’t stop myself from smiling."
+    "Ich wurde bei ihren Worten fast verlegen und konnte nicht aufhören zu lächeln."
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_bj.rpy:89
 translate de gallery_nijah_prol_bj_aaf49699:
 
     # MC "T-Thanks..."
-    MC "T-Thanks..."
+    MC "D-Danke..."
 

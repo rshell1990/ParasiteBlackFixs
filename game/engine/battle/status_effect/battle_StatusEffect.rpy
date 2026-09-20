@@ -1,17 +1,17 @@
-init python in BATTLE_STATUS_EFFECT_STACKING:
-    _constant = True
-    ADDITIVE = 0
-    REPLACE = 1
-    ADD_AS_NEW = 2
-
-init python in BATTLE_STATUS_EFFECT_TYPE:
-    _constant = True
-    BUFF = 0    # green frame, counted as buff for logic
-    DEBUFF = 1  # red frame, counted as debuff for logc
-    NEUTRAL = 2 # yellow frame, counted as neither, used for TF and something else, taunt? I guess
-
 init python:
-    class BattleStatusEff:
+    class BATTLE_STATUS_EFFECT_STACKING(object):
+        _constant = True
+        ADDITIVE = 0
+        REPLACE = 1
+        ADD_AS_NEW = 2
+
+    class BATTLE_STATUS_EFFECT_TYPE(object):
+        _constant = True
+        BUFF = 0    # green frame, counted as buff for logic
+        DEBUFF = 1  # red frame, counted as debuff for logic
+        NEUTRAL = 2 # yellow frame, counted as neither, used for TF and something else, taunt?
+
+    class BattleStatusEff(object):
         def __init__(self, Duration, StatusEffectID, SourceName = None):
             self.EffectName = "unnamed"                                 # set by skill
             self.SourceName = SourceName                                # pass in to display source on hover
@@ -25,7 +25,7 @@ init python:
 
             self.StackingMethod = BATTLE_STATUS_EFFECT_STACKING.REPLACE # by default skills with same id dont stack in any way but replace
 
-            self.TickOn_Ally = 0                                        # 0 == tick at turn start, 1 == tick at turn end, 
+            self.TickOn_Ally = 0                                        # 0 == tick at turn start, 1 == tick at turn end 
             self.TickOn_Enemy = 1                                       
             self.TickOn = None                                          # set on apply to either 0 or 1
 
@@ -45,12 +45,12 @@ init python:
             self.AttrMod_DexterityAdd = None
             self.AttrMod_LuckAdd = None
 
-            self.Permanent = (True if Duration == -1 else False)        # only tf
+            self.Permanent = (Duration == -1)                           # only tf
 
-            self.DamageRecieved_Mod = 1.0                               # the higher the more damage char takes
+            self.DamageReceived_Mod = 1.0                               # the higher the more damage char takes
             self.DamageDealt_Mod = 1.0                                  # the higher the more damage char deals
 
-            self.StatMod_Armor = None                                   # float modifeirs like 1.25 -> +25%
+            self.StatMod_Armor = None                                   # float modifiers like 1.25 -> +25%
             self.StatMod_MagicRes = None
             self.StatMod_AttackRating = None
             self.StatMod_DodgeRating = None
@@ -62,12 +62,3 @@ init python:
             self.ResRecoverMod_Health = None                            # if not none, alters resource recovery. 1.0 == 100%
             self.ResRecoverMod_Energy = None
             self.ResRecoverMod_Mana = None
-
-        # default duration tick, subclasses only need to override this if they need custom behavior (e.g. self-managed duration)
-        def TickDuration(self, AtEnd = False):
-            if self.Permanent:
-                return
-            self.Duration -= 1
-            if self.Duration <= 0:
-                if self.Owner_BattleChar is not None and self in self.Owner_BattleChar.StatusEffects:
-                    self.Owner_BattleChar.StatusEffects.remove(self)

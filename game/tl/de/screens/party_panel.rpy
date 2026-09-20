@@ -4,17 +4,17 @@ translate de strings:
 
     # game/screens/party_panel.rpy:35
     old " (Poisoned! "
-    new " (Poisoned! "
+    new "(Vergiftet!"
 
     # game/screens/party_panel.rpy:35
     old " hours)"
-    new " hours)"
+    new "Stunden)"
 
     # game/screens/party_panel.rpy:60
     old "Hide party characters"
-    new "Hide party characters"
+    new "Party-Charaktere ausblenden"
 
     # game/screens/party_panel.rpy:61
     old "Show party characters"
-    new "Show party characters"
+    new "Party-Charaktere einblenden"
 

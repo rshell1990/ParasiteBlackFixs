@@ -461,8 +461,7 @@ translate ja qst_jackpot_unicorn_player_won_barati_7afa120f:
 translate ja qst_jackpot_unicorn_player_won_barati_6e74f439:
 
     # MR_WINWARD @ happy "Ahh! Knew you were a smart one! Don't worry, lad, you won't regret a thing!"
-    MR_WINWARD @ happy "はっ!やっぱり賢いじゃないか!
-心配するなよ、君が後悔することは絶対にないさ!"
+    MR_WINWARD @ happy "はっ!やっぱり賢いじゃないか!心配するなよ、君が後悔することは絶対にないさ!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:128
 translate ja qst_jackpot_unicorn_player_won_barati_959bd132:
@@ -606,8 +605,7 @@ translate ja qst_jackpot_unicorn_watchem_lose_then_protect_f2c6183d:
 translate ja qst_jackpot_unicorn_watchem_lose_then_protect_dac4970b:
 
     # SWINDLER "F-Fuck! What's wrong with you?!"
-    SWINDLER "F-Fuck! What's wrong with you?!
-ファ、ファック!どうしやがんだ？!"
+    SWINDLER "F-Fuck! What's wrong with you?!ファ、ファック!どうしやがんだ？!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:183
 translate ja qst_jackpot_unicorn_watchem_lose_then_protect_6b0c7a2f:
@@ -1291,8 +1289,7 @@ translate ja qst_jackpot_return_from_unicorn_307b33ea:
 translate ja qst_jackpot_return_from_unicorn_a30e804c:
 
     # "With her eyes, she told me clearly, {i}'You're going to cum down my throat in front of my prick of a husband, whether you like it or not now!{/i}"
-    "彼女の目は、はっきりと私に告げていた。
-{i}「あんたが好きでも嫌でも、最低な夫の目の前で、私の喉に精を吐き出すことになるのよ!」{/i}"
+    "彼女の目は、はっきりと私に告げていた。{i}「あんたが好きでも嫌でも、最低な夫の目の前で、私の喉に精を吐き出すことになるのよ!」{/i}"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_StartAndUnicorn.rpy:357
 translate ja qst_jackpot_return_from_unicorn_de3fb3fd:

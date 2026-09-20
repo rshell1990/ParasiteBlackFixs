@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsBanshee/Def/MoonlightDance.rpy:4
     old "Moonlight Dance"
-    new "Moonlight Dance"
+    new "Mondlichttanz"
 
     # game/data/battle_skills_actions/SkillsBanshee/Def/MoonlightDance.rpy:41
     old "Take to the skies and taunt the enemy for 2 turns and increase dodge by %s for 2 turns."
-    new "Take to the skies and taunt the enemy for 2 turns and increase dodge by %s for 2 turns."
+    new "Erhebe dich in die Lüfte und verspotte den Feind für 2 Runden und erhöhe die Ausweichchance um %s für 2 Runden."
 

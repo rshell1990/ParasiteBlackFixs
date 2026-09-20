@@ -256,7 +256,7 @@ translate zh gallery_ves_tarbeck_femdom_1636451f:
 translate zh gallery_ves_tarbeck_femdom_4fb555bd:
 
     # "维斯 ground her pussy over my face, rocking back and forth as she moaned."
-    "维斯 将她的阴部在我的脸上磨蹭，前后摇晃着呻吟。"
+    "维斯将她的阴部在我的脸上磨蹭，前后摇晃着呻吟。"
 
 # game/data/sexy_scenes/ves/galleryLabels/tarbeck_femdom.rpy:68
 translate zh gallery_ves_tarbeck_femdom_8527a1c8:
@@ -298,7 +298,7 @@ translate zh gallery_ves_tarbeck_femdom_87eba242:
 translate zh gallery_ves_tarbeck_femdom_73dadb35:
 
     # "维斯的 tongue thrashed and beat and against my cock as my buried my tongue deeper into her pussy."
-    "维斯 的舌头在我的肉棒上疯狂舔舐，而我将舌头更深地埋入她的小穴。"
+    "维斯的舌头在我的肉棒上疯狂舔舐，而我将舌头更深地埋入她的小穴。"
 
 # game/data/sexy_scenes/ves/galleryLabels/tarbeck_femdom.rpy:75
 translate zh gallery_ves_tarbeck_femdom_7e56b40d:

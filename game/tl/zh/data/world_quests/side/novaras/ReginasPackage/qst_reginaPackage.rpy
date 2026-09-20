@@ -22,7 +22,7 @@ translate zh drax_getGift_b34f3d2a:
 translate zh drax_getGift_49cb8e4d:
 
     # MC @ talk "Thanks, Drax."
-    MC @ talk "谢谢，Drax。"
+    MC @ talk "谢谢，德拉克斯。"
 
 # game/data/world_quests/side/novaras/ReginasPackage/qst_reginaPackage.rpy:80
 translate zh drax_getGift_3d11853c:
@@ -122,7 +122,6 @@ translate zh strings:
     old "I’ve got that thing you wanted from the Blacksmiths."
     new "我从铁匠那里拿到了你要的东西"#
     
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_quests/side/novaras/ReginasPackage/qst_reginaPackage.rpy:69
 translate zh drax_getGift_05cbe9e0:

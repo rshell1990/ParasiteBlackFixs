@@ -286,8 +286,7 @@ translate ja rom_Nijah_stage1_future_lines_menu_5f7e87c5:
 translate ja rom_Nijah_stage1_future_lines_menu_7e9393ab:
 
     # NIJAH "I suppose I better get back to za work... Stop by to collect your money once a fortnight."
-    NIJAH "はあ…そろそろ仕事にかからなきゃ…  
-お金は２週間ごとに受け取りに来てください。"
+    NIJAH "はあ…そろそろ仕事にかからなきゃ…  お金は２週間ごとに受け取りに来てください。"
 
 # game/data/world_romance/nijah/scr_future.rpy:75
 translate ja rom_Nijah_stage1_future_lines_menu_e35850f4:

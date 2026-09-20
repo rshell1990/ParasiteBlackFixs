@@ -82,8 +82,7 @@ translate ja rom_Ves_5_PostHunt_7c749de8:
 translate ja rom_Ves_5_PostHunt_2d204a49:
 
     # MC "..."
-    MC "……
-オーロラ"
+    MC "……オーロラ"
 
 # game/data/world_romance/ves/scr_5_PostHunt.rpy:31
 translate ja rom_Ves_5_PostHunt_3c043568:
@@ -311,8 +310,7 @@ translate ja rom_Ves_5_PostHunt_19b6d843:
 translate ja rom_Ves_5_PostHunt_af150f36:
 
     # MC @ talk "You could join... To save water."
-    MC @ talk "参加して…
-水を守るために"
+    MC @ talk "参加して…水を守るために"
 
 # game/data/world_romance/ves/scr_5_PostHunt.rpy:78
 translate ja rom_Ves_5_PostHunt_a1c79a61:

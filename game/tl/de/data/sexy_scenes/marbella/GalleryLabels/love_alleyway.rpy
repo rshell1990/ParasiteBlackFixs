@@ -4,5 +4,5 @@
 translate de gallery_marbella_love_alleyway_a4573dac:
 
     # "Was it our first time?"
-    "Was it our first time?"
+    "War es unser erstes Mal?"
 

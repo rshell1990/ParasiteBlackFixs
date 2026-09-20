@@ -202,8 +202,7 @@ translate ja qst_TheDarkPass_MarchOut_9ee03850:
 translate ja qst_TheDarkPass_MarchOut_3cc36384:
 
     # "Captain Duprey himself rode by horse, leading us from the front. We constantly peered out across the deadlands for any signs of the Demorai, but rather unnervingly could not locate even a whisper of them."
-    "デュプレー隊長自らが馬で先頭を切り、我々を率いた。
-我々は絶えず死の大地を見渡し、デモライの気配を探ったが、気味が悪いことに、彼らの気配すら全く見つけることができなかった。"
+    "デュプレー隊長自らが馬で先頭を切り、我々を率いた。我々は絶えず死の大地を見渡し、デモライの気配を探ったが、気味が悪いことに、彼らの気配すら全く見つけることができなかった。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:71
 translate ja qst_TheDarkPass_MarchOut_d277cc6e:
@@ -263,8 +262,7 @@ translate ja qst_TheDarkPass_MarchOut_19e696bc:
 translate ja qst_TheDarkPass_MarchOut_1fe10c4e:
 
     # BORRAS "I think we’ll draw too much attention with any more. It’s unlikely, but the Demorai may have used the gorge to lay a trap."
-    BORRAS "これ以上は目立ってしまうと思う。
-可能性は低いとはいえ、デモライが渓谷に罠を仕掛けているかもしれない。"
+    BORRAS "これ以上は目立ってしまうと思う。可能性は低いとはいえ、デモライが渓谷に罠を仕掛けているかもしれない。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:90
 translate ja qst_TheDarkPass_MarchOut_ee7738ae:
@@ -336,8 +334,7 @@ translate ja qst_TheDarkPass_MarchOut_f7f37700:
 translate ja qst_TheDarkPass_MarchOut_0938623b:
 
     # BORRAS "I’m not risking cavalry men, you lot die, I just need to find a couple of new horses."
-    BORRAS "騎兵を危険にさらす必要はない。
-お前らが死んでも、馬さえ何頭か新しく見つければそれでいい。"
+    BORRAS "騎兵を危険にさらす必要はない。お前らが死んでも、馬さえ何頭か新しく見つければそれでいい。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:107
 translate ja qst_TheDarkPass_MarchOut_cf030dfb:
@@ -511,8 +508,7 @@ translate ja qst_TheDarkPass_CampTalkMarkus_0ee1f5d9:
 translate ja qst_TheDarkPass_CampTalkMarkus_756e086c:
 
     # MARKUS "{i}*Sigh*{/i} Yeah... I know that."
-    MARKUS "{i}はあ…{/i}
-うん…わかってるよ"
+    MARKUS "{i}はあ…{/i}うん…わかってるよ"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:187
 translate ja qst_TheDarkPass_CampTalkMarkus_72c29a7e:
@@ -668,8 +664,7 @@ translate ja qst_TheDarkPass_CampTalkMarkus_2c9109ec:
 translate ja qst_TheDarkPass_CampTalkMarkus_a05b0698:
 
     # MC "I’d never leave you behind. That’s a promise, whether you like it or not."
-    MC "置き去りにはしない。
-それが約束だ。お前がどう思おうと。"
+    MC "置き去りにはしない。それが約束だ。お前がどう思おうと。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:218
 translate ja qst_TheDarkPass_CampTalkMarkus_8c04a779:
@@ -705,9 +700,7 @@ translate ja qst_TheDarkPass_CampTalkMarkus_f61989e2:
 translate ja qst_TheDarkPass_CampTalkMarkus_39c8437e:
 
     # MARKUS "Alright, go on now, think I’m gonna try my luck and see if I can cosy up to one of the cuter Scouts."
-    MARKUS "よし、行くとするか。
-ちょっくら可愛いスカウトの子に、
-仲良くしてみるよ。"
+    MARKUS "よし、行くとするか。ちょっくら可愛いスカウトの子に、仲良くしてみるよ。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:224
 translate ja qst_TheDarkPass_CampTalkMarkus_8f2328cf:
@@ -965,8 +958,7 @@ translate ja qst_TheDarkPass_CampTalkKiara_39b65b3c:
 translate ja qst_TheDarkPass_CampTalkKiara_884809cc:
 
     # KIARA "I don’t care what you do when we get home, marriage, babies whatever... Not my game at all."
-    KIARA "帰ったら君が何をしようと、結婚でも子供でもどうでもいい…  
-全く俺には関係ない。"
+    KIARA "帰ったら君が何をしようと、結婚でも子供でもどうでもいい…  全く俺には関係ない。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:281
 translate ja qst_TheDarkPass_CampTalkKiara_726ade85:
@@ -1584,8 +1576,7 @@ translate ja qst_TheDarkPass_CampTalkDuprey_menu_0453fc0f:
 translate ja qst_TheDarkPass_CampTalkDuprey_menu_d3379069:
 
     # MC "I can’t believe you actually met him! You’re bound to hear at least one song about him in any of the taverns once people have had a drink or two!"
-    MC "信じられない、あなたが実際に彼に会ったなんて!
-一杯ひっかけると、どこの酒場でも彼の歌を一つや二つ耳にするはずだよ!"
+    MC "信じられない、あなたが実際に彼に会ったなんて!一杯ひっかけると、どこの酒場でも彼の歌を一つや二つ耳にするはずだよ!"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:417
 translate ja qst_TheDarkPass_CampTalkDuprey_menu_3829efd5:
@@ -2581,8 +2572,7 @@ translate ja qst_TheDarkPass_KiaraSexScene_bc27c338:
 translate ja qst_TheDarkPass_KiaraSexScene_ad388a12:
 
     # KIARA "You’re not too bad at making love y’know, with some more training, maybe I’ll try to steal you away for myself when we get back home!"
-    KIARA "あんた、イチャイチャするの結構上手いじゃん
-もっと鍛えてあげるから、帰ったら私が独占しちゃおうかな!"
+    KIARA "あんた、イチャイチャするの結構上手いじゃんもっと鍛えてあげるから、帰ったら私が独占しちゃおうかな!"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:682
 translate ja qst_TheDarkPass_KiaraSexScene_dde70b16:
@@ -2900,8 +2890,7 @@ translate ja qst_TheDarkPass_LeaveCampToBurnedOutVillage_cebf11be:
 translate ja qst_TheDarkPass_LeaveCampToBurnedOutVillage_9a415e97:
 
     # "As we made our way closer, we could hear the sounds of crying growing louder, we each gave the other perplexed looks."
-    "近づくにつれて、泣き声が次第に大きくなって聞こえてくる。
-私たちは互いに当惑した様子の視線を交わした。"
+    "近づくにつれて、泣き声が次第に大きくなって聞こえてくる。私たちは互いに当惑した様子の視線を交わした。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:806
 translate ja qst_TheDarkPass_LeaveCampToBurnedOutVillage_2955a272:
@@ -3987,8 +3976,7 @@ translate ja qst_TheDarkPass_GateIsOpen_85235f90:
 translate ja qst_TheDarkPass_GateIsOpen_9b292c68:
 
     # "Turning on my heel I saw Markus and Kiara rush over to me, blades drawn as a small horde approached us, tongues lashing out of their mouths, ready to feast."
-    "踵を返すと、マーカスとキアラが刃を抜刀しながら駆け寄ってきた。  
-小さな群れが迫り、口からは貪り食らわんとする舌が鞭のように打ち振るわれている。"
+    "踵を返すと、マーカスとキアラが刃を抜刀しながら駆け寄ってきた。  小さな群れが迫り、口からは貪り食らわんとする舌が鞭のように打ち振るわれている。"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1191
 translate ja qst_TheDarkPass_GateIsOpen_db2481cf:
@@ -4426,8 +4414,7 @@ translate ja qst_TheDarkPass_GateIsOpen_f4e00510:
 translate ja qst_TheDarkPass_GateIsOpen_0da52be2:
 
     # MARKUS "The battle is lost! We have to retreat!"
-    MARKUS "戦いには敗れた!
-撤退だ!"
+    MARKUS "戦いには敗れた!撤退だ!"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1313
 translate ja qst_TheDarkPass_GateIsOpen_cf98d2a8:
@@ -5087,8 +5074,7 @@ translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_ef36cc08:
 translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_0898c1cf:
 
     # MC "I don’t know, sir... Hundreds... maybe thousands..."
-    MC "さあ…閣下…
-数百…いや数千かも…"
+    MC "さあ…閣下…数百…いや数千かも…"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1518
 translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_a4e4ae45:
@@ -5106,9 +5092,7 @@ translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_b3696be1:
 translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_1bddb1d5:
 
     # ALCOTT "Who? What thing? What are you talking about?"
-    ALCOTT "誰が？
-何が？
-何を言っているの？"
+    ALCOTT "誰が？何が？何を言っているの？"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1521
 translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_b21ba69a:
@@ -5774,8 +5758,7 @@ translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_8acf53a0:
 translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_97ae5882:
 
     # MC "Can’t sleep... It’s like I’m burning up..."
-    MC "眠れない…
-燃え上がりそう…"
+    MC "眠れない…燃え上がりそう…"
 
 # game/data/world_quests/main/Prologue/TheDarkPassenger/scr_TheDarkPassenger.rpy:1647
 translate ja qst_TheDarkPass_ObelisksRoomCheckObelisks_bf353791:

@@ -376,8 +376,7 @@ translate ja qst_cloakofdarkness_tailing_3bf62665:
 translate ja qst_cloakofdarkness_tailing_0ee48cbf:
 
     # REGINA @ talk "{i}*Sigh*{/i} There's so much you don't understand."
-    REGINA @ talk "{i}*ため息*{/i}
-あなたにはわからないことがたくさんあるんだ。"
+    REGINA @ talk "{i}*ため息*{/i}あなたにはわからないことがたくさんあるんだ。"
 
 # game/data/world_quests/side/novaras/CloakOfDarkness/scr_CloakOfDarkness.rpy:127
 translate ja qst_cloakofdarkness_tailing_8d5f3ca4:

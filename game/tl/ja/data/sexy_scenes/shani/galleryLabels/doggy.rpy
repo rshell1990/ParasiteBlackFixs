@@ -298,9 +298,7 @@ translate ja gallery_shani_doggy_anal_d885bc5a:
 translate ja gallery_shani_doggy_anal_b564bd8c:
 
     # SHANI "Oh fuck! Ah! Mmmfgh!"
-    SHANI "ちくしょう!  
-あっ!  
-むぐっ!"
+    SHANI "ちくしょう!  あっ!  むぐっ!"
 
 # game/data/sexy_scenes/shani/galleryLabels/doggy.rpy:84
 translate ja gallery_shani_doggy_anal_d6944421:

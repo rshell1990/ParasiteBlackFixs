@@ -142,8 +142,7 @@ translate ja sexscene_arwen_betweenlegs_ab741011:
 translate ja sexscene_arwen_betweenlegs_8bddb3ce:
 
     # ARWEN "Harder! Pull me onto you just like that! Mmmfgh!"
-    ARWEN "もっと強く!そのまま私を引き寄せて!
-んんっ!"
+    ARWEN "もっと強く!そのまま私を引き寄せて!んんっ!"
 
 # game/data/world_romance/arwen/scr_ArwenDoggyVag.rpy:48
 translate ja sexscene_arwen_betweenlegs_daea63c1:

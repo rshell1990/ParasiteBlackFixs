@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/numa/char.rpy:15
     old "A Thalay librarian working in the free city of Hamun, she seems slightly bored and lonely..."
-    new "A Thalay librarian working in the free city of Hamun, she seems slightly bored and lonely..."
+    new "Eine Thalay-Bibliothekarin, die in der freien Stadt Hamun arbeitet, scheint etwas gelangweilt und einsam zu sein..."
 

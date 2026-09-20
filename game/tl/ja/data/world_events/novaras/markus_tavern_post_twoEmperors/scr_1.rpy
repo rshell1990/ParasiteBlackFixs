@@ -419,9 +419,7 @@ translate ja ev_Markus_tavern_postTwoEmps_kiaraReunion_59e611f6:
 translate ja ev_Markus_tavern_postTwoEmps_kiaraReunion_fd667c20:
 
     # KIARA "Be t-together like we were - Mmmhh! S-Supposed to be!"
-    KIARA "私たちが…あの時みたいに
-む、むう…!
-一緒にいるはずなのに…!"
+    KIARA "私たちが…あの時みたいにむ、むう…!一緒にいるはずなのに…!"
 
 # game/data/world_events/novaras/markus_tavern_post_twoEmperors/scr_1.rpy:135
 translate ja ev_Markus_tavern_postTwoEmps_kiaraReunion_a48b843d:
@@ -895,8 +893,7 @@ translate ja ev_Markus_tavern_postTwoEmps_kiaraMessage_99e8b409:
 translate ja ev_Markus_tavern_postTwoEmps_kiaraMessage_affde421:
 
     # MC @ talk "Who is she? What is the message?"
-    MC @ talk "彼女は誰？
-メッセージは何？"
+    MC @ talk "彼女は誰？メッセージは何？"
 
 # game/data/world_events/novaras/markus_tavern_post_twoEmperors/scr_1.rpy:249
 translate ja ev_Markus_tavern_postTwoEmps_kiaraMessage_87c55d3a:

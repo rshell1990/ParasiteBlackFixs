@@ -124,8 +124,7 @@ translate ja gallery_regina_alleyway_a7472df1:
 translate ja gallery_regina_alleyway_93fdf9bc:
 
     # "I gulped, barely managing to force out the question."
-    "ごくりと唾を飲み込んだ。
-どうにかこうにか、質問を絞り出した。"
+    "ごくりと唾を飲み込んだ。どうにかこうにか、質問を絞り出した。"
 
 # game/data/sexy_scenes/regina/galleryLabels/alleyway.rpy:44
 translate ja gallery_regina_alleyway_71e7cf86:
@@ -311,8 +310,7 @@ translate ja gallery_regina_alleyway_134b784f:
 translate ja gallery_regina_alleyway_3f259791:
 
     # REGINA @ talk "This part of me is telling me you're excited for what's about to happen."
-    REGINA @ talk "俺の中の何かが、こう言っている。
-これから起こることが楽しみだろう。"
+    REGINA @ talk "俺の中の何かが、こう言っている。これから起こることが楽しみだろう。"
 
 # game/data/sexy_scenes/regina/galleryLabels/alleyway.rpy:102
 translate ja gallery_regina_alleyway_43cb2274:
@@ -414,8 +412,7 @@ translate ja gallery_regina_alleyway_9001d1f4:
 translate ja gallery_regina_alleyway_8833e76f:
 
     # REGINA @ talk "I'm here for you no matter what dear."
-    REGINA @ talk "あなたがどんな時でも
-私はあなたのそばにいるわ、愛しい人。"
+    REGINA @ talk "あなたがどんな時でも私はあなたのそばにいるわ、愛しい人。"
 
 # game/data/sexy_scenes/regina/galleryLabels/alleyway.rpy:125
 translate ja gallery_regina_alleyway_099f95d4:

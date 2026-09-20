@@ -592,8 +592,7 @@ translate ja qst_jackpot_black_diamond_damzel_tarek_left_55105e0e_2:
 translate ja qst_jackpot_black_diamond_damzel_assassinated_b58d8bbd:
 
     # VULSHAN_GUARD "...You... You were there the night Tarek died!"
-    VULSHAN_GUARD "…あなた… あなたは!
-タレクが死んだその夜、そこにいたんだね!"
+    VULSHAN_GUARD "…あなた… あなたは!タレクが死んだその夜、そこにいたんだね!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:185
 translate ja qst_jackpot_black_diamond_damzel_assassinated_8c023b48:
@@ -707,8 +706,7 @@ translate ja qst_jackpot_black_diamond_damzel_assassinated_7a76dc21:
 translate ja qst_jackpot_black_diamond_damzel_assassinated_4e2f2e9e:
 
     # "Without saying another word, the Vulshan guard turned and left."
-    "ヴァルシャンの護衛はそれ以上何も言わず、くるりと背を向けて立ち去った。
-残された者は、ただその背中を見送るだけだった。"
+    "ヴァルシャンの護衛はそれ以上何も言わず、くるりと背を向けて立ち去った。残された者は、ただその背中を見送るだけだった。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:204
 translate ja qst_jackpot_black_diamond_damzel_assassinated_32915c92:
@@ -1194,9 +1192,7 @@ translate ja qst_jackpot_black_diamond_game_322246ae:
 translate ja qst_jackpot_black_diamond_game_f390b8b4:
 
     # VULSHAN_GUARD "The games have now concluded. Gather up your earnings when ready, and please return to the main hall,"
-    VULSHAN_GUARD "これにてゲームは終了です。  
-ご準備が整い次第、獲得ポイントをお受け取りになり、  
-メインホールへご戻りください。"
+    VULSHAN_GUARD "これにてゲームは終了です。  ご準備が整い次第、獲得ポイントをお受け取りになり、  メインホールへご戻りください。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:327
 translate ja qst_jackpot_black_diamond_game_edfd5666:
@@ -1256,8 +1252,7 @@ translate ja qst_jackpot_black_diamond_game_e266e156:
 translate ja qst_jackpot_black_diamond_game_6e81d513:
 
     # MR_WINWARD @ think "Fine, you can lay with her a night... Not sure why you'd even want to."
-    MR_WINWARD @ think "いいわよ、彼女と寝てもいい…  
-望む理由がわからないけど。"
+    MR_WINWARD @ think "いいわよ、彼女と寝てもいい…  望む理由がわからないけど。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:338
 translate ja qst_jackpot_black_diamond_game_db6be03f:
@@ -1449,8 +1444,7 @@ translate ja qst_jackpot_black_diamond_vulshan_distraction_b9e4bde4:
 translate ja qst_jackpot_black_diamond_vulshan_distraction_68234420:
 
     # VULSHAN_GUARD "The game is beginning... I must go..."
-    VULSHAN_GUARD "ゲームが始まる…
-行かなくては…"
+    VULSHAN_GUARD "ゲームが始まる…行かなくては…"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:386
 translate ja qst_jackpot_black_diamond_vulshan_distraction_1e4fef88:
@@ -1816,8 +1810,7 @@ translate ja qst_jackpot_after_diamond_game_a4f1e169:
 translate ja qst_jackpot_after_diamond_game_a55a9cbe:
 
     # "I couldn't hold it back any longer... More and more, I felt the dark rage swelling inside of me."
-    "もう抑えきれなくなり…  
-内に暗い怒りが膨らんでいくのを感じた。"
+    "もう抑えきれなくなり…  内に暗い怒りが膨らんでいくのを感じた。"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:512
 translate ja qst_jackpot_after_diamond_game_583e0d9b:
@@ -2015,10 +2008,7 @@ translate ja qst_jackpot_black_diamond_vip_scene_bd7307db:
 translate ja qst_jackpot_black_diamond_vip_scene_7a80cfd2:
 
     # BLACK_DIAMOND_SERVICE_GIRL "{i}*Slurp!*{/i} Mhmmfhh! Jhusthh fhinishhh whennhh rheadhyy! {i}*Slurp!*{/i} Mhmmff!"
-    BLACK_DIAMOND_SERVICE_GIRL "{i}*ズルッ!*{/i}
-(もぐもぐ)ちょうど今終わったところだよ! 
-{i}*ズルッ!*{/i}
-んんっ!"
+    BLACK_DIAMOND_SERVICE_GIRL "{i}*ズルッ!*{/i}(もぐもぐ)ちょうど今終わったところだよ! {i}*ズルッ!*{/i}んんっ!"
 
 # game/data/world_quests/side/novaras/TheJackpot/scr_TheJackpot_BlackDiamond.rpy:596
 translate ja qst_jackpot_black_diamond_vip_scene_c614ef8f:

@@ -136,8 +136,7 @@ translate ja qst_thecomingstorm_guild_meeting_and_onwards_3a36927e:
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_c5106bf4:
 
     # ADVENTURER_LEAN "I expect my party to receive a share, damn it!"
-    ADVENTURER_LEAN "この俺の一党にも
-分け前をよこせ、いい加減にしろ!"
+    ADVENTURER_LEAN "この俺の一党にも分け前をよこせ、いい加減にしろ!"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:56
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_b9a7879a:
@@ -419,8 +418,7 @@ translate ja qst_thecomingstorm_guild_meeting_and_onwards_3a7c7247:
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_6d43f0d7:
 
     # MC @ angry "What about everyone here? Our friends?"
-    MC @ angry "ここにいる皆は？
-私たちの友達は？"
+    MC @ angry "ここにいる皆は？私たちの友達は？"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:132
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_446a252d:
@@ -558,8 +556,7 @@ translate ja qst_thecomingstorm_guild_meeting_and_onwards_67f7c727:
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_ce9420bc:
 
     # ADARA @ talk "It's late... What's the matter?"
-    ADARA @ talk "遅いですね…
-どうしたんですか？"
+    ADARA @ talk "遅いですね…どうしたんですか？"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:172
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_785fb88b:
@@ -1183,8 +1180,7 @@ translate ja qst_thecomingstorm_guild_meeting_and_onwards_8d1245d5:
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_5fe33bbb:
 
     # "Kiara's voice echoed in my skull, colder than the morning air as she repeated her dire warning of the horrors to come."
-    "キアラの声が、頭蓋骨に響いた。
-到来する恐怖についての彼女の厳しい警告は、朝の空気よりも冷たく繰り返された。"
+    "キアラの声が、頭蓋骨に響いた。到来する恐怖についての彼女の厳しい警告は、朝の空気よりも冷たく繰り返された。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:367
 translate ja qst_thecomingstorm_guild_meeting_and_onwards_410f3ca6:
@@ -2330,8 +2326,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_menu1_6a2c4042:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_menu1_7d0952db:
 
     # CARINA @ talk "Originally, I was just going to give Shani, that whore we let hang outside a shot to start earning some real coin."
-    CARINA @ talk "もともとはよ、あの外でぶら下がってたクソ売女シャニに、
-本物の金に換えるきっかけをやろうと思ってただけさ。"
+    CARINA @ talk "もともとはよ、あの外でぶら下がってたクソ売女シャニに、本物の金に換えるきっかけをやろうと思ってただけさ。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:716
 translate ja qst_thecomingstorm_route1_subr1_sexshow_menu1_b25fac37:
@@ -2487,9 +2482,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_fd5e663a:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_21c7157a:
 
     # "Led out toward the stage, the crowd cheered and applauded as the two of us emerged from behind the curtain."
-    "ステージへと導かれると、
-歓声と拍手が沸き起こった。
-幕から現れた二人に、観客は湧き立つように迎えた。"
+    "ステージへと導かれると、歓声と拍手が沸き起こった。幕から現れた二人に、観客は湧き立つように迎えた。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:763
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_08df546d:
@@ -2777,8 +2770,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_8e877af9:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_2a67ecaf:
 
     # "The sudden shift in rhythm was too much. She knew exactly what she was doing."
-    "急なリズムの変化には耐えられなかった。
-彼女は自分が何をしているのか正確に分かっている。"
+    "急なリズムの変化には耐えられなかった。彼女は自分が何をしているのか正確に分かっている。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:821
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_ef5cde5d:
@@ -2796,8 +2788,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_7ded3a7c:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_17d76c0e:
 
     # "I grunted loud and deep, unable to hold back as I erupted into her mouth."
-    "ぐぅっ……と、深く唸りを漏らす。  
-我慢できずに、その口内に放たれた。"
+    "ぐぅっ……と、深く唸りを漏らす。  我慢できずに、その口内に放たれた。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:824
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_9effb0e4:
@@ -2827,8 +2818,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_08734de5:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_e53a2e3a:
 
     # MC "{i}*Huff! Huff!*{/i} G-Gods, woman!"
-    MC "{i}はあ……はあ……{/i}
-た、頼むよお前!"
+    MC "{i}はあ……はあ……{/i}た、頼むよお前!"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:840
 translate ja qst_thecomingstorm_route1_subr1_sexshow_regina_d7cde6da:
@@ -2996,8 +2986,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_d64695fc:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_88790173:
 
     # "Led out onto the stage, the crowd roared and cheered as Shani, blindfolded and wearing nothing but leather straps, waited eagerly for me to approach."
-    "舞台へと引き出され、群衆が沸き立ち歓声を上げる。  
-盲目にされ革のストラップだけで身をまとったシャニは、私が近づくのを待ち構えていた。"
+    "舞台へと引き出され、群衆が沸き立ち歓声を上げる。  盲目にされ革のストラップだけで身をまとったシャニは、私が近づくのを待ち構えていた。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:906
 translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_0ac5b15e:
@@ -3261,8 +3250,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_vag_9645670e:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_vag_7da2a96e:
 
     # "Her cries spurred me on. Her body shook under the force, sweat pouring from her skin as I drove her further over the edge."
-    "彼女の泣き声が私を駆り立てた。
-激しい衝撃に体を震わせて、汗が噴き出しながら、限界を超えさせるたびに、彼女はさらに追い詰められていった。"
+    "彼女の泣き声が私を駆り立てた。激しい衝撃に体を震わせて、汗が噴き出しながら、限界を超えさせるたびに、彼女はさらに追い詰められていった。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:970
 translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_vag_a9eb506a:
@@ -3412,8 +3400,7 @@ translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_anal_f54f4d5b:
 translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_anal_fdc0c115:
 
     # "As she felt the head of my cock press against her forbidden hole, she gasped, clenching up slightly as she tilted her head over her shoulder to look back at me."
-    "俺の先端が禁断の秘孔に触れると、彼女は息を呑んだ。  
-少し身体を硬くしながら、振り返って俺を見つめた。"
+    "俺の先端が禁断の秘孔に触れると、彼女は息を呑んだ。  少し身体を硬くしながら、振り返って俺を見つめた。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1018
 translate ja qst_thecomingstorm_route1_subr1_sexshow_shani_anal_4997adc8:
@@ -4049,8 +4036,7 @@ translate ja qst_thecomingstorm_return_to_carina_in_3_days_menu1_c89ea350:
 translate ja qst_thecomingstorm_return_to_carina_in_3_days_menu1_03a9ed5c:
 
     # MC "(Nyx is desperate for men, but I doubt even she would knowingly keep something like that in her ranks...)"
-    MC "(ニクスは男に飢えているが、さすがに彼女もあんなものを
-進んで配下に置くとは思えない…)"
+    MC "(ニクスは男に飢えているが、さすがに彼女もあんなものを進んで配下に置くとは思えない…)"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1173
 translate ja qst_thecomingstorm_return_to_carina_in_3_days_menu1_663a80d8:
@@ -4362,8 +4348,7 @@ translate ja qst_thecomingstorm_return_to_nyx_after_carina_night_6880085b:
 translate ja qst_thecomingstorm_return_to_nyx_after_carina_night_94c2de31:
 
     # POLTRIK "The captain will know all she needs to know... soon."
-    POLTRIK "艦長は知るべきことを……
-やがて。"
+    POLTRIK "艦長は知るべきことを……やがて。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1282
 translate ja qst_thecomingstorm_return_to_nyx_after_carina_night_6aa48ae3:
@@ -4897,9 +4882,7 @@ translate ja qst_thecomingstorm_poltrik_family_estate_fa9c65f9:
 translate ja qst_thecomingstorm_poltrik_family_estate_e0c2dff4:
 
     # "It seeped from the very walls of the house. Sickly sweet. Overpowering."
-    "家の壁からすら染み出してくる。
-甘ったるい。
-鼻につくほどに。"
+    "家の壁からすら染み出してくる。甘ったるい。鼻につくほどに。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1466
 translate ja qst_thecomingstorm_poltrik_family_estate_8b582965:
@@ -5115,8 +5098,7 @@ translate ja qst_thecomingstorm_poltrik_family_estate_menu_d47b469c:
 translate ja qst_thecomingstorm_poltrik_family_estate_menu_d77bc44c:
 
     # ELENA @ angry "I don't like this... We should wait for Captain Nyx and the other guards."
-    ELENA @ angry "嫌だわ、これ……
-キャプテン・ニックスや他の警備隊員を待つべきよ。"
+    ELENA @ angry "嫌だわ、これ……キャプテン・ニックスや他の警備隊員を待つべきよ。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1546
 translate ja qst_thecomingstorm_poltrik_family_estate_snuckin_149dbee7:
@@ -5128,8 +5110,7 @@ translate ja qst_thecomingstorm_poltrik_family_estate_snuckin_149dbee7:
 translate ja qst_thecomingstorm_poltrik_family_estate_snuckin_32187107:
 
     # MARKUS @ angry "Now would have been a lovely time for someone here to have some fire magecraft... But I guess our blades will do."
-    MARKUS @ angry "今ここに火の魔術を使える者がいれば最高の時だ…  
-だが、刀でなんとかするか。"
+    MARKUS @ angry "今ここに火の魔術を使える者がいれば最高の時だ…  だが、刀でなんとかするか。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1550
 translate ja qst_thecomingstorm_poltrik_family_estate_snuckin_0f510ccb:
@@ -5867,8 +5848,7 @@ translate ja qst_thecomingstorm_prison_f1f9a9c4:
 translate ja qst_thecomingstorm_prison_af2d1c29:
 
     # "Silence settled between us as she retreated to her end of the cell, and I to mine."
-    "沈黙が二人の間に落ちた。
-彼女が独房の向こう側へ下がり、僕もこちら側へ退いた。"
+    "沈黙が二人の間に落ちた。彼女が独房の向こう側へ下がり、僕もこちら側へ退いた。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1809
 translate ja qst_thecomingstorm_prison_nyx_romance_af3078fb:
@@ -5904,8 +5884,7 @@ translate ja qst_thecomingstorm_prison_nyx_romance_6df3b2f6:
 translate ja qst_thecomingstorm_prison_nyx_romance_f4987718:
 
     # NYX @ smile "Why not? There's no point in shying away from it."
-    NYX @ smile "どうして？  
-恥ずかしがってたって仕方ないでしょ。"
+    NYX @ smile "どうして？  恥ずかしがってたって仕方ないでしょ。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1822
 translate ja qst_thecomingstorm_prison_nyx_romance_0508a33e:
@@ -6157,8 +6136,7 @@ translate ja qst_thecomingstorm_prison_nyx_romance_d6384173:
 translate ja qst_thecomingstorm_prison_nyx_romance_5a35246d:
 
     # "Her hot breath brushed against my face again. She chuckled."
-    "彼女の熱い息が再び私の顔に触れた。
-彼女は軽く笑った。"
+    "彼女の熱い息が再び私の顔に触れた。彼女は軽く笑った。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1887
 translate ja qst_thecomingstorm_prison_nyx_romance_48fbc9ec:
@@ -6236,9 +6214,7 @@ translate ja qst_thecomingstorm_prison_nyx_romance_d9a4e251:
 translate ja qst_thecomingstorm_prison_nyx_romance_017a31eb:
 
     # "Sweat dripped from our bodies. For one fleeting moment, we found refuge in each other within this cold, cruel place."
-    "汗が滴った。
-冷たく残酷なこの場所で、一瞬だけ、
-互いに寄り添う安らぎを見つけた。"
+    "汗が滴った。冷たく残酷なこの場所で、一瞬だけ、互いに寄り添う安らぎを見つけた。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:1913
 translate ja qst_thecomingstorm_prison_nyx_romance_6a6524d6:
@@ -6640,8 +6616,7 @@ translate ja qst_thecomingstorm_prison_erika_release_3884eada:
 translate ja qst_thecomingstorm_prison_erika_release_479d0ef8:
 
     # "She hesitated. For a split second, she looked away."
-    "彼女は躊躇った。
-一瞬、目を逸らした。"
+    "彼女は躊躇った。一瞬、目を逸らした。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:2064
 translate ja qst_thecomingstorm_prison_erika_release_6716f8ac:
@@ -6731,8 +6706,7 @@ translate ja qst_thecomingstorm_prison_erika_release_e32ae0de:
 translate ja qst_thecomingstorm_prison_erika_release_1df5b9d4:
 
     # "She didn't respond, only speaking loud enough for the empty cell to hear."
-    "彼女は応えなかった、
-空虚な独房にだけ届く声で。"
+    "彼女は応えなかった、空虚な独房にだけ届く声で。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:2080
 translate ja qst_thecomingstorm_prison_erika_release_d103455a:
@@ -6786,8 +6760,7 @@ translate ja qst_thecomingstorm_prison_erika_release_f4edc627:
 translate ja qst_thecomingstorm_prison_erika_release_f04facdb:
 
     # "I slipped through the halls, following Erika's instructions to the letter. The cold night air hit me as I slipped through the back exit."
-    "指示通りに、私は廊下をすり抜けた。
-冷たい夜風が、裏口から出た私を不意に襲う。"
+    "指示通りに、私は廊下をすり抜けた。冷たい夜風が、裏口から出た私を不意に襲う。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:2106
 translate ja qst_thecomingstorm_prison_erika_release_389039e0:
@@ -6979,8 +6952,7 @@ translate ja qst_TheComingStorm_GetToCarinaSneak_MarketToArmyBridge_af76e327:
 translate ja qst_TheComingStorm_GetToCarinaSneak_MarketToArmyBridge_fe7a3807:
 
     # BLACK "Calm. Down."
-    BLACK "落ち着け。
-一息つけ。"
+    BLACK "落ち着け。一息つけ。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:2206
 translate ja qst_TheComingStorm_GetToCarinaSneak_MarketToArmyBridge_72dd2841:
@@ -7082,8 +7054,7 @@ translate ja qst_TheComingStorm_GetToCarinaSneak_MarketToArmyBridge_fd5c7009:
 translate ja qst_TheComingStorm_GetToCarinaSneak_MarketToArmyBridge_seen_f7301740:
 
     # MC "(Just how much damage have Poltrik and his... flock had managed to do before we found them?)"
-    MC "(ポルトリックとその配下は、一体どれほどの被害を我々が
-見つけるまでに及ぼしたんだ)"
+    MC "(ポルトリックとその配下は、一体どれほどの被害を我々が見つけるまでに及ぼしたんだ)"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:2235
 translate ja qst_TheComingStorm_GetToCarinaSneak_MarketToArmyBridge_seen_d24d7996:
@@ -7215,8 +7186,7 @@ translate ja qst_TheComingStorm_GetToCarinaSneak_Arrived_16bf6ad8:
 translate ja qst_TheComingStorm_GetToCarinaSneak_Arrived_89c7d467:
 
     # MC @ angry "Where is he? I have to get him out!"
-    MC @ angry "彼はどこ？
-連れ出さないと!"
+    MC @ angry "彼はどこ？連れ出さないと!"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_aio.rpy:2276
 translate ja qst_TheComingStorm_GetToCarinaSneak_Arrived_2e67766c:

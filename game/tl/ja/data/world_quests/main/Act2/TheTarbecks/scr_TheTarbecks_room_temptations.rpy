@@ -256,8 +256,7 @@ translate ja qst_TheTarbecks_Room_Temptations_kiara_52c5fe6a:
 translate ja qst_TheTarbecks_Room_Temptations_kiara_9a4e239e:
 
     # WATCHER "So sorry! Looks like you lose this game!"
-    WATCHER "ごめんなさい!
-今回のゲームは負けのようです!"
+    WATCHER "ごめんなさい!今回のゲームは負けのようです!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:91
 translate ja qst_TheTarbecks_Room_Temptations_kiara_c945de44:
@@ -1151,8 +1150,7 @@ translate ja qst_TheTarbecks_Room_Temptations_ves_88da1fbf:
 translate ja qst_TheTarbecks_Room_Temptations_ves_96a9b449:
 
     # VES "{i}*Slurp!*{/i} Mhhfhhhgh!"
-    VES "{i}*ずるっ!*{/i}
-んんっ……!"
+    VES "{i}*ずるっ!*{/i}んんっ……!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:293
 translate ja qst_TheTarbecks_Room_Temptations_ves_dc7e45ab:
@@ -1839,13 +1837,6 @@ translate ja qst_TheTarbecks_Room_Temptations_markus_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "観察者たちは薄笑いを浮かべ、その光景に面白がりながら、マーシアの脚が哀れに私の下でもがくのを眺めていた。"
 
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:470
-translate ja qst_TheTarbecks_Room_Temptations_markus_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "力を奪われ、彼女は無様に、私の男根が彼女の胸の谷間を打ちつけるのを見つめることしかできなかった。"
-
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:471
 translate ja qst_TheTarbecks_Room_Temptations_markus_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -1861,8 +1852,7 @@ translate ja qst_TheTarbecks_Room_Temptations_markus_12fc674d:
 translate ja qst_TheTarbecks_Room_Temptations_markus_44ebbdc1:
 
     # MARKUS_FEM "C-Calm down! Mmhhfh!"
-    MARKUS_FEM "お、落ち着いて!  
-むぐっ…!"
+    MARKUS_FEM "お、落ち着いて!  むぐっ…!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:474
 translate ja qst_TheTarbecks_Room_Temptations_markus_e42f32a0:
@@ -2024,9 +2014,7 @@ translate ja qst_TheTarbecks_Room_Temptations_esme_a573b3da:
 translate ja qst_TheTarbecks_Room_Temptations_esme_95ebb6b8:
 
     # ESME @ shock "Shock! Gasp! Horror!"
-    ESME @ shock "ショック!
-はっ!
-恐怖!"
+    ESME @ shock "ショック!はっ!恐怖!"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:528
 translate ja qst_TheTarbecks_Room_Temptations_esme_baa4e9b2:
@@ -2200,8 +2188,7 @@ translate ja qst_TheTarbecks_Room_Temptations_esme_10ea27ac:
 translate ja qst_TheTarbecks_Room_Temptations_esme_8ed2e7d0:
 
     # "But how? How did Esme seem so calm and in control?"
-    "しかし、どうやって？
-エスメはどうしてあんなに冷静で、制御ができているように見えたの？"
+    "しかし、どうやって？エスメはどうしてあんなに冷静で、制御ができているように見えたの？"
 
 # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:571
 translate ja qst_TheTarbecks_Room_Temptations_esme_4095c452:
@@ -2468,17 +2455,14 @@ translate ja strings:
     new "さあ、どうだ、ヴェス？"
 
 
-
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:111
     old "I have a bad feeling about this one."
     new "これは嫌な予感がする。"
 
 
-
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:343
     old "Well, surely you and I can handle this?"
     new "さて、きっと私たち、うまくやれるよね？"
-
 
 
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:523
@@ -2493,4 +2477,3 @@ translate ja qst_TheTarbecks_Room_Temptations_markus_bf644154:
 
     # "Pinned down onto the table, Marcia looked up at me breathlessly as I tugged down the dress to fully expose her breasts."
     "テーブルに押し付けられ、マーシアは息を切らして私を見上げた。私は彼女のドレスを引き下げ、胸を完全に露出させた。"
-

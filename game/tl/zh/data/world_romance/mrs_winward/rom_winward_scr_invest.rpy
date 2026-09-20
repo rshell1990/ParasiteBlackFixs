@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2025-07-01 22:08
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:6
 translate zh rom_winward_invest_returnnextday_ee7da7c8:
@@ -95,7 +94,7 @@ translate zh rom_winward_invest_returnnextday_5d86885b:
 translate zh rom_winward_invest_returnnextday_18775c6d:
 
     # MC @ lewd "No, Kionni, I {i}definitely{/i} won't laugh."
-    MC @ lewd "不，Kionni，我{i}绝对不会{/i}笑。"
+    MC @ lewd "不，基奥尼，我{i}绝对不会{/i}笑。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:21
@@ -109,7 +108,7 @@ translate zh rom_winward_invest_returnnextday_abb056d8:
 translate zh rom_winward_invest_returnnextday_7bc6bd45:
 
     # "As Mrs Winward hurried off towards her private room, I waited and allowed time to tick by for a couple minutes before I heard her voice softly calling."
-    "当 温沃德 夫人匆匆走向她的私人房间时，我等待着，让时间滴答过去几分钟，然后听到她轻柔的呼唤声。"
+    "当温沃德夫人匆匆走向她的私人房间时，我等待着，让时间滴答过去几分钟，然后听到她轻柔的呼唤声。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:27
@@ -283,7 +282,7 @@ translate zh rom_winward_invest_returnnextday_sexmenu_6abded44:
 translate zh rom_winward_invest_returnnextday_sexmenu_b8dd0f98:
 
     # MRS_WINWARD "Ahh! B-Breed your little cow!"
-    MRS_WINWARD "啊！给你...你的小母牛配种吧！"
+    MRS_WINWARD "啊！给你……你的小母牛配种吧！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:70
@@ -297,28 +296,28 @@ translate zh rom_winward_invest_returnnextday_sexmenu_eac3f913:
 translate zh rom_winward_invest_returnnextday_sexmenu_b43d8f17:
 
     # MRS_WINWARD "Ooooh! W-Why would you - Ahh! Make me say such - Mhmm! Cruel things?"
-    MRS_WINWARD "哦哦哦！为-为什么你要——啊！让我说这么——嗯！残忍的话？"
+    MRS_WINWARD "哦哦哦！为——为什么你要——啊！让我说这么——嗯！残忍的话？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:72
 translate zh rom_winward_invest_returnnextday_sexmenu_7a5b04d5:
 
     # MC "Because if you don't tell me, your {i}'bull'{/i} will stop."
-    MC "因为不说的话，你的{i}'种牛'{/i}可要停下了。"
+    MC "因为不说的话，你的{i}‘种牛’{/i}可要停下了。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:73
 translate zh rom_winward_invest_returnnextday_sexmenu_544743af:
 
     # MRS_WINWARD "N-No! Don't stop! Mhmm!"
-    MRS_WINWARD "不-不要！别停下！嗯！"
+    MRS_WINWARD "不——不要！别停下！嗯！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:74
 translate zh rom_winward_invest_returnnextday_sexmenu_de26cd54:
 
     # MRS_WINWARD "Y-Yours! Your cock is so much - Mhmm! Better!"
-    MRS_WINWARD "你...你的！你的肉棒比他的...嗯！棒多了！"
+    MRS_WINWARD "你……你的！你的肉棒比他的……嗯！棒多了！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:75
@@ -339,7 +338,7 @@ translate zh rom_winward_invest_returnnextday_sexmenu_6ca2c1f8:
 translate zh rom_winward_invest_returnnextday_sexmenu_4f59ec9a:
 
     # MRS_WINWARD "Oooh! D-Dear!"
-    MRS_WINWARD "噢！亲...亲爱的！"
+    MRS_WINWARD "噢！亲……亲爱的！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:78
@@ -416,14 +415,14 @@ translate zh rom_winward_invest_returnnextday_sexmenu_fe2ab69c:
 translate zh rom_winward_invest_returnnextday_sexmenu_b0f2d6cc:
 
     # MRS_WINWARD "Breed your little whore cow! {image=[ICON.HEART]} "
-    MRS_WINWARD "让你的小婊子母牛怀孕！ {image=[ICON.HEART]} "
+    MRS_WINWARD "让你的小婊子母牛怀孕！ {image=[ICON.HEART]}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:93
 translate zh rom_winward_invest_returnnextday_sexmenu_d3682cc0:
 
     # MRS_WINWARD "Show my loser husband how it's - Ahh! Done!"
-    MRS_WINWARD "让我没用的丈夫看看...啊！该怎么干！"
+    MRS_WINWARD "让我没用的丈夫看看……啊！该怎么干！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:94
@@ -437,7 +436,7 @@ translate zh rom_winward_invest_returnnextday_sexmenu_ae2829d3:
 translate zh rom_winward_invest_returnnextday_sexmenu_4c059177:
 
     # MRS_WINWARD "C-Cum in me!"
-    MRS_WINWARD "射...射进来！"
+    MRS_WINWARD "射……射进来！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:96
@@ -563,21 +562,21 @@ translate zh rom_winward_invest_returnnextday_sexmenu_c229c02b:
 translate zh rom_winward_invest_returnnextday_sexmenu_47a566a9:
 
     # BLACK "(Our species was built to procreate, by siring our young, her life-span will be extended in order to ensure our young are brought to fruition.)"
-    BLACK "(我们的物种天生为繁衍而生，通过孕育后代，她的寿命会延长，以确保我们的后代顺利诞生。)"
+    BLACK "（我们的物种天生为繁衍而生，通过孕育后代，她的寿命会延长，以确保我们的后代顺利诞生。）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:134
 translate zh rom_winward_invest_returnnextday_sexmenu_05e0d1e5:
 
     # MC "(...Wait, you mean she'll live longer if she has a child with us?)"
-    MC "(...等等，你是说如果她跟我们生孩子，她会活得更久？)"
+    MC "（……等等，你是说如果她跟我们生孩子，她会活得更久？）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:135
 translate zh rom_winward_invest_returnnextday_sexmenu_d5798813:
 
     # BLACK "(This assessment is correct.)"
-    BLACK "(这个评估是正确的。)"
+    BLACK "（这个评估是正确的。）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:136
@@ -654,7 +653,7 @@ translate zh rom_winward_invest_initiate_sex_5e242f7c:
 translate zh rom_winward_invest_initiate_sex_8ac847c8:
 
     # MRS_WINWARD @ lewd "Should I... dress appropriately?"
-    MRS_WINWARD @ lewd "我应该...穿得合适点吗？"
+    MRS_WINWARD @ lewd "我应该……穿得合适点吗？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:159
@@ -668,7 +667,7 @@ translate zh rom_winward_invest_initiate_sex_ead5c589:
 translate zh rom_winward_invest_initiate_sex_90f78af6:
 
     # MRS_WINWARD @ lewd "{i}So eager... I love it.{/i}"
-    MRS_WINWARD @ lewd "{i}这么急切...我喜欢。{/i}"
+    MRS_WINWARD @ lewd "{i}这么急切……我喜欢。{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:161
@@ -682,7 +681,7 @@ translate zh rom_winward_invest_initiate_sex_9ff5cc19:
 translate zh rom_winward_invest_initiate_sex_02c01c4f:
 
     # MRS_WINWARD @ blush "Mmm... One moment dear."
-    MRS_WINWARD @ blush "嗯...等一下，亲爱的。"
+    MRS_WINWARD @ blush "嗯……等一下，亲爱的。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:171
@@ -696,7 +695,7 @@ translate zh rom_winward_invest_initiate_sex_dbb13f7a:
 translate zh rom_winward_invest_initiate_sex_54431e60:
 
     # MRS_WINWARD @ lewd "Mmm, I'll make sure to prepare for whatever you've got in mind..."
-    MRS_WINWARD @ lewd "嗯，我会确保准备好应对你心里的任何想法..."
+    MRS_WINWARD @ lewd "嗯，我会确保准备好应对你心里的任何想法……"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:182
@@ -1228,7 +1227,7 @@ translate zh rom_winward_invest_rep_doggy_wall_sexmenu_2167780a:
 translate zh rom_winward_invest_rep_doggy_wall_sexmenu_2bea71d1:
 
     # MC @ smile "I shall return soon, goodnight... Kionni."
-    MC @ smile "我很快会回来的，晚安……Kionni。"
+    MC @ smile "我很快会回来的，晚安……基奥妮。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:364
@@ -1599,7 +1598,7 @@ translate zh rom_winward_invest_rep_doggy_wall_sexmenu_2167780a_1:
 translate zh rom_winward_invest_rep_doggy_wall_sexmenu_6c013a40:
 
     # MC @ smile "I shall return soon, goodbye... Kionni."
-    MC @ smile "我会很快回来的，再见……Kionni。"
+    MC @ smile "我会很快回来的，再见……基奥妮。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:469
@@ -2243,14 +2242,14 @@ translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_66adee0d:
 translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_f0697d8e:
 
     # MRS_WINWARD "Mhmm! My poor ass! It's starting to f-feel quite... Ooooh!"
-    MRS_WINWARD "嗯！可怜的小屁股！现在感觉...噢噢！"
+    MRS_WINWARD "嗯！可怜的小屁股！现在感觉……噢噢！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:675
 translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_cb229cd9:
 
     # MRS_WINWARD "{i}N-Nice...{/i}"
-    MRS_WINWARD "{i}挺...舒服的...{/i}"
+    MRS_WINWARD "{i}挺……舒服的……{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:690
@@ -2264,21 +2263,21 @@ translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_434b3a43:
 translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_06e71e10:
 
     # MRS_WINWARD "Y-Yes! Pound my ass!"
-    MRS_WINWARD "对...用力操我的屁股！"
+    MRS_WINWARD "对……用力操我的屁股！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:692
 translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_07c41093:
 
     # MRS_WINWARD "Do you hear that - Ahhh! Honey?"
-    MRS_WINWARD "听见了吗...啊！亲爱的？"
+    MRS_WINWARD "听见了吗……啊！亲爱的？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:693
 translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_62d17ffa:
 
     # MRS_WINWARD "I'd n-never give you this hole! But he-"
-    MRS_WINWARD "我绝...绝不会给你这个洞！但他——"
+    MRS_WINWARD "我绝……绝不会给你这个洞！但他——"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:694
@@ -2292,7 +2291,7 @@ translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_73304965:
 translate zh rom_winward_invest_visit_bedroom_miss_sexmenu_a27f0bdc:
 
     # MRS_WINWARD "Fuck my asshhh! It feels shooo ghoood! Mhfhh!"
-    MRS_WINWARD "操我的屁股...太舒服了！唔！"
+    MRS_WINWARD "操我的屁股……太舒服了！唔！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:696
@@ -2600,21 +2599,21 @@ translate zh rom_winward_invest_rep_bj_b42cf3d7:
 translate zh rom_winward_invest_rep_bj_ef67f3fe:
 
     # MRS_WINWARD "(If only my husband was half as big as him.)"
-    MRS_WINWARD "(要是我丈夫有他一半大就好了。)"
+    MRS_WINWARD "（要是我丈夫有他一半大就好了。）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:795
 translate zh rom_winward_invest_rep_bj_f3a11a10:
 
     # MRS_WINWARD "(I could just worship this cock all night!)"
-    MRS_WINWARD "(我可以整晚都侍奉这根肉棒！)"
+    MRS_WINWARD "（我可以整晚都侍奉这根肉棒！）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:796
 translate zh rom_winward_invest_rep_bj_fc0b193d:
 
     # MRS_WINWARD "(The s-shame is - Mhmm! So hot! A woman of my age to be cheating on my... my...)"
-    MRS_WINWARD "(这种羞-羞耻感-嗯！太刺激了！我这个年纪的女人出轨...我的...我的...)"
+    MRS_WINWARD "（这种羞——羞耻感——嗯！太刺激了！我这个年纪的女人出轨……我的……我的……）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:797
@@ -2628,21 +2627,21 @@ translate zh rom_winward_invest_rep_bj_0fb3c988:
 translate zh rom_winward_invest_rep_bj_d390a665:
 
     # MRS_WINWARD "({i}P-Pathetic husband....!{/i})"
-    MRS_WINWARD "({i}可-可悲的丈夫....！{/i})"
+    MRS_WINWARD "（{i}可——可悲的丈夫……！{/i}）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:799
 translate zh rom_winward_invest_rep_bj_49006340:
 
     # MRS_WINWARD "(It's his fault for being such a fool! Mhmm, now a bigger, {i}better{/i} man is here to take care of my needs fufufu! {image=[ICON.HEART]})"
-    MRS_WINWARD "(都怪他自己这么蠢！嗯哼，现在有个更大{i}更好{/i}的男人来满足我了呼呼呼！{image=[ICON.HEART]})"
+    MRS_WINWARD "（都怪他自己这么蠢！嗯哼，现在有个更大{i}更好{/i}的男人来满足我了呼呼呼！{image=[ICON.HEART]}）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:800
 translate zh rom_winward_invest_rep_bj_bfa5eb47:
 
     # MRS_WINWARD "(Thank the gods he's such a fool!)"
-    MRS_WINWARD "(感谢诸神让他这么蠢！)"
+    MRS_WINWARD "（感谢诸神让他这么蠢！）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:808
@@ -2656,7 +2655,7 @@ translate zh rom_winward_invest_rep_bj_d0cd91ed:
 translate zh rom_winward_invest_rep_bj_fd496eef:
 
     # MC "Ahh...! You're getting real good at sucking cock, Mrs Winward."
-    MC "啊...！你口活越来越好了，温沃德夫人。"
+    MC "啊……！你口活越来越好了，温沃德夫人。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:810
@@ -3082,14 +3081,14 @@ translate zh rom_winward_invest_first_impreg_984193c5:
 translate zh rom_winward_invest_first_impreg_b03caf34:
 
     # MC @ surprised "Kionni...Is it-"
-    MC @ surprised "基奥尼...这是-"
+    MC @ surprised "基奥尼...这是——"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:929
 translate zh rom_winward_invest_first_impreg_73924754:
 
     # MRS_WINWARD @ embarr "Y-Yes, it's true."
-    MRS_WINWARD @ embarr "是-是的，是真的。"
+    MRS_WINWARD @ embarr "是——是的，是真的。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:930
@@ -3467,7 +3466,7 @@ translate zh rom_winward_invest_rep_impreg_c84311a3:
 translate zh rom_winward_invest_rep_impreg_b7d2406f:
 
     # "Kionni licked her lips as she hurried off to continue her tanning work."
-    "基奥尼 舔了舔嘴唇，匆匆离开去继续她的晒黑工作。"
+    "基奥尼舔了舔嘴唇，匆匆离开去继续她的晒黑工作。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:998
@@ -3523,7 +3522,7 @@ translate zh rom_winward_invest_first_birth_f612c873:
 translate zh rom_winward_invest_first_birth_bfbc8927:
 
     # MC @ surprised "Is that...?"
-    MC @ surprised "那是...？"
+    MC @ surprised "那是……？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:1016
@@ -3600,7 +3599,7 @@ translate zh rom_winward_invest_rep_birth_aebcd54e:
 translate zh rom_winward_invest_rep_birth_27676f96:
 
     # MC @ surprised "Twins...{i}again{/i}?"
-    MC @ surprised "双胞胎...{i}又{/i}是？"
+    MC @ surprised "双胞胎……{i}又{/i}是？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:1035
@@ -3757,7 +3756,6 @@ translate zh strings:
     new "其实，我在想今晚我们去你的卧室。"
     
 
-# TODO: Translation updated at 2026-03-18 22:49
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_invest.rpy:288
 translate zh rom_winward_invest_rep_doggy_wall_sexmenu_9beedfb1:

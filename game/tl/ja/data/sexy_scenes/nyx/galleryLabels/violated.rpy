@@ -244,8 +244,7 @@ translate ja gallery_nyx_violated_4db43c94:
 translate ja gallery_nyx_violated_ad5f5a68:
 
     # "I didn't let Nyx finish, with a light slap across her face, she sat and stared bewildered in shock."
-    "ニクスの言葉を遮り、軽く叩いた。
-彼女は呆然と座り込んだまま、茫然と私を見つめてきた。"
+    "ニクスの言葉を遮り、軽く叩いた。彼女は呆然と座り込んだまま、茫然と私を見つめてきた。"
 
 # game/data/sexy_scenes/nyx/galleryLabels/violated.rpy:57
 translate ja gallery_nyx_violated_784d3e7e:
@@ -449,8 +448,7 @@ translate ja gallery_nyx_violated_8cf0362d:
 translate ja gallery_nyx_violated_95c9213c:
 
     # MC "Either I let you go now, and never speak to you again."
-    MC "今、君を去るがままにするか、
-二度と口をきかないか。"
+    MC "今、君を去るがままにするか、二度と口をきかないか。"
 
 # game/data/sexy_scenes/nyx/galleryLabels/violated.rpy:106
 translate ja gallery_nyx_violated_54aa74fa:

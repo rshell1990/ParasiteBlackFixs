@@ -640,8 +640,7 @@ translate ja jackal_girl_sexscene_04dec6f8:
 translate ja jackal_girl_sexscene_ff5eda6c:
 
     # "Soft rumbles escaped her lips. She was starting to enjoy it."
-    "柔らかい吐息が漏れる。
-彼女はそれを楽しんでいる。"
+    "柔らかい吐息が漏れる。彼女はそれを楽しんでいる。"
 
 # game/data/travel_events/jackal_girl.rpy:302
 translate ja jackal_girl_sexscene_4bb4e0c8:
@@ -773,8 +772,7 @@ translate ja jackal_girl_sexscene_41c1e8d6:
 translate ja jackal_girl_sexscene_84cd7545_1:
 
     # "I knew she wouldn't be moving for a while... but I also knew I had to return to the path at once."
-    "彼女がしばらく動かないのはわかっていた…  
-だが、私はすぐに道に戻らなければならないこともわかっていた。"
+    "彼女がしばらく動かないのはわかっていた…  だが、私はすぐに道に戻らなければならないこともわかっていた。"
 
 # game/data/travel_events/jackal_girl.rpy:362
 translate ja jackal_girl_sexscene_5bd6852c_1:

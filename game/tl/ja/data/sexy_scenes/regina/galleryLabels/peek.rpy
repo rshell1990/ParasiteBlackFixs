@@ -16,8 +16,7 @@ translate ja gallery_regina_peek_4ce9008c:
 translate ja gallery_regina_peek_8060ab4f:
 
     # MC "I... I shouldn’t watch this! This is... {i}perverse{/i}."
-    MC "うっ…　見ちゃダメだ!
-これは…　{i}いかがわしい{/i}。"
+    MC "うっ…　見ちゃダメだ!これは…　{i}いかがわしい{/i}。"
 
 # game/data/sexy_scenes/regina/galleryLabels/peek.rpy:10
 translate ja gallery_regina_peek_a8c437e9:

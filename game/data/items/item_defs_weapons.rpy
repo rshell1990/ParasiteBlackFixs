@@ -10,7 +10,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":400,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["scout_sword"] = {
@@ -23,7 +22,6 @@ init python:
         "value_per_unit":150,
         "cannot_lose":True,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["scout_sword_rusty"] = {
@@ -35,7 +33,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":25,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["goblin_cleaver"] = {
@@ -48,7 +45,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":350,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["sword_2h"] = {
@@ -60,7 +56,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":8120,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["tarek_blade"] = {
@@ -74,7 +69,6 @@ init python:
         "add_attr_end":1,
         "shop_category":"weapon",
         "value_per_unit": 450,
-
         "sort_order":30,
     }
     static_item_defs["bronze_sword"] = {
@@ -86,7 +80,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":1300,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["iron_sword"] = {
@@ -98,7 +91,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":4550,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["steel_sword"] = {
@@ -111,7 +103,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":10140,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["syaxian_sword"] = {
@@ -124,7 +115,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":17461,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["debug_killer"] = {
@@ -136,7 +126,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":17461,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
 ## erika
@@ -149,7 +138,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":800,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
 
@@ -164,7 +152,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":850,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["ves_family_axe"] = {
@@ -177,7 +164,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":150,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
 ## kiara
@@ -191,7 +177,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":400,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
 
@@ -207,7 +192,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":1550,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
     static_item_defs["bronlite_sword"] = {
@@ -220,7 +204,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":2600,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
 ### sypha weapon
@@ -235,7 +218,6 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":2400,
         "shop_category":"weapon",
-
         "sort_order":30,
     }
 
@@ -251,20 +233,198 @@ init python:
         "eqp_slots":EQP_SLOTS.HANDS,
         "value_per_unit":5500,
         "shop_category":"weapon",
-        
+        "sort_order":30,
+    }
+############## shields #########
+    #static_item_defs["nyx_gift_shield"] = {
+    #    "name":_("Alderian officer shield"),
+    #    "plural":_("Alderian officer shields"),
+    #    "desc":_("A high-quality shield issued to high-ranking Alderian officers.\nCaptain Nyx sure knew what I need the most out there."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":5,
+    #    "add_stat_def":5,
+    #    "icon":"images/items/weapons/shield_alderian.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":400,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["scout_shield"] = {
+    #    "name":_("Scout shield"),
+    #    "plural":_("Scout shields"),
+    #    "desc":_("A rather crude but well-balanced one-handed shield of the Scouts Corp."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":2,
+    #    "add_stat_def":2,
+    #    "icon":"images/items/weapons/shield_scout.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":150,
+    #    "cannot_lose":True,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["scout_shield_rusty"] = {
+    #    "name":_("Rusty scout shield"),
+    #    "plural":_("Rusty scout shields"),
+    #    "desc":_("A barely-usable shield of the Scouts Corp. It is heavily damaged by rust and there are dents all over the surface."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":1,
+    #    "icon":"images/items/weapons/shield_scout_rusty.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":25,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["goblin_shield"] = {
+    #    "name":_("Goblin shield"),
+    #    "plural":_("Goblin shields"),
+    #    "desc":_("A heavy, crude shield."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":1,
+    #    "icon":"images/items/weapons/shield_goblin.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":350,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["tarek_shield"] = {
+    #    "name":_("Tarek's shield"),
+    #    "plural":_("Tarek's shields"),
+    #    "desc":_("A cruel and vicious shield designed to prolong suffering..."),
+    #    "icon":"images/items/weapons/tarek_shield.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "Damage":0,
+    #    "add_stat_crit_chance":2,
+    #    "add_stat_def":2,
+    #    "shop_category":"weapon",
+    #    "value_per_unit": 450,
+    #    "sort_order":30,
+    #}
+    #static_item_defs["bronze_shield"] = {
+    #    "name":_("Bronze shield"),
+    #    "plural":_("Bronze shields"),
+    #    "desc":_("A bronze shield"),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":1,
+    #    "icon":"images/items/weapons/shield_bronze.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":1300,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["iron_shield"] = {
+    #    "name":_("Iron shield"),
+    #    "plural":_("Iron shields"),
+    #    "desc":_("A shield forged in iron"),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":3,
+    #    "icon":"images/items/weapons/shield_iron.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":4550,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["steel_shield"] = {
+    #    "name":_("Steel shield"),
+    #    "plural":_("Steel shields"),
+    #    "desc":_("A steel shield... finely crafted"),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":5,
+    #    "icon":"images/items/weapons/shield_steel.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":10140,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+    #static_item_defs["syaxian_shield"] = {
+    #    "name":_("Syaxian shield"),
+    #    "plural":_("Syaxian shields"),
+    #    "desc":_("A syaxian shield... One of the finest shields ever produced"),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":2,
+    #    "add_stat_def":4,
+    #    "icon":"images/items/weapons/shield_syax.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":17461,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+## erika
+    #static_item_defs["shield_inquisitor"] = {
+    #    "name":_("Inquisitor shield"),
+    #    "plural":_("Inquisitor shields"),
+    #    "desc":_("A standard inquisitor shield. While not the best shields, their infused magecraft casting allows them to act as a conduit without being damaged."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":5,
+    #    "icon":"images/items/weapons/shield_inquisitor.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":800,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+## kiara
+    #static_item_defs["corrupted_shield"] = {
+    #    "name":_("Corrupted shield"),
+    #    "plural":_("Corrupted shields"),
+    #    "desc":_("A strange, short shield that appears to have been corrupted by Demorai magecraft."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":3,
+    #    "icon":"images/items/weapons/corrupted_shield.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":400,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
 
-        "sort_order":30,
-    }
-### Test and Skill Grant Example
-    static_item_defs["irridian_blade"] = {
-        "name":_("Irridian blade"),
-        "plural":_("Irridian blades"),
-        "desc":_("A blade forged by Irridian, known for its exceptional sharpness and the mysterious energy it seems to hold."),
-        "Damage":99999,
-        "grants_skill": "Summon",
-        "icon":"images/items/weapons/irridian_blade.webp",
-        "eqp_slots":EQP_SLOTS.HANDS,
-        "value_per_unit":99999999999,
-        "shop_category":"weapon",
-        "sort_order":30,
-    }
+### hamun crafts
+    #static_item_defs["bronlite_shield"] = {
+    #    "name":_("Bronlite shield"),
+    #    "plural":_("Bronlite shields"),
+    #    "desc":_("A special type of bronze shield, treated to be weaker, but considerably lighter and supposedly, thanks to the strange enchantments applied, makes the wearer faster."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":2,
+    #    "icon":"images/items/weapons/shield_bronlite.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":1550,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+### sypha weapon
+    #static_item_defs["xeriya_shield"] = {
+    #    "name":_("Shield of Xeriya"),
+    #    "plural":_("Shields of Xeriya"),
+    #    "desc":_("A uniquely crafted shield, it appears to be enchanted, I cannot tell what kind of metal it is..."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":4,
+    #    "icon":"images/items/weapons/xeriya_shield.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":2400,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}
+
+### faymore reward
+    #static_item_defs["faymore_shield"] = {
+    #    "name":_("Faymore shield"),
+    #    "plural":_("Faymore shields"),
+    #    "desc":_("The Faymore family shield, once wielded by Strigon Faymore, a noble knight famous for his valor… It resonates power."),
+    #    "Damage":0,
+    #    "add_stat_crit_chance":1,
+    #    "add_stat_def":5,
+    #    # Every round heals 5% of current HP for the party
+    #    "battle_perma_effects":["FaymoreBladeRegenParty"],
+    #    "icon":"images/items/weapons/faymore_shield.webp",
+    #    "eqp_slots":EQP_SLOTS.HANDS,
+    #    "value_per_unit":5500,
+    #    "shop_category":"weapon",
+    #    "sort_order":30,
+    #}

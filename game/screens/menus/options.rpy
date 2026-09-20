@@ -200,7 +200,7 @@ screen dropdown_example():
             if Build_Kind == "steam":
                 textbutton _("Sync Achievements"):
                     style "pref_button"
-                    action achievement.Sync()
+                    action achievement.sync()
 
     textbutton _("Return"):
         style "menu_return"

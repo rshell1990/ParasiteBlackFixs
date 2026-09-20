@@ -58,8 +58,7 @@ translate ja rom_Ves_61_PostDrunk_afe15591:
 translate ja rom_Ves_61_PostDrunk_f56f421a:
 
     # MC @ talk "Huh? What are you talking about?"
-    MC @ talk "え？
-何言ってんの？"
+    MC @ talk "え？何言ってんの？"
 
 # game/data/world_romance/ves/scr_6.1_postDrunk.rpy:19
 translate ja rom_Ves_61_PostDrunk_d8157101:

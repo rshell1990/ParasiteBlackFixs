@@ -208,8 +208,7 @@ translate ja qsttheslavemaster_pitch_menu_6817b429:
 translate ja qsttheslavemaster_pitch_menu_6363e661:
 
     # NYX @ sad "That's the tricky part ... But we'll have to find it."
-    NYX @ sad "これが難しいところだ…  
-でも、見つけないとな。"
+    NYX @ sad "これが難しいところだ…  でも、見つけないとな。"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:64
 translate ja qsttheslavemaster_pitch_menu_61767dca:
@@ -1439,8 +1438,7 @@ translate ja qsttheslavemaster_meeting_last_question_e5247573:
 translate ja qsttheslavemaster_meeting_last_question_4ff43e97:
 
     # ANGHARAD "SHUT IT WHORE! Shut the fuck up!"
-    ANGHARAD "あばずれ、黙れ!
-黙れクソが!"
+    ANGHARAD "あばずれ、黙れ!黙れクソが!"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:487
 translate ja qsttheslavemaster_meeting_last_question_7b3df886:
@@ -1458,8 +1456,7 @@ translate ja qsttheslavemaster_meeting_last_question_daeb90f6:
 translate ja qsttheslavemaster_meeting_last_question_30d600d2:
 
     # ANGHARAD "Get back! All of you!"
-    ANGHARAD "下がれ!
-全員!"
+    ANGHARAD "下がれ!全員!"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:490
 translate ja qsttheslavemaster_meeting_last_question_7d025666:
@@ -1495,8 +1492,7 @@ translate ja qsttheslavemaster_meeting_last_question_3ece5e7f:
 translate ja qsttheslavemaster_meeting_last_question_833501ad:
 
     # ANGHARAD "Oh no, if I'm going to die, I'll die a free man, HERE AND NOW!"
-    ANGHARAD "しまった、死ぬなら自由な男として死ぬ!
-ここで、今すぐに!"
+    ANGHARAD "しまった、死ぬなら自由な男として死ぬ!ここで、今すぐに!"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:502
 translate ja qsttheslavemaster_meeting_last_question_3b8c8a75:
@@ -1574,8 +1570,7 @@ translate ja qsttheslavemaster_meeting_last_question_5732c138:
 translate ja qsttheslavemaster_meeting_last_question_02f41b67:
 
     # "One of the other guardsmen leapt forward, slashing at Angharad across his throat as he gargled and choked on his blood." with bloodflash
-    "一人の兵士が飛び出し、アンガラッドの喉元を斬りつけた
-彼は血を詰まらせて、むせびながら息絶えた" with bloodflash
+    "一人の兵士が飛び出し、アンガラッドの喉元を斬りつけた彼は血を詰まらせて、むせびながら息絶えた" with bloodflash
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:556
 translate ja qsttheslavemaster_meeting_last_question_8dd07e27:
@@ -1839,8 +1834,7 @@ translate ja qsttheslavemaster_meeting_last_question_1a3adfc7:
 translate ja qsttheslavemaster_meeting_last_question_457c32c2:
 
     # MC @ serious "Come, Lyesha ... You know what to do."
-    MC @ serious "さあ、リェーシャ…
-お前は何をすべきか分かっている"
+    MC @ serious "さあ、リェーシャ…お前は何をすべきか分かっている"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:640
 translate ja qsttheslavemaster_meeting_last_question_959eb156:
@@ -2164,8 +2158,7 @@ translate ja qsttheslavemaster_meeting_last_question_ac7e9a05:
 translate ja qsttheslavemaster_meeting_last_question_8dcfc754:
 
     # NYX "I-I'm going to put it in now, okay?"
-    NYX "これから…  
-いま 入れるね？"
+    NYX "これから…  いま 入れるね？"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:709
 translate ja qsttheslavemaster_meeting_last_question_8ff9fd69:
@@ -2405,8 +2398,7 @@ translate ja qsttheslavemaster_meeting_last_question_79a28a47:
 translate ja qsttheslavemaster_meeting_last_question_32e6b324:
 
     # NYX "Yes! Yes! Fuck me Master! FUCK ME HARDER!"
-    NYX "イク!イク!ご主人様、イかせて!
-もっと激しく!イカせて!"
+    NYX "イク!イク!ご主人様、イかせて!もっと激しく!イカせて!"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:753
 translate ja qsttheslavemaster_meeting_last_question_72feffb8:
@@ -2724,9 +2716,7 @@ translate ja qsttheslavemaster_meeting_last_question_01412b0b:
 translate ja qsttheslavemaster_meeting_last_question_6e83d0c4:
 
     # ANGHARAD @ talk "The starving man? The slave? The man with nothing to lose?"
-    ANGHARAD @ talk "飢えた男？
-奴隷？
-失うものなどない男？"
+    ANGHARAD @ talk "飢えた男？奴隷？失うものなどない男？"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:834
 translate ja qsttheslavemaster_meeting_last_question_a1203cd6:
@@ -3116,8 +3106,7 @@ translate ja qsttheslavemaster_meeting_last_question_e9cbbca5:
 translate ja qsttheslavemaster_meeting_last_question_7b3c0489:
 
     # "If she didn't want to talk about what had happened, then whatever."
-    "話したくなければ、
-それならいいさ。"
+    "話したくなければ、それならいいさ。"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:939
 translate ja qsttheslavemaster_meeting_last_question_8a5149fd:
@@ -3345,9 +3334,7 @@ translate ja qsttheslavemaster_reward_2e10ae83:
 translate ja qsttheslavemaster_reward_72353f3b:
 
     # NYX @ angry "Don't even fucking think of trying to sweet-talk me into raising it or asking for anything else."
-    NYX @ angry "舐めたこと言って
-値上げや追加要求をしようなんて
-考えるんじゃねえよ、この野郎。"
+    NYX @ angry "舐めたこと言って値上げや追加要求をしようなんて考えるんじゃねえよ、この野郎。"
 
 # game/data/world_quests/side/novaras/TheSlavemaster/qst_TheSlavemaster_scr.rpy:1055
 translate ja qsttheslavemaster_reward_ef88f2a1:

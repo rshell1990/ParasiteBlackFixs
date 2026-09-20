@@ -102,7 +102,7 @@ translate zh dros_firstmeet_bordello_9fb3035c:
 translate zh dros_firstmeet_bordello_03c73155:
 
     # DROS @ talk "Your lands aren't quite as 'open-minded' as Synmaria about these kind of things."
-    DROS @ talk "你的土地对这些事情不像Synmaria那么'开明'。"
+    DROS @ talk "你的土地对这些事情不像辛玛利亚那么'开明'。"
     
 
 # game/data/world_romance/dros/bordello_firstmeet.rpy:26
@@ -497,7 +497,6 @@ translate zh strings:
     new "我觉得这事我帮不了你。"
     
 
-# TODO: Translation updated at 2026-06-13 12:54
 
 translate zh strings:
 

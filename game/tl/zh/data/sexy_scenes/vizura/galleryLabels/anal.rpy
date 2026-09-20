@@ -334,7 +334,7 @@ translate zh gallery_vizura_anal_b883e2a9:
 translate zh gallery_vizura_anal_3c27a068:
 
     # "After a few breathless moments passed, I slowly slipped my cock out of Vizura's gaping, well-fucked pussy."
-    "经过片刻的窒息般沉寂后，我慢慢将肉棒从薇祖拉那被操得洞开、湿滑的屁眼中抽了出来。"
+    "经过片刻的窒息般沉寂后，我慢慢将肉棒从维祖拉那被操得洞开、湿滑的屁眼中抽了出来。"
 
 # game/data/sexy_scenes/vizura/galleryLabels/anal.rpy:134
 translate zh gallery_vizura_anal_356f412b:
@@ -364,4 +364,4 @@ translate zh gallery_vizura_anal_03485fb3:
 translate zh gallery_vizura_anal_76d46b06:
 
     # VIZURA "M-My a-asshh...Mhmmm."
-    VIZURA "我、我的屁-屁股...嗯唔..."
+    VIZURA "我、我的屁——屁股……嗯唔……"

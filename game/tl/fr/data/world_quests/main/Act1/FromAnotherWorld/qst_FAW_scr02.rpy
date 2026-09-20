@@ -96,13 +96,6 @@ translate fr qst_FromAnotherWorld_ReturnHome_de6a39b0:
     # REGINA @ smile_talk "It’s a miracle you’re both alive."
     REGINA @ smile_talk "C'est un miracle que vous soyez tous les deux en vie."
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:29
-translate fr qst_FromAnotherWorld_ReturnHome_ReginaTalk_15f57a0d:
-
-    # REGINA @ talk "I think they were suspicious that you and Markus had managed to survive through some sort of black magic."
-    REGINA @ talk "Je pense qu'ils soupçonnaient que toi et Markus aviez réussi à survivre grâce à une sorte de magie noire."
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:30
 translate fr qst_FromAnotherWorld_ReturnHome_ReginaTalk_498911e8:
 
     # REGINA @ talk "They searched your room but found nothing."
@@ -114,13 +107,6 @@ translate fr qst_FromAnotherWorld_ReturnHome_ReginaTalk_9c998003:
     # MC @ talk "What did you tell them?"
     MC @ talk "Qu'est-ce que tu leur as dit ?"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:32
-translate fr qst_FromAnotherWorld_ReturnHome_ReginaTalk_b5729cf7:
-
-    # REGINA @ talk "Just that you weren’t blessed with any kind of magic, let alone black."
-    REGINA @ talk "Juste que tu n'étais pas doté d'une quelconque magie, encore moins de la noire."
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:33
 translate fr qst_FromAnotherWorld_ReturnHome_ReginaTalk_7112280f:
 
     # REGINA @ talk "It’s on your school record either way, don’t know why they made such a fuss."
@@ -953,4 +939,3 @@ translate fr qst_FromAnotherWorld_ReturnHome_ReginaTalk_e169a1c3:
 
     # REGINA @ talk "Just that you weren’t blessed with any kind of magecraft, let alone black."
     REGINA @ talk "Juste que tu n’étais doué d’aucune forme de magie, et encore moins de la noire."
-

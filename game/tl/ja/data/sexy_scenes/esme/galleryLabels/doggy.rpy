@@ -760,8 +760,7 @@ translate ja gallery_esme_doggy_anal_436cd307:
 translate ja gallery_esme_doggy_anal_1d4a6db6:
 
     # "Gripping her ass tightly, Esme let out one last gasp as the flood of hot seed poured deep into her bowels."
-    "彼女の尻を強く握りしめ、エスメは最後の吐息をもらす。
-熱い種の奔流が腸の奥深くに注ぎ込まれた。"
+    "彼女の尻を強く握りしめ、エスメは最後の吐息をもらす。熱い種の奔流が腸の奥深くに注ぎ込まれた。"
 
 # game/data/sexy_scenes/esme/galleryLabels/doggy.rpy:190
 translate ja gallery_esme_doggy_anal_dedf0d1d:

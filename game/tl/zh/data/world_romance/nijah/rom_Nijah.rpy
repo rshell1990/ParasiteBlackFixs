@@ -66,7 +66,7 @@ translate zh strings:
 
     # game/data/world_romance/nijah/rom_Nijah.rpy:4
     old "Nijah's earnings"
-    new "妮娅 的收入"
+    new "妮娅的收入"
     
 
     # game/data/world_romance/nijah/rom_Nijah.rpy:4
@@ -114,7 +114,6 @@ translate zh strings:
     new "妓院"
     
 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/nijah/rom_Nijah.rpy:161
 translate zh rom_Nijah_stage2_pimpCollect_c5ceb7fe:
@@ -122,7 +121,6 @@ translate zh rom_Nijah_stage2_pimpCollect_c5ceb7fe:
     # NIJAH "Sure, there you go, [player_name!t]."
     NIJAH "当然，给你，[player_name!t]。"
 
-# TODO: Translation updated at 2026-06-13 12:54
 
 translate zh strings:
 

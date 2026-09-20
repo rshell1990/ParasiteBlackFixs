@@ -16,8 +16,7 @@ translate ja qst_little_lies_on_enter_1_d574b912:
 translate ja qst_little_lies_on_enter_1_834123dc:
 
     # MIKA @ angry "I a-already passed their stupid exams! What more do they want from me?"
-    MIKA @ angry "く、くうっ…あんなバカみたいな試験、もう受かったのに!
-あとは何を求めればいいっていうのよ!"
+    MIKA @ angry "く、くうっ…あんなバカみたいな試験、もう受かったのに!あとは何を求めればいいっていうのよ!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:6
 translate ja qst_little_lies_on_enter_1_f77dfd08:
@@ -1037,8 +1036,7 @@ translate ja qst_little_lies_bathhouse_scene_1260423d:
 translate ja qst_little_lies_bathhouse_scene_1b27bda3:
 
     # "Sister Divine swam closer towards Mika, who continued to shyly look away."
-    "聖女ディバインは、ますます近づいていった。
-恥ずかしそうに目を逸らし続けるミカに。"
+    "聖女ディバインは、ますます近づいていった。恥ずかしそうに目を逸らし続けるミカに。"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:293
 translate ja qst_little_lies_bathhouse_scene_b2e0d120:
@@ -1266,8 +1264,7 @@ translate ja qst_little_lies_bathhouse_scene_0998d9aa:
 translate ja qst_little_lies_bathhouse_scene_81ce295d:
 
     # MIKA "T-Thank you. - Mhfghh!"
-    MIKA "あ、ありがとう。
-ーむぐっ!"
+    MIKA "あ、ありがとう。ーむぐっ!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:340
 translate ja qst_little_lies_bathhouse_scene_2d6aff7f:
@@ -1285,8 +1282,7 @@ translate ja qst_little_lies_bathhouse_scene_f1a49223:
 translate ja qst_little_lies_bathhouse_scene_b914e0c1:
 
     # MIKA "{i}*Huff*{/i} Y-Yes ...!"
-    MIKA "{i}*はぁ*{/i}
-は、はいです…!"
+    MIKA "{i}*はぁ*{/i}は、はいです…!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:346
 translate ja qst_little_lies_bathhouse_scene_ac6e3379:
@@ -1346,8 +1342,7 @@ translate ja qst_little_lies_bathhouse_scene_4746c4bf:
 translate ja qst_little_lies_bathhouse_scene_66b31f38:
 
     # DIVINE "{i}*Huff*{/i} You s-silly girl!"
-    DIVINE "{i}*ぐうふう*{/i}
-この…ば、ばか娘!"
+    DIVINE "{i}*ぐうふう*{/i}この…ば、ばか娘!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:356
 translate ja qst_little_lies_bathhouse_scene_2da27269:
@@ -1359,8 +1354,7 @@ translate ja qst_little_lies_bathhouse_scene_2da27269:
 translate ja qst_little_lies_bathhouse_scene_455a1ada:
 
     # MIKA "Oooooooh! Yes, Miss! It's all yours! My ass is all yours tonight!"
-    MIKA "おぉぉぉぉぉ!　はい、お姉さま!  
-今夜、このお尻は全てお姉さまのものです!"
+    MIKA "おぉぉぉぉぉ!　はい、お姉さま!  今夜、このお尻は全てお姉さまのものです!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:358
 translate ja qst_little_lies_bathhouse_scene_5f06c395:
@@ -1786,8 +1780,7 @@ translate ja qst_little_lies_class_meet_e917ccc8:
 translate ja qst_little_lies_class_meet_e5c15230:
 
     # MC @ angry "You didn't even try to step out of the way! Do you have a death wish or something?"
-    MC @ angry "避けようともしなかったじゃないか!
-死にたいのか、それとも何か？"
+    MC @ angry "避けようともしなかったじゃないか!死にたいのか、それとも何か？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:478
 translate ja qst_little_lies_class_meet_321fdd9f:
@@ -2045,8 +2038,7 @@ translate ja qst_little_lies_class_meet_3_7cf93770:
 translate ja qst_little_lies_class_meet_3_088e4974:
 
     # MIKA @ scared "F-Fine! Ready yourself!"
-    MIKA @ scared "ち、ちち…!
-覚悟しろ!"
+    MIKA @ scared "ち、ちち…!覚悟しろ!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:545
 translate ja qst_little_lies_class_meet_3_5e8610a9:
@@ -2202,8 +2194,7 @@ translate ja qst_little_lies_class_meet_3_a20aa7b7:
 translate ja qst_little_lies_class_meet_3_a0a1921b:
 
     # MC @ serious "Tell me what? What is going on here?"
-    MC @ serious "何を話す？
-ここで何が起こっている？"
+    MC @ serious "何を話す？ここで何が起こっている？"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:579
 translate ja qst_little_lies_class_meet_3_f27d864d:
@@ -2407,8 +2398,7 @@ translate ja qst_little_lies_class_meet_4_f143e81d:
 translate ja qst_little_lies_class_meet_4_ec8a3bb5:
 
     # MIKA @ blush "I-If you're sure..."
-    MIKA @ blush "I-If you're sure...
-き、確かなら……"
+    MIKA @ blush "I-If you're sure...き、確かなら……"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:635
 translate ja qst_little_lies_class_meet_4_acf94cb5:
@@ -2768,9 +2758,7 @@ translate ja qst_little_lies_class_meet_5_menu_b26ca6a2:
 translate ja qst_little_lies_class_meet_5_menu_82c34751:
 
     # MIKA @ sad "Rather than let the adults know what we'd found... I ... {i}I made a terrible mistake.{/i}"
-    MIKA @ sad "大人たちに知られるくらいなら……
-私は……
-{i}重大な過ちを犯してしまった。{/i}"
+    MIKA @ sad "大人たちに知られるくらいなら……私は……{i}重大な過ちを犯してしまった。{/i}"
 
 # game/data/world_quests/side/novaras/GirlTroubles/LittleLies/src_LittleLies.rpy:741
 translate ja qst_little_lies_class_meet_5_menu_ea1c1192:

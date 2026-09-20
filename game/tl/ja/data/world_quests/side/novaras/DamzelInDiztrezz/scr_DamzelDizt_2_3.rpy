@@ -136,8 +136,7 @@ translate ja qst_DamzelDizzt_2_frontal_pit_91143c65:
 translate ja qst_DamzelDizzt_2_frontal_pit_dbbae3b2:
 
     # TAREK @ angry "Where are you all going?! COWARDS!"
-    TAREK @ angry "みんな、どこへ行くんだ？
-卑怯者め!"
+    TAREK @ angry "みんな、どこへ行くんだ？卑怯者め!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_2_3.rpy:43
 translate ja qst_DamzelDizzt_2_frontal_pit_99aba722:
@@ -629,8 +628,7 @@ translate ja qst_DamzelDizzt_2_frontal_pit_6fd1bcef:
 translate ja qst_DamzelDizzt_2_frontal_pit_785e3aff:
 
     # "I heard a few trembling voices behind us muttering {i}by the gods... What could have done this?{/i}"
-    "背後の方から、数人の震える声が聞こえた。
-{i}神よ…一体何者がこんなことを…？{/i}"
+    "背後の方から、数人の震える声が聞こえた。{i}神よ…一体何者がこんなことを…？{/i}"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_2_3.rpy:217
 translate ja qst_DamzelDizzt_2_frontal_pit_7186b65b:
@@ -672,8 +670,7 @@ translate ja qst_DamzelDizzt_2_frontal_pit_cfec4e7a:
 translate ja qst_DamzelDizzt_2_frontal_pit_61024576:
 
     # NIJAH "[player_name!t]! Markus! You must go! There is talk of mons-"
-    NIJAH "[player_name!t]!マルカス!早く逃げて!
-噂が立っているんだ…モンスターの…"
+    NIJAH "[player_name!t]!マルカス!早く逃げて!噂が立っているんだ…モンスターの…"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_2_3.rpy:38
 translate ja qst_DamzelDizzt_2_frontal_pit_21d909a5:

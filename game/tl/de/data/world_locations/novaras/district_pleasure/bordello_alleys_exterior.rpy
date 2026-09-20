@@ -4,11 +4,11 @@
 translate de lockedLines_novarasBordelloExt_4e6bf682:
 
     # MC "Nothing of {i}interest{/i} is happening here right now."
-    MC "Nothing of {i}interest{/i} is happening here right now."
+    MC "Es passiert hier gerade nichts von {i}Interesse{/i}."
 
 # game/data/world_locations/novaras/district_pleasure/bordello_alleys_exterior.rpy:44
 translate de lockedLines_novarasBordelloExt_be41601a:
 
     # MC "Perhaps I should visit the place when the night falls..."
-    MC "Perhaps I should visit the place when the night falls..."
+    MC "Vielleicht sollte ich den Ort besuchen, wenn die Nacht hereinbricht..."
 

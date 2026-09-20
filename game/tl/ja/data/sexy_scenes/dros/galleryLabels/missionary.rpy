@@ -232,8 +232,7 @@ translate ja gallery_dros_missionary_preTf_dress_1583260e:
 translate ja gallery_dros_missionary_preTf_dress_ba621190:
 
     # DROS "Gods... You're so-"
-    DROS "神様...  
-あなたってほんとうにー"
+    DROS "神様...  あなたってほんとうにー"
 
 # game/data/sexy_scenes/dros/galleryLabels/missionary.rpy:105
 translate ja gallery_dros_missionary_preTf_dress_5ad41c1e:
@@ -745,27 +744,23 @@ translate ja gallery_dros_missionary_postTf_dress_644d5678:
 translate ja gallery_dros_missionary_preTf_naked_b4e0e712:
 
     # DROS "Oh fuck yes, [dros_player_ref!t]! I'm cumming too! I'm cumming so hard!"
-    DROS "ああっ…イッちゃう、あなた!
-すごくイクの…!"
+    DROS "ああっ…イッちゃう、あなた!すごくイクの…!"
 
 # game/data/sexy_scenes/dros/galleryLabels/missionary.rpy:121
 translate ja gallery_dros_missionary_preTf_dress_b4e0e712:
 
     # DROS "Oh fuck yes, [dros_player_ref!t]! I'm cumming too! I'm cumming so hard!"
-    DROS "ああっ…イッちゃう、あなた!
-すごくイクの…!"
+    DROS "ああっ…イッちゃう、あなた!すごくイクの…!"
 
 # game/data/sexy_scenes/dros/galleryLabels/missionary.rpy:162
 translate ja gallery_dros_missionary_postTf_naked_b4e0e712:
 
     # DROS "Oh fuck yes, [dros_player_ref!t]! I'm cumming too! I'm cumming so hard!"
-    DROS "ああっ…イッちゃう、あなた!
-すごくイクの…!"
+    DROS "ああっ…イッちゃう、あなた!すごくイクの…!"
 
 # game/data/sexy_scenes/dros/galleryLabels/missionary.rpy:203
 translate ja gallery_dros_missionary_postTf_dress_b4e0e712:
 
     # DROS "Oh fuck yes, [dros_player_ref!t]! I'm cumming too! I'm cumming so hard!"
-    DROS "ああっ…イッちゃう、あなた!
-すごくイクの…!"
+    DROS "ああっ…イッちゃう、あなた!すごくイクの…!"
 

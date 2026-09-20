@@ -4,193 +4,193 @@
 translate de rom_FirstDanceGrind_4c157fd2:
 
     # "Come dusk I entered the room, Elena smiled as she rose up from the bed and stepped towards me."
-    "Come dusk I entered the room, Elena smiled as she rose up from the bed and stepped towards me."
+    "Als die Dämmerung hereinbrach, betrat ich das Zimmer; Elena lächelte, als sie vom Bett aufstand und auf mich zukam."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:11
 translate de rom_FirstDanceGrind_4f6572b3:
 
     # ELENA @ lewd "I'm so glad you came..."
-    ELENA @ lewd "I'm so glad you came..."
+    ELENA @ lewd "Ich bin so froh, dass du gekommen bist ..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:12
 translate de rom_FirstDanceGrind_7bf6cf1a:
 
     # "She said softly, my eyes wandering up and down her body and the lingerie she wore."
-    "She said softly, my eyes wandering up and down her body and the lingerie she wore."
+    "Sagte sie leise, während meine Blicke über ihren Körper und die Unterwäsche, die sie trug, wanderten."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:13
 translate de rom_FirstDanceGrind_57477c52:
 
     # ELENA @ lewd "Umm, do you like it?"
-    ELENA @ lewd "Umm, do you like it?"
+    ELENA @ lewd "Ähm, gefällt es dir?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:19
 translate de rom_FirstDanceGrind_4ccb06e4:
 
     # "Elena did as she was asked, turning away as my eyes stared at her cute ass."
-    "Elena did as she was asked, turning away as my eyes stared at her cute ass."
+    "Elena tat, wie ihr geheißen, und drehte sich weg, während meine Augen auf ihren niedlichen Hintern starrten."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:20
 translate de rom_FirstDanceGrind_65612162:
 
     # ELENA "...Satisfied?"
-    ELENA "...Satisfied?"
+    ELENA "...Zufrieden?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:21
 translate de rom_FirstDanceGrind_84f24784:
 
     # MC @ smile "Very, you can turn back around now."
-    MC @ smile "Very, you can turn back around now."
+    MC @ smile "Sehr, du kannst dich jetzt wieder umdrehen."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:24
 translate de rom_FirstDanceGrind_766b44e6:
 
     # "Elena turned back to face me, cheeks red as she did so."
-    "Elena turned back to face me, cheeks red as she did so."
+    "Elena drehte sich wieder zu mir um, ihre Wangen waren dabei rot."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:26
 translate de rom_FirstDanceGrind_adb0362a:
 
     # ELENA @ lewd "Ah, thank you."
-    ELENA @ lewd "Ah, thank you."
+    ELENA @ lewd "Ah, danke."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:27
 translate de rom_FirstDanceGrind_35904970:
 
     # ELENA @ talk "I really like how it looks on me."
-    ELENA @ talk "I really like how it looks on me."
+    ELENA @ talk "Ich mag wirklich, wie es an mir aussieht."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:28
 translate de rom_FirstDanceGrind_5dd306c1:
 
     # "For a moment, there was an awkward pause between us before Elena, blushing and eyes still avoiding mine, stepped forward."
-    "For a moment, there was an awkward pause between us before Elena, blushing and eyes still avoiding mine, stepped forward."
+    "Für einen Moment gab es eine verlegene Pause zwischen uns, bevor Elena, errötend und mit den Augen immer noch meinen ausweichend, einen Schritt nach vorne machte."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:29
 translate de rom_FirstDanceGrind_6f198ba0:
 
     # ELENA @ lewd "Sit... Sit down on the bed for me."
-    ELENA @ lewd "Sit... Sit down on the bed for me."
+    ELENA @ lewd "Setz dich... Setz dich für mich aufs Bett."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:30
 translate de rom_FirstDanceGrind_9b03881a:
 
     # MC @ surprised "Elena, are we-"
-    MC @ surprised "Elena, are we-"
+    MC @ surprised "Elena, sind wir-"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:31
 translate de rom_FirstDanceGrind_3f406c51:
 
     # ELENA @ talk "You'll see, just trust me."
-    ELENA @ talk "You'll see, just trust me."
+    ELENA @ talk "Du wirst sehen, vertrau mir einfach."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:37
 translate de rom_FirstDanceGrind_018c2a85:
 
     # "Sat down on the bed, I watched as Elena began to slowly dance for me."
-    "Sat down on the bed, I watched as Elena began to slowly dance for me."
+    "Auf dem Bett sitzend, sah ich zu, wie Elena langsam für mich zu tanzen begann."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:38
 translate de rom_FirstDanceGrind_403cdc3e:
 
     # "Her eyes hungrily looked towards me as she swayed her hips back and forth hypnotically."
-    "Her eyes hungrily looked towards me as she swayed her hips back and forth hypnotically."
+    "Ihre Augen blickten hungrig zu mir, während sie ihre Hüften hypnotisch hin und her schwang."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:39
 translate de rom_FirstDanceGrind_2d09f75f:
 
     # ELENA "{i}Watch me...{/i}"
-    ELENA "{i}Watch me...{/i}"
+    ELENA "{i}Schau mir zu...{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:40
 translate de rom_FirstDanceGrind_d26ef4a2:
 
     # "She said softly, her hot breath against the cool air."
-    "She said softly, her hot breath against the cool air."
+    "Sagte sie leise, ihr heißer Atem gegen die kühle Luft."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:41
 translate de rom_FirstDanceGrind_11b71a7f:
 
     # "With my cock hardening as I watched her, I reached down and began to stroke myself watching to her, eyes wandering down her body."
-    "With my cock hardening as I watched her, I reached down and began to stroke myself watching to her, eyes wandering down her body."
+    "Während mein Schwanz hart wurde, als ich sie ansah, griff ich nach unten und begann, mich selbst zu streicheln, während ich zu ihr sah, meine Augen wanderten über ihren Körper."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:42
 translate de rom_FirstDanceGrind_f1f544af:
 
     # "Her nipples hardened as thin trails of sweat began to drip down off her, glistening in the light."
-    "Her nipples hardened as thin trails of sweat began to drip down off her, glistening in the light."
+    "Ihre Nippel wurden hart, als dünne Schweißrinnsale von ihr zu tropfen begannen, im Licht glitzernd."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:43
 translate de rom_FirstDanceGrind_78393468:
 
     # "Elena's eyes stared at the hard member in front of her as she continued her hypnotic dance, biting at her lower lip in excitement."
-    "Elena's eyes stared at the hard member in front of her as she continued her hypnotic dance, biting at her lower lip in excitement."
+    "Elenas Augen starrten auf das harte Glied vor ihr, während sie ihren hypnotischen Tanz fortsetzte und aufgeregt an ihrer Unterlippe knabberte."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:44
 translate de rom_FirstDanceGrind_d7ad2c55:
 
     # ELENA "{i}That's it... Keep watching me.{/i}"
-    ELENA "{i}That's it... Keep watching me.{/i}"
+    ELENA "{i}Das ist es... Schau mich weiter an.{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:45
 translate de rom_FirstDanceGrind_314b3220:
 
     # ELENA "Don't look away."
-    ELENA "Don't look away."
+    ELENA "Schau nicht weg."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:46
 translate de rom_FirstDanceGrind_ac3283ff:
 
     # "Elena let out a hot, nervous moan as she slowly began to turn away from me."
-    "Elena let out a hot, nervous moan as she slowly began to turn away from me."
+    "Elena stieß ein heißes, nervöses Stöhnen aus, als sie sich langsam von mir abzuwenden begann."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:50
 translate de rom_FirstDanceGrind_7e092cb6:
 
     # "Elena turned around, still continuing to sway her hips as my eyes stared at her ass."
-    "Elena turned around, still continuing to sway her hips as my eyes stared at her ass."
+    "Elena drehte sich um, wobei sie immer noch ihre Hüften wiegte, während meine Augen auf ihren Hintern starrten."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:51
 translate de rom_FirstDanceGrind_6c3be7db:
 
     # "Looking over her shoulder to continue watching me, she smiled coyly."
-    "Looking over her shoulder to continue watching me, she smiled coyly."
+    "Sie blickte über ihre Schulter, um mich weiter anzusehen, und lächelte verschmitzt."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:52
 translate de rom_FirstDanceGrind_123939cd:
 
     # ELENA "{i}I like seeing how hard I make you...{/i}"
-    ELENA "{i}I like seeing how hard I make you...{/i}"
+    ELENA "{i}Ich mag es zu sehen, wie hart ich dich mache...{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:53
 translate de rom_FirstDanceGrind_24845567:
 
     # "She purred sultrily, gently continuing to sway her hips back and forth."
-    "She purred sultrily, gently continuing to sway her hips back and forth."
+    "Sie schnurrte verführerisch und wiegte sanft weiter ihre Hüften hin und her."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:54
 translate de rom_FirstDanceGrind_e164fcb6:
 
     # ELENA "I want you to {i}always{/i} be like that when you see me from now on."
-    ELENA "I want you to {i}always{/i} be like that when you see me from now on."
+    ELENA "Ich möchte, dass du von nun an {i}immer{/i} so bist, wenn du mich siehst."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:55
 translate de rom_FirstDanceGrind_35a76594:
 
     # ELENA "I want to be able to just brush up against you and you're harder than a rock."
-    ELENA "I want to be able to just brush up against you and you're harder than a rock."
+    ELENA "Ich möchte mich nur an dich schmiegen können und du bist härter als Stein."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:56
 translate de rom_FirstDanceGrind_a2b52af1:
 
     # ELENA "{i}I want just my scent alone to drive you wild...{/i}"
-    ELENA "{i}I want just my scent alone to drive you wild...{/i}"
+    ELENA "{i}Ich möchte, dass allein mein Duft dich wahnsinnig macht ...{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:57
 translate de rom_FirstDanceGrind_f4121ae3:
 
     # ELENA "{i}I want to be like this, teasing you even in your dreams~{/i}"
-    ELENA "{i}I want to be like this, teasing you even in your dreams~{/i}"
+    ELENA "{i}Ich möchte so sein und dich sogar in deinen Träumen necken~{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:58
 translate de rom_FirstDanceGrind_8694c705:
@@ -208,73 +208,73 @@ translate de rom_FirstDanceGrind_afac7bab:
 translate de rom_FirstDanceGrind_051655e9:
 
     # "Elena, encouraged as she watched me stroke myself faster to her, slowly bent forward teasingly for me."
-    "Elena, encouraged as she watched me stroke myself faster to her, slowly bent forward teasingly for me."
+    "Elena, ermutigt, während sie zusah, wie ich mich für sie schneller befriedigte, beugte sich langsam neckend für mich vor."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:64
 translate de rom_FirstDanceGrind_afd50998:
 
     # "As I furiously stroked at my cock in excitement, eyes transfixed on what was in front of me, Elena continued to tease."
-    "As I furiously stroked at my cock in excitement, eyes transfixed on what was in front of me, Elena continued to tease."
+    "Während ich vor Aufregung heftig meinen Schwanz rieb und den Blick starr auf das richtete, was vor mir war, neckte Elena weiter."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:65
 translate de rom_FirstDanceGrind_919d14cd:
 
     # ELENA "{i}Y-Yes... K-Keep doing that.{/i}"
-    ELENA "{i}Y-Yes... K-Keep doing that.{/i}"
+    ELENA "{i}J-Ja ... M-Mach weiter so.{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:66
 translate de rom_FirstDanceGrind_613f8a33:
 
     # "I felt the rush of adrenaline coursing through me as I stared at Elena's ass, feeling the overwhelming, swelling urge inside of me to leap onto her."
-    "I felt the rush of adrenaline coursing through me as I stared at Elena's ass, feeling the overwhelming, swelling urge inside of me to leap onto her."
+    "Ich spürte den Adrenalinschub, der durch mich hindurchjagte, als ich auf Elenas Hintern starrte, und fühlte den überwältigenden, anschwellenden Drang in mir, auf sie zu springen."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:67
 translate de rom_FirstDanceGrind_02a3e21d:
 
     # "My hot blood burned and coursed through me as the darkness inside me longed to pin her down and force my cock deep into her..."
-    "My hot blood burned and coursed through me as the darkness inside me longed to pin her down and force my cock deep into her..."
+    "Mein heißes Blut brannte und rauschte durch mich, als die Dunkelheit in mir sich danach sehnte, sie niederzudrücken und meinen Schwanz tief in sie zu rammen ..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:68
 translate de rom_FirstDanceGrind_74f18cce:
 
     # "And Elena knew, she knew I wanted that and it only excited her more."
-    "And Elena knew, she knew I wanted that and it only excited her more."
+    "Und Elena wusste es, sie wusste, dass ich das wollte, und es erregte sie nur noch mehr."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:69
 translate de rom_FirstDanceGrind_d1ad4944:
 
     # ELENA "{i}Faster! Faster for me!{/i}"
-    ELENA "{i}Faster! Faster for me!{/i}"
+    ELENA "{i}Schneller! Schneller für mich!{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:70
 translate de rom_FirstDanceGrind_aa66d363:
 
     # "Letting out a trembling hot breath, Elena realized I would not last much longer watching her like this."
-    "Letting out a trembling hot breath, Elena realized I would not last much longer watching her like this."
+    "Mit einem zitternden heißen Atemzug wurde Elena klar, dass ich nicht mehr lange so zusehen könnte."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:71
 translate de rom_FirstDanceGrind_db77e345:
 
     # ELENA "Poor thing... How irresponsible of me."
-    ELENA "Poor thing... How irresponsible of me."
+    ELENA "Armes Ding... Wie unverantwortlich von mir."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:72
 translate de rom_FirstDanceGrind_f76ca149:
 
     # ELENA "Getting you so excited like this."
-    ELENA "Getting you so excited like this."
+    ELENA "Dich so aufzuregen."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:76
 translate de rom_FirstDanceGrind_94bce220:
 
     # ELENA "Well... This just won't do, will it?"
-    ELENA "Well... This just won't do, will it?"
+    ELENA "Nun... So geht das nicht, oder?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:77
 translate de rom_FirstDanceGrind_8b5bd3d8:
 
     # MC "Elena? What are you-"
-    MC "Elena? What are you-"
+    MC "Elena? Was machst du-"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:78
 translate de rom_FirstDanceGrind_5dc3baef:
@@ -286,7 +286,7 @@ translate de rom_FirstDanceGrind_5dc3baef:
 translate de rom_FirstDanceGrind_2d0e0483:
 
     # ELENA "How about {i}*Huff*{/i} this?"
-    ELENA "How about {i}*Huff*{/i} this?"
+    ELENA "Wie wäre es mit {i}*Huff*{/i} dem hier?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:86
 translate de rom_FirstDanceGrind_8424ee74:
@@ -298,7 +298,7 @@ translate de rom_FirstDanceGrind_8424ee74:
 translate de rom_FirstDanceGrind_3e0c4fc7:
 
     # ELENA "Shhh, just - {i}*Huff*{/i} enjoy it!"
-    ELENA "Shhh, just - {i}*Huff*{/i} enjoy it!"
+    ELENA "Pscht, einfach - {i}*Huff*{/i} genieß es!"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:88
 translate de rom_FirstDanceGrind_4fa18d23:
@@ -310,37 +310,37 @@ translate de rom_FirstDanceGrind_4fa18d23:
 translate de rom_FirstDanceGrind_9eda083c:
 
     # ELENA "Gods, you feel so good to rub against like this...!"
-    ELENA "Gods, you feel so good to rub against like this...!"
+    ELENA "Götter, du fühlst dich so gut an, wenn man sich so an dir reibt...!"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:90
 translate de rom_FirstDanceGrind_5504a7b4:
 
     # "Elena's hot wet cunt continued to slide along my cock, coating it in her juices as she grinded against me."
-    "Elena's hot wet cunt continued to slide along my cock, coating it in her juices as she grinded against me."
+    "Elena's heiße, feuchte Muschi glitt weiter an meinem Schwanz entlang und überzog ihn mit ihren Säften, während sie sich an mir rieb."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:91
 translate de rom_FirstDanceGrind_b456b9c0:
 
     # "The warm sensation of her felt incredible, and I soon found myself desperate to reach out and grab her, forcing myself deeply into her tight body."
-    "The warm sensation of her felt incredible, and I soon found myself desperate to reach out and grab her, forcing myself deeply into her tight body."
+    "Das warme Gefühl von ihr war unglaublich, und bald ertappte ich mich dabei, wie ich verzweifelt danach griff, sie zu packen und mich tief in ihren engen Körper zu zwingen."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:92
 translate de rom_FirstDanceGrind_56e81e5a:
 
     # ELENA "Y-You need to - {i}*Huff*{/i}"
-    ELENA "Y-You need to - {i}*Huff*{/i}"
+    ELENA "D-Du musst - {i}*Keuch*{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:93
 translate de rom_FirstDanceGrind_79fd0448:
 
     # ELENA "Masturbate thinking about this after {i}*Huff*{/i} o-okay?"
-    ELENA "Masturbate thinking about this after {i}*Huff*{/i} o-okay?"
+    ELENA "Masturbier und denk an das hier, {i}*Keuch*{/i} o-okay?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:94
 translate de rom_FirstDanceGrind_fa3c20b8:
 
     # ELENA "Mmhmfghh...! So good!"
-    ELENA "Mmhmfghh...! So good!"
+    ELENA "Mmhmfghh...! So gut!"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:95
 translate de rom_FirstDanceGrind_5e3e1955:
@@ -352,31 +352,31 @@ translate de rom_FirstDanceGrind_5e3e1955:
 translate de rom_FirstDanceGrind_734cb7d8:
 
     # MC "I can't - Grghh! Hold back much longer!"
-    MC "I can't - Grghh! Hold back much longer!"
+    MC "Ich kann nicht - Grghh! Noch viel länger an mich halten!"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:97
 translate de rom_FirstDanceGrind_1fe1cfac:
 
     # ELENA "D-Do it!"
-    ELENA "D-Do it!"
+    ELENA "M-Mach es!"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:98
 translate de rom_FirstDanceGrind_a25e45a6:
 
     # ELENA "Just let it go and cum for me!"
-    ELENA "Just let it go and cum for me!"
+    ELENA "Lass es einfach los und komm für mich!"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:99
 translate de rom_FirstDanceGrind_9a0b3a9e:
 
     # ELENA "{i}I want you to cum for me!{/i}"
-    ELENA "{i}I want you to cum for me!{/i}"
+    ELENA "{i}Ich will, dass du für mich kommst!{/i}"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:100
 translate de rom_FirstDanceGrind_e6ade559:
 
     # "Unable to hold back any longer, I grunted as I released the first coat of my seed."
-    "Unable to hold back any longer, I grunted as I released the first coat of my seed."
+    "Unfähig, mich länger zurückzuhalten, grunzte ich, als ich den ersten Schuss meines Samens freisetzte."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:106
 translate de rom_FirstDanceGrind_a365d070:
@@ -388,85 +388,85 @@ translate de rom_FirstDanceGrind_a365d070:
 translate de rom_FirstDanceGrind_5914578d:
 
     # "After being totally drained by Elena, I began to feel myself sink into the comforts of the beds quilts."
-    "After being totally drained by Elena, I began to feel myself sink into the comforts of the beds quilts."
+    "Nachdem ich von Elena völlig ausgelaugt war, begann ich, in den Komfort der Bettdecken zu sinken."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:113
 translate de rom_FirstDanceGrind_cf596ccb:
 
     # ELENA "{i}*Huff*{/i} Yes... That's it."
-    ELENA "{i}*Huff*{/i} Yes... That's it."
+    ELENA "{i}*Keuch*{/i} Ja... Genau so."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:114
 translate de rom_FirstDanceGrind_d49da58f:
 
     # ELENA "Just like that..."
-    ELENA "Just like that..."
+    ELENA "Genau so..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:115
 translate de rom_FirstDanceGrind_e34a4b61:
 
     # ELENA "Oh my, I really did all that?"
-    ELENA "Oh my, I really did all that?"
+    ELENA "Oh mein, habe ich das wirklich alles getan?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:116
 translate de rom_FirstDanceGrind_b9cd814f:
 
     # MC "{i}*Huff*{/i} Elena..."
-    MC "{i}*Huff*{/i} Elena..."
+    MC "{i}*Keuch*{/i} Elena..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:117
 translate de rom_FirstDanceGrind_eccbaa8f:
 
     # ELENA "Mmmm, we should {i}definitely{/i} do this again sometime."
-    ELENA "Mmmm, we should {i}definitely{/i} do this again sometime."
+    ELENA "Mmmm, wir sollten das {i}definitiv{/i} irgendwann wieder machen."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:120
 translate de rom_FirstDanceGrind_d981b93a:
 
     # "After that, I slowly rose back to my feet as Elena beamed pridefully at her handywork."
-    "After that, I slowly rose back to my feet as Elena beamed pridefully at her handywork."
+    "Danach erhob ich mich langsam wieder auf die Füße, während Elena stolz auf ihr Werk strahlte."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:125
 translate de rom_FirstDanceGrind_a20956bf:
 
     # ELENA @ talk "Soooo..."
-    ELENA @ talk "Soooo..."
+    ELENA @ talk "Alsoooo..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:126
 translate de rom_FirstDanceGrind_c544ba2f:
 
     # ELENA @ talk "Was it worth it?"
-    ELENA @ talk "Was it worth it?"
+    ELENA @ talk "War es das wert?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:127
 translate de rom_FirstDanceGrind_4c77d77e:
 
     # MC @ talk "Very much so."
-    MC @ talk "Very much so."
+    MC @ talk "Und wie."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:128
 translate de rom_FirstDanceGrind_adc54d3f:
 
     # ELENA @ talk "I know you want more, but..."
-    ELENA @ talk "I know you want more, but..."
+    ELENA @ talk "Ich weiß, dass du mehr willst, aber..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:129
 translate de rom_FirstDanceGrind_e00d0f43:
 
     # ELENA @ talk "I still need to wrap my head around all that, okay?"
-    ELENA @ talk "I still need to wrap my head around all that, okay?"
+    ELENA @ talk "Ich muss das alles erst noch verarbeiten, okay?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:130
 translate de rom_FirstDanceGrind_694ff077:
 
     # MC @ talk "That's alright Elena... When you're ready, I'll be here."
-    MC @ talk "That's alright Elena... When you're ready, I'll be here."
+    MC @ talk "Das ist in Ordnung, Elena... Wenn du bereit bist, bin ich hier."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:131
 translate de rom_FirstDanceGrind_0f3a4110:
 
     # "Elena smiled at the comment, leaping forward to once again kiss me excitedly."
-    "Elena smiled at the comment, leaping forward to once again kiss me excitedly."
+    "Elena lächelte über die Bemerkung, sprang vorwärts, um mich erneut aufgeregt zu küssen."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:137
 translate de rom_FirstDanceGrind_89efecd2:
@@ -478,37 +478,37 @@ translate de rom_FirstDanceGrind_89efecd2:
 translate de rom_FirstDanceGrind_b1ef6ef1:
 
     # "Elena quickly pulled away."
-    "Elena quickly pulled away."
+    "Elena zog sich schnell zurück."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:139
 translate de rom_FirstDanceGrind_ffce4c4a:
 
     # ELENA @ talk "Can... I maybe cuddle in the bed with you tonight instead of sleeping on the floor?"
-    ELENA @ talk "Can... I maybe cuddle in the bed with you tonight instead of sleeping on the floor?"
+    ELENA @ talk "Kann... ich heute Nacht vielleicht mit dir im Bett kuscheln, anstatt auf dem Boden zu schlafen?"
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:140
 translate de rom_FirstDanceGrind_c57bd824:
 
     # MC @ talk "Of course, Elena..."
-    MC @ talk "Of course, Elena..."
+    MC @ talk "Natürlich, Elena..."
 
 # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:141
 translate de rom_FirstDanceGrind_a91bff28:
 
     # "Elena smiled, and the warmth and love radiating from her, so infectious, made me smile too."
-    "Elena smiled, and the warmth and love radiating from her, so infectious, made me smile too."
+    "Elena lächelte, und die Wärme und Liebe, die von ihr ausstrahlte, so ansteckend, brachte auch mich zum Lächeln."
 
 translate de strings:
 
     # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:4
     old "Regina's Room"
-    new "Regina's Room"
+    new "Reginas Zimmer"
 
     # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:15
     old "Turn around, I want to look at the back first"
-    new "Turn around, I want to look at the back first"
+    new "Dreh dich um, ich möchte mir zuerst den Rücken ansehen."
 
     # game/data/world_romance/elena/scr_5_FirstDanceGrind.rpy:25
     old "You look amazing."
-    new "You look amazing."
+    new "Du siehst umwerfend aus."
 

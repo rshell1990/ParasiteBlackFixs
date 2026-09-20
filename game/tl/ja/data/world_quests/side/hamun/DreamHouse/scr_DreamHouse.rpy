@@ -450,13 +450,6 @@ translate ja qst_dreamhouse_enter_manor_menu3_f85862f1:
     # ANYA @ talk "No matter what happens, I know he wouldn't want to hurt her!"
     ANYA @ talk "何があっても、彼が彼女を傷つけたいとは思わないと分かってる！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:151
-translate ja qst_dreamhouse_enter_manor_menu3_fbe08f8e:
-
-    # "Can you tell me more about why you separated from your husband?"
-    "なぜ夫と別れたのか、もう少し教えてもらえますか？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:152
 translate ja qst_dreamhouse_enter_manor_menu3_a75f67f7:
 
     # ANYA @ sad "To be married to an inquisitor isn't an easy thing."
@@ -1944,19 +1937,6 @@ translate ja qst_dreamhouse_l2_start_0c6c5de5:
     # "... An inquisitor?"
     "…審問官？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:704
-translate ja qst_dreamhouse_l2_start_e1f057db:
-
-    # DAVIK "Who the fuck are you?!"
-    DAVIK "お前らは何者だ？！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:705
-translate ja qst_dreamhouse_l2_start_26123b51:
-
-    # DAVIK "Help me! QUICKLY!"
-    DAVIK "助けてくれ！早く！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:706
 translate ja qst_dreamhouse_l2_start_d2876313:
 
     # "Before I could answer him, hurling itself around the corner, came a horde of walking corpses."
@@ -1968,31 +1948,11 @@ translate ja qst_dreamhouse_l2_start_a2f921c8:
     # "I barely had time to reach for my sword before they were upon us!"
     "剣に手を伸ばす間もほとんどなく、彼らは私たちに襲いかかってきた！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:714
-translate ja qst_dreamhouse_l2_start_08d46b3d:
-
-    # "Slaying the last of the creatures with a clean swipe to sever its head, I turned towards Davik."
-    "最後のクリーチャーの首を綺麗な一振りで切り落とし、私はダヴィクに向き直った。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:720
 translate ja qst_dreamhouse_l2_start_ef2310fb:
 
     # MC @ serious "What in the hells is this?"
     MC @ serious "これは一体何なんだ？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:721
-translate ja qst_dreamhouse_l2_start_1876686f:
-
-    # DAVIK "Ahhh! Damn things tore right through my armour..."
-    DAVIK "あああ！クソどもが鎧を引き裂きやがった…"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:722
-translate ja qst_dreamhouse_l2_start_c0a019f3:
-
-    # DAVIK "My name is Davik."
-    DAVIK "俺の名はダヴィクだ。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:723
 translate ja qst_dreamhouse_l2_start_5f66bb5c:
 
     # DAVIK "Who sent you? You people shouldn't be here!"
@@ -2322,13 +2282,6 @@ translate ja qst_dreamhouse_l2_start_menu_e1c93801:
     # KIARA @ scared "Sure... As long as we don't get eaten first."
     KIARA @ scared "そうね…先に食べられなければね。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:802
-translate ja qst_dreamhouse_l2_bathtub_d56cf1ec:
-
-    # "It tilted its head towards me as I drew my blade!"
-    "私が剣を抜くと、それは首をかしげて私を見た！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:812
 translate ja qst_dreamhouse_l2_bathtub_e44e84bf:
 
     # "I noticed something shimmer in the mixed blood water of the bath."
@@ -2358,37 +2311,6 @@ translate ja qst_dreamhouse_l2_mirror_665c1b26:
     # "Looks like there was a struggle in here."
     "ここで争いがあったようだ。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:833
-translate ja qst_dreamhouse_l2_bathtub_afterbattle_39e9d55f:
-
-    # "Looks like a mercenary... Maybe one of Davik's men?"
-    "傭兵のように見える…ダヴィクの部下の一人か？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:834
-translate ja qst_dreamhouse_l2_bathtub_afterbattle_e44e84bf:
-
-    # "I noticed something shimmer in the mixed blood water of the bath."
-    "血の混じった風呂の水の中で何かがきらめいているのに気づいた。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:837
-translate ja qst_dreamhouse_l2_bathtub_afterbattle_427359f5:
-
-    # "Shoving my hand into the bloody water, I pulled out a small, dull key."
-    "血の混じった水に手を突っ込むと、小さくて鈍い鍵を取り出した。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:840
-translate ja qst_dreamhouse_l2_bathtub_afterbattle_854dd011:
-
-    # KIARA @ scared "I think I might be sick..."
-    KIARA @ scared "吐きそうかも…"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:843
-translate ja qst_dreamhouse_l2_bathtub_afterbattle_dd99af82:
-
-    # "(No way am I putting my hand in that.)"
-    "（絶対にそんな中に手を入れたくない。）"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:849
 translate ja qst_dreamhouse_l2_nursery_oneoff_aec2ef82:
 
     # "Entering the room, the twisted corpses inside turned their attention towards us."
@@ -2742,19 +2664,6 @@ translate ja qst_dreamhouse_l2_library_bookshelf_1_29465ee2:
     # "The pages were ruined and covered in blood."
     "ページは台無しで血に覆われていた。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1058
-translate ja qst_dreamhouse_l2_library_bookshelf_2_2612ac88:
-
-    # "There's a depicion of what seemed to be a dead servant boy in bed... He appeared to have thrown up blood."
-    "ベッドの中で死んだ使用人の少年と思われる描写がある…彼は血を吐いたようだ。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1063
-translate ja qst_dreamhouse_l2_library_portrait_0a77bcf4:
-
-    # "... Just what kind of nightmares did this girl have?"
-    "…この娘はいったいどんな悪夢を見ていたんだ？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1064
 translate ja qst_dreamhouse_l2_library_portrait_dcac9c61:
 
     # "There's no keyhole this time."
@@ -3930,13 +3839,6 @@ translate ja qst_dreamhouse_l4_start_2c5a85f6:
     # KIARA @ talk "It's best just not to think about it too much, alright?"
     KIARA @ talk "あまり深く考えないのが一番よ、いい？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1603
-translate ja qst_dreamhouse_l4_start_7f338908:
-
-    # SYPHA @ happy "How'd you know about mother?"
-    SYPHA @ happy "母さんのことをどうして知ってるの？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1604
 translate ja qst_dreamhouse_l4_start_ebebed92:
 
     # "I couldn't help but burst out laughing at the comment."
@@ -4458,37 +4360,6 @@ translate ja qst_dreamhouse_l4_boarhead_9c609144:
     # "(The mounted head of a boar.)"
     "（剥製にされた猪の頭。）"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1819
-translate ja qst_dreamhouse_l4_portrait_fa37640b:
-
-    # MARKUS @ smile "Look, Sypha!"
-    MARKUS @ smile "見ろ、サイファ！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1820
-translate ja qst_dreamhouse_l4_portrait_4857ee3d:
-
-    # MARKUS @ smile "Bring back any fond childhood memories?"
-    MARKUS @ smile "懐かしい子供時代の思い出が蘇るか？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1821
-translate ja qst_dreamhouse_l4_portrait_645b522e:
-
-    # SYPHA @ talk "Sure it does!"
-    SYPHA @ talk "もちろん！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1822
-translate ja qst_dreamhouse_l4_portrait_511d8b08:
-
-    # SYPHA @ happy "But we have much more creative ways of torturing wretches like you than that!"
-    SYPHA @ happy "でもお前みたいな哀れな奴を拷問するもっと創造的な方法ならたくさんある！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1823
-translate ja qst_dreamhouse_l4_portrait_9810f3c2:
-
-    # MARKUS @ talk "Charming..."
-    MARKUS @ talk "素敵だな…"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1831
 translate ja qst_dreamhouse_l4_kitchen_cupboards_d12fde13:
 
     # "Upon opening the cupboards, I find they are fully stocked."
@@ -4614,13 +4485,6 @@ translate ja qst_dreamhouse_l4_cellar_barrel_menu_8e30331e:
     # "The floating, tendriled creature suddenly lashed out!"
     "浮遊する触手を持ったクリーチャーが突然襲いかかってきた！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1901
-translate ja qst_dreamhouse_l4_cellar_barrel_menu_c820f137:
-
-    # "Dropping dead to the floor, its eye torn open by my blade, and inside... a demon-shaped key."
-    "床に死んで落ち、その目は私の刃で切り裂かれ、中には…悪魔の形の鍵があった。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1906
 translate ja qst_dreamhouse_l4_cellar_barrel_menu_6aadb649:
 
     # "Opening up the barrel, a small burst of needles came flying out."
@@ -4644,13 +4508,6 @@ translate ja qst_dreamhouse_l4_cellar_barrel_menu_f5fb20fe:
     # SYPHA @ angry "Careful..."
     SYPHA @ angry "気をつけて…"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1911
-translate ja qst_dreamhouse_l4_cellar_barrel_menu_cb4a12ec:
-
-    # "Inside, a key with a demon-shaped end."
-    "中には、悪魔の形をした先端の鍵。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1917
 translate ja qst_dreamhouse_l4_cellar_barrel_menu_2d96ca42:
 
     # MC @ surprised "GAHH!"
@@ -4932,13 +4789,6 @@ translate ja qst_dreamhouse_l4_library_bookshelf_2_menu_7b0b2236:
     # "I've never even seen this man before in my life?"
     "人生でこの男を見たことすらないのに？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2027
-translate ja qst_dreamhouse_l4_library_portrait_20de2b90:
-
-    # "... Hmm."
-    "…ふむ。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2044
 translate ja qst_dreamhouse_l5_start_352f5d88:
 
     # "As we pushed on once more through the bright light, we found ourselves again in the entrance hallway of the house,"
@@ -5430,13 +5280,6 @@ translate ja qst_dreamhouse_final_housescene_d1be9a81:
     # "The nightmare creature retreated, pushed back into the darkness from which it tore through."
     "悪夢のクリーチャーは退却し、そこから引き裂いて出てきた闇の中へと押し戻された。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2287
-translate ja qst_dreamhouse_final_housescene_d9e970d3:
-
-    # "With trembling hands, his body pushed to its absolute limits, the veins in his arms and temples seeming ready to burst at any moment,"
-    "震える手で、体を限界まで押し込み、腕とこめかみの血管がいつ破裂してもおかしくないように見える中、"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2288
 translate ja qst_dreamhouse_final_housescene_c9ab07b2:
 
     # "the great tear was slowly sealed shut, until at last, it was gone."
@@ -5472,13 +5315,6 @@ translate ja qst_dreamhouse_final_housescene_fa694f5d:
     # DAVIK "Serafina! SERAFINA!"
     DAVIK "セラフィナ！セラフィナ！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2294
-translate ja qst_dreamhouse_final_housescene_ba447962:
-
-    # SERAFINA @ shock "Father!"
-    SERAFINA @ shock "お父さん！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2295
 translate ja qst_dreamhouse_final_housescene_af99b283:
 
     # DAVIK "Are you alright, girl?"
@@ -5562,13 +5398,6 @@ translate ja qst_dreamhouse_final_housescene_2e1f113b:
     # "Slowly, the dark mage rose back to his feet."
     "ゆっくりと、闇の魔導士は立ち上がった。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2310
-translate ja qst_dreamhouse_final_housescene_e74cc5a9:
-
-    # VIRGO "Bring the girl back to her mothers, or let me take the girl as an apprentice."
-    VIRGO "娘を母親の元に戻すか、私が娘を弟子として引き取るかだ。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2311
 translate ja qst_dreamhouse_final_housescene_56420d6a:
 
     # DAVIK "ARE YOU INSANE?"
@@ -7074,31 +6903,6 @@ translate ja qst_dreamhouse_enter_house_d144812f_1:
     # "{i}Silence.{/i}"
     "{i}静寂。{/i}"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:811
-translate ja qst_dreamhouse_l2_bathtub_ca772e26:
-
-    # "Entering the bathroom, a man lay dead in the tub, half-eaten as a strange specter appeared to be laping up his blood."
-    "浴室に入ると、男が浴槽の中で死んで横たわっており、半分食べられていて、奇妙な亡霊が彼の血を舐め取っているように見えた。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:819
-translate ja qst_dreamhouse_l2_bathtub_8e572365:
-
-    # MC @ surprised "Was that a fucking ghost?!"
-    MC @ surprised "あれはクソ幽霊だったのか？！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:820
-translate ja qst_dreamhouse_l2_bathtub_2d14ed26:
-
-    # KIARA @ scared "No, no, no, no, no!"
-    KIARA @ scared "いや、いや、いや、いや、いや！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:821
-translate ja qst_dreamhouse_l2_bathtub_05a808cd:
-
-    # KIARA @ scared "You've got to be kidding me!"
-    KIARA @ scared "冗談でしょ！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2511
 translate ja qst_dreamhouse_conclusion_serafina_father_06e1034f:
 
     # ANYA @ sad "No!"
@@ -7857,4 +7661,3 @@ translate ja qst_dreamhouse_final_housescene_39f0c626:
 
     # VIRGO "Bring the girl back to her mothers and let me take the girl as an apprentice."
     VIRGO "娘を母たちの元に連れ戻し、そして私がこの娘を弟子として預からせてもらおう。"
-

@@ -1,164 +1,114 @@
 init python:
-    class BattleCharClass:
-        def __init__(self, StoryChar, CharID, BattleSide, IsTransformed = False):
-            self.CharID = CharID # stored only for player party health restore thing
-            self.CharRef = StoryChar
-            self.CharRef["BattleChar"] = self
-
-            self.BattleSide = BattleSide # 0 left 1 right
-
-            self.IsAlive = True
-
+    class BattleChar(object):
+        def __init__(self, CharRef, CharID, BattleSide = 0, IsTransformed = False):
+            self.CharRef = CharRef
+            self.CharID = CharID
+            self.BattleSide = BattleSide
+            self.IsTransformed = IsTransformed
+            self.SpriteTag = "battle_char_%s_%s_%s" % (BattleSide, CharID, id(self))
             self.StatusEffects = []
-
-            self.SpriteTag = "BattleCharSprite_%s" % id(self)
-            self.SpriteZorder = 0 # will be 0-10-20-30 dep on position
-            self.HudZorder = 0 # will be spritezorder + 1
+            self.IsAlive = True
             self.PositionSlotIndex = 0
+            self.SpriteZorder = 0
+            self.HudZorder = 0
+            self.AudioChannelsFX = []
+            self.AudioChannelVoice = None
 
-            # instantiate skills to levels here
-            # also apply tf stat eff
-            if IsTransformed:
-                HPRatio = self.Health / self.HealthMax
+            for AttributeName in [
+                "Health", "HealthMax", "Energy", "EnergyMax", "Mana", "ManaMax",
+                "Damage", "Armor", "MagicRes", "AttackRating", "DodgeRating", "CritChance"
+            ]:
+                setattr(self, AttributeName, CharRef.get(AttributeName, 0))
 
-                if CharID in ["mc", "markus"]:
-                    Battle_ApplyStatusEffect(TargetChar = self, StatusEffect = BattleStatusEff_TransformedPara())
-                elif CharID == "elena":
-                    Battle_ApplyStatusEffect(TargetChar = self, StatusEffect = BattleStatusEff_TransformedWolf())
-                Battle_SetBattleCharSkillPool(self, "AltForm")
+            self.Skills = []
+            self.Skill_Attack = None
+            self.Skill_Defend = None
+            self.Skill_ExtraTransform = None
+            self.Skill_ExtraUnTransform = None
 
-                self.Health = ClampValue(math.ceil(self.HealthMax * HPRatio), 1, self.HealthMax)
+    BattleCharClass = BattleChar
+    # use this one if you wanna pass the string itself directly
+    def Battle_AddLogEntry(Entry):
+        BattleScene.LogEntries.append(Entry)
+        return
+
+    # use this one if you wanna automatically replace char names with corresp. colors or such
+    def Battle_AddLogEntry_Autoformat(String = "",
+            USER =                  None,
+            TARGET =                None,
+            PROTECTOR =             None,
+
+            SKILL_NAME =            None,
+            ITEM_NAME =             None,
+
+            DAMAGE_AMOUNT =         None,
+            BLEED_DAMAGE_AMOUNT =   None,
+            BURN_DAMAGE_AMOUNT =    None,
+            POISON_DAMAGE_AMOUNT =  None,
+
+            ABSORB_AMOUNT =         None,
+            HEALTH_RECOVERED =      None,
+            ENERGY_RECOVERED =      None,
+            MANA_STOLEN =           None,
+            HEALTH_STOLEN =         None,
+            
+            SUM_OF_ALLIED_HP =      None,
+            ):
+        assert len(String) > 0, "Log entry must have string passed in"
+        ResultString = String
+        
+        if USER is not None:
+            assert "USER_NAME" in ResultString, "USER is not none for a log string but USER_NAME isnt in the string"
+            user_name = USER.CharRef.get("name", "") if getattr(USER, "CharRef", None) else ""
+            if USER.BattleSide == 0:
+                ResultString = ResultString.replace("USER_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + str(user_name) + "{/color}")
             else:
-                Battle_SetBattleCharSkillPool(self, "Normal")
+                ResultString = ResultString.replace("USER_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + str(user_name) + "{/color}")
 
-            # apply raza seed if its in story mode
-            if StoryCharHasStatusEff(CharID, "RazaEffect"):
-                Battle_ApplyStatusEffect(TargetChar = self, StatusEffect = BattleStatusEff_RazaSeed())
-        
-            self.Skill_Attack = BattleSkill_Attack(Owner_BattleChar = self)
-            self.Skill_Defend = BattleSkill_Defend(Owner_BattleChar = self)
-
-            if StoryChar["HasAltForm"] == True:
-                self.Skill_ExtraTransform = SkillLib[StoryChar["AltForm_TransformSkill"]](Owner_BattleChar = self)
-                self.Skill_ExtraUnTransform = SkillLib[StoryChar["AltForm_UnTransformSkill"]](Owner_BattleChar = self)
+        if TARGET is not None:
+            assert "TARGET_NAME" in ResultString, "TARGET is not none for a log string but TARGET_NAME is not in the string"
+            target_name = TARGET.CharRef.get("name", "") if getattr(TARGET, "CharRef", None) else ""
+            if TARGET.BattleSide == 0:
+                ResultString = ResultString.replace("TARGET_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + str(target_name) + "{/color}")
             else:
-                self.Skill_ExtraTransform = None
-                self.Skill_ExtraUnTransform = None
-
-            self.AudioChannelVoice = "" # str
-            self.AudioChannelsFX = ["", "", ""] # str channel names
-            self.AudioChannelsFX_NextIndex = 0 # int
-
-            self.SkinID_Current = (StoryChar["AltForm_BattleSkin"] if IsTransformed else StoryChar["BattleSkin"])
-            self.SkinID_Normal = StoryChar["BattleSkin"]
-            self.SkinID_AltForm = (StoryChar["AltForm_BattleSkin"] if StoryChar["HasAltForm"] else None)
-
-            self.BattleSkin = None
-            Battle_SetBattleCharSkin(self, self.SkinID_Current)
-###############################################
-######### battle-related stats
-        @property
-        def Damage(self): 
-            if self.BattleSide == 1:
-                ReturnVal = max(int(Battle_GetOutgoingDamageMod(self) * self.CharRef["Damage"] * DIFFICULTY.ENEMYSIDE_DMG[CurrentDifficulty]), 1)
+                ResultString = ResultString.replace("TARGET_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + str(target_name) + "{/color}")
+        
+        if PROTECTOR is not None:
+            assert "PROTECTOR_NAME" in ResultString, "PROTECTOR is not none for a log string but PROTECTOR_NAME is not in the string"
+            protector_name = PROTECTOR.CharRef.get("name", "") if getattr(PROTECTOR, "CharRef", None) else ""
+            if PROTECTOR.BattleSide == 0:
+                ResultString = ResultString.replace("PROTECTOR_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + str(protector_name) + "{/color}")
             else:
-                ReturnVal = max(int(Battle_GetOutgoingDamageMod(self) * self.CharRef["Damage"] * DIFFICULTY.PLAYERSIDE_DMG[CurrentDifficulty]), 1)
-            return ReturnVal
+                ResultString = ResultString.replace("PROTECTOR_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + str(protector_name) + "{/color}")
 
+        if SKILL_NAME is not None:
+            ResultString = ResultString.replace("SKILL_NAME", "{color=[BATTLE_COLORS_LOG.NAME_SKILL]}" + str(SKILL_NAME) + "{/color}")
 
-        @property
-        def DisplayName(self):
-        ####Returns the character's display name, falling back through standard attribute names.
-            if hasattr(self, "Name") and self.Name:
-                return self.Name
-            elif hasattr(self, "char_name") and self.char_name:
-                return self.char_name
-            elif hasattr(self, "CharRef") and isinstance(self.CharRef, dict) and "Name" in self.CharRef:
-                return self.CharRef["Name"]
-            return getattr(self, "CharID", "Unknown")
-        
-        @property
-        def Armor(self):
-            val = self.CharRef["Armor"]
-        
-            for StatusEffect in self.StatusEffects:
-                mod = getattr(StatusEffect, "StatMod_Armor", None)
-                if mod is not None:
-                    val += mod
-                
-            return max(val, 0)
+        if ITEM_NAME is not None:
+            ResultString = ResultString.replace("ITEM_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ITEM]}" + str(ITEM_NAME) + "{/color}")
 
-        @property
-        def MagicRes(self):
-            val = self.CharRef["MagicRes"]
-        
-            for StatusEffect in self.StatusEffects:
-                mod = getattr(StatusEffect, "StatMod_MagicRes", None)
-                if mod is not None:
-                    val += mod
-                
-            return max(val, 0)
+        if DAMAGE_AMOUNT is not None:
+            ResultString = ResultString.replace("DAMAGE_AMOUNT", "{color=[BATTLE_COLORS_LOG.DAMAGE]}" + str(DAMAGE_AMOUNT) + "{/color}")
 
-        @property
-        def AttackRating(self):
-            # Base calculation from underlying character stats
-            val = self.CharRef["AttackRating"]
-        
-            # Apply status effect modifiers safely
-            for StatusEffect in self.StatusEffects:
-                mod = getattr(StatusEffect, "StatMod_AttackRating", None)
-                if mod is not None:
-                    val += mod
-                
-            return max(val, 1)
+        if BLEED_DAMAGE_AMOUNT is not None:
+            ResultString = ResultString.replace("BLEED_DAMAGE_AMOUNT", "{color=[BATTLE_COLORS_LOG.DAMAGE_BLEED]}" + str(BLEED_DAMAGE_AMOUNT) + "{/color}")
+        if POISON_DAMAGE_AMOUNT is not None:
+            ResultString = ResultString.replace("POISON_DAMAGE_AMOUNT", "{color=[BATTLE_COLORS_LOG.DAMAGE_POISON]}" + str(POISON_DAMAGE_AMOUNT) + "{/color}")
+        if BURN_DAMAGE_AMOUNT is not None:
+            ResultString = ResultString.replace("BURN_DAMAGE_AMOUNT", "{color=[BATTLE_COLORS_LOG.DAMAGE_BURN]}" + str(BURN_DAMAGE_AMOUNT) + "{/color}")
 
-        @property
-        def DodgeRating(self):
-            val = self.CharRef["DodgeRating"]
-        
-            for StatusEffect in self.StatusEffects:
-                mod = getattr(StatusEffect, "StatMod_DodgeRating", None)
-                if mod is not None:
-                    val += mod
-                
-            return max(val, 0)
+        if ABSORB_AMOUNT is not None:
+            ResultString = ResultString.replace("ABSORB_AMOUNT", "{color=[BATTLE_COLORS_LOG.DAMAGE]}" + str(ABSORB_AMOUNT) + "{/color}")
+        if HEALTH_RECOVERED is not None:
+            ResultString = ResultString.replace("HEALTH_RECOVERED", "{color=[BATTLE_COLORS_LOG.RESTORE_HEALTH]}" + str(HEALTH_RECOVERED) + "{/color}")
+        if ENERGY_RECOVERED is not None:
+            ResultString = ResultString.replace("ENERGY_RECOVERED", "{color=[BATTLE_COLORS_LOG.RESTORE_ENERGY]}" + str(ENERGY_RECOVERED) + "{/color}")
+        if MANA_STOLEN is not None:
+            ResultString = ResultString.replace("MANA_STOLEN", "{color=[BATTLE_COLORS_LOG.RESTORE_ENERGY]}" + str(MANA_STOLEN) + "{/color}")
+        if HEALTH_STOLEN is not None:
+            ResultString = ResultString.replace("HEALTH_STOLEN", "{color=[BATTLE_COLORS_LOG.RESTORE_HEALTH]}" + str(HEALTH_STOLEN) + "{/color}")
+        if SUM_OF_ALLIED_HP is not None:
+            ResultString = ResultString.replace("SUM_OF_ALLIED_HP", "{color=[BATTLE_COLORS_LOG.RESTORE_HEALTH]}" + str(SUM_OF_ALLIED_HP) + "{/color}")
 
-        @property
-        def CritChance(self):
-            # Base calculation from character stats
-            val = self.CharRef["CritChance"]
-        
-            # Apply status effect modifiers safely
-            for StatusEffect in self.StatusEffects:
-                mod = getattr(StatusEffect, "StatMod_CritChance", None)
-                if mod is not None:
-                    val += mod
-                
-            return max(val, 0)
-        @property
-        def Willpower(self):
-            Val = self.CharRef["derived_Willpower"]
-            return max(round(Val), 1)
-
-###############################################
-######### resources
-        @property
-        def HealthMax(self): return self.CharRef["HealthMax"]
-        @property
-        def Health(self): return self.CharRef["Health"]
-        @Health.setter
-        def Health(self, Value): self.CharRef["Health"] = Value
-
-        @property
-        def EnergyMax(self): return self.CharRef["EnergyMax"]
-        @property
-        def Energy(self): return self.CharRef["Energy"]
-        @Energy.setter
-        def Energy(self, Value): self.CharRef["Energy"] = Value
-
-        @property
-        def ManaMax(self): return self.CharRef["ManaMax"]
-        @property
-        def Mana(self): return self.CharRef["Mana"]
-        @Mana.setter
-        def Mana(self, Value): self.CharRef["Mana"] = Value
+        BattleScene.LogEntries.append(ResultString)
+        return

@@ -64,8 +64,7 @@ translate ja qst_thecomingstorm_valchek_atlucius_initial_eb30d122:
 translate ja qst_thecomingstorm_valchek_atlucius_initial_6c915ee7:
 
     # LUCIUSMAL @ talk "He's practically in hiding, only comes out when he needs to."
-    LUCIUSMAL @ talk "彼は隠居同然だ、
-必要な時だけ出てくるんだ。"
+    LUCIUSMAL @ talk "彼は隠居同然だ、必要な時だけ出てくるんだ。"
 
 # game/data/world_quests/main/Act1/TheComingStorm/scr_TheComingStorm_valchek.rpy:24
 translate ja qst_thecomingstorm_valchek_atlucius_initial_0c4b8281:

@@ -4,5 +4,5 @@ translate de strings:
 
     # game/engine/battle/ui/FloatingText.rpy:55
     old "Crit!"
-    new "Crit!"
+    new "Kritisch!"
 

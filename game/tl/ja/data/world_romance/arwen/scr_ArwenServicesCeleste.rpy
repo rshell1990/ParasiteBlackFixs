@@ -208,8 +208,7 @@ translate ja sexscene_ArwenCelesteChoice_17fcb58d:
 translate ja sexscene_ArwenCelesteChoice_077da7ed:
 
     # ARWEN "What... What are you going to do to me?"
-    ARWEN "な……なに？
-わたしに何をする気ですか。"
+    ARWEN "な……なに？わたしに何をする気ですか。"
 
 # game/data/world_romance/arwen/scr_ArwenServicesCeleste.rpy:63
 translate ja sexscene_ArwenCelesteChoice_b5a99df3:
@@ -227,8 +226,7 @@ translate ja sexscene_ArwenCelesteChoice_cab46786:
 translate ja sexscene_ArwenCelesteChoice_ffb75a6e:
 
     # ARWEN "Release me! I'll never fall to you!"
-    ARWEN "離して!
-決して屈しない!"
+    ARWEN "離して!決して屈しない!"
 
 # game/data/world_romance/arwen/scr_ArwenServicesCeleste.rpy:66
 translate ja sexscene_ArwenCelesteChoice_70a6817b:

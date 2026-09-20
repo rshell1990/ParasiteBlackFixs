@@ -88,8 +88,7 @@ translate ja divine_questions1_07266d13:
 translate ja divine_questions1_8241ba3e:
 
     # DIVINE "We all were once... But once the change has begun there is little difference."
-    DIVINE "我々は皆、かつては...  
-だがいったん変化が始まれば、大差はない"
+    DIVINE "我々は皆、かつては...  だがいったん変化が始まれば、大差はない"
 
 # game/data/characters/divine/dialogue.rpy:58
 translate ja divine_questions1_85be0231:
@@ -179,8 +178,7 @@ translate ja divine_questions2_5a08631f:
 translate ja divine_questions2_ef2c2d25:
 
     # DIVINE "We do not know... Only some are chosen, it’s not our place to question her decisions."
-    DIVINE "私たちには分かりません…
-選ばれる者はわずか、彼女の選択を問うことは我々の役目ではありません。"
+    DIVINE "私たちには分かりません…選ばれる者はわずか、彼女の選択を問うことは我々の役目ではありません。"
 
 # game/data/characters/divine/dialogue.rpy:84
 translate ja divine_firstmeet_28ad9124:

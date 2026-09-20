@@ -53,7 +53,7 @@ translate zh rom_winward_divorce_visit_after_some_time_033e3d19:
 translate zh rom_winward_divorce_visit_after_some_time_33f4f86f:
 
     # MRS_WINWARD @ sad "No, but apparently he spends all his time drunk at the Iron Unicorn or seeking out Ramonian whores..."
-    MRS_WINWARD @ sad "没有，但他显然把所有时间都花在喝醉于铁独角兽酒吧或找Ramonian妓女上……"
+    MRS_WINWARD @ sad "没有，但他显然把所有时间都花在喝醉于铁独角兽酒吧或找拉莫尼亚人妓女上……"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:17
@@ -95,7 +95,7 @@ translate zh rom_winward_divorce_visit_after_some_time_1d71e1d3:
 translate zh rom_winward_divorce_visit_after_some_time_22fc68d2:
 
     # MRS_WINWARD @ angry "All he's ever cared about is the damn 'Winward' name."
-    MRS_WINWARD @ angry "他唯一在乎的就是那该死的'Winward'家族名声。"
+    MRS_WINWARD @ angry "他唯一在乎的就是那该死的'温沃德'家族名声。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:23
@@ -116,7 +116,7 @@ translate zh rom_winward_divorce_visit_after_some_time_da66e739:
 translate zh rom_winward_divorce_visit_after_some_time_2476366e:
 
     # MC @ surprised "Kion-!"
-    MC @ surprised "Kion——！"
+    MC @ surprised "基恩——！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:26
@@ -144,7 +144,7 @@ translate zh rom_winward_divorce_visit_after_some_time_937c3785:
 translate zh rom_winward_divorce_visit_after_some_time_c93bcc99:
 
     # MRS_WINWARD "H-Hurry up! I n-need this! {i}*Huff*{/i}"
-    MRS_WINWARD "快-快点！我-我需要这个！{i}*喘气*{/i}"
+    MRS_WINWARD "快——快点！我——我需要这个！{i}*喘气*{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:38
@@ -172,7 +172,7 @@ translate zh rom_winward_divorce_visit_after_some_time_a036c0e5:
 translate zh rom_winward_divorce_visit_after_some_time_cbd21edd:
 
     # MRS_WINWARD "P-Please, be gentle with your c-cow!"
-    MRS_WINWARD "请-请温柔点对待你的小-小母牛！"
+    MRS_WINWARD "请——请温柔点对待你的小——小母牛！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:48
@@ -207,7 +207,7 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_927fa247:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_6f9e5a02:
 
     # MRS_WINWARD "I'm f-fine, just... {i}continue.{/i}"
-    MRS_WINWARD "没...没事，{i}继续...{/i}"
+    MRS_WINWARD "没……没事，{i}继续……{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:53
@@ -291,7 +291,7 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_6ca2c1f8:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_4f59ec9a:
 
     # MRS_WINWARD "Oooh! D-Dear!"
-    MRS_WINWARD "噢！亲...亲爱的！"
+    MRS_WINWARD "噢！亲……亲爱的！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:65
@@ -319,14 +319,14 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_b345613e:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_b97a693d:
 
     # MRS_WINWARD "Itshhh shooo ghoood!"
-    MRS_WINWARD "太...太舒服了！"
+    MRS_WINWARD "太……太舒服了！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:73
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_34e25e44:
 
     # MRS_WINWARD "S-Slow down! Mhmm! I can't - Ahhhh!"
-    MRS_WINWARD "慢...慢点！嗯！我不行——啊啊！"
+    MRS_WINWARD "慢……慢点！嗯！我不行——啊啊！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:74
@@ -361,21 +361,21 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_aee48697:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_fe2ab69c:
 
     # MRS_WINWARD "{i}F-Fuck me!{/i}"
-    MRS_WINWARD "{i}操...操我！{/i}"
+    MRS_WINWARD "{i}操……操我！{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:79
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_6f924109:
 
     # MRS_WINWARD "Breed your little whore cow!{image=[ICON.HEART]} "
-    MRS_WINWARD "让你的小婊子母牛怀孕！{image=[ICON.HEART]} "
+    MRS_WINWARD "让你的小婊子母牛怀孕！{image=[ICON.HEART]}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:80
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_d3682cc0:
 
     # MRS_WINWARD "Show my loser husband how it's - Ahh! Done!"
-    MRS_WINWARD "让我没用的丈夫看看...啊！该怎么干！"
+    MRS_WINWARD "让我没用的丈夫看看……啊！该怎么干！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:81
@@ -389,7 +389,7 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_ae2829d3:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_4c059177:
 
     # MRS_WINWARD "C-Cum in me!"
-    MRS_WINWARD "射...射进来！"
+    MRS_WINWARD "射……射进来！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:83
@@ -501,14 +501,14 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_38a39c41:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_4da67352:
 
     # BLACK "({i}Our new mate needs rest... Soon she shall be capable of siring us many young.{/i})"
-    BLACK "({i}我们的新伴侣需要休息...很快她就能为我们孕育许多后代。{/i})"
+    BLACK "({i}我们的新伴侣需要休息……很快她就能为我们孕育许多后代。{/i})"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:119
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_c229c02b:
 
     # MC "(Are you sure about that? She's... quite old.)"
-    MC "(你确定吗？她...年纪挺大了。)"
+    MC "(你确定吗？她……年纪挺大了。)"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:120
@@ -522,7 +522,7 @@ translate zh rom_winward_divorce_visit_after_some_time_sexmenu_47a566a9:
 translate zh rom_winward_divorce_visit_after_some_time_sexmenu_05e0d1e5:
 
     # MC "(...Wait, you mean she'll live longer if she has a child with us?)"
-    MC "(...等等，你是说如果她跟我们生孩子，她会活得更久？)"
+    MC "(……等等，你是说如果她跟我们生孩子，她会活得更久？)"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:122
@@ -1754,7 +1754,7 @@ translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_ed719459:
 translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_de26cd54:
 
     # MRS_WINWARD "Y-Yours! Your cock is so much - Mhmm! Better!"
-    MRS_WINWARD "你...你的！你的肉棒比他的...嗯！棒多了！"
+    MRS_WINWARD "你……你的！你的肉棒比他的……嗯！棒多了！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:532
@@ -1768,7 +1768,7 @@ translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_d47637cf:
 translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_85461cb6:
 
     # MRS_WINWARD "Y-Your little cow needs breeding by a real man's cock!"
-    MRS_WINWARD "你...你的小母牛需要真正的男人用肉棒配种！"
+    MRS_WINWARD "你……你的小母牛需要真正的男人用肉棒配种！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:534
@@ -1789,7 +1789,7 @@ translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_6ca2c1f8:
 translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_4f59ec9a:
 
     # MRS_WINWARD "Oooh! D-Dear!"
-    MRS_WINWARD "噢！亲...亲爱的！"
+    MRS_WINWARD "噢！亲……亲爱的！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:537
@@ -1817,7 +1817,7 @@ translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_b345613e:
 translate zh rom_winward_divorce_visit_bedroom_miss_sexmenu_b97a693d:
 
     # MRS_WINWARD "Itshhh shooo ghoood!"
-    MRS_WINWARD "太...太舒服了！"
+    MRS_WINWARD "太……太舒服了！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:555
@@ -2741,7 +2741,7 @@ translate zh rom_winward_divorce_murder_first_impreg_f775816b:
 translate zh rom_winward_divorce_murder_first_impreg_833b075e:
 
     # MC @ surprised "You... You're what?!"
-    MC @ surprised "你... 你说什么？！"
+    MC @ surprised "你……你说什么？！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:848
@@ -2755,14 +2755,14 @@ translate zh rom_winward_divorce_murder_first_impreg_a9289793:
 translate zh rom_winward_divorce_murder_first_impreg_1119c04c:
 
     # MRS_WINWARD @ embarr "But I... I carry your child!"
-    MRS_WINWARD @ embarr "但我... 我怀了你的孩子！"
+    MRS_WINWARD @ embarr "但我……我怀了你的孩子！"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:850
 translate zh rom_winward_divorce_murder_first_impreg_42790bc1:
 
     # MC @ think "Well... We knew this {i}could{/i} happen."
-    MC @ think "嗯... 我们知道这{i}可能{/i}会发生。"
+    MC @ think "嗯……我们知道这{i}可能{/i}会发生。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:851
@@ -2776,7 +2776,7 @@ translate zh rom_winward_divorce_murder_first_impreg_87315440:
 translate zh rom_winward_divorce_murder_first_impreg_5e0a07ed:
 
     # MRS_WINWARD @ sad "I... Are you okay with this?"
-    MRS_WINWARD @ sad "我... 你对这个没问题吗？"
+    MRS_WINWARD @ sad "我……你对这个没问题吗？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:853
@@ -2965,7 +2965,7 @@ translate zh rom_winward_divorce_rep_impreg_8923b4df:
 translate zh rom_winward_divorce_rep_impreg_e05e7a44:
 
     # MC "(Hm... While it's not a problem for now, I'll need to put some thought into helping Kionni, especially now that we're having a child together!)"
-    MC "(嗯……虽然现在不是问题，但我得好好想想怎么帮助基奥尼，尤其是现在我们有了孩子！)"
+    MC "（嗯……虽然现在不是问题，但我得好好想想怎么帮助基奥尼，尤其是现在我们有了孩子！）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:893
@@ -3000,7 +3000,7 @@ translate zh rom_winward_divorce_first_birth_f612c873:
 translate zh rom_winward_divorce_first_birth_bfbc8927:
 
     # MC @ surprised "Is that...?"
-    MC @ surprised "那是...？"
+    MC @ surprised "那是……？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:899
@@ -3105,7 +3105,7 @@ translate zh rom_winward_divorce_rep_birth_f612c873:
 translate zh rom_winward_divorce_rep_birth_bfbc8927:
 
     # MC @ surprised "Is that...?"
-    MC @ surprised "那是...？"
+    MC @ surprised "那是……？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:922
@@ -3441,7 +3441,7 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_first_time_e188afa0:
 translate zh rom_winward_divorce_enter_at_night_door_sex_first_time_f0b1aa54:
 
     # MRS_WINWARD @ think "But... {i}Why?{/i}"
-    MRS_WINWARD @ think "但是... {i}为什么？{/i}"
+    MRS_WINWARD @ think "但是……{i}为什么？{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1013
@@ -3462,7 +3462,7 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_first_time_a01daacc:
 translate zh rom_winward_divorce_enter_at_night_door_sex_first_time_7133f7e4:
 
     # MRS_WINWARD "W-What do you want now?"
-    MRS_WINWARD "你-你现在想要什么？"
+    MRS_WINWARD "你——你现在想要什么？"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1020
@@ -3490,7 +3490,7 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_first_time_9a3a80ba:
 translate zh rom_winward_divorce_enter_at_night_door_sex_first_time_191cb2e2:
 
     # MRS_WINWARD "{i}*Whispering* W-What do you think you're doing?!{/i}"
-    MRS_WINWARD "{i}*低语* 你-你以为你在做什么？！{/i}"
+    MRS_WINWARD "{i}*低语* 你——你以为你在做什么？！{/i}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1024
@@ -4155,7 +4155,7 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_85c4c5cf:
 translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_b6d8d0d0:
 
     # MC "(Hmm, I'm gonna need to 'train' her hole a little back there if I'm going to want to use it.)"
-    MC "(嗯，如果我想用她后面的那个洞，我得先‘训练’它一下。)"
+    MC "（嗯，如果我想用她后面的那个洞，我得先‘训练’它一下。）"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1173
@@ -4617,7 +4617,7 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_34918f38:
 translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_8b66b8a6:
 
     # MRS_WINWARD "Cum in my ass like a common whore!! {image=[ICON.HEART]}{image=[ICON.HEART]} "
-    MRS_WINWARD "像操妓女一样射进我的屁股里！！ {image=[ICON.HEART]}{image=[ICON.HEART]} "
+    MRS_WINWARD "像操妓女一样射进我的屁股里！！ {image=[ICON.HEART]}{image=[ICON.HEART]}"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1258
@@ -5121,14 +5121,14 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_957b803f:
 translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_ce9a309a:
 
     # MRS_WINWARD @ embarr "A-Ahh... Of course."
-    MRS_WINWARD @ embarr "啊-啊……当然。"
+    MRS_WINWARD @ embarr "啊——啊……当然。"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1389
 translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_d15c2280:
 
     # MRS_WINWARD @ blush "I think I best lay down for a while before my legs give out, deary..."
-    MRS_WINWARD @ blush "我想我最好躺一会儿，免得腿软倒，亲爱的……"
+    MRS_WINWARD @ blush "我想我最好躺一会儿，免得腿软倒下，亲爱的……"
     
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:1391
@@ -5149,7 +5149,7 @@ translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_2c4ce741:
 translate zh rom_winward_divorce_enter_at_night_door_sex_rep_sexmenu_d5ab8f37:
 
     # MC "(I wonder what the old man's thinking right now?)"
-    MC "(不知道那老头现在在想什么？)"
+    MC "（不知道那老头现在在想什么？）"
     
 
 translate zh strings:
@@ -5174,7 +5174,6 @@ translate zh strings:
     new "让她保持穿着。"
     
 
-# TODO: Translation updated at 2026-03-18 22:49
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:273
 translate zh rom_winward_divorce_rep_doggy_wall_sexmenu_9beedfb1:
@@ -5183,7 +5182,6 @@ translate zh rom_winward_divorce_rep_doggy_wall_sexmenu_9beedfb1:
     "我又继续享用她了一会儿，享受着她臀部拼命夹紧我的肉棒，试图让我达到高潮的感觉。"
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_divorce.rpy:945
 translate zh rom_winward_divorce_enter_at_night_8404f8cd:

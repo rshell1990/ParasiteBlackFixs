@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsBerserker/Sup/BerserkerTime.rpy:4
     old "Berserker Time"
-    new "Berserker Time"
+    new "Berserkerzeit"
 

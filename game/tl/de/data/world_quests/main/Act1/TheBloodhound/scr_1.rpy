@@ -4,125 +4,125 @@
 translate de qst_bloodhound_1_guild_onEnter_315b9c36:
 
     # MC "(Someone here must know something about the 'Guardians of the realm,' maybe I should ask Thea?)"
-    MC "(Someone here must know something about the 'Guardians of the realm,' maybe I should ask Thea?)"
+    MC "(Jemand hier muss etwas über die 'Wächter des Reiches' wissen, vielleicht sollte ich Thea fragen?)"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:9
 translate de qst_bloodhound_1_TheaOnGuardians_189d4acd:
 
     # THEA @ talk "Hm? Well, not too much."
-    THEA @ talk "Hm? Well, not too much."
+    THEA @ talk "Hm? Nun, nicht allzu viel."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:10
 translate de qst_bloodhound_1_TheaOnGuardians_9f40d81a:
 
     # THEA @ talk "They're newcomers but they seem quite popular."
-    THEA @ talk "They're newcomers but they seem quite popular."
+    THEA @ talk "Sie sind Neuankömmlinge, aber sie scheinen ziemlich beliebt zu sein."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:11
 translate de qst_bloodhound_1_TheaOnGuardians_dd63aafe:
 
     # THEA @ scared "Maybe a little too cocky though."
-    THEA @ scared "Maybe a little too cocky though."
+    THEA @ scared "Vielleicht ein bisschen zu überheblich."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:12
 translate de qst_bloodhound_1_TheaOnGuardians_b6feebab:
 
     # MC @ talk "Not a fan?"
-    MC @ talk "Not a fan?"
+    MC @ talk "Kein Fan?"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:13
 translate de qst_bloodhound_1_TheaOnGuardians_68490604:
 
     # THEA @ talk "Mm, every rookie team thinks they're the chosen ones or something."
-    THEA @ talk "Mm, every rookie team thinks they're the chosen ones or something."
+    THEA @ talk "Mm, jedes Neulingsteam denkt, sie sind die Auserwählten oder so."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:14
 translate de qst_bloodhound_1_TheaOnGuardians_07b3b10c:
 
     # THEA @ smile2 "I prefer the ones who actually manage to stick around."
-    THEA @ smile2 "I prefer the ones who actually manage to stick around."
+    THEA @ smile2 "Ich bevorzuge diejenigen, die es tatsächlich schaffen, dranzubleiben."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:15
 translate de qst_bloodhound_1_TheaOnGuardians_7805f446:
 
     # MC @ talk "Where are they now?"
-    MC @ talk "Where are they now?"
+    MC @ talk "Wo sind sie jetzt?"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:16
 translate de qst_bloodhound_1_TheaOnGuardians_47145c71:
 
     # THEA @ talk "They took on a quest to take on a giant slimelark."
-    THEA @ talk "They took on a quest to take on a giant slimelark."
+    THEA @ talk "Sie haben eine Quest angenommen, um es mit einer riesigen Schleimlerche aufzunehmen."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:17
 translate de qst_bloodhound_1_TheaOnGuardians_4e1580f2:
 
     # MC @ surprised "A what?"
-    MC @ surprised "A what?"
+    MC @ surprised "Ein was?"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:18
 translate de qst_bloodhound_1_TheaOnGuardians_f7d02ddf:
 
     # THEA @ talk "Uhh, think a very angry sentient pool of gunk that will force its way into you and consume you inside out."
-    THEA @ talk "Uhh, think a very angry sentient pool of gunk that will force its way into you and consume you inside out."
+    THEA @ talk "Ähm, stell dir eine sehr wütende, empfindungsfähige Pfütze aus Schleim vor, die sich gewaltsam in dich hineindrängt und dich von innen heraus verzehrt."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:19
 translate de qst_bloodhound_1_TheaOnGuardians_1cdd0735:
 
     # MC @ talk "Can they handle it?"
-    MC @ talk "Can they handle it?"
+    MC @ talk "Können sie damit umgehen?"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:20
 translate de qst_bloodhound_1_TheaOnGuardians_a2519c48:
 
     # THEA @ sad "I don't know... A slimelark isn't something to shrug off if you're a rookie."
-    THEA @ sad "I don't know... A slimelark isn't something to shrug off if you're a rookie."
+    THEA @ sad "Ich weiß nicht ... Ein Slimelark ist nichts, was man einfach so abtun kann, wenn man ein Anfänger ist."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:21
 translate de qst_bloodhound_1_TheaOnGuardians_2455d26f:
 
     # THEA @ sad "Especially the one that's been causing so much trouble."
-    THEA @ sad "Especially the one that's been causing so much trouble."
+    THEA @ sad "Besonders der, der so viel Ärger gemacht hat."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:22
 translate de qst_bloodhound_1_TheaOnGuardians_022994e2:
 
     # THEA @ sad "I told them not to take it but, when you've got something to prove..."
-    THEA @ sad "I told them not to take it but, when you've got something to prove..."
+    THEA @ sad "Ich habe ihnen gesagt, sie sollen es nicht annehmen, aber wenn man etwas zu beweisen hat ..."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:23
 translate de qst_bloodhound_1_TheaOnGuardians_c1b60765:
 
     # THEA @ talk "Anyway, the thing has been sighted near lake Balun, you know, a short hike to the West?"
-    THEA @ talk "Anyway, the thing has been sighted near lake Balun, you know, a short hike to the West?"
+    THEA @ talk "Jedenfalls wurde das Ding in der Nähe des Balun-Sees gesichtet, du weißt schon, eine kurze Wanderung nach Westen?"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:24
 translate de qst_bloodhound_1_TheaOnGuardians_261d13c3:
 
     # THEA @ scared "Apparently its been pulling people in when they get too close to the water."
-    THEA @ scared "Apparently its been pulling people in when they get too close to the water."
+    THEA @ scared "Anscheinend zieht es Leute hinein, wenn sie dem Wasser zu nahe kommen."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:25
 translate de qst_bloodhound_1_TheaOnGuardians_23817d50:
 
     # MC @ talk "Thanks for the information."
-    MC @ talk "Thanks for the information."
+    MC @ talk "Danke für die Information."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:26
 translate de qst_bloodhound_1_TheaOnGuardians_d05df937:
 
     # THEA @ sad "If you're thinking of going after them, I'd suggest being prepared..."
-    THEA @ sad "If you're thinking of going after them, I'd suggest being prepared..."
+    THEA @ sad "Wenn du vorhast, ihnen nachzugehen, würde ich vorschlagen, dass du dich vorbereitest ..."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:27
 translate de qst_bloodhound_1_TheaOnGuardians_8f6a6938:
 
     # THEA @ talk "Slimelarks are difficult beasts."
-    THEA @ talk "Slimelarks are difficult beasts."
+    THEA @ talk "Slimelarks sind schwierige Bestien."
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_1.rpy:28
 translate de qst_bloodhound_1_TheaOnGuardians_a9bcd73d:
 
     # MC @ talk "I'll take your word for it."
-    MC @ talk "I'll take your word for it."
+    MC @ talk "Ich nehme dich beim Wort."
 

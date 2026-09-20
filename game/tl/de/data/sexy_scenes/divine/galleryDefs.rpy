@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/sexy_scenes/divine/galleryDefs.rpy:7
     old "Standing fuck"
-    new "Standing fuck"
+    new "Stehfick"
 

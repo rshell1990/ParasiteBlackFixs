@@ -304,15 +304,13 @@ translate ja gallery_jackal_girl_missionary_ass_baca395b:
 translate ja gallery_jackal_girl_missionary_ass_04dec6f8:
 
     # "I moved slowly, letting her adjust. As I went deeper, she began to pant once more."
-    "ゆっくりと動いた、彼女に慣れさせるように。
-奥へと進むにつれ、彼女はまた喘ぎだした。"
+    "ゆっくりと動いた、彼女に慣れさせるように。奥へと進むにつれ、彼女はまた喘ぎだした。"
 
 # game/data/sexy_scenes/jackal_girl/galleryLabels/missionary.rpy:157
 translate ja gallery_jackal_girl_missionary_ass_ff5eda6c:
 
     # "Soft rumbles escaped her lips. She was starting to enjoy it."
-    "柔らかい吐息が漏れた。  
-彼女は心地よさを覚え始めていた。"
+    "柔らかい吐息が漏れた。  彼女は心地よさを覚え始めていた。"
 
 # game/data/sexy_scenes/jackal_girl/galleryLabels/missionary.rpy:163
 translate ja gallery_jackal_girl_missionary_ass_4bb4e0c8:

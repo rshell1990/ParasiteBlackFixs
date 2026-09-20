@@ -4,8 +4,7 @@
 translate ja evscr_nijah_rescue_2_4fbc34b2:
 
     # "I turned towards the woman cowering on the floor. As I approached her, she raised her arm defensively in the air."
-    "床にうずくまる女性の方を向いた。
-近づくと、彼女はかばうように腕を空中に上げた。"
+    "床にうずくまる女性の方を向いた。近づくと、彼女はかばうように腕を空中に上げた。"
 
 # game/data/world_events/novaras/nijah_rescue/scr_nijah_rescue_2.rpy:11
 translate ja evscr_nijah_rescue_2_deb6c08a:

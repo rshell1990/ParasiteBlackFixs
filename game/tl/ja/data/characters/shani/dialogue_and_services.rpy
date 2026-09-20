@@ -388,8 +388,7 @@ translate ja shani_rumours_ca15f75c:
 translate ja shani_rumours_3fb6e1b7:
 
     # SHANI "No ones interested in us lot, we’re replaceable and forgotten once they’re done with us."
-    SHANI "私たちのことには興味はないんだ  
-使い捨てで、用が終われば忘れ去られるだけなんだ。"
+    SHANI "私たちのことには興味はないんだ  使い捨てで、用が終われば忘れ去られるだけなんだ。"
 
 # game/data/characters/shani/dialogue_and_services.rpy:140
 translate ja shani_rumours_b1428b51:
@@ -401,8 +400,7 @@ translate ja shani_rumours_b1428b51:
 translate ja shani_rumours_450b540c:
 
     # SHANI "You'll soon be able to speak to Madam Carina inside about it, I don’t know much else."
-    SHANI "すぐにキャリナ夫人と中で話せるはずだ、
-他はよく知らない。"
+    SHANI "すぐにキャリナ夫人と中で話せるはずだ、他はよく知らない。"
 
 # game/data/characters/shani/dialogue_and_services.rpy:146
 translate ja shani_stopquestions_3129d4b1:
@@ -954,9 +952,7 @@ translate ja shani_anal_d885bc5a:
 translate ja shani_anal_b564bd8c:
 
     # SHANI "Oh fuck! Ah! Mmmfgh!"
-    SHANI "ちくしょう!  
-あっ!  
-むぐっ!"
+    SHANI "ちくしょう!  あっ!  むぐっ!"
 
 # game/data/characters/shani/dialogue_and_services.rpy:313
 translate ja shani_anal_d6944421:

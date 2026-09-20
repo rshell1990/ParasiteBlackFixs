@@ -838,8 +838,7 @@ translate ja mika_rom_missionary_repeat_ae90cf08:
 translate ja mika_rom_missionary_repeat_22b92d83:
 
     # MIKA "F-Fuck my ass!"
-    MIKA "F-Fuck my ass!
-く、くっ…ケツ穴を犯して!"
+    MIKA "F-Fuck my ass!く、くっ…ケツ穴を犯して!"
 
 # game/data/world_romance/mika/scr_repeat.rpy:389
 translate ja mika_rom_missionary_repeat_1f5fc4d1:
@@ -1751,8 +1750,7 @@ translate ja mika_rom_hallway_repeat_3dd2d57e:
 translate ja mika_rom_hallway_repeat_13a0c9fe:
 
     # "Mika froze up slightly as she felt the head of my cock push and prod against her hole."
-    "ミカは、私の亀頭が彼女の膣口に押し付けられ
-その感触にわずかに硬直した。"
+    "ミカは、私の亀頭が彼女の膣口に押し付けられその感触にわずかに硬直した。"
 
 # game/data/world_romance/mika/scr_repeat.rpy:688
 translate ja mika_rom_hallway_repeat_2ecfe302:
@@ -1818,8 +1816,7 @@ translate ja mika_rom_hallway_repeat_e4f393f4:
 translate ja mika_rom_hallway_repeat_bf59fd85_1:
 
     # "Mika's hands coiled and squeezed over the edge of the stone ledge as I slowly began to push my member in and out of her."
-    "美香の両手が石の出っ張りに絡めつつ、ぎゅっと握りしめられる。
-私はゆっくりと、彼女の結合部に自分のものを出入りさせ始めた。"
+    "美香の両手が石の出っ張りに絡めつつ、ぎゅっと握りしめられる。私はゆっくりと、彼女の結合部に自分のものを出入りさせ始めた。"
 
 # game/data/world_romance/mika/scr_repeat.rpy:715
 translate ja mika_rom_hallway_repeat_4cd3af38_1:
@@ -1837,8 +1834,7 @@ translate ja mika_rom_hallway_repeat_8d09498a_1:
 translate ja mika_rom_hallway_repeat_10fa0321_1:
 
     # MIKA "Y-You're so - Ahh!"
-    MIKA "あ、あんた…そんなに…
-あっ!"
+    MIKA "あ、あんた…そんなに…あっ!"
 
 # game/data/world_romance/mika/scr_repeat.rpy:735
 translate ja mika_rom_hallway_repeat_92800e27_1:
@@ -2522,8 +2518,7 @@ translate ja mika_rom_divine_bath_repeat_d0c48642:
 translate ja mika_rom_divine_bath_repeat_13e6cf27:
 
     # MIKA "Ooooh! S-Sister!"
-    MIKA "おおっ!
-シ、シスター!"
+    MIKA "おおっ!シ、シスター!"
 
 # game/data/world_romance/mika/scr_repeat.rpy:936
 translate ja mika_rom_divine_bath_repeat_c0b13786:

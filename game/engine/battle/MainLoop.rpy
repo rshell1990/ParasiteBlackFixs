@@ -206,10 +206,7 @@ init python:
             for StatusEffect in copy.copy(BattleChar.StatusEffects):
                 StatusEffect.OnTurnEnd()
 
-    def Battle_DoAITurn(BattleChar):
-        if Battle_HasStatusEffect(BattleChar, "freeze") or Battle_HasStatusEffect(BattleChar, "stun"):
-            Battle_ForceEndTurnForChar(BattleChar)
-            return
+    # Battle_DoAITurn moved to battle_do_ai_turn.rpy (restored from git history)
 
     def Battle_ForceEndTurnForChar(BattleChar):
         if BattleChar in BattleScene.ActiveCharsList:
@@ -398,7 +395,8 @@ init python:
 
     def Battle_TurnStartResetSkillsUsed(SideIndex):
         for Char in BattleScene.BattleChars[SideIndex]:
-            Char.Skill_Defend.UsedThisTurn = False
+            if Char.Skill_Defend is not None:
+                Char.Skill_Defend.UsedThisTurn = False
             for Skill in Char.Skills:
                 Skill.UsedThisTurn = False
         return

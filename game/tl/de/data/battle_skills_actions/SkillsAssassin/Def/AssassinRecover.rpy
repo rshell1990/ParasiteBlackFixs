@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsAssassin/Def/AssassinRecover.rpy:4
     old "Recover"
-    new "Recover"
+    new "Erholung"
 
     # game/data/battle_skills_actions/SkillsAssassin/Def/AssassinRecover.rpy:58
     old "Take a moment to catch your breath. Restore your hit points by %s of your CURRENT HP %s and energy by %s of your CURRENT ENERGY %s. Increases your armor by 80%% for 2 turns."
-    new "Take a moment to catch your breath. Restore your hit points by %s of your CURRENT HP %s and energy by %s of your CURRENT ENERGY %s. Increases your armor by 80%% for 2 turns."
+    new "Nimm dir einen Moment, um zu verschnaufen. Stellt %s deiner aktuellen TP %s und %s deiner aktuellen Energie %s wieder her. Erhöht deine Rüstung für 2 Runden um 80%%."
 

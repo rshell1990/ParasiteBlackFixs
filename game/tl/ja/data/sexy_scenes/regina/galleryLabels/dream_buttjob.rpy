@@ -22,10 +22,7 @@ translate ja gallery_regina_dream_buttjob_f0de1293:
 translate ja gallery_regina_dream_buttjob_f8e6ed66:
 
     # REGINA "Lie down, sweetheart. Press yourself against me. Feel how much I want you— even if I can't give you all of me right now."
-    REGINA "横になりなさい、愛しい人
-私に寄り添って
-私がどれだけあなたを欲しているか感じて
-たとえ今は全てを捧げられなくとも"
+    REGINA "横になりなさい、愛しい人私に寄り添って私がどれだけあなたを欲しているか感じてたとえ今は全てを捧げられなくとも"
 
 # game/data/sexy_scenes/regina/galleryLabels/dream_buttjob.rpy:6
 translate ja gallery_regina_dream_buttjob_e4ab8fc2:

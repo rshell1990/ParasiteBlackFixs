@@ -4,13 +4,13 @@ translate de strings:
 
     # game/screens/time_tracker.rpy:50
     old " of "
-    new " of "
+    new "von"
 
     # game/screens/time_tracker.rpy:50
     old "Wait / Rest"
-    new "Wait / Rest"
+    new "Warten / Ausruhen"
 
     # game/screens/time_tracker.rpy:73
     old "You cannot wait right now."
-    new "You cannot wait right now."
+    new "Du kannst jetzt nicht warten."
 

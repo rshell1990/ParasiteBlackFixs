@@ -4,67 +4,67 @@
 translate de qst_DamzelDizzt_3_headToOffice_2a800512:
 
     # "Knocking on the iron door, a slider opened as two piercing eyes looked the other side."
-    "Knocking on the iron door, a slider opened as two piercing eyes looked the other side."
+    "Als ich an die Eisentür klopfte, öffnete sich ein Schieber und zwei durchdringende Augen blickten von der anderen Seite."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:4
 translate de qst_DamzelDizzt_3_headToOffice_6037568e:
 
     # THUG @ talk "Password?"
-    THUG @ talk "Password?"
+    THUG @ talk "Passwort?"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:7
 translate de qst_DamzelDizzt_3_headToOffice_4ba7c3dc:
 
     # "The slider closed, and I could hear the door unlock the other side before it swung open before us with the guard welcoming us in."
-    "The slider closed, and I could hear the door unlock the other side before it swung open before us with the guard welcoming us in."
+    "Der Schieber schloss sich, und ich hörte, wie die Tür auf der anderen Seite entriegelt wurde, bevor sie vor uns aufschwang und der Wächter uns hereinbat."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:12
 translate de qst_DamzelDizzt_3_headToOffice_8ae48740:
 
     # THUG @ talk "What? No that isn't-"
-    THUG @ talk "What? No that isn't-"
+    THUG @ talk "Was? Nein, das ist nicht—"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:13
 translate de qst_DamzelDizzt_3_headToOffice_9a11f6ca:
 
     # THUG @ talk "Gods! How does every moron keep forgetting the password?! It's one word!"
-    THUG @ talk "Gods! How does every moron keep forgetting the password?! It's one word!"
+    THUG @ talk "Götter! Wie kann jeder Idiot immer wieder das Passwort vergessen?! Es ist ein Wort!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:14
 translate de qst_DamzelDizzt_3_headToOffice_ebbe29d7:
 
     # THUG @ talk "You know what? Just... Just go away, and when you come back, try again, okay?"
-    THUG @ talk "You know what? Just... Just go away, and when you come back, try again, okay?"
+    THUG @ talk "Weißt du was? Geh einfach... Geh einfach weg, und wenn du zurückkommst, versuch es nochmal, okay?"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:15
 translate de qst_DamzelDizzt_3_headToOffice_f84bcf96:
 
     # THUG @ talk "{i}*Mutters*{/i} Fucking idiots."
-    THUG @ talk "{i}*Mutters*{/i} Fucking idiots."
+    THUG @ talk "{i}*Murmelt*{/i} Verdammte Idioten."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:19
 translate de qst_DamzelDizzt_3_headToOffice_62c4f711:
 
     # THUG @ talk "...That wasn't even close!"
-    THUG @ talk "...That wasn't even close!"
+    THUG @ talk "...Das war nicht einmal annähernd richtig!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:20
 translate de qst_DamzelDizzt_3_headToOffice_cf303b3a:
 
     # THUG @ talk "Go away! Come back with the password before I run you through with my blade!"
-    THUG @ talk "Go away! Come back with the password before I run you through with my blade!"
+    THUG @ talk "Verschwinde! Komm mit dem Passwort zurück, bevor ich dich mit meiner Klinge durchbohre!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:25
 translate de qst_DamzelDizzt_3_enterOffice_bcd34196:
 
     # "Descending the stairs, we finally arrived into the small, unwelcoming office of Tarek, where he sat behind a small desk filed with gold and an ornate skull on it."
-    "Descending the stairs, we finally arrived into the small, unwelcoming office of Tarek, where he sat behind a small desk filed with gold and an ornate skull on it."
+    "Als wir die Treppe hinabstiegen, kamen wir endlich in das kleine, ungastliche Büro von Tarek, wo er hinter einem kleinen Schreibtisch saß, der mit Gold gefüllt war und einen verzierten Schädel darauf hatte."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:36
 translate de qst_DamzelDizzt_3_enterOffice_59bd21c1:
 
     # "His eyes lit up and he grinned when he saw Nijah tailing behind us."
-    "His eyes lit up and he grinned when he saw Nijah tailing behind us."
+    "Seine Augen leuchteten auf und er grinste, als er Nijah hinter uns herkommen sah."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:37
 translate de qst_DamzelDizzt_3_enterOffice_591a8bac:
@@ -76,43 +76,43 @@ translate de qst_DamzelDizzt_3_enterOffice_591a8bac:
 translate de qst_DamzelDizzt_3_enterOffice_7ffb5d3a:
 
     # TAREK "Iz so good to see you again!"
-    TAREK "Iz so good to see you again!"
+    TAREK "Iz so schön, dich wiederzusehen!"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:39
 translate de qst_DamzelDizzt_3_enterOffice_3ba5cb1e:
 
     # NIJAH "... I cannot say zer same."
-    NIJAH "... I cannot say zer same."
+    NIJAH "... Ich kann nicht dasselbe sagen."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:40
 translate de qst_DamzelDizzt_3_enterOffice_d77e8429:
 
     # TAREK "As fiery as always."
-    TAREK "As fiery as always."
+    TAREK "Feurig wie immer."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:41
 translate de qst_DamzelDizzt_3_enterOffice_4836c9d3:
 
     # "Taking a moment to avert his gaze from her, his grin dropped as he sized up me and Markus."
-    "Taking a moment to avert his gaze from her, his grin dropped as he sized up me and Markus."
+    "Er wandte für einen Moment den Blick von ihr ab, sein Grinsen verschwand, als er mich und Markus musterte."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:42
 translate de qst_DamzelDizzt_3_enterOffice_c9c2ccc4:
 
     # TAREK "Who are you two?"
-    TAREK "Who are you two?"
+    TAREK "Wer seid ihr zwei?"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:43
 translate de qst_DamzelDizzt_3_enterOffice_1258fb49:
 
     # MC @ talk "I am Grimlock and this is Shire."
-    MC @ talk "I am Grimlock and this is Shire."
+    MC @ talk "Ich bin Grimlock und das ist Shire."
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:44
 translate de qst_DamzelDizzt_3_enterOffice_22653413:
 
     # TAREK "Well... Just what do you want Grimlock and Shire?"
-    TAREK "Well... Just what do you want Grimlock and Shire?"
+    TAREK "Nun... was genau wollt ihr, Grimlock und Shire?"
 
 translate de strings:
 
@@ -122,5 +122,5 @@ translate de strings:
 
     # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:18
     old "Tits and ass."
-    new "Tits and ass."
+    new "Titten und Arsch."
 

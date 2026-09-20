@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsWarrior/Def/Dodge.rpy:4
     old "Dodge"
-    new "Dodge"
+    new "Ausweichen"
 
     # game/data/battle_skills_actions/SkillsWarrior/Def/Dodge.rpy:33
     old "Increases your attack rating and dodge rating by %s for 2 turns and grants you an extra turn."
-    new "Increases your attack rating and dodge rating by %s for 2 turns and grants you an extra turn."
+    new "Erhöht deine Angriffs- und Ausweichwertung um %s für 2 Runden und gewährt dir eine zusätzliche Runde."
 

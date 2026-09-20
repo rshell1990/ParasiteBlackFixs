@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsScout/Sup/KeepUp.rpy:4
     old "Keep Up"
-    new "Keep Up"
+    new "Durchhalten"
 
     # game/data/battle_skills_actions/SkillsScout/Sup/KeepUp.rpy:36
     old "Increases the armor of all allies and their critical rates by %s for 2 turns."
-    new "Increases the armor of all allies and their critical rates by %s for 2 turns."
+    new "Erhöht die Rüstung aller Verbündeten und deren kritische Trefferrate um %s für 2 Runden."
 

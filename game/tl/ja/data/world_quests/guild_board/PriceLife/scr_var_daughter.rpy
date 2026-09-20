@@ -70,8 +70,7 @@ translate ja qst_guild_price_life_daughter_start_48f4a742:
 translate ja qst_guild_price_life_daughter_start_bc5fa8ed:
 
     # MARAUDER_LEADER "... See? She's fine, mouthy as ever ... Now, onto business then."
-    MARAUDER_LEADER "… ほらね？彼女は無事だ、相変わらず口が悪いけど…
-それでは本題に入ろうか"
+    MARAUDER_LEADER "… ほらね？彼女は無事だ、相変わらず口が悪いけど…それでは本題に入ろうか"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_daughter.rpy:26
 translate ja qst_guild_price_life_daughter_start_9f35492d:
@@ -1461,8 +1460,7 @@ translate ja qst_guild_price_life_daughter_ending_95cfef47:
 translate ja qst_guild_price_life_daughter_ending_ec8eeddf:
 
     # "I delivered Callie back to her father's men safely, and was handed the coin for my services."
-    "キャリーを彼女の父親の手勢に無事引き渡すと、
-私は報酬金の金貨を受け取った。"
+    "キャリーを彼女の父親の手勢に無事引き渡すと、私は報酬金の金貨を受け取った。"
 
 # game/data/world_quests/guild_board/PriceLife/scr_var_daughter.rpy:427
 translate ja qst_guild_price_life_daughter_ending_0fe68395:

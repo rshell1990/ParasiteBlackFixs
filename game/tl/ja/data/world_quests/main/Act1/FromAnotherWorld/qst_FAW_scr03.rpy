@@ -238,8 +238,7 @@ translate ja qst_FromAnotherWorld_GoToMarkusHouse_8dca3bcc:
 translate ja qst_FromAnotherWorld_GoToMarkusHouse_1ba5839d:
 
     # MARKUS "Ever since the... The thing happened."
-    MARKUS "その…...
-出来事があって以来ずっと。"
+    MARKUS "その…...出来事があって以来ずっと。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr03.rpy:61
 translate ja qst_FromAnotherWorld_GoToMarkusHouse_cef1ea26:

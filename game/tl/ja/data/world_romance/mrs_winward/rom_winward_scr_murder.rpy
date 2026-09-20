@@ -1096,8 +1096,7 @@ translate ja rom_winward_murder_rep_graveyard_146bda0e:
 translate ja rom_winward_murder_rep_graveyard_3d1730a1:
 
     # MRS_WINWARD "Ahhh! Ahhh! Mmfghh!! {image=[ICON.HEART]}"
-    MRS_WINWARD "ああっ!ああっ!うぐっ!!  
-「image=[ICON.HEART]」"
+    MRS_WINWARD "ああっ!ああっ!うぐっ!!  「image=[ICON.HEART]」"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_murder.rpy:315
 translate ja rom_winward_murder_rep_graveyard_e714bc62:
@@ -1457,9 +1456,7 @@ translate ja rom_winward_murder_after_graveyard_5e2555e5:
 translate ja rom_winward_murder_after_graveyard_cbd21edd:
 
     # MRS_WINWARD "P-Please, be gentle with your c-cow!"
-    MRS_WINWARD "お、お願いです…
-あなたのカウを…
-優しくして…"
+    MRS_WINWARD "お、お願いです…あなたのカウを…優しくして…"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_murder.rpy:434
 translate ja rom_winward_murder_after_graveyard_sexmenu_7c9e7d8f:
@@ -1555,8 +1552,7 @@ translate ja rom_winward_murder_after_graveyard_sexmenu_544743af:
 translate ja rom_winward_murder_after_graveyard_sexmenu_de26cd54:
 
     # MRS_WINWARD "Y-Yours! Your cock is so much - Mhmm! Better!"
-    MRS_WINWARD "あ、あなたの…おちんちんがずっと…  
-んっ…気持ちいい!"
+    MRS_WINWARD "あ、あなたの…おちんちんがずっと…  んっ…気持ちいい!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_murder.rpy:450
 translate ja rom_winward_murder_after_graveyard_sexmenu_1e89c130:
@@ -2066,8 +2062,7 @@ translate ja rom_winward_murder_rep_doggy_wall_sexmenu_a2dc988c:
 translate ja rom_winward_murder_rep_doggy_wall_sexmenu_c82fcd29:
 
     # MRS_WINWARD "I-It's burning from how much you're - ahhh! Stretching!"
-    MRS_WINWARD "あ、あたしの
-そんなにぱんぱんにされてっ――あっ!　広がってる!"
+    MRS_WINWARD "あ、あたしのそんなにぱんぱんにされてっ――あっ!　広がってる!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_murder.rpy:648
 translate ja rom_winward_murder_rep_doggy_wall_sexmenu_7ca9c2ae:
@@ -3574,8 +3569,7 @@ translate ja rom_winward_murder_rep_bj_40cab989:
 translate ja rom_winward_murder_rep_bj_8b69cff9:
 
     # "Her eyes widened as she felt the hot rush of my heavy load flood down her throat."
-    "瞳が大きく見開かれる。
-熱い奔流が喉奥に重い負荷を流し込まれる感覚。"
+    "瞳が大きく見開かれる。熱い奔流が喉奥に重い負荷を流し込まれる感覚。"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_murder.rpy:1173
 translate ja rom_winward_murder_rep_bj_8f95da30:
@@ -3599,8 +3593,7 @@ translate ja rom_winward_murder_rep_bj_d8f1216c:
 translate ja rom_winward_murder_rep_bj_9ea696be:
 
     # MRS_WINWARD "{i}*Glug!*{/i} Mfhghhh?!"
-    MRS_WINWARD "{i}*ゴクゴク!*{/i}
-むぐっ？!"
+    MRS_WINWARD "{i}*ゴクゴク!*{/i}むぐっ？!"
 
 # game/data/world_romance/mrs_winward/rom_winward_scr_murder.rpy:1191
 translate ja rom_winward_murder_rep_bj_b911a196:

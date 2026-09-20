@@ -713,8 +713,7 @@ translate ja qst_NewMyu_4_findMyuChurch_menu_87e50561:
 translate ja qst_NewMyu_4_findMyuChurch_menu_0a99c764:
 
     # MYU @ sad "Myu couldn't stop herself anymore... All Myu could think about was food."
-    MYU @ sad "ミュはもう抑えられない…
-ミュが考えられるのは、食べ物のことしかなかった。"
+    MYU @ sad "ミュはもう抑えられない…ミュが考えられるのは、食べ物のことしかなかった。"
 
 # game/data/world_quests/side/novaras/TheNewMyu/scr.rpy:238
 translate ja qst_NewMyu_4_findMyuChurch_menu_542b671d:
@@ -1014,8 +1013,7 @@ translate ja qst_NewMyu_4_findMyuChurch_menu_9fdc3e39:
 translate ja qst_NewMyu_4_findMyuChurch_menu_31ceb390:
 
     # MYU @ sad "Myu is sorry for trying to force what cannot be."
-    MYU @ sad "許せないことを強要しようとして、
-ごめんなさい、ミュ。"
+    MYU @ sad "許せないことを強要しようとして、ごめんなさい、ミュ。"
 
 # game/data/world_quests/side/novaras/TheNewMyu/scr.rpy:322
 translate ja qst_NewMyu_4_findMyuChurch_menu_c2a891a5:
@@ -1039,9 +1037,7 @@ translate ja qst_NewMyu_4_findMyuChurch_menu_2a791db4:
 translate ja qst_NewMyu_4_findMyuChurch_menu_59807ae7:
 
     # MYU @ smile "And maybe, along the way, Myu will find someone who {i}does{/i} want her that way."
-    MYU @ smile "そして恐らく…  
-道中で、ミュは自分を{i}こそ{/i}  
-そのように求める人と出会うかもしれない。"
+    MYU @ smile "そして恐らく…  道中で、ミュは自分を{i}こそ{/i}  そのように求める人と出会うかもしれない。"
 
 # game/data/world_quests/side/novaras/TheNewMyu/scr.rpy:326
 translate ja qst_NewMyu_4_findMyuChurch_menu_e2d535af:

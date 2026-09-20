@@ -485,8 +485,7 @@ translate ja gallery_elena_grind_naked_aa66d363:
 translate ja gallery_elena_grind_naked_db77e345:
 
     # ELENA "Poor thing... How irresponsible of me."
-    ELENA "かわいそうに…
-なんて　無責任な私だ。"
+    ELENA "かわいそうに…なんて　無責任な私だ。"
 
 # game/data/sexy_scenes/elena/galleryLabels/grind.rpy:125
 translate ja gallery_elena_grind_naked_f76ca149:

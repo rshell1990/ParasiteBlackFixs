@@ -4,7 +4,7 @@
 translate zh travel_event_crashed_ship_c7f49737:
 
     # BLACK "{i}...Going wrong way.{/i}"
-    BLACK "{i}...走错路了。{/i}"
+    BLACK "{i}……走错路了。{/i}"
 
 # game/data/travel_events/crashed_ship.rpy:15
 translate zh travel_event_crashed_ship_73790772:
@@ -88,7 +88,7 @@ translate zh travel_event_crashed_ship_6baba279:
 translate zh travel_event_crashed_ship_141d7189:
 
     # MC @ think "Is this... some kind of cave?"
-    MC @ think "这是...某种洞穴？"
+    MC @ think "这是……某种洞穴？"
 
 # game/data/travel_events/crashed_ship.rpy:43
 translate zh travel_event_crashed_ship_f02ac22b:
@@ -142,19 +142,19 @@ translate zh travel_event_crashed_ship_539ee9fb:
 translate zh travel_event_crashed_ship_3dad54df:
 
     # MC @ think "Never seen a vessel like this... and this far from any sea?"
-    MC @ think "从未见过这种船...还离海这么远？"
+    MC @ think "从未见过这种船……还离海这么远？"
 
 # game/data/travel_events/crashed_ship.rpy:57
 translate zh travel_event_crashed_ship_0208f36a:
 
     # MYU @ scared "M-米尤? Metal thing scary..."
-    MYU @ scared "米-米尤？金属东西好可怕..."
+    MYU @ scared "米-米尤？金属东西好可怕……"
 
 # game/data/travel_events/crashed_ship.rpy:62
 translate zh travel_event_crashed_ship_8138fa88:
 
     # VES @ think "I've heard rumors of the Greater Trading Company reinforcing ships with armor, but this..."
-    VES @ think "我听过大贸易公司用装甲加固船只的传闻，但这..."
+    VES @ think "我听过大贸易公司用装甲加固船只的传闻，但这……"
 
 # game/data/travel_events/crashed_ship.rpy:63
 translate zh travel_event_crashed_ship_e9cd7d09:
@@ -166,7 +166,7 @@ translate zh travel_event_crashed_ship_e9cd7d09:
 translate zh travel_event_crashed_ship_ba8e8344:
 
     # ELENA @ grumpy "Perhaps... a relic of the old gods?"
-    ELENA @ grumpy "或许...是古神的遗物？"
+    ELENA @ grumpy "或许……是古神的遗物？"
 
 # game/data/travel_events/crashed_ship.rpy:69
 translate zh travel_event_crashed_ship_c90ffbe7:
@@ -376,7 +376,7 @@ translate zh travel_event_crashed_ship_inside_8cd54f27:
 translate zh travel_event_crashed_ship_inside_bfea744e:
 
     # ANDRAS "May the new gods... Ahhh, fuck it."
-    ANDRAS "愿新神...啊，去他妈的。"
+    ANDRAS "愿新神……啊，去他妈的。"
 
 # game/data/travel_events/crashed_ship.rpy:137
 translate zh travel_event_crashed_ship_inside_9e72f391:
@@ -418,7 +418,7 @@ translate zh travel_event_crashed_ship_inside_7d01dea4:
 translate zh travel_event_crashed_ship_inside_9c0c2393:
 
     # ANDRAS "It might be a simple life... {i}But at least we're alive.{/i}"
-    ANDRAS "或许生活简陋...{i}但至少活着。{/i}"
+    ANDRAS "或许生活简陋……{i}但至少活着。{/i}"
 
 # game/data/travel_events/crashed_ship.rpy:144
 translate zh travel_event_crashed_ship_inside_2d52d85d:
@@ -556,7 +556,7 @@ translate zh travel_event_crashed_ship_inside_eb9a0d09:
 translate zh travel_event_crashed_ship_inside_c2f71451:
 
     # MC @ talk "I just took this."
-    MC @ talk "只是拿了這個。"
+    MC @ talk "只是拿了这个。"
 
 # game/data/travel_events/crashed_ship.rpy:186
 translate zh travel_event_crashed_ship_inside_62d7245e:
@@ -629,7 +629,6 @@ translate zh strings:
     # game/data/travel_events/crashed_ship.rpy:191
     old "Leave it."
     new "留下它。"
-# TODO: Translation updated at 2026-02-12 21:18
 
 # game/data/travel_events/crashed_ship.rpy:136
 translate zh travel_event_crashed_ship_inside_737f7819:
@@ -638,7 +637,6 @@ translate zh travel_event_crashed_ship_inside_737f7819:
     ANDRAS "{i}反正他们也不再听了。{/i}"
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/travel_events/crashed_ship.rpy:30
 translate zh travel_event_crashed_ship_e352090c:

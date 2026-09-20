@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/characters/messenger/char.rpy:1
     old "Messenger"
-    new "Messenger"
+    new "Nachrichtendienst"
 

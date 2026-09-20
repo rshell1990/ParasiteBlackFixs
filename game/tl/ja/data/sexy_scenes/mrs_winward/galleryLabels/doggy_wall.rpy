@@ -106,8 +106,7 @@ translate ja gallery_winward_doggy_wall_nocuck_vag_19b802c9:
 translate ja gallery_winward_doggy_wall_nocuck_vag_35569ad3:
 
     # "I wondered what Mr Winward would think if he ever saw his wife's lewd expressions as she felt my cock fill her up properly?"
-    "もし彼が見たらどう思うだろう、ウィンワード氏は。
-妻が私の男根が中で膨らむのを感じている時の、あの淫らな表情を。"
+    "もし彼が見たらどう思うだろう、ウィンワード氏は。妻が私の男根が中で膨らむのを感じている時の、あの淫らな表情を。"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:120
 translate ja gallery_winward_doggy_wall_nocuck_vag_8d28b952:
@@ -557,9 +556,7 @@ translate ja gallery_winward_doggy_wall_cuck_vag_10b1b4d4:
 translate ja gallery_winward_doggy_wall_cuck_vag_0b0404e3:
 
     # "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her tight clutching hole."
-    "「あんっ…」
-ウィンワード夫人の口から熱っぽい吐息が漏れ、彼女の脚が震え始めた。
-私の男根は今も、彼女の締め付ける穴を貫通し続けている。"
+    "「あんっ…」ウィンワード夫人の口から熱っぽい吐息が漏れ、彼女の脚が震え始めた。私の男根は今も、彼女の締め付ける穴を貫通し続けている。"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:263
 translate ja gallery_winward_doggy_wall_cuck_vag_a3ea429a:
@@ -637,9 +634,7 @@ translate ja gallery_winward_doggy_wall_cuck_vag_c50db437:
 translate ja gallery_winward_doggy_wall_cuck_vag_ad141db4:
 
     # "Satisfied with her answer, I slammed my cock to the hilt, determined to fuck her senseless so she'd know for sure {i}who{/i} her body belonged to from now on..."
-    "彼女の答えに満足し、俺は根元まで一気に押し込んだ。
-これから彼女の身体が{i}誰のもの{/i}か、確実に分からせるため、
-意識が飛ぶほど犯してやるんだ……"
+    "彼女の答えに満足し、俺は根元まで一気に押し込んだ。これから彼女の身体が{i}誰のもの{/i}か、確実に分からせるため、意識が飛ぶほど犯してやるんだ……"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:290
 translate ja gallery_winward_doggy_wall_cuck_vag_eb4a3fbc:
@@ -663,9 +658,7 @@ translate ja gallery_winward_doggy_wall_cuck_vag_a9295df1:
 translate ja gallery_winward_doggy_wall_cuck_vag_ffdbd2ca:
 
     # MRS_WINWARD "I don't know how much more I can - Mhhhfhh! Take!"
-    MRS_WINWARD "これ以上、どれだけ耐えられるか…
-むっぷっ!
-耐えられない!"
+    MRS_WINWARD "これ以上、どれだけ耐えられるか…むっぷっ!耐えられない!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:294
 translate ja gallery_winward_doggy_wall_cuck_vag_2152ac7d:

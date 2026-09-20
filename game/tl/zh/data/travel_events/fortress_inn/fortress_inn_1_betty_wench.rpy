@@ -1,4 +1,3 @@
-# TODO: Translation updated at 2026-07-23 23:40
 
 # game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:4
 translate zh fortress_inn_betty_firsttime_c9cb3665:
@@ -160,7 +159,7 @@ translate zh fortress_inn_betty_talk_menu_fca984d2:
 translate zh fortress_inn_betty_talk_menu_e448cdbd:
 
     # BETTY @ talk "They said the GTC and the merchant lords' trade war was getting more and more volatile by the day."
-    BETTY @ talk "他们说GTC和商人领主之间的贸易战一天比一天激烈。"
+    BETTY @ talk "他们说Org,大商会,大商会,OK和商人领主之间的贸易战一天比一天激烈。"
 
 # game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:58
 translate zh fortress_inn_betty_talk_menu_0b590f9e:
@@ -216,13 +215,6 @@ translate zh fortress_inn_betty_talk_menu_287ae85c:
     # BETTY @ talk "I guessed adventuring parties were a lot more open now than when I lived in the capital!"
     BETTY @ talk "我猜现在的冒险队伍比我住在首都时可开放多了！"
 
-# game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:72
-translate zh fortress_inn_betty_talk_menu_8c6c1bf2:
-
-    # BETTY @ talk "Loved his milk and playing with my tits."
-    BETTY @ talk "喜欢喝奶，还喜欢玩我的奶子。"
-
-# game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:73
 translate zh fortress_inn_betty_talk_menu_47750900:
 
     # "Betty's eyes fluttered as she looked at me alluringly."
@@ -1758,11 +1750,9 @@ translate zh strings:
     old "Karnesh"
     new "卡内什"
 
-# TODO: Translation updated at 2026-07-30 08:45
 
 # game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:72
 translate zh fortress_inn_betty_talk_menu_4c4d78bc:
 
     # BETTY @ talk "Loves their milk and sucking on my tits."
     BETTY @ talk "喜欢他们的奶，还喜欢吸我的奶子。"
-

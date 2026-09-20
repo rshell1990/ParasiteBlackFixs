@@ -4,393 +4,16 @@
 # Wandering the streets, the player is approached by a city guard.
     
     
-    
-    
-    
-    
-
-    
-   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     # TODO to raven: letter needs background artwork to show text ontop of
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-
     # TODO to raven: the shrouded man sprite 
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     # TODO to raven: which enemies should be here? and what levels
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     # TODO to raven: which enemies should be here? and what levels
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     # TODO to raven: which enemies should be here? and what levels
@@ -399,42 +22,11 @@
     # 1 - Torn up Toys 
     
     
-    
-    
-    
-    
-    
-    
     # TODO to raven: which enemies should be here? and what levels
     #Battle against zombies.
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
             # TODO to raven: which enemies should be here? and what levels
-    
-    
-    
-    
-    
-    
     
     
     # TODO to raven: which enemies should be here? and what levels
@@ -443,363 +35,12 @@
     # 1 fireplace
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
                 # TODO to raven: which enemies should be here? and what levels
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
     # TODO to raven: uses debug enemy
     
     
-    
-    
-
     # TODO to raven: GATOR STUFF IS NOT IN THE GAME 
     # need clear desc whats' goin on with gator. 
     # when he appears? when he snatches a party member exactly? 
@@ -808,273 +49,9 @@
     #GATOR SNATCHES A PARTY MEMBER (See Quest design doc) ???
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     # TODO to raven: which enemies should be here? and what levels
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
 # TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:7
@@ -1527,13 +504,6 @@ translate zh qst_dreamhouse_enter_manor_menu3_f85862f1:
     # ANYA @ talk "No matter what happens, I know he wouldn't want to hurt her!"
     ANYA @ talk "不管发生什么，我知道他不会想伤害她的！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:151
-translate zh qst_dreamhouse_enter_manor_menu3_fbe08f8e:
-
-    # "Can you tell me more about why you separated from your husband?"
-    "你能告诉我更多关于你为什么和丈夫分开的事吗？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:152
 translate zh qst_dreamhouse_enter_manor_menu3_a75f67f7:
 
     # ANYA @ sad "To be married to an inquisitor isn't an easy thing."
@@ -3021,19 +1991,6 @@ translate zh qst_dreamhouse_l2_start_0c6c5de5:
     # "... An inquisitor?"
     "……一名审判官？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:704
-translate zh qst_dreamhouse_l2_start_e1f057db:
-
-    # DAVIK "Who the fuck are you?!"
-    DAVIK "你他妈是谁？！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:705
-translate zh qst_dreamhouse_l2_start_26123b51:
-
-    # DAVIK "Help me! QUICKLY!"
-    DAVIK "救我！快！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:706
 translate zh qst_dreamhouse_l2_start_d2876313:
 
     # "Before I could answer him, hurling itself around the corner, came a horde of walking corpses."
@@ -3045,31 +2002,11 @@ translate zh qst_dreamhouse_l2_start_a2f921c8:
     # "I barely had time to reach for my sword before they were upon us!"
     "我几乎来不及拔剑，它们就扑到我们面前了！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:714
-translate zh qst_dreamhouse_l2_start_08d46b3d:
-
-    # "Slaying the last of the creatures with a clean swipe to sever its head, I turned towards Davik."
-    "一剑干净利落地斩下最后一个怪物的头，我转向了达维克。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:720
 translate zh qst_dreamhouse_l2_start_ef2310fb:
 
     # MC @ serious "What in the hells is this?"
     MC @ serious "这到底是什么鬼？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:721
-translate zh qst_dreamhouse_l2_start_1876686f:
-
-    # DAVIK "Ahhh! Damn things tore right through my armour..."
-    DAVIK "啊啊啊！该死的东西直接撕穿了我的盔甲……"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:722
-translate zh qst_dreamhouse_l2_start_c0a019f3:
-
-    # DAVIK "My name is Davik."
-    DAVIK "我叫达维克。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:723
 translate zh qst_dreamhouse_l2_start_5f66bb5c:
 
     # DAVIK "Who sent you? You people shouldn't be here!"
@@ -3399,13 +2336,6 @@ translate zh qst_dreamhouse_l2_start_menu_e1c93801:
     # KIARA @ scared "Sure... As long as we don't get eaten first."
     KIARA @ scared "当然……只要我们先不被吃掉。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:802
-translate zh qst_dreamhouse_l2_bathtub_d56cf1ec:
-
-    # "It tilted its head towards me as I drew my blade!"
-    "它歪着头看向我，我拔出了剑！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:812
 translate zh qst_dreamhouse_l2_bathtub_e44e84bf:
 
     # "I noticed something shimmer in the mixed blood water of the bath."
@@ -3435,37 +2365,6 @@ translate zh qst_dreamhouse_l2_mirror_665c1b26:
     # "Looks like there was a struggle in here."
     "看来这里发生过搏斗。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:833
-translate zh qst_dreamhouse_l2_bathtub_afterbattle_39e9d55f:
-
-    # "Looks like a mercenary... Maybe one of Davik's men?"
-    "看起来像个雇佣兵……也许是达维克的人？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:834
-translate zh qst_dreamhouse_l2_bathtub_afterbattle_e44e84bf:
-
-    # "I noticed something shimmer in the mixed blood water of the bath."
-    "我注意到浴缸里混合的血水中有什么东西在闪烁。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:837
-translate zh qst_dreamhouse_l2_bathtub_afterbattle_427359f5:
-
-    # "Shoving my hand into the bloody water, I pulled out a small, dull key."
-    "我把手伸进血水中，掏出了一把小小的钝钥匙。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:840
-translate zh qst_dreamhouse_l2_bathtub_afterbattle_854dd011:
-
-    # KIARA @ scared "I think I might be sick..."
-    KIARA @ scared "我想我可能要吐了……"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:843
-translate zh qst_dreamhouse_l2_bathtub_afterbattle_dd99af82:
-
-    # "(No way am I putting my hand in that.)"
-    "（我才不会把手伸进去呢。）"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:849
 translate zh qst_dreamhouse_l2_nursery_oneoff_aec2ef82:
 
     # "Entering the room, the twisted corpses inside turned their attention towards us."
@@ -3819,19 +2718,6 @@ translate zh qst_dreamhouse_l2_library_bookshelf_1_29465ee2:
     # "The pages were ruined and covered in blood."
     "书页被毁坏了，沾满了血。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1058
-translate zh qst_dreamhouse_l2_library_bookshelf_2_2612ac88:
-
-    # "There's a depicion of what seemed to be a dead servant boy in bed... He appeared to have thrown up blood."
-    "上面描绘着一个看起来像是死在床上的仆人男孩……他似乎吐了血。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1063
-translate zh qst_dreamhouse_l2_library_portrait_0a77bcf4:
-
-    # "... Just what kind of nightmares did this girl have?"
-    "……这个女孩到底做了什么噩梦？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1064
 translate zh qst_dreamhouse_l2_library_portrait_dcac9c61:
 
     # "There's no keyhole this time."
@@ -5007,13 +3893,6 @@ translate zh qst_dreamhouse_l4_start_2c5a85f6:
     # KIARA @ talk "It's best just not to think about it too much, alright?"
     KIARA @ talk "最好就是别想太多，行吧？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1603
-translate zh qst_dreamhouse_l4_start_7f338908:
-
-    # SYPHA @ happy "How'd you know about mother?"
-    SYPHA @ happy "你怎么知道关于母亲的事？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1604
 translate zh qst_dreamhouse_l4_start_ebebed92:
 
     # "I couldn't help but burst out laughing at the comment."
@@ -5535,37 +4414,6 @@ translate zh qst_dreamhouse_l4_boarhead_9c609144:
     # "(The mounted head of a boar.)"
     "（一个野猪头标本。）"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1819
-translate zh qst_dreamhouse_l4_portrait_fa37640b:
-
-    # MARKUS @ smile "Look, Sypha!"
-    MARKUS @ smile "看，赛法！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1820
-translate zh qst_dreamhouse_l4_portrait_4857ee3d:
-
-    # MARKUS @ smile "Bring back any fond childhood memories?"
-    MARKUS @ smile "勾起什么美好的童年回忆了吗？"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1821
-translate zh qst_dreamhouse_l4_portrait_645b522e:
-
-    # SYPHA @ talk "Sure it does!"
-    SYPHA @ talk "当然有了！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1822
-translate zh qst_dreamhouse_l4_portrait_511d8b08:
-
-    # SYPHA @ happy "But we have much more creative ways of torturing wretches like you than that!"
-    SYPHA @ happy "但我们可有很多比你那更有创意的方法来折磨你这种可怜虫！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1823
-translate zh qst_dreamhouse_l4_portrait_9810f3c2:
-
-    # MARKUS @ talk "Charming..."
-    MARKUS @ talk "真迷人……"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1831
 translate zh qst_dreamhouse_l4_kitchen_cupboards_d12fde13:
 
     # "Upon opening the cupboards, I find they are fully stocked."
@@ -5691,13 +4539,6 @@ translate zh qst_dreamhouse_l4_cellar_barrel_menu_8e30331e:
     # "The floating, tendriled creature suddenly lashed out!"
     "那漂浮的、有触手的生物突然发起了攻击！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1901
-translate zh qst_dreamhouse_l4_cellar_barrel_menu_c820f137:
-
-    # "Dropping dead to the floor, its eye torn open by my blade, and inside... a demon-shaped key."
-    "死落在地板上，它的眼睛被我的剑撕裂开来，里面……是一把恶魔形状的钥匙。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1906
 translate zh qst_dreamhouse_l4_cellar_barrel_menu_6aadb649:
 
     # "Opening up the barrel, a small burst of needles came flying out."
@@ -5721,13 +4562,6 @@ translate zh qst_dreamhouse_l4_cellar_barrel_menu_f5fb20fe:
     # SYPHA @ angry "Careful..."
     SYPHA @ angry "小心……"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1911
-translate zh qst_dreamhouse_l4_cellar_barrel_menu_cb4a12ec:
-
-    # "Inside, a key with a demon-shaped end."
-    "里面是一把末端是恶魔形状的钥匙。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:1917
 translate zh qst_dreamhouse_l4_cellar_barrel_menu_2d96ca42:
 
     # MC @ surprised "GAHH!"
@@ -6009,13 +4843,6 @@ translate zh qst_dreamhouse_l4_library_bookshelf_2_menu_7b0b2236:
     # "I've never even seen this man before in my life?"
     "我这辈子从来没见过这个男人？"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2027
-translate zh qst_dreamhouse_l4_library_portrait_20de2b90:
-
-    # "... Hmm."
-    "……嗯。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2044
 translate zh qst_dreamhouse_l5_start_352f5d88:
 
     # "As we pushed on once more through the bright light, we found ourselves again in the entrance hallway of the house,"
@@ -6507,13 +5334,6 @@ translate zh qst_dreamhouse_final_housescene_d1be9a81:
     # "The nightmare creature retreated, pushed back into the darkness from which it tore through."
     "噩梦生物退却了，被推回了它撕裂而出的那片黑暗之中。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2287
-translate zh qst_dreamhouse_final_housescene_d9e970d3:
-
-    # "With trembling hands, his body pushed to its absolute limits, the veins in his arms and temples seeming ready to burst at any moment,"
-    "他用颤抖的双手，身体被逼到了极限，手臂和太阳穴上的青筋随时都像要爆裂，"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2288
 translate zh qst_dreamhouse_final_housescene_c9ab07b2:
 
     # "the great tear was slowly sealed shut, until at last, it was gone."
@@ -6549,13 +5369,6 @@ translate zh qst_dreamhouse_final_housescene_fa694f5d:
     # DAVIK "Serafina! SERAFINA!"
     DAVIK "塞拉菲娜！塞拉菲娜！"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2294
-translate zh qst_dreamhouse_final_housescene_ba447962:
-
-    # SERAFINA @ shock "Father!"
-    SERAFINA @ shock "父亲！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2295
 translate zh qst_dreamhouse_final_housescene_af99b283:
 
     # DAVIK "Are you alright, girl?"
@@ -6639,13 +5452,6 @@ translate zh qst_dreamhouse_final_housescene_2e1f113b:
     # "Slowly, the dark mage rose back to his feet."
     "黑暗法师缓缓站起。"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2310
-translate zh qst_dreamhouse_final_housescene_e74cc5a9:
-
-    # VIRGO "Bring the girl back to her mothers, or let me take the girl as an apprentice."
-    VIRGO "把女孩送回她母亲那里，或者让我收她为徒。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2311
 translate zh qst_dreamhouse_final_housescene_56420d6a:
 
     # DAVIK "ARE YOU INSANE?"
@@ -8150,31 +6956,6 @@ translate zh qst_dreamhouse_enter_house_d144812f_1:
     # "{i}Silence.{/i}"
     "{i}一片寂静。{/i}"
 
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:811
-translate zh qst_dreamhouse_l2_bathtub_ca772e26:
-
-    # "Entering the bathroom, a man lay dead in the tub, half-eaten as a strange specter appeared to be laping up his blood."
-    "走进浴室，浴缸里躺着一具男人的尸体，半身被啃食，一个诡异的幽灵正舔舐着他的鲜血。"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:819
-translate zh qst_dreamhouse_l2_bathtub_8e572365:
-
-    # MC @ surprised "Was that a fucking ghost?!"
-    MC @ surprised "那他妈的是个鬼？！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:820
-translate zh qst_dreamhouse_l2_bathtub_2d14ed26:
-
-    # KIARA @ scared "No, no, no, no, no!"
-    KIARA @ scared "不，不，不，不，不！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:821
-translate zh qst_dreamhouse_l2_bathtub_05a808cd:
-
-    # KIARA @ scared "You've got to be kidding me!"
-    KIARA @ scared "你在跟我开玩笑吧！"
-
-# game/data/world_quests/side/hamun/DreamHouse/scr_DreamHouse.rpy:2511
 translate zh qst_dreamhouse_conclusion_serafina_father_06e1034f:
 
     # ANYA @ sad "No!"

@@ -264,13 +264,6 @@ translate fr gallery_markus_fem_tarbeck_temptations_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "Les spectateurs souriaient narquoisement, amusés par la scène, tandis que les jambes de Marcia gigotaient pitoyablement sous moi."
 
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:73
-translate fr gallery_markus_fem_tarbeck_temptations_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "Vidée de ses forces, elle ne pouvait que regarder, impuissante, ma queue marteler entre ses seins."
-
-# game/data/sexy_scenes/markus/galleryLabels/tarbeck_temptations.rpy:74
 translate fr gallery_markus_fem_tarbeck_temptations_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -389,4 +382,3 @@ translate fr gallery_markus_fem_tarbeck_temptations_142972cd:
 
     # "As the overwhelming lust finally began to subside, it dawned on us what we had just done..."
     "Alors que la luxure débordante commençait enfin à s'apaiser, nous avons réalisé ce que nous venions de faire..."
-

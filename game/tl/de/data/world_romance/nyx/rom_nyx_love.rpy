@@ -4,223 +4,223 @@
 translate de rom_nyx_love_1_8a057542:
 
     # MC "Nyx isn't here. I'll try tomorrow."
-    MC "Nyx isn't here. I'll try tomorrow."
+    MC "Nyx ist nicht hier. Ich versuche es morgen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:12
 translate de rom_nyx_love_1_79969df8:
 
     # "Upon entering into her Office, Nyx stormed over angrily towards me, hands balled up into fists."
-    "Upon entering into her Office, Nyx stormed over angrily towards me, hands balled up into fists."
+    "Als ich ihr Büro betrat, stürmte Nyx wütend auf mich zu, die Hände zu Fäusten geballt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:13
 translate de rom_nyx_love_1_d545ac2c:
 
     # NYX @ angry "Was I not clear before?"
-    NYX @ angry "Was I not clear before?"
+    NYX @ angry "War ich vorher nicht deutlich genug?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:14
 translate de rom_nyx_love_1_1583fce0:
 
     # NYX @ angry "What in the seven hells are you doing here?"
-    NYX @ angry "What in the seven hells are you doing here?"
+    NYX @ angry "Was in den sieben Höllen tust du hier?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:15
 translate de rom_nyx_love_1_e7723627:
 
     # MC @ talk "I came here to speak to you."
-    MC @ talk "I came here to speak to you."
+    MC @ talk "Ich bin hergekommen, um mit dir zu sprechen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:16
 translate de rom_nyx_love_1_bcb3903c:
 
     # NYX @ think "About what? There is nothing to discuss."
-    NYX @ think "About what? There is nothing to discuss."
+    NYX @ think "Worüber? Es gibt nichts zu besprechen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:20
 translate de rom_nyx_love_1_9e2a7ee2:
 
     # NYX @ shock "E-Excuse me?"
-    NYX @ shock "E-Excuse me?"
+    NYX @ shock "E-Entschuldigung?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:21
 translate de rom_nyx_love_1_5029d028:
 
     # MC @ talk "You can't work all the time; you need a break every once in a while."
-    MC @ talk "You can't work all the time; you need a break every once in a while."
+    MC @ talk "Du kannst nicht die ganze Zeit arbeiten; du brauchst ab und zu eine Pause."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:22
 translate de rom_nyx_love_1_f23ff399:
 
     # NYX @ angry "Are you even hearing yourself?!"
-    NYX @ angry "Are you even hearing yourself?!"
+    NYX @ angry "Hörst du dir überhaupt selbst zu?!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:24
 translate de rom_nyx_love_1_f8707b9c:
 
     # NYX @ arrogant "I'm the captain of the city guard ... Not some peasant girl you're courting!"
-    NYX @ arrogant "I'm the captain of the city guard ... Not some peasant girl you're courting!"
+    NYX @ arrogant "Ich bin der Captain der Stadtwache ... Nicht irgendein Bauernmädchen, dem du den Hof machst!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:25
 translate de rom_nyx_love_1_b22b2824:
 
     # MC @ smile "And does the captain of the city guard never take a day-off?"
-    MC @ smile "And does the captain of the city guard never take a day-off?"
+    MC @ smile "Und nimmt der Hauptmann der Stadtwache nie einen freien Tag?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:26
 translate de rom_nyx_love_1_e7085def:
 
     # NYX @ arrogant "My duties and responsibilities come first."
-    NYX @ arrogant "My duties and responsibilities come first."
+    NYX @ arrogant "Meine Pflichten und Verantwortlichkeiten gehen vor."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:27
 translate de rom_nyx_love_1_d66b89f3:
 
     # MC @ talk "Surely you can't fulfil those duties as well without taking a break every now and then?"
-    MC @ talk "Surely you can't fulfil those duties as well without taking a break every now and then?"
+    MC @ talk "Sicherlich kannst du diese Pflichten auch nicht erfüllen, ohne hin und wieder eine Pause zu machen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:29
 translate de rom_nyx_love_1_4263f98d:
 
     # NYX @ angry "Must you persist in this matter?"
-    NYX @ angry "Must you persist in this matter?"
+    NYX @ angry "Musst du in dieser Angelegenheit so hartnäckig sein?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:30
 translate de rom_nyx_love_1_bd72f8b4:
 
     # MC @ smile "Because I care about you."
-    MC @ smile "Because I care about you."
+    MC @ smile "Weil du mir wichtig bist."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:32
 translate de rom_nyx_love_1_1c9a7cfb:
 
     # "Nyx blushed at the comment, grumbling beneath her breath how 'stupid' I was being while averting her gaze."
-    "Nyx blushed at the comment, grumbling beneath her breath how 'stupid' I was being while averting her gaze."
+    "Nyx errötete bei der Bemerkung und murmelte leise vor sich hin, wie 'dumm' ich mich verhielt, während sie den Blick abwandte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:33
 translate de rom_nyx_love_1_4df40c75:
 
     # NYX @ think "{i}*Sigh*{/i}"
-    NYX @ think "{i}*Sigh*{/i}"
+    NYX @ think "{i}*Seufz*{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:35
 translate de rom_nyx_love_1_db4c46e8:
 
     # NYX @ angry "What if someone sees me, hm? How do you propose I explain that one?"
-    NYX @ angry "What if someone sees me, hm? How do you propose I explain that one?"
+    NYX @ angry "Was, wenn mich jemand sieht, hm? Wie soll ich das dann erklären?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:36
 translate de rom_nyx_love_1_22ed2d9d:
 
     # MC @ talk "Am I supposed to believe you're incapable of disguising yourself?"
-    MC @ talk "Am I supposed to believe you're incapable of disguising yourself?"
+    MC @ talk "Soll ich etwa glauben, dass du dich nicht verkleiden kannst?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:37
 translate de rom_nyx_love_1_d2159437:
 
     # MC @ talk "Outside of that armor, how many are honestly going to recognize you?"
-    MC @ talk "Outside of that armor, how many are honestly going to recognize you?"
+    MC @ talk "Ohne diese Rüstung, wie viele werden dich ehrlich erkennen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:39
 translate de rom_nyx_love_1_482d7b74:
 
     # NYX @ think "...Fine, FINE!"
-    NYX @ think "...Fine, FINE!"
+    NYX @ think "...Na gut, NA GUT!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:40
 translate de rom_nyx_love_1_78b039bd:
 
     # NYX @ angry "But push aside silly notions of this being anything more than a chance for me to take a break from work."
-    NYX @ angry "But push aside silly notions of this being anything more than a chance for me to take a break from work."
+    NYX @ angry "Aber schieb alberne Vorstellungen beiseite, dass dies mehr sein könnte als eine Gelegenheit für mich, eine Pause von der Arbeit zu machen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:41
 translate de rom_nyx_love_1_aef727ce:
 
     # NYX @ think "What happened last time {i}won't{/i} happen again."
-    NYX @ think "What happened last time {i}won't{/i} happen again."
+    NYX @ think "Was letztes Mal passiert ist, {i}wird nicht{/i} wieder passieren."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:42
 translate de rom_nyx_love_1_0746b417:
 
     # MC @ smile "If you say so."
-    MC @ smile "If you say so."
+    MC @ smile "Wenn du das sagst."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:43
 translate de rom_nyx_love_1_1da137f4:
 
     # NYX @ angry "Don't be so-"
-    NYX @ angry "Don't be so-"
+    NYX @ angry "Sei nicht so-"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:44
 translate de rom_nyx_love_1_577a1c71:
 
     # NYX @ think "You know what? Forget it, I will see you at the {i}Iron Unicorn{/i} this Evening."
-    NYX @ think "You know what? Forget it, I will see you at the {i}Iron Unicorn{/i} this Evening."
+    NYX @ think "Weißt du was? Vergiss es, ich sehe dich heute Abend im {i}Iron Unicorn{/i}."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:45
 translate de rom_nyx_love_1_5dfd0491:
 
     # MC @ smile "I shall see you then."
-    MC @ smile "I shall see you then."
+    MC @ smile "Dann sehen wir uns."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:55
 translate de rom_nyx_love_1_1df973fb:
 
     # "Nyx seemed surprised at the comment, but quickly returned to her usual self."
-    "Nyx seemed surprised at the comment, but quickly returned to her usual self."
+    "Nyx schien von der Bemerkung überrascht, fand aber schnell zu ihrer gewohnten Art zurück."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:56
 translate de rom_nyx_love_1_60c586d4:
 
     # NYX @ think "Y-You agree?"
-    NYX @ think "Y-You agree?"
+    NYX @ think "D-Du stimmst zu?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:58
 translate de rom_nyx_love_1_0e455826:
 
     # NYX @ sad "Right, well, yes ... It's for the best."
-    NYX @ sad "Right, well, yes ... It's for the best."
+    NYX @ sad "Richtig, nun, ja ... Es ist das Beste."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:59
 translate de rom_nyx_love_1_c42c7fdf:
 
     # MC @ talk "Are you alright?"
-    MC @ talk "Are you alright?"
+    MC @ talk "Geht es dir gut?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:60
 translate de rom_nyx_love_1_540f65c6:
 
     # NYX @ sad "I'm fine, now, if that's all you came to say you can go."
-    NYX @ sad "I'm fine, now, if that's all you came to say you can go."
+    NYX @ sad "Mir geht es jetzt gut, wenn das alles ist, was du zu sagen hast, kannst du gehen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:61
 translate de rom_nyx_love_1_23893bea:
 
     # NYX @ think "And the two of us can forget this little 'incident' ever happened..."
-    NYX @ think "And the two of us can forget this little 'incident' ever happened..."
+    NYX @ think "Und wir beide können diesen kleinen 'Vorfall' einfach vergessen..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:78
 translate de rom_nyx_love_unicorn_date_4423f9a9:
 
     # "I looked around for any sign of Captain Nyx, to no-avail."
-    "I looked around for any sign of Captain Nyx, to no-avail."
+    "Ich sah mich nach einem Zeichen von Captain Nyx um, jedoch vergeblich."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:79
 translate de rom_nyx_love_unicorn_date_7e2105d4:
 
     # MC "(Hm ...Maybe she really isn't coming.)"
-    MC "(Hm ...Maybe she really isn't coming.)"
+    MC "(Hm ...Vielleicht kommt sie wirklich nicht.)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:84
 translate de rom_nyx_love_unicorn_date_4652382c:
 
     # "In that moment I felt someone nudge up against me, and as I turned, I looked to see a robbed figure stood before me."
-    "In that moment I felt someone nudge up against me, and as I turned, I looked to see a robbed figure stood before me."
+    "In diesem Moment spürte ich, wie sich jemand an mich drängte, und als ich mich umdrehte, sah ich eine vermummte Gestalt vor mir stehen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:86
 translate de rom_nyx_love_unicorn_date_ecb0d696:
 
     # "As she tilted her head up, I could see clearly through the hood it was Captain Nyx."
-    "As she tilted her head up, I could see clearly through the hood it was Captain Nyx."
+    "Als sie den Kopf hob, konnte ich durch die Kapuze deutlich erkennen, dass es Captain Nyx war."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:87
 translate de rom_nyx_love_unicorn_date_11b28b5c:
@@ -232,55 +232,55 @@ translate de rom_nyx_love_unicorn_date_11b28b5c:
 translate de rom_nyx_love_unicorn_date_ca71b39d:
 
     # NYX @ angry "Shh! Not so loud!"
-    NYX @ angry "Shh! Not so loud!"
+    NYX @ angry "Pst! Nicht so laut!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:89
 translate de rom_nyx_love_unicorn_date_304aa174:
 
     # MC @ smile "Ahh ... That explains the disguise then."
-    MC @ smile "Ahh ... That explains the disguise then."
+    MC @ smile "Ahh ... Das erklärt dann die Verkleidung."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:90
 translate de rom_nyx_love_unicorn_date_ff069f4c:
 
     # "Nyx sighed uneasily, looking around the tavern for signs of anyone she recognized."
-    "Nyx sighed uneasily, looking around the tavern for signs of anyone she recognized."
+    "Nyx seufzte unbehaglich und sah sich in der Taverne nach Anzeichen von jemandem um, den sie kannte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:91
 translate de rom_nyx_love_unicorn_date_195c857b:
 
     # NYX @ think "Why did you choose to bring me here?"
-    NYX @ think "Why did you choose to bring me here?"
+    NYX @ think "Warum hast du mich hierhergebracht?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:92
 translate de rom_nyx_love_unicorn_date_a37cf216:
 
     # NYX @ think "There are too many people."
-    NYX @ think "There are too many people."
+    NYX @ think "Es sind zu viele Leute hier."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:93
 translate de rom_nyx_love_unicorn_date_5ef67c6d:
 
     # MC @ talk "Relax, Nyx."
-    MC @ talk "Relax, Nyx."
+    MC @ talk "Entspann dich, Nyx."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:94
 translate de rom_nyx_love_unicorn_date_226f3248:
 
     # MC @ talk "We're here to have some fun, remember?"
-    MC @ talk "We're here to have some fun, remember?"
+    MC @ talk "Wir sind hier, um etwas Spaß zu haben, erinnerst du dich?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:95
 translate de rom_nyx_love_unicorn_date_627bcae2:
 
     # NYX @ talk "Right, yes ...'fun.'"
-    NYX @ talk "Right, yes ...'fun.'"
+    NYX @ talk "Richtig, ja ... 'Spaß.'"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:96
 translate de rom_nyx_love_unicorn_date_0bf6acba:
 
     # MC @ talk "What are you drinking?"
-    MC @ talk "What are you drinking?"
+    MC @ talk "Was trinkst du?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:97
 translate de rom_nyx_love_unicorn_date_80b0281b:
@@ -292,97 +292,97 @@ translate de rom_nyx_love_unicorn_date_80b0281b:
 translate de rom_nyx_love_unicorn_date_9b9e3f77:
 
     # MC @ talk "Two ales, coming up..."
-    MC @ talk "Two ales, coming up..."
+    MC @ talk "Zwei Ale, kommen sofort..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:109
 translate de rom_nyx_love_unicorn_date_2f6662c7:
 
     # "Nyx took a sip of the ale in her cup and smiled."
-    "Nyx took a sip of the ale in her cup and smiled."
+    "Nyx nahm einen Schluck von dem Ale in ihrem Becher und lächelte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:110
 translate de rom_nyx_love_unicorn_date_a5cc2a4c:
 
     # NYX @ laugh "Have to admit, I can't remember the last time I drank this much..."
-    NYX @ laugh "Have to admit, I can't remember the last time I drank this much..."
+    NYX @ laugh "Ich muss zugeben, ich kann mich nicht erinnern, wann ich das letzte Mal so viel getrunken habe..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:111
 translate de rom_nyx_love_unicorn_date_6edc882f:
 
     # MC @ smile "Are you trying to tell me the great Captain Nyx can't handle her drink?"
-    MC @ smile "Are you trying to tell me the great Captain Nyx can't handle her drink?"
+    MC @ smile "Willst du mir etwa sagen, dass die große Captain Nyx ihren Alkohol nicht verträgt?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:113
 translate de rom_nyx_love_unicorn_date_d0135504:
 
     # "Nyx seemed flustered at my comment."
-    "Nyx seemed flustered at my comment."
+    "Nyx schien bei meinem Kommentar verlegen zu sein."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:114
 translate de rom_nyx_love_unicorn_date_a44e6481:
 
     # NYX @ blush "I enjoy a glass of wine sometimes alone in my chambers..."
-    NYX @ blush "I enjoy a glass of wine sometimes alone in my chambers..."
+    NYX @ blush "Ich genieße ab und zu ein Glas Wein allein in meinen Gemächern..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:116
 translate de rom_nyx_love_unicorn_date_ef5d2b6b:
 
     # NYX @ talk "If any of the men actually saw me drunk and in disarray, they'd-"
-    NYX @ talk "If any of the men actually saw me drunk and in disarray, they'd-"
+    NYX @ talk "Wenn die Männer mich tatsächlich betrunken und in Unordnung sehen würden, würden sie-"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:117
 translate de rom_nyx_love_unicorn_date_50f65b83:
 
     # MC @ talk "Nyx, don't you think that perhaps you're holding yourself to an unreasonable standard?"
-    MC @ talk "Nyx, don't you think that perhaps you're holding yourself to an unreasonable standard?"
+    MC @ talk "Nyx, meinst du nicht, dass du dich vielleicht an einen unvernünftigen Standard hältst?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:118
 translate de rom_nyx_love_unicorn_date_1acdd7a2:
 
     # MC @ talk "The men would have seen their own commanders drunk at least a thousand times."
-    MC @ talk "The men would have seen their own commanders drunk at least a thousand times."
+    MC @ talk "Die Männer hätten ihre eigenen Kommandeure sicher schon tausendmal betrunken gesehen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:119
 translate de rom_nyx_love_unicorn_date_b586922b:
 
     # NYX @ angry "Their {i}male{/i} commanders."
-    NYX @ angry "Their {i}male{/i} commanders."
+    NYX @ angry "Ihre {i}männlichen{/i} Kommandeure."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:120
 translate de rom_nyx_love_unicorn_date_1203310c:
 
     # NYX @ angry "For them, such a thing is fine, but for me? One of the first female Captains? My enemies would just use it against me..."
-    NYX @ angry "For them, such a thing is fine, but for me? One of the first female Captains? My enemies would just use it against me..."
+    NYX @ angry "Für sie ist so etwas in Ordnung, aber für mich? Eine der ersten weiblichen Captains? Meine Feinde würden es nur gegen mich verwenden..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:121
 translate de rom_nyx_love_unicorn_date_6cb749a7:
 
     # "Nyx paused for a moment, looking around uneasily for anyone she might recognise."
-    "Nyx paused for a moment, looking around uneasily for anyone she might recognise."
+    "Nyx hielt einen Moment inne und sah sich unbehaglich um, ob sie jemanden erkannte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:122
 translate de rom_nyx_love_unicorn_date_a89586ab:
 
     # MC @ sad "...It must get tiresome, being paranoid all the time."
-    MC @ sad "...It must get tiresome, being paranoid all the time."
+    MC @ sad "...Es muss ermüdend sein, ständig paranoid zu sein."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:123
 translate de rom_nyx_love_unicorn_date_1fefa8a1:
 
     # MC @ think "Always having to keep your guard up like that."
-    MC @ think "Always having to keep your guard up like that."
+    MC @ think "Immer so auf der Hut sein zu müssen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:124
 translate de rom_nyx_love_unicorn_date_295efc33:
 
     # NYX @ talk "Mmm, it's difficult."
-    NYX @ talk "Mmm, it's difficult."
+    NYX @ talk "Mmm, es ist schwierig."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:125
 translate de rom_nyx_love_unicorn_date_f819b706:
 
     # MC @ talk "...And lonely."
-    MC @ talk "...And lonely."
+    MC @ talk "...Und einsam."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:126
 translate de rom_nyx_love_unicorn_date_fbb838ed:
@@ -394,853 +394,853 @@ translate de rom_nyx_love_unicorn_date_fbb838ed:
 translate de rom_nyx_love_unicorn_date_a481c864:
 
     # NYX @ talk "Enough dwelling on me, tell me about you."
-    NYX @ talk "Enough dwelling on me, tell me about you."
+    NYX @ talk "Genug von mir, erzähl mir von dir."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:128
 translate de rom_nyx_love_unicorn_date_80623b65:
 
     # MC @ talk "Me?"
-    MC @ talk "Me?"
+    MC @ talk "Ich?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:129
 translate de rom_nyx_love_unicorn_date_16fe6311:
 
     # NYX @ talk "Yes, {i}you.{/i}"
-    NYX @ talk "Yes, {i}you.{/i}"
+    NYX @ talk "Ja, {i}du.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:130
 translate de rom_nyx_love_unicorn_date_bef30c74:
 
     # NYX @ talk "Not only are you a curiosity given your 'gift,' you've successfully dragged me out here on a night out."
-    NYX @ talk "Not only are you a curiosity given your 'gift,' you've successfully dragged me out here on a night out."
+    NYX @ talk "Du bist nicht nur eine Kuriosität aufgrund deiner 'Gabe', du hast mich auch erfolgreich zu einem Abend hierher geschleppt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:131
 translate de rom_nyx_love_unicorn_date_7447bcbc:
 
     # NYX @ talk "Can't a girl at least be a little curious?"
-    NYX @ talk "Can't a girl at least be a little curious?"
+    NYX @ talk "Darf ein Mädchen denn nicht wenigstens ein bisschen neugierig sein?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:132
 translate de rom_nyx_love_unicorn_date_dd6427db:
 
     # MC @ smile "You weren't curious before."
-    MC @ smile "You weren't curious before."
+    MC @ smile "Du warst vorher nicht neugierig."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:133
 translate de rom_nyx_love_unicorn_date_d525b156:
 
     # NYX @ talk "That was business, this is supposed to be leisure ... Now, I'm curious."
-    NYX @ talk "That was business, this is supposed to be leisure ... Now, I'm curious."
+    NYX @ talk "Das war Geschäft, das hier soll Freizeit sein ... Jetzt bin ich neugierig."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:134
 translate de rom_nyx_love_unicorn_date_57bc53a9:
 
     # MC @ talk "What do you want to know?"
-    MC @ talk "What do you want to know?"
+    MC @ talk "Was willst du wissen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:135
 translate de rom_nyx_love_unicorn_date_0393ffd2:
 
     # NYX @ talk "First, tell me a little about yourself."
-    NYX @ talk "First, tell me a little about yourself."
+    NYX @ talk "Zuerst, erzähl mir etwas über dich selbst."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:136
 translate de rom_nyx_love_unicorn_date_62a82ca4:
 
     # NYX @ talk "I take it you didn't plan to go into the Scouts, hardly anyone ever does ... So, what did you want to be?"
-    NYX @ talk "I take it you didn't plan to go into the Scouts, hardly anyone ever does ... So, what did you want to be?"
+    NYX @ talk "Ich nehme an, du hattest nicht vor, zu den Scouts zu gehen, kaum jemand tut das jemals ... Also, was wolltest du werden?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:139
 translate de rom_nyx_love_unicorn_date_ed6973b7:
 
     # NYX @ shock "Really?"
-    NYX @ shock "Really?"
+    NYX @ shock "Wirklich?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:140
 translate de rom_nyx_love_unicorn_date_e58b3b37:
 
     # NYX @ talk "That's... surprising."
-    NYX @ talk "That's... surprising."
+    NYX @ talk "Das ist... überraschend."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:141
 translate de rom_nyx_love_unicorn_date_9abd2c86:
 
     # MC @ talk "How so?"
-    MC @ talk "How so?"
+    MC @ talk "Inwiefern?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:142
 translate de rom_nyx_love_unicorn_date_61bfee97:
 
     # NYX @ talk "You carry yourself as an Adventurer so well, I just thought you'd have wanted a more ..."
-    NYX @ talk "You carry yourself as an Adventurer so well, I just thought you'd have wanted a more ..."
+    NYX @ talk "Du trittst so gut als Abenteurer auf, ich dachte einfach, du hättest dir etwas mehr ..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:143
 translate de rom_nyx_love_unicorn_date_8e8a0efd:
 
     # NYX @ talk "Never mind, it's not like I can hardly blame you for wanting a job like that."
-    NYX @ talk "Never mind, it's not like I can hardly blame you for wanting a job like that."
+    NYX @ talk "Schon gut, ich kann es dir kaum verübeln, so einen Job zu wollen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:144
 translate de rom_nyx_love_unicorn_date_6da35f09:
 
     # MC @ talk "I figured you'd be disappointed by that answer."
-    MC @ talk "I figured you'd be disappointed by that answer."
+    MC @ talk "Ich dachte, du wärst von dieser Antwort enttäuscht."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:145
 translate de rom_nyx_love_unicorn_date_51752f04:
 
     # NYX @ laugh "Not at all, if anything, we could do with more {i}effective{/i} people running administration."
-    NYX @ laugh "Not at all, if anything, we could do with more {i}effective{/i} people running administration."
+    NYX @ laugh "Überhaupt nicht, im Gegenteil, wir könnten mehr {i}effektive{/i} Leute in der Verwaltung gebrauchen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:146
 translate de rom_nyx_love_unicorn_date_708d6718:
 
     # "Nyx's face became solemn."
-    "Nyx's face became solemn."
+    "Nyx' Gesicht wurde ernst."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:147
 translate de rom_nyx_love_unicorn_date_7b0f0bdd:
 
     # NYX @ talk "Besides ... You and I both know what it's really like out there."
-    NYX @ talk "Besides ... You and I both know what it's really like out there."
+    NYX @ talk "Außerdem ... Du und ich wissen beide, wie es da draußen wirklich ist."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:148
 translate de rom_nyx_love_unicorn_date_0cca6b85:
 
     # NYX @ talk "I could hardly blame anyone for wanting to stay as far away as possible from that."
-    NYX @ talk "I could hardly blame anyone for wanting to stay as far away as possible from that."
+    NYX @ talk "Ich könnte es kaum jemandem verübeln, so weit wie möglich davon entfernt bleiben zu wollen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:149
 translate de rom_nyx_love_unicorn_date_85d819a4:
 
     # NYX @ talk "Well, onto my next question!"
-    NYX @ talk "Well, onto my next question!"
+    NYX @ talk "Nun, weiter zur nächsten Frage!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:152
 translate de rom_nyx_love_unicorn_date_29f5966b:
 
     # NYX @ talk "Ahhh ... That fits."
-    NYX @ talk "Ahhh ... That fits."
+    NYX @ talk "Ahhh ... Das passt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:153
 translate de rom_nyx_love_unicorn_date_8b78d05e:
 
     # NYX @ talk "Well, you've certainly taken well to the role it seems."
-    NYX @ talk "Well, you've certainly taken well to the role it seems."
+    NYX @ talk "Nun, du scheinst dich wirklich gut in die Rolle eingefunden zu haben."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:154
 translate de rom_nyx_love_unicorn_date_3850b462:
 
     # MC @ talk "Growing up, we'd all heard about the greats, {i}Sir Gregor Iron hands, Marcella the wise,{/i}I guess I couldn't help but be a little inspired."
-    MC @ talk "Growing up, we'd all heard about the greats, {i}Sir Gregor Iron hands, Marcella the wise,{/i}I guess I couldn't help but be a little inspired."
+    MC @ talk "Als wir aufwuchsen, hörten wir alle von den Großen, {i}Sir Gregor Eisenhand, Marcella die Weise,{/i} ich schätze, ich konnte nicht umhin, mich ein wenig inspirieren zu lassen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:155
 translate de rom_nyx_love_unicorn_date_8ceeb735:
 
     # "Nyx laughed."
-    "Nyx laughed."
+    "Nyx lachte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:156
 translate de rom_nyx_love_unicorn_date_9a9ec790:
 
     # NYX @ talk "I used to beg my father to read me stories about the golden age of heroes."
-    NYX @ talk "I used to beg my father to read me stories about the golden age of heroes."
+    NYX @ talk "Ich habe meinen Vater immer angefleht, mir Geschichten über das goldene Zeitalter der Helden vorzulesen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:157
 translate de rom_nyx_love_unicorn_date_8ffdcba1:
 
     # NYX @ talk "{i}Eris of the Golden Dawn, Viletta the charmer.{/i}"
-    NYX @ talk "{i}Eris of the Golden Dawn, Viletta the charmer.{/i}"
+    NYX @ talk "{i}Eris von der Goldenen Morgenröte, Viletta die Bezaubernde.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:158
 translate de rom_nyx_love_unicorn_date_da0ea7c3:
 
     # MC @ talk "Are they the reason you became Captain of the city guard?"
-    MC @ talk "Are they the reason you became Captain of the city guard?"
+    MC @ talk "Sind sie der Grund, warum du Hauptmann der Stadtwache geworden bist?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:159
 translate de rom_nyx_love_unicorn_date_7fbec3cf:
 
     # "Nyx laughed once more."
-    "Nyx laughed once more."
+    "Nyx lachte noch einmal."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:160
 translate de rom_nyx_love_unicorn_date_646b85d5:
 
     # NYX @ talk "I can't say they were the {i}only{/i} reason, but ... They certainly had an impact on me."
-    NYX @ talk "I can't say they were the {i}only{/i} reason, but ... They certainly had an impact on me."
+    NYX @ talk "Ich kann nicht sagen, dass sie der {i}einzige{/i} Grund waren, aber ... Sie hatten mit Sicherheit einen Einfluss auf mich."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:161
 translate de rom_nyx_love_unicorn_date_e9775377:
 
     # NYX @ talk "Anyway, onto my next question then!"
-    NYX @ talk "Anyway, onto my next question then!"
+    NYX @ talk "Wie auch immer, dann zu meiner nächsten Frage!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:165
 translate de rom_nyx_love_unicorn_date_a096ec0c:
 
     # "Captain Nyx nearly spat up her drunk."
-    "Captain Nyx nearly spat up her drunk."
+    "Captain Nyx hätte sich fast an ihrem Getränk verschluckt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:166
 translate de rom_nyx_love_unicorn_date_b94ec0ed:
 
     # NYX @ think "Oh be serious!"
-    NYX @ think "Oh be serious!"
+    NYX @ think "Ach, sei doch ernst!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:167
 translate de rom_nyx_love_unicorn_date_1a126c6c:
 
     # MC @ smile "What? It's true!"
-    MC @ smile "What? It's true!"
+    MC @ smile "Was? Es ist wahr!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:169
 translate de rom_nyx_love_unicorn_date_522abf47:
 
     # MC @ talk "I'm much more of a lover than a fighter I think."
-    MC @ talk "I'm much more of a lover than a fighter I think."
+    MC @ talk "Ich bin viel mehr ein Liebhaber als ein Kämpfer, glaube ich."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:170
 translate de rom_nyx_love_unicorn_date_168de13f:
 
     # NYX @ talk "But working in a brothel? Seriously?"
-    NYX @ talk "But working in a brothel? Seriously?"
+    NYX @ talk "Aber in einem Bordell zu arbeiten? Ernsthaft?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:171
 translate de rom_nyx_love_unicorn_date_5355cc36:
 
     # NYX @ talk "Don't all boys growing up usually dream about adventure and how they're gonna be the next Newheart?"
-    NYX @ talk "Don't all boys growing up usually dream about adventure and how they're gonna be the next Newheart?"
+    NYX @ talk "Träumen nicht alle Jungs, die aufwachsen, normalerweise von Abenteuern und davon, der nächste Newheart zu werden?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:172
 translate de rom_nyx_love_unicorn_date_a6509da6:
 
     # MC @ smile "I was content with the idea I could prove my mettle enough in the bedroom rather than the battlefield."
-    MC @ smile "I was content with the idea I could prove my mettle enough in the bedroom rather than the battlefield."
+    MC @ smile "Ich war zufrieden mit der Vorstellung, dass ich meine Fähigkeiten genug im Schlafzimmer statt auf dem Schlachtfeld beweisen könnte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:174
 translate de rom_nyx_love_unicorn_date_536c4a0b:
 
     # "Nyx took a sip of her drink, her cheeks flushed red at the comment."
-    "Nyx took a sip of her drink, her cheeks flushed red at the comment."
+    "Nyx nahm einen Schluck von ihrem Getränk, ihre Wangen erröteten bei dem Kommentar."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:175
 translate de rom_nyx_love_unicorn_date_4764c3f9:
 
     # NYX @ blush "A-Anyway, moving on..."
-    NYX @ blush "A-Anyway, moving on..."
+    NYX @ blush "A-Also, weiter geht's..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:179
 translate de rom_nyx_love_unicorn_date_d5f8710a:
 
     # NYX @ talk "Okay, here's one."
-    NYX @ talk "Okay, here's one."
+    NYX @ talk "Okay, hier ist eine."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:180
 translate de rom_nyx_love_unicorn_date_b9d276ef:
 
     # NYX @ talk "What do you wanna be now?"
-    NYX @ talk "What do you wanna be now?"
+    NYX @ talk "Was willst du jetzt werden?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:181
 translate de rom_nyx_love_unicorn_date_1253b709:
 
     # NYX @ talk "I mean, some would already say you've done the impossible..."
-    NYX @ talk "I mean, some would already say you've done the impossible..."
+    NYX @ talk "Ich meine, manche würden schon sagen, du hast das Unmögliche geschafft..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:182
 translate de rom_nyx_love_unicorn_date_c907ad66:
 
     # NYX @ talk "But you tell me."
-    NYX @ talk "But you tell me."
+    NYX @ talk "Aber sag du es mir."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:185
 translate de rom_nyx_love_unicorn_date_9d92b2b1:
 
     # NYX @ blush "That sounds nice..."
-    NYX @ blush "That sounds nice..."
+    NYX @ blush "Das klingt schön..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:186
 translate de rom_nyx_love_unicorn_date_9ecc77e1:
 
     # NYX @ talk "I mean, dreadfully boring, but nice."
-    NYX @ talk "I mean, dreadfully boring, but nice."
+    NYX @ talk "Ich meine, schrecklich langweilig, aber nett."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:189
 translate de rom_nyx_love_unicorn_date_f00e80a3:
 
     # NYX @ talk "Ah, well..."
-    NYX @ talk "Ah, well..."
+    NYX @ talk "Ah, nun ja..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:190
 translate de rom_nyx_love_unicorn_date_8271458b:
 
     # NYX @ talk "I suppose I should have expected that answer."
-    NYX @ talk "I suppose I should have expected that answer."
+    NYX @ talk "Ich schätze, ich hätte diese Antwort erwarten sollen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:191
 translate de rom_nyx_love_unicorn_date_80fc4333:
 
     # NYX @ talk "Your whole world has pretty much been flipped in the last few months since the scouts."
-    NYX @ talk "Your whole world has pretty much been flipped in the last few months since the scouts."
+    NYX @ talk "Deine ganze Welt wurde in den letzten Monaten seit den Scouts ziemlich auf den Kopf gestellt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:192
 translate de rom_nyx_love_unicorn_date_ac8ca8a0:
 
     # NYX @ talk "Can't expect too much, I suppose."
-    NYX @ talk "Can't expect too much, I suppose."
+    NYX @ talk "Man kann wohl nicht zu viel erwarten."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:195
 translate de rom_nyx_love_unicorn_date_f206c150:
 
     # NYX @ talk "Ambitious, aren't we?"
-    NYX @ talk "Ambitious, aren't we?"
+    NYX @ talk "Ehrgeizig, nicht wahr?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:196
 translate de rom_nyx_love_unicorn_date_9ac8e9f6:
 
     # NYX @ talk "Just try and remember a lot of people have been in that game a lot longer than you."
-    NYX @ talk "Just try and remember a lot of people have been in that game a lot longer than you."
+    NYX @ talk "Versuch einfach, dich daran zu erinnern, dass viele Leute schon viel länger in diesem Spiel sind als du."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:197
 translate de rom_nyx_love_unicorn_date_44c24047:
 
     # NYX @ angry "Fuck around, and one of them will soon push you down into the shit."
-    NYX @ angry "Fuck around, and one of them will soon push you down into the shit."
+    NYX @ angry "Spiel nicht herum, sonst wird dich einer von ihnen bald in die Scheiße stoßen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:200
 translate de rom_nyx_love_unicorn_date_972d0055:
 
     # MC @ smile "Why do I feel like I'm being interrogated?"
-    MC @ smile "Why do I feel like I'm being interrogated?"
+    MC @ smile "Warum habe ich das Gefühl, verhört zu werden?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:201
 translate de rom_nyx_love_unicorn_date_91351324:
 
     # NYX @ blush "I have no idea what you're talking about, anyway, answer the next question."
-    NYX @ blush "I have no idea what you're talking about, anyway, answer the next question."
+    NYX @ blush "Ich habe keine Ahnung, wovon du redest, jedenfalls beantworte die nächste Frage."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:202
 translate de rom_nyx_love_unicorn_date_36ff3d69:
 
     # NYX @ talk "... Why um ... Why me?"
-    NYX @ talk "... Why um ... Why me?"
+    NYX @ talk "... Warum ähm ... Warum ich?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:203
 translate de rom_nyx_love_unicorn_date_57a21555:
 
     # MC @ surprised "Why you?"
-    MC @ surprised "Why you?"
+    MC @ surprised "Warum du?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:204
 translate de rom_nyx_love_unicorn_date_90c0800a:
 
     # NYX @ talk "I mean, there are other women..."
-    NYX @ talk "I mean, there are other women..."
+    NYX @ talk "Ich meine, es gibt andere Frauen..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:205
 translate de rom_nyx_love_unicorn_date_7c35c7dc:
 
     # NYX @ talk "Most men think I'm about as friendly as having the sharp end of a blade shoved up your arse."
-    NYX @ talk "Most men think I'm about as friendly as having the sharp end of a blade shoved up your arse."
+    NYX @ talk "Die meisten Männer denken, ich bin etwa so freundlich wie das scharfe Ende einer Klinge, die man in den Arsch geschoben bekommt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:209
 translate de rom_nyx_love_unicorn_date_fae7568f:
 
     # "Nyx became wide-eyed in disbelief."
-    "Nyx became wide-eyed in disbelief."
+    "Nyx riss vor Unglauben die Augen weit auf."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:210
 translate de rom_nyx_love_unicorn_date_6dbc9e7a:
 
     # NYX @ think "Funny? FUNNY?"
-    NYX @ think "Funny? FUNNY?"
+    NYX @ think "Lustig? LUSTIG?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:211
 translate de rom_nyx_love_unicorn_date_0f698938:
 
     # NYX @ angry "In what world am I funny?"
-    NYX @ angry "In what world am I funny?"
+    NYX @ angry "In welcher Welt bin ich lustig?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:212
 translate de rom_nyx_love_unicorn_date_dff65151:
 
     # NYX @ think "The last time I tried to tell a joke, it ended with twenty recruit guards stark-bollock naked training in the rain and mud!"
-    NYX @ think "The last time I tried to tell a joke, it ended with twenty recruit guards stark-bollock naked training in the rain and mud!"
+    NYX @ think "Das letzte Mal, als ich versuchte, einen Witz zu erzählen, endete es damit, dass zwanzig Rekrutenwachen splitternackt im Regen und Schlamm trainierten!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:213
 translate de rom_nyx_love_unicorn_date_a7005e4d:
 
     # "I couldn't help but laugh, and a befuddled Nyx nervously smiled as she took another sip of her drunk."
-    "I couldn't help but laugh, and a befuddled Nyx nervously smiled as she took another sip of her drunk."
+    "Ich konnte nicht anders als zu lachen, und eine verwirrte Nyx lächelte nervös, als sie einen weiteren Schluck von ihrem Getränk nahm."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:215
 translate de rom_nyx_love_unicorn_date_6424c311:
 
     # MC @ surprised "How did that happen?"
-    MC @ surprised "How did that happen?"
+    MC @ surprised "Wie ist das passiert?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:216
 translate de rom_nyx_love_unicorn_date_860a40c0:
 
     # NYX @ talk "One of those fools complained to me that his armour was too heavy, so he asked if he could train with something lighter on."
-    NYX @ talk "One of those fools complained to me that his armour was too heavy, so he asked if he could train with something lighter on."
+    NYX @ talk "Einer dieser Narren beklagte sich bei mir, dass seine Rüstung zu schwer sei, und fragte, ob er mit etwas Leichterem trainieren könne."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:217
 translate de rom_nyx_love_unicorn_date_28af8152:
 
     # NYX @ talk "So I told him, the only alternative was to strip and fight naked as part of our 'lightning speed' strike division."
-    NYX @ talk "So I told him, the only alternative was to strip and fight naked as part of our 'lightning speed' strike division."
+    NYX @ talk "Also sagte ich ihm, die einzige Alternative sei, sich auszuziehen und nackt zu kämpfen, als Teil unserer 'Blitzgeschwindigkeit'-Sturmtruppe."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:218
 translate de rom_nyx_love_unicorn_date_ee778371:
 
     # NYX @ talk "Next thing I know, I come back, and ALL the silly bastards are training naked!"
-    NYX @ talk "Next thing I know, I come back, and ALL the silly bastards are training naked!"
+    NYX @ talk "Was als Nächstes passiert, ich komme zurück, und ALLE diese dummen Bastarde trainieren nackt!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:219
 translate de rom_nyx_love_unicorn_date_be9845d4:
 
     # NYX @ talk "I'd never seen so much cock and balls in my life!"
-    NYX @ talk "I'd never seen so much cock and balls in my life!"
+    NYX @ talk "Ich hatte noch nie so viele Schwänze und Eier in meinem Leben gesehen!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:220
 translate de rom_nyx_love_unicorn_date_12634a17:
 
     # "I couldn't help but laugh again."
-    "I couldn't help but laugh again."
+    "Ich konnte nicht anders, als wieder zu lachen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:221
 translate de rom_nyx_love_unicorn_date_d722d765:
 
     # MC @ smile "See? You're funny."
-    MC @ smile "See? You're funny."
+    MC @ smile "Siehst du? Du bist lustig."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:222
 translate de rom_nyx_love_unicorn_date_5011d5e8:
 
     # NYX @ blush "Gods, you're a strange one."
-    NYX @ blush "Gods, you're a strange one."
+    NYX @ blush "Götter, du bist ein seltsamer Kerl."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:225
 translate de rom_nyx_love_unicorn_date_32b3e67a:
 
     # NYX @ blush "Gods ... Stop."
-    NYX @ blush "Gods ... Stop."
+    NYX @ blush "Götter ... Hör auf."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:226
 translate de rom_nyx_love_unicorn_date_b042f049:
 
     # NYX @ angry "You use that line all the time, don't you?"
-    NYX @ angry "You use that line all the time, don't you?"
+    NYX @ angry "Du verwendest diese Masche ständig, oder?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:227
 translate de rom_nyx_love_unicorn_date_7707e808:
 
     # MC @ smile "All the time."
-    MC @ smile "All the time."
+    MC @ smile "Ständig."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:229
 translate de rom_nyx_love_unicorn_date_4139baf3:
 
     # "Nyx pouts cutely."
-    "Nyx pouts cutely."
+    "Nyx schmollt niedlich."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:231
 translate de rom_nyx_love_unicorn_date_22d2a511:
 
     # MC @ talk "But I think I mean it this time; you really are different."
-    MC @ talk "But I think I mean it this time; you really are different."
+    MC @ talk "Aber ich glaube, diesmal meine ich es ernst; du bist wirklich anders."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:232
 translate de rom_nyx_love_unicorn_date_c8050b40:
 
     # MC @ talk "Most women-"
-    MC @ talk "Most women-"
+    MC @ talk "Die meisten Frauen-"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:233
 translate de rom_nyx_love_unicorn_date_d51fbe4c:
 
     # NYX @ laugh "Don't make half the men you meet look like spineless cunts?"
-    NYX @ laugh "Don't make half the men you meet look like spineless cunts?"
+    NYX @ laugh "Lassen nicht die Hälfte der Männer, die du triffst, wie rückgratlose Fotzen aussehen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:234
 translate de rom_nyx_love_unicorn_date_dff68778:
 
     # MC @ talk "I was going to say don't have quite such a foul mouth, but that too."
-    MC @ talk "I was going to say don't have quite such a foul mouth, but that too."
+    MC @ talk "Ich wollte sagen, dass sie nicht so eine schmutzige Ausdrucksweise haben, aber das auch."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:235
 translate de rom_nyx_love_unicorn_date_cc7b1a61:
 
     # NYX @ talk "Thanks, but also fuck you, my mouth isn't foul!"
-    NYX @ talk "Thanks, but also fuck you, my mouth isn't foul!"
+    NYX @ talk "Danke, aber fick dich auch, mein Mundwerk ist nicht schmutzig!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:238
 translate de rom_nyx_love_unicorn_date_a43284ab:
 
     # NYX @ talk "{i}*Sigh*{/i} Well, I guess it's fair you get to ask me some questions back."
-    NYX @ talk "{i}*Sigh*{/i} Well, I guess it's fair you get to ask me some questions back."
+    NYX @ talk "{i}*Seufz*{/i} Na gut, ich denke, es ist nur fair, dass du mir jetzt auch ein paar Fragen stellen darfst."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:239
 translate de rom_nyx_love_unicorn_date_04afac92:
 
     # NYX @ talk "So ... What do you want to know?"
-    NYX @ talk "So ... What do you want to know?"
+    NYX @ talk "Also ... Was willst du wissen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:244
 translate de nyx_love_unicorn_date_menu_a8018e7e:
 
     # NYX @ talk "... Fuck, you always come out swinging like that?"
-    NYX @ talk "... Fuck, you always come out swinging like that?"
+    NYX @ talk "... Verdammt, du kommst immer gleich so mit der Tür ins Haus?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:245
 translate de nyx_love_unicorn_date_menu_4dbc166c:
 
     # "Nyx paused for a moment to take a sip of her drink."
-    "Nyx paused for a moment to take a sip of her drink."
+    "Nyx hielt einen Moment inne, um einen Schluck von ihrem Getränk zu nehmen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:246
 translate de nyx_love_unicorn_date_menu_475ddec0:
 
     # NYX @ talk "No, can't say I have."
-    NYX @ talk "No, can't say I have."
+    NYX @ talk "Nein, kann ich nicht behaupten."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:247
 translate de nyx_love_unicorn_date_menu_033ef0ce:
 
     # NYX @ think "Came close once though."
-    NYX @ think "Came close once though."
+    NYX @ think "Einmal war ich nah dran."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:248
 translate de nyx_love_unicorn_date_menu_a59f8c3a:
 
     # NYX @ talk "My father tried to marry me off when I was young once, the engagement was quickly called off when I broke my supposed fiancé-to-be's nose."
-    NYX @ talk "My father tried to marry me off when I was young once, the engagement was quickly called off when I broke my supposed fiancé-to-be's nose."
+    NYX @ talk "Mein Vater versuchte mich einmal zu verheiraten, als ich jung war, die Verlobung wurde schnell aufgelöst, als ich meinem angeblichen Verlobten die Nase brach."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:249
 translate de nyx_love_unicorn_date_menu_11a41670:
 
     # MC @ talk "What did he do?"
-    MC @ talk "What did he do?"
+    MC @ talk "Was hat er getan?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:250
 translate de nyx_love_unicorn_date_menu_fb690c4e:
 
     # NYX @ angry "When I didn't put out, I caught him balls deep in the town slut one night."
-    NYX @ angry "When I didn't put out, I caught him balls deep in the town slut one night."
+    NYX @ angry "Als ich nicht mit ihm schlafen wollte, erwischte ich ihn eines Nachts bis zum Anschlag in der Dorfschlampe."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:251
 translate de nyx_love_unicorn_date_menu_77eb802a:
 
     # NYX @ think "Well, it wasn't a pretty sight."
-    NYX @ think "Well, it wasn't a pretty sight."
+    NYX @ think "Nun, es war kein schöner Anblick."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:257
 translate de nyx_love_unicorn_date_menu_ef2bf3b2:
 
     # NYX @ talk "Do I like it?"
-    NYX @ talk "Do I like it?"
+    NYX @ talk "Gefällt es mir?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:259
 translate de nyx_love_unicorn_date_menu_57e9d485:
 
     # "Nyx seemed perplexed by the question."
-    "Nyx seemed perplexed by the question."
+    "Nyx schien von der Frage verwirrt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:261
 translate de nyx_love_unicorn_date_menu_5bf1bf68:
 
     # NYX @ talk "...Yes, I think I do."
-    NYX @ talk "...Yes, I think I do."
+    NYX @ talk "...Ja, ich glaube schon."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:262
 translate de nyx_love_unicorn_date_menu_6d5472a9:
 
     # NYX @ think "Even if I complain about the sheer volume of incompetence all the time."
-    NYX @ think "Even if I complain about the sheer volume of incompetence all the time."
+    NYX @ think "Auch wenn ich mich ständig über die schiere Menge an Inkompetenz beschwere."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:263
 translate de nyx_love_unicorn_date_menu_c3c16c90:
 
     # NYX @ sad "Truth is, I've never made a very good {i}girl.{/i}"
-    NYX @ sad "Truth is, I've never made a very good {i}girl.{/i}"
+    NYX @ sad "Ehrlich gesagt, ich war nie ein besonders gutes {i}Mädchen.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:264
 translate de nyx_love_unicorn_date_menu_7e6ea7ef:
 
     # NYX @ sad "Always in fights, always getting up to trouble, always ..."
-    NYX @ sad "Always in fights, always getting up to trouble, always ..."
+    NYX @ sad "Ständig in Schlägereien, ständig in Schwierigkeiten, ständig ..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:265
 translate de nyx_love_unicorn_date_menu_a7ed96b8:
 
     # "Captain Nyx sighed."
-    "Captain Nyx sighed."
+    "Kapitän Nyx seufzte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:266
 translate de nyx_love_unicorn_date_menu_7d3051fe:
 
     # NYX @ sad "Always being trouble for my parents."
-    NYX @ sad "Always being trouble for my parents."
+    NYX @ sad "Immer eine Last für meine Eltern gewesen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:267
 translate de nyx_love_unicorn_date_menu_bc4935ea:
 
     # NYX @ talk "So, when the chance finally came to do something that I was good at, I just threw myself into it."
-    NYX @ talk "So, when the chance finally came to do something that I was good at, I just threw myself into it."
+    NYX @ talk "Als sich also endlich die Gelegenheit bot, etwas zu tun, worin ich gut war, stürzte ich mich einfach hinein."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:268
 translate de nyx_love_unicorn_date_menu_a37acd9f:
 
     # MC @ talk "Must have been hard ... Earning respect I mean."
-    MC @ talk "Must have been hard ... Earning respect I mean."
+    MC @ talk "Muss schwer gewesen sein ... Ich meine, Respekt zu verdienen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:269
 translate de nyx_love_unicorn_date_menu_4cb28fc1:
 
     # NYX @ think "Mmm, you have no idea."
-    NYX @ think "Mmm, you have no idea."
+    NYX @ think "Mmm, du hast keine Ahnung."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:275
 translate de nyx_love_unicorn_date_menu_cc9639a8:
 
     # NYX @ think "Hm? They're fine, they live in Newyark."
-    NYX @ think "Hm? They're fine, they live in Newyark."
+    NYX @ think "Hm? Ihnen geht es gut, sie leben in Newyark."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:276
 translate de nyx_love_unicorn_date_menu_7c48823a:
 
     # NYX @ talk "Father makes his living fixing up the boats in the dock."
-    NYX @ talk "Father makes his living fixing up the boats in the dock."
+    NYX @ talk "Vater verdient seinen Lebensunterhalt mit dem Reparieren der Boote am Dock."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:277
 translate de nyx_love_unicorn_date_menu_c0363e38:
 
     # NYX @ talk "Mother mostly stays at home, but she writes to me often."
-    NYX @ talk "Mother mostly stays at home, but she writes to me often."
+    NYX @ talk "Mutter bleibt meistens zu Hause, aber sie schreibt mir oft."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:278
 translate de nyx_love_unicorn_date_menu_71bc1ac1:
 
     # MC @ talk "Sounds like you get on well with them."
-    MC @ talk "Sounds like you get on well with them."
+    MC @ talk "Klingt, als würdest du gut mit ihnen auskommen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:279
 translate de nyx_love_unicorn_date_menu_bfca81ce:
 
     # NYX @ think "Ha ... Well, kind of."
-    NYX @ think "Ha ... Well, kind of."
+    NYX @ think "Ha ... Na ja, irgendwie schon."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:280
 translate de nyx_love_unicorn_date_menu_a1c159d2:
 
     # MC @ talk "Kind of?"
-    MC @ talk "Kind of?"
+    MC @ talk "Irgendwie?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:281
 translate de nyx_love_unicorn_date_menu_c58caa73:
 
     # NYX @ think "They've never really fully accepted what I do."
-    NYX @ think "They've never really fully accepted what I do."
+    NYX @ think "Sie haben nie wirklich ganz akzeptiert, was ich mache."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:282
 translate de nyx_love_unicorn_date_menu_d2962481:
 
     # NYX @ think "In their eyes, I should be married and bringing them a couple grandchildren."
-    NYX @ think "In their eyes, I should be married and bringing them a couple grandchildren."
+    NYX @ think "In ihren Augen sollte ich verheiratet sein und ihnen ein paar Enkelkinder schenken."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:283
 translate de nyx_love_unicorn_date_menu_17255e1a:
 
     # MC @ talk "Who's to say you can't do both?"
-    MC @ talk "Who's to say you can't do both?"
+    MC @ talk "Wer sagt, dass du nicht beides tun kannst?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:285
 translate de nyx_love_unicorn_date_menu_8ceeb735:
 
     # "Nyx laughed."
-    "Nyx laughed."
+    "Nyx lachte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:286
 translate de nyx_love_unicorn_date_menu_9be5eca3:
 
     # NYX @ laugh "Can you really imagine me as a mother? Gods ... I'd be terrible."
-    NYX @ laugh "Can you really imagine me as a mother? Gods ... I'd be terrible."
+    NYX @ laugh "Kannst du mich dir wirklich als Mutter vorstellen? Götter ... ich wäre schrecklich."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:288
 translate de nyx_love_unicorn_date_menu_6bfdc001:
 
     # MC @ talk "Really? I think you'd be pretty good myself."
-    MC @ talk "Really? I think you'd be pretty good myself."
+    MC @ talk "Wirklich? Ich selbst finde, du wärst ziemlich gut."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:290
 translate de nyx_love_unicorn_date_menu_906f78d6:
 
     # "Nyx blushed slightly as she brushed her hair back with her hand."
-    "Nyx blushed slightly as she brushed her hair back with her hand."
+    "Nyx errötete leicht, als sie sich mit der Hand durchs Haar strich."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:291
 translate de nyx_love_unicorn_date_menu_167be26c:
 
     # NYX @ blush "Umm, if you say so..."
-    NYX @ blush "Umm, if you say so..."
+    NYX @ blush "Ähm, wenn du das sagst..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:297
 translate de nyx_love_unicorn_date_menu_3377925f:
 
     # NYX @ talk "Well then, what should we do now?"
-    NYX @ talk "Well then, what should we do now?"
+    NYX @ talk "Na dann, was sollen wir jetzt machen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:298
 translate de nyx_love_unicorn_date_menu_4c36faa5:
 
     # MC @ smile "How about another round?"
-    MC @ smile "How about another round?"
+    MC @ smile "Wie wär's mit noch einer Runde?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:299
 translate de nyx_love_unicorn_date_menu_ca3042f9:
 
     # NYX @ laugh "Are you trying to get me drunk to seduce me?"
-    NYX @ laugh "Are you trying to get me drunk to seduce me?"
+    NYX @ laugh "Versuchst du, mich betrunken zu machen, um mich zu verführen?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:300
 translate de nyx_love_unicorn_date_menu_5426363b:
 
     # NYX @ laugh "I won't fall for such tricks!"
-    NYX @ laugh "I won't fall for such tricks!"
+    NYX @ laugh "Auf solche Tricks falle ich nicht rein!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:309
 translate de nyx_love_unicorn_date_menu_7608c3db:
 
     # NYX @ drunk "Zhoo ... Whatdya mean you don't exphect me to mhake the fhirst move?"
-    NYX @ drunk "Zhoo ... Whatdya mean you don't exphect me to mhake the fhirst move?"
+    NYX @ drunk "Zhoo ... Was meinscht du, du erwartescht nisch, dass isch den erschten Schritt mache?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:310
 translate de nyx_love_unicorn_date_menu_9777294c:
 
     # NYX @ angry "ARE YHUU TRYNAA SAY SOMETHIN?"
-    NYX @ angry "ARE YHUU TRYNAA SAY SOMETHIN?"
+    NYX @ angry "VERSCHUCHST DU, WAS ZU SACH'N?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:311
 translate de nyx_love_unicorn_date_menu_78fa3eed:
 
     # MC @ smile "Haha, no, Nyx."
-    MC @ smile "Haha, no, Nyx."
+    MC @ smile "Haha, nein, Nyx."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:312
 translate de nyx_love_unicorn_date_menu_7c448ee9:
 
     # NYX @ drunk "Zhat's Chapthain to yhuu!"
-    NYX @ drunk "Zhat's Chapthain to yhuu!"
+    NYX @ drunk "Das ischt Kaptän für disch!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:313
 translate de nyx_love_unicorn_date_menu_2b1cbd34:
 
     # MC @ smile "No, {i}Captain Nyx.{/i}"
-    MC @ smile "No, {i}Captain Nyx.{/i}"
+    MC @ smile "Nein, {i}Kapitän Nyx.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:314
 translate de nyx_love_unicorn_date_menu_937ac722:
 
     # MC @ smile "Just I know you have a lot of reservations, so I don't expect you to try something crazy."
-    MC @ smile "Just I know you have a lot of reservations, so I don't expect you to try something crazy."
+    MC @ smile "Ich weiß nur, dass du viele Vorbehalte hast, also erwarte ich nicht, dass du etwas Verrücktes versuchst."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:315
 translate de nyx_love_unicorn_date_menu_252524dd:
 
     # "Nyx stared drunkenly towards me. her eyes blinking slowly as she places her half empty drink down onto the table."
-    "Nyx stared drunkenly towards me. her eyes blinking slowly as she places her half empty drink down onto the table."
+    "Nyx starrte mich betrunken an. Ihre Augen blinzelten langsam, während sie ihr halbleeres Getränk auf den Tisch stellte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:316
 translate de nyx_love_unicorn_date_menu_0331ef83:
 
     # NYX @ drunk "G-Give me a moment...Mhm!"
-    NYX @ drunk "G-Give me a moment...Mhm!"
+    NYX @ drunk "G-Gib mir einen Moment...Mhm!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:317
 translate de nyx_love_unicorn_date_menu_da581641:
 
     # "Nyx stumbled off for a moment, nearly crashing into one of the tables before she managed to make her way successfully towards one of the privies."
-    "Nyx stumbled off for a moment, nearly crashing into one of the tables before she managed to make her way successfully towards one of the privies."
+    "Nyx taumelte für einen Moment davon, stieß fast gegen einen der Tische, bevor sie es schaffte, erfolgreich zu einer der Toiletten zu gelangen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:318
 translate de nyx_love_unicorn_date_menu_49969fa5:
 
     # "A short while, she returned with a contently smug expression."
-    "A short while, she returned with a contently smug expression."
+    "Kurze Zeit später kehrte sie mit einem zufrieden selbstgefälligen Ausdruck zurück."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:319
 translate de nyx_love_unicorn_date_menu_f48478e4:
 
     # MC @ think "Is everything okay?"
-    MC @ think "Is everything okay?"
+    MC @ think "Ist alles in Ordnung?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:320
 translate de nyx_love_unicorn_date_menu_10b19da0:
 
     # NYX @ drunk "Mhmm! Lhet's go, it's thime I went home."
-    NYX @ drunk "Mhmm! Lhet's go, it's thime I went home."
+    NYX @ drunk "Mhmm! Lhass uns gehen, es wird Zeit, dass ich nach Hause gehe."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:321
 translate de nyx_love_unicorn_date_menu_57625365:
 
     # MC @ talk "Alright, I'll walk you back as far as you want."
-    MC @ talk "Alright, I'll walk you back as far as you want."
+    MC @ talk "In Ordnung, ich begleite dich so weit zurück, wie du möchtest."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:328
 translate de nyx_love_unicorn_date_menu_faeb3f10:
 
     # "Walking Nyx back, she clinged unusually tight to my arm, pressing her breasts up against me as she kept looking up towards me."
-    "Walking Nyx back, she clinged unusually tight to my arm, pressing her breasts up against me as she kept looking up towards me."
+    "Als ich Nyx zurückbegleitete, klammerte sie sich ungewöhnlich fest an meinen Arm, drückte ihre Brüste gegen mich, während sie immer wieder zu mir aufblickte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:329
 translate de nyx_love_unicorn_date_menu_bc7edd54:
 
     # "As we were passing through one of the City's darkened alleyways, Nyx suddenly stopped."
-    "As we were passing through one of the City's darkened alleyways, Nyx suddenly stopped."
+    "Als wir durch eine der dunklen Gassen der Stadt gingen, blieb Nyx plötzlich stehen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:339
 translate de nyx_love_unicorn_date_menu_6c6e6247:
 
     # NYX @ drunk "W-Wait a minute."
-    NYX @ drunk "W-Wait a minute."
+    NYX @ drunk "W-Warte eine Minute."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:340
 translate de nyx_love_unicorn_date_menu_f6fae758:
 
     # MC @ talk "Nyx? What is it?"
-    MC @ talk "Nyx? What is it?"
+    MC @ talk "Nyx? Was ist los?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:341
 translate de nyx_love_unicorn_date_menu_942ae378:
 
     # NYX @ drunk "Yhuu shaid, I whouldn't dhuu nothin' chrazy."
-    NYX @ drunk "Yhuu shaid, I whouldn't dhuu nothin' chrazy."
+    NYX @ drunk "Duu haast gesaagt, ich würdde nix Chrazzy tun."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:342
 translate de nyx_love_unicorn_date_menu_49b3fde9:
 
     # NYX @ drunk "S-Shuu, I umm ..."
-    NYX @ drunk "S-Shuu, I umm ..."
+    NYX @ drunk "S-Schuu, ich ähm ..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:343
 translate de nyx_love_unicorn_date_menu_2f3794a7:
 
     # NYX @ drunk "{i}Did somethin' chrazy.{/i}"
-    NYX @ drunk "{i}Did somethin' chrazy.{/i}"
+    NYX @ drunk "{i}Hab was Chrazzy gemacht.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:344
 translate de nyx_love_unicorn_date_menu_0ecb8704:
 
     # MC @ think "Nyx? What did you do?"
-    MC @ think "Nyx? What did you do?"
+    MC @ think "Nyx? Was hast du getan?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:352
 translate de nyx_love_unicorn_date_menu_9df91a9d:
 
     # "With a drunken smile, Nyx undid her robes to reveal her luscious naked body beneath."
-    "With a drunken smile, Nyx undid her robes to reveal her luscious naked body beneath."
+    "Mit einem betrunkenen Lächeln öffnete Nyx ihre Roben und enthüllte ihren üppigen nackten Körper darunter."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:353
 translate de nyx_love_unicorn_date_menu_30c74322:
@@ -1252,13 +1252,13 @@ translate de nyx_love_unicorn_date_menu_30c74322:
 translate de nyx_love_unicorn_date_menu_26d192e1:
 
     # MC "N-Nyx! You're-"
-    MC "N-Nyx! You're-"
+    MC "N-Nyx! Du bist-"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:355
 translate de nyx_love_unicorn_date_menu_e647e046:
 
     # NYX "Shhhhh! Dhon't shay my nhame shoo lhoud."
-    NYX "Shhhhh! Dhon't shay my nhame shoo lhoud."
+    NYX "Shhhhh! Sag nisch meinen Nahmen soo lout."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:356
 translate de nyx_love_unicorn_date_menu_c9f3bcb5:
@@ -1504,61 +1504,61 @@ translate de nyx_love_unicorn_date_menu_2adabd19:
 translate de nyx_love_unicorn_date_menu_b4fde06e:
 
     # NYX "(What's happeningh to mee?)"
-    NYX "(What's happeningh to mee?)"
+    NYX "(Wa-as passiert mit mi-ir?)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:412
 translate de nyx_love_unicorn_date_menu_c1eb7541:
 
     # "As Nyx continued, her head now rhythmically bouncing as she swallowed my cock as deeply as she could,"
-    "As Nyx continued, her head now rhythmically bouncing as she swallowed my cock as deeply as she could,"
+    "Als Nyx fortfuhr und ihr Kopf jetzt rhythmisch wippte, während sie meinen Schwanz so tief wie möglich schluckte,"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:413
 translate de nyx_love_unicorn_date_menu_05457fb4:
 
     # "I soon began to feel the overwhelming urge to finish quickly building, and I knew I couldn't hold on much longer."
-    "I soon began to feel the overwhelming urge to finish quickly building, and I knew I couldn't hold on much longer."
+    "Bald spürte ich den überwältigenden Drang, schnell zu kommen, der sich in mir aufbaute, und ich wusste, dass ich nicht mehr lange durchhalten konnte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:414
 translate de nyx_love_unicorn_date_menu_2b579b33:
 
     # MC "{i}*Huff*{/i} I'm c-close..."
-    MC "{i}*Huff*{/i} I'm c-close..."
+    MC "{i}*Huff*{/i} Ich bin k-kurz davor..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:415
 translate de nyx_love_unicorn_date_menu_4e89ae69:
 
     # "I said with gritted teeth, my hands coiling into fists as my member became increasingly sensitive and my balls felt like they were tightening."
-    "I said with gritted teeth, my hands coiling into fists as my member became increasingly sensitive and my balls felt like they were tightening."
+    "Sagte ich mit zusammengebissenen Zähnen, meine Hände ballten sich zu Fäusten, während mein Glied immer empfindlicher wurde und meine Eier sich anfühlten, als würden sie sich zusammenziehen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:416
 translate de nyx_love_unicorn_date_menu_8dade9a4:
 
     # "As Nyx continued her lewd, drunken, loving blowjob, I heard the sounds of movement coming from behind."
-    "As Nyx continued her lewd, drunken, loving blowjob, I heard the sounds of movement coming from behind."
+    "Während Nyx ihren lüsternen, betrunkenen, liebevollen Blowjob fortsetzte, hörte ich Geräusche von Bewegung hinter mir."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:419
 translate de nyx_love_unicorn_date_menu_3f8cd45f:
 
     # GUARD "I can't believe the rota assigned us night patrol for the THIRD night in a row!"
-    GUARD "I can't believe the rota assigned us night patrol for the THIRD night in a row!"
+    GUARD "Ich kann nicht glauben, dass der Dienstplan uns die DRITTE Nacht in Folge Nachtpatrouille eingeteilt hat!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:420
 translate de nyx_love_unicorn_date_menu_509191ee:
 
     # SECOND_GUARD "You heard the captain's orders, with the chaos going on with the Vulshan and the Khazahs, everyone's having to do more patrols than before."
-    SECOND_GUARD "You heard the captain's orders, with the chaos going on with the Vulshan and the Khazahs, everyone's having to do more patrols than before."
+    SECOND_GUARD "Du hast die Befehle des Kapitäns gehört, bei dem Chaos mit den Vulshan und den Khazahs muss jeder mehr Patrouillen machen als zuvor."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:421
 translate de nyx_love_unicorn_date_menu_59e575b6:
 
     # SECOND_GUARD "Everyone does at least two night shifts in a row now."
-    SECOND_GUARD "Everyone does at least two night shifts in a row now."
+    SECOND_GUARD "Jeder macht jetzt mindestens zwei Nachtschichten hintereinander."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:422
 translate de nyx_love_unicorn_date_menu_922866e8:
 
     # MC "(Shit shit! The guards!)"
-    MC "(Shit shit! The guards!)"
+    MC "(Scheiße Scheiße! Die Wachen!)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:423
 translate de nyx_love_unicorn_date_menu_017b50dc:
@@ -1570,7 +1570,7 @@ translate de nyx_love_unicorn_date_menu_017b50dc:
 translate de nyx_love_unicorn_date_menu_cdb94725:
 
     # NYX "(Thoshh vhoicesss shound familiarr?)"
-    NYX "(Thoshh vhoicesss shound familiarr?)"
+    NYX "(Deezhe Shtimmen klinggen vertraut?)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:425
 translate de nyx_love_unicorn_date_menu_7b015e1d:
@@ -1582,37 +1582,37 @@ translate de nyx_love_unicorn_date_menu_7b015e1d:
 translate de nyx_love_unicorn_date_menu_f00dca0a:
 
     # GUARD "That's all well and good, but my fucking balls feel like they're going to explode if I don't find some whore soon to deal with them!"
-    GUARD "That's all well and good, but my fucking balls feel like they're going to explode if I don't find some whore soon to deal with them!"
+    GUARD "Das ist ja alles schön und gut, aber meine verdammten Eier fühlen sich an, als würden sie explodieren, wenn ich nicht bald eine Hure finde, die sich darum kümmert!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:427
 translate de nyx_love_unicorn_date_menu_805d6f23:
 
     # SECOND_GUARD "Aren't you married? Get your wife to suck your cock when you're home and stop whining!"
-    SECOND_GUARD "Aren't you married? Get your wife to suck your cock when you're home and stop whining!"
+    SECOND_GUARD "Bist du nicht verheiratet? Lass deine Frau dir zu Hause den Schwanz lutschen und hör auf zu jammern!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:428
 translate de nyx_love_unicorn_date_menu_8e7122a8:
 
     # GUARD "Bah, she's never in the mood..."
-    GUARD "Bah, she's never in the mood..."
+    GUARD "Bah, sie hat nie Lust..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:429
 translate de nyx_love_unicorn_date_menu_228d14cc:
 
     # GUARD "Besides, I'm in the mood for a long-haired blonde with a fat ass."
-    GUARD "Besides, I'm in the mood for a long-haired blonde with a fat ass."
+    GUARD "Außerdem hätte ich Lust auf eine langhaarige Blondine mit einem fetten Arsch."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:430
 translate de nyx_love_unicorn_date_menu_a0b175b6:
 
     # SECOND_GUARD "...Like the Captain?"
-    SECOND_GUARD "...Like the Captain?"
+    SECOND_GUARD "...Wie die Kapitänin?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:431
 translate de nyx_love_unicorn_date_menu_2210f288:
 
     # GUARD "Course! What I wouldn't give to bend her over that desk and ram that fucking ass! Haha!"
-    GUARD "Course! What I wouldn't give to bend her over that desk and ram that fucking ass! Haha!"
+    GUARD "Klar! Was würde ich nicht dafür geben, sie über diesen Schreibtisch zu beugen und diesen verdammten Arsch zu rammeln! Haha!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:432
 translate de nyx_love_unicorn_date_menu_c783c04f:
@@ -1684,163 +1684,163 @@ translate de nyx_love_unicorn_date_menu_66e56738:
 translate de nyx_love_unicorn_date_menu_2138c26c:
 
     # "As she squirmed and gagged, the sudden sensation was too much."
-    "As she squirmed and gagged, the sudden sensation was too much."
+    "Als sie sich wand und würgte, war die plötzliche Empfindung zu viel."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:448
 translate de nyx_love_unicorn_date_menu_1f412d59:
 
     # "Gripping her hair, I flooded her mouth with the hot, heavy load which she desperately tried to swallow down."
-    "Gripping her hair, I flooded her mouth with the hot, heavy load which she desperately tried to swallow down."
+    "Ich packte ihr Haar und überflutete ihren Mund mit der heißen, schweren Ladung, die sie verzweifelt herunterzuschlucken versuchte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:449
 translate de nyx_love_unicorn_date_menu_3b0504ab:
 
     # "The two guards approached, unable to see Captain Nyx's face as she tapped against my leg for air."
-    "The two guards approached, unable to see Captain Nyx's face as she tapped against my leg for air."
+    "Die beiden Wachen näherten sich und konnten Captain Nyx' Gesicht nicht sehen, als sie gegen mein Bein klopfte, um Luft zu bekommen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:450
 translate de nyx_love_unicorn_date_menu_ab10f0d6:
 
     # MC "Uhh, we'll just be finishing - ahh! Up now..."
-    MC "Uhh, we'll just be finishing - ahh! Up now..."
+    MC "Ähm, wir sind gerade fertig - ahh! Jetzt auf..."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:451
 translate de nyx_love_unicorn_date_menu_62c9b7bb:
 
     # MC "(Go away, go away, go away!)"
-    MC "(Go away, go away, go away!)"
+    MC "(Geht weg, geht weg, geht weg!)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:452
 translate de nyx_love_unicorn_date_menu_5ad86866:
 
     # "The two guards smirked and looked at each other before passing by and laughing."
-    "The two guards smirked and looked at each other before passing by and laughing."
+    "Die beiden Wachen grinsten und sahen sich an, bevor sie vorbeigingen und lachten."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:453
 translate de nyx_love_unicorn_date_menu_4fa27b2b:
 
     # SECOND_GUARD "Be gone by the time we get back!"
-    SECOND_GUARD "Be gone by the time we get back!"
+    SECOND_GUARD "Seid verschwunden, bis wir zurückkommen!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:454
 translate de nyx_love_unicorn_date_menu_61fe54c0:
 
     # "Feeling Nyx's taps against my leg become weaker and weaker, I quickly pulled her off from me, allowing her to gasp for air."
-    "Feeling Nyx's taps against my leg become weaker and weaker, I quickly pulled her off from me, allowing her to gasp for air."
+    "Als ich spürte, wie Nyx' Klopfen gegen mein Bein immer schwächer wurde, zog ich sie schnell von mir weg und ließ sie nach Luft schnappen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:455
 translate de nyx_love_unicorn_date_menu_eebe6cdf:
 
     # "She coughed up some of my warm seed onto the floor, shaking as she looking up weakly towards me."
-    "She coughed up some of my warm seed onto the floor, shaking as she looking up weakly towards me."
+    "Sie hustete etwas von meinem warmen Samen auf den Boden und zitterte, während sie schwach zu mir aufblickte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:456
 translate de nyx_love_unicorn_date_menu_5b08cb3d:
 
     # NYX "You - {i}*Cough!*{/i} Couldha khiled meee! {i}*Cough!*{/i}"
-    NYX "You - {i}*Cough!*{/i} Couldha khiled meee! {i}*Cough!*{/i}"
+    NYX "Du - {i}*Hust!*{/i} Hättst mich umbringen können! {i}*Hust!*{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:466
 translate de nyx_love_unicorn_date_menu_1c580795:
 
     # "I helped the drunk Nyx back to her feet."
-    "I helped the drunk Nyx back to her feet."
+    "Ich half der betrunkenen Nyx wieder auf die Beine."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:467
 translate de nyx_love_unicorn_date_menu_d0a32655:
 
     # MC @ surprised "Sorry, I had to make sure the guards didn't see you."
-    MC @ surprised "Sorry, I had to make sure the guards didn't see you."
+    MC @ surprised "Entschuldigung, ich musste sicherstellen, dass die Wachen dich nicht sehen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:470
 translate de nyx_love_unicorn_date_menu_ae574c5e:
 
     # "Nyx wiped her mouth clean, and nearly stumbling over, I reached out to quickly grab her."
-    "Nyx wiped her mouth clean, and nearly stumbling over, I reached out to quickly grab her."
+    "Nyx wischte sich den Mund sauber, und als sie beinahe stolperte, griff ich schnell zu, um sie zu packen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:471
 translate de nyx_love_unicorn_date_menu_2ecd45f7:
 
     # MC @ talk "Easy!"
-    MC @ talk "Easy!"
+    MC @ talk "Ganz ruhig!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:472
 translate de nyx_love_unicorn_date_menu_b61fc23e:
 
     # NYX @ drunk_sad "Mmmm, I t-think that'sh enough for one nightt."
-    NYX @ drunk_sad "Mmmm, I t-think that'sh enough for one nightt."
+    NYX @ drunk_sad "Mmmm, ich g-glaube, das ish genug für eine Nachtt."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:473
 translate de nyx_love_unicorn_date_menu_5e8978f3:
 
     # NYX @ drunk "T-Take me back to my room."
-    NYX @ drunk "T-Take me back to my room."
+    NYX @ drunk "B-Bring mich zurück in mein Zimmer."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:476
 translate de nyx_love_unicorn_date_menu_199e7656:
 
     # "Making sure to hold on and lead Nyx safely, she followed clumsily from behind as I lead her back to the fort."
-    "Making sure to hold on and lead Nyx safely, she followed clumsily from behind as I lead her back to the fort."
+    "Ich hielt Nyx fest und führte sie sicher, während sie ungeschickt hinter mir herlief, als ich sie zurück zur Festung brachte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:477
 translate de nyx_love_unicorn_date_menu_316da66e:
 
     # MC "Which way is your room, Nyx?"
-    MC "Which way is your room, Nyx?"
+    MC "Welcher Weg führt zu deinem Zimmer, Nyx?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:478
 translate de nyx_love_unicorn_date_menu_f2998548:
 
     # NYX "Mhmm, thish whayy."
-    NYX "Mhmm, thish whayy."
+    NYX "Mhmm, diesh Weeg."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:479
 translate de nyx_love_unicorn_date_menu_693b2e97:
 
     # "Leading Nyx to her room, she reached into her pocket and with a fumbling hand pulled out a key which she failed several times to put into the lock."
-    "Leading Nyx to her room, she reached into her pocket and with a fumbling hand pulled out a key which she failed several times to put into the lock."
+    "Während ich Nyx zu ihrem Zimmer führte, griff sie in ihre Tasche und zog mit zitternder Hand einen Schlüssel heraus, den sie mehrmals nicht ins Schloss stecken konnte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:483
 translate de nyx_love_unicorn_date_menu_232a1328:
 
     # "Taking the key, I opened the door for her."
-    "Taking the key, I opened the door for her."
+    "Ich nahm den Schlüssel und öffnete ihr die Tür."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:489
 translate de nyx_love_unicorn_date_menu_c27491e5:
 
     # NYX @ drunk "Thankshh."
-    NYX @ drunk "Thankshh."
+    NYX @ drunk "Dankeehh."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:492
 translate de nyx_love_unicorn_date_menu_71c87d28:
 
     # "In an instant, Nyx threw off her robes as she laid down onto her bed."
-    "In an instant, Nyx threw off her robes as she laid down onto her bed."
+    "Sofort warf Nyx ihre Roben ab und legte sich auf ihr Bett."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:494
 translate de nyx_love_unicorn_date_menu_e26cf361:
 
     # "Her room was unsurprisingly minimalist, with very little beyond the bare essentials."
-    "Her room was unsurprisingly minimalist, with very little beyond the bare essentials."
+    "Ihr Zimmer war erwartungsgemäß minimalistisch, kaum mehr als das Nötigste."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:495
 translate de nyx_love_unicorn_date_menu_a536d739:
 
     # "A desk with a quilt overflowing with paperwork by the window, a wardrobe to the side with a hulking chest in front of her bed."
-    "A desk with a quilt overflowing with paperwork by the window, a wardrobe to the side with a hulking chest in front of her bed."
+    "Ein Schreibtisch mit einer von Papierkram überquellenden Decke am Fenster, ein Kleiderschrank an der Seite und eine massive Truhe vor ihrem Bett."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:496
 translate de nyx_love_unicorn_date_menu_25548d25:
 
     # "Some armor perched up on a stand and a few weapons kept nearby."
-    "Some armor perched up on a stand and a few weapons kept nearby."
+    "Rüstung auf einem Ständer und ein paar Waffen in der Nähe."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:500
 translate de nyx_love_unicorn_date_menu_f4ab347a:
 
     # "As I turned to leave, Nyx drunkenly called out."
-    "As I turned to leave, Nyx drunkenly called out."
+    "Als ich mich zum Gehen wandte, rief Nyx betrunken."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:503
 translate de nyx_love_unicorn_date_menu_f032c442:
@@ -1852,85 +1852,85 @@ translate de nyx_love_unicorn_date_menu_f032c442:
 translate de nyx_love_unicorn_date_menu_811b6a5f:
 
     # MC @ talk "What?"
-    MC @ talk "What?"
+    MC @ talk "Was?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:505
 translate de nyx_love_unicorn_date_menu_29435dba:
 
     # NYX "S-Stahyy."
-    NYX "S-Stahyy."
+    NYX "B-Bleeeib."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:506
 translate de nyx_love_unicorn_date_menu_d1fa9a84:
 
     # NYX "I want chuddles."
-    NYX "I want chuddles."
+    NYX "Ich will kuscheln."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:507
 translate de nyx_love_unicorn_date_menu_443e2ed8:
 
     # "Nyx waits with drunken impatience in her bed for me to join her, patting at the bed alongside her."
-    "Nyx waits with drunken impatience in her bed for me to join her, patting at the bed alongside her."
+    "Nyx wartet mit betrunkener Ungeduld in ihrem Bett darauf, dass ich zu ihr komme, und klopft neben sich auf das Bett."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:508
 translate de nyx_love_unicorn_date_menu_47b723c7:
 
     # MC @ talk "Is that an order too?"
-    MC @ talk "Is that an order too?"
+    MC @ talk "Ist das auch ein Befehl?"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:509
 translate de nyx_love_unicorn_date_menu_d60cc72c:
 
     # NYX "Yeshhh!"
-    NYX "Yeshhh!"
+    NYX "Jaaaaah!"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:512
 translate de nyx_love_unicorn_date_menu_c2cb5f07:
 
     # "I sighed, smiling towards her as I began to take off my armor."
-    "I sighed, smiling towards her as I began to take off my armor."
+    "Ich seufzte und lächelte sie an, während ich begann, meine Rüstung abzulegen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:513
 translate de nyx_love_unicorn_date_menu_34869000:
 
     # "She was a demanding drunk, but a surprisingly adorable one."
-    "She was a demanding drunk, but a surprisingly adorable one."
+    "Sie war eine anspruchsvolle Betrunkene, aber eine überraschend liebenswerte."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:516
 translate de nyx_love_unicorn_date_menu_a820c7cf:
 
     # "Slipping into the bed alongside her, Nyx rested her head on my chest before dreamily begining to drift off to sleep."
-    "Slipping into the bed alongside her, Nyx rested her head on my chest before dreamily begining to drift off to sleep."
+    "Als ich neben sie ins Bett schlüpfte, legte Nyx ihren Kopf auf meine Brust, bevor sie verträumt begann, in den Schlaf zu gleiten."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:517
 translate de nyx_love_unicorn_date_menu_210045c0:
 
     # NYX "Pleasheee ... Stahyyy from nowh on."
-    NYX "Pleasheee ... Stahyyy from nowh on."
+    NYX "Bitteeee ... Bleiiib jetzzt für immer."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:518
 translate de nyx_love_unicorn_date_menu_d55a46ed:
 
     # NYX "I feelshsoo, {i}lonely...{/i}"
-    NYX "I feelshsoo, {i}lonely...{/i}"
+    NYX "Ich fühl mich soo {i}einsam...{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:519
 translate de nyx_love_unicorn_date_menu_ef6bdac4:
 
     # "And like that, Nyx was asleep."
-    "And like that, Nyx was asleep."
+    "Und damit war Nyx eingeschlafen."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:520
 translate de nyx_love_unicorn_date_menu_068b1625:
 
     # "Gently, I stroked her hair softly till I too, began to drift off."
-    "Gently, I stroked her hair softly till I too, began to drift off."
+    "Sanft strich ich durch ihr Haar, bis auch ich zu dämmern begann."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:531
 translate de nyx_love_unicorn_date_menu_37c594d7:
 
     # "As I open my eyes, I sit-upright to find I'm alone in Captain Nyx's bed."
-    "As I open my eyes, I sit-upright to find I'm alone in Captain Nyx's bed."
+    "Als ich die Augen öffne, setze ich mich aufrecht hin und stelle fest, dass ich allein in Captain Nyx' Bett bin."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:532
 translate de nyx_love_unicorn_date_menu_08a3ecb7:
@@ -1942,31 +1942,31 @@ translate de nyx_love_unicorn_date_menu_08a3ecb7:
 translate de nyx_love_unicorn_date_menu_d50f673b:
 
     # "Beside the bed, a small note is left with a key beside it."
-    "Beside the bed, a small note is left with a key beside it."
+    "Neben dem Bett liegt eine kleine Notiz mit einem Schlüssel daneben."
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:536
 translate de nyx_love_unicorn_date_menu_a20dcd6b:
 
     # "{i}I didn't want to wake you, I've been called to deal with some urgent work at once.{/i}"
-    "{i}I didn't want to wake you, I've been called to deal with some urgent work at once.{/i}"
+    "{i}Ich wollte dich nicht wecken, ich wurde sofort zu einer dringenden Angelegenheit gerufen.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:537
 translate de nyx_love_unicorn_date_menu_0256e04f:
 
     # "{i}Thank you for last night, I didn't realise how much I needed it.{/i}"
-    "{i}Thank you for last night, I didn't realise how much I needed it.{/i}"
+    "{i}Danke für letzte Nacht, ich wusste nicht, wie sehr ich es brauchte.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:538
 translate de nyx_love_unicorn_date_menu_6edd8291:
 
     # "{i}...And thanks for the worst hangover I've had in years.{/i}"
-    "{i}...And thanks for the worst hangover I've had in years.{/i}"
+    "{i}...Und danke für den schlimmsten Kater, den ich seit Jahren hatte.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:539
 translate de nyx_love_unicorn_date_menu_627e8963:
 
     # "{i}Come see me soon, please... We have much to discuss.{/i}"
-    "{i}Come see me soon, please... We have much to discuss.{/i}"
+    "{i}Komm mich bald besuchen, bitte... Wir haben viel zu besprechen.{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:540
 translate de nyx_love_unicorn_date_menu_58acec7e:
@@ -1978,83 +1978,83 @@ translate de nyx_love_unicorn_date_menu_58acec7e:
 translate de nyx_love_unicorn_date_menu_d6ae9711:
 
     # MC "(I should give it a day or so before trying to visit Nyx again.)"
-    MC "(I should give it a day or so before trying to visit Nyx again.)"
+    MC "(Ich sollte noch einen Tag oder so warten, bevor ich versuche, Nyx wieder zu besuchen.)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:543
 translate de nyx_love_unicorn_date_menu_e49ae314:
 
     # MC "(Give her time to deal with her work and think about what happened.)"
-    MC "(Give her time to deal with her work and think about what happened.)"
+    MC "(Gib ihr Zeit, ihre Arbeit zu erledigen und über das Geschehene nachzudenken.)"
 
 # game/data/world_romance/nyx/rom_nyx_love.rpy:544
 translate de nyx_love_unicorn_date_menu_a6865cfb:
 
     # MC "(Damn, what a night!)"
-    MC "(Damn, what a night!)"
+    MC "(Verdammt, was für eine Nacht!)"
 
 translate de strings:
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:18
     old "Come with me tonight to the {i}Iron Unicorn.{/i}"
-    new "Come with me tonight to the {i}Iron Unicorn.{/i}"
+    new "Komm heute Abend mit mir zum {i}Eisernen Einhorn.{/i}"
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:53
     old "You're right, we should keep things professional. {image=[ICON.HEART_CROSS]}"
-    new "You're right, we should keep things professional. {image=[ICON.HEART_CROSS]}"
+    new "Du hast recht, wir sollten die Dinge professionell halten. {image=[ICON.HEART_CROSS]}"
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:101
     old "A short while later..."
-    new "A short while later..."
+    new "Eine kurze Weile später..."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:138
     old "In truth, I just wanted a paperwork job within the royal Palace."
-    new "In truth, I just wanted a paperwork job within the royal Palace."
+    new "Ehrlich gesagt wollte ich nur einen Bürojob im königlichen Palast."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:151
     old "I wanted to be an Adventurer."
-    new "I wanted to be an Adventurer."
+    new "Ich wollte Abenteurer sein."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:163
     old "I wanted to work at the brothels."
-    new "I wanted to work at the brothels."
+    new "Ich wollte in den Bordellen arbeiten."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:184
     old "I'd like to just settle down, hopefully comfortably, with someone I love I think."
-    new "I'd like to just settle down, hopefully comfortably, with someone I love I think."
+    new "Ich würde mich einfach gerne niederlassen, hoffentlich gemütlich, mit jemandem, den ich liebe, glaube ich."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:188
     old "I'm not sure ... I guess I'll just see how things play out."
-    new "I'm not sure ... I guess I'll just see how things play out."
+    new "Ich bin mir nicht sicher ... Ich schätze, ich werde einfach sehen, wie es läuft."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:194
     old "Power is everything ... And I intend to grab as much of it as I can."
-    new "Power is everything ... And I intend to grab as much of it as I can."
+    new "Macht ist alles ... Und ich habe vor, so viel davon zu ergattern, wie ich kann."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:207
     old "I think you're funny."
-    new "I think you're funny."
+    new "Ich finde dich witzig."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:224
     old "That's why I like you, you're unlike any woman I've ever met before."
-    new "That's why I like you, you're unlike any woman I've ever met before."
+    new "Deshalb mag ich dich, du bist anders als jede Frau, die ich je zuvor getroffen habe."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:242
     old "Have you ever been in love before?"
-    new "Have you ever been in love before?"
+    new "Warst du schon einmal verliebt?"
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:255
     old "Do you like your job?"
-    new "Do you like your job?"
+    new "Magst du deinen Job?"
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:273
     old "Where are you parents now?"
-    new "Where are you parents now?"
+    new "Wo sind deine Eltern jetzt?"
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:296
     old "I think I've asked enough questions."
-    new "I think I've asked enough questions."
+    new "Ich glaube, ich habe genug Fragen gestellt."
 
     # game/data/world_romance/nyx/rom_nyx_love.rpy:303
     old "A couple hours later..."
-    new "A couple hours later..."
+    new "Ein paar Stunden später ..."
 

@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsWarrior/Sup/GuardiansShield.rpy:4
     old "Guardians Shield"
-    new "Guardians Shield"
+    new "Wächterschild"
 
     # game/data/battle_skills_actions/SkillsWarrior/Sup/GuardiansShield.rpy:38
     old "Removes all harmful effects from the target ally and protects them for 2 turns, redirecting any attack made against them onto you.\nDecreases the damage you take by %s for 2 turns and grants you an extra turn."
-    new "Removes all harmful effects from the target ally and protects them for 2 turns, redirecting any attack made against them onto you.\nDecreases the damage you take by %s for 2 turns and grants you an extra turn."
+    new "Entfernt alle negativen Effekte vom verbündeten Ziel und schützt es 2 Runden lang, wobei alle Angriffe gegen es auf dich umgeleitet werden.\nVerringert den erlittenen Schaden um %s für 2 Runden und gewährt dir eine zusätzliche Runde."
 

@@ -610,8 +610,7 @@ translate ja gallery_myu_elena_threesome_anal_0ed61c92:
 translate ja gallery_myu_elena_threesome_anal_af2936a8:
 
     # ELENA "Y-You—Ahh! P-Pervert!"
-    ELENA "な、なに—あっ!
-変、変態!"
+    ELENA "な、なに—あっ!変、変態!"
 
 # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:179
 translate ja gallery_myu_elena_threesome_anal_d96e8c20:

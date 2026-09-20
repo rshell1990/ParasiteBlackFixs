@@ -9,7 +9,7 @@ translate zh strings:
 
     # game/data/world_quests/main/Act1/TwoEmperors/qst_TwoEmperors.rpy:18
     old "Emperor Alcott himself has ordered me and Markus to investigate suspicious Demorai activity in the Valley of Death."
-    new "Alcott皇帝亲自命令我和马库斯调查死亡谷中可疑的Demorai活动。"
+    new "阿尔科特皇帝亲自命令我和马库斯调查死亡谷中可疑的德莫莱活动。"
 
     # game/data/world_quests/main/Act1/TwoEmperors/qst_TwoEmperors.rpy:19
     old "Meet Markus at the city gates"
@@ -41,7 +41,7 @@ translate zh strings:
 
     # game/data/world_quests/main/Act1/TwoEmperors/qst_TwoEmperors.rpy:19
     old "Apparently, the Demorai talk. Me and Markus have seen Some Demorai overlord beating the war drum real loud in an abandoned temple, east of the Valley of Death.\nWe should return to Novaras and report what we have seen."
-    new "Demorai显然在密谋行动。我与马库斯目睹某位德莫莱领主在死亡谷东侧的废弃神庙中大肆擂动战鼓。\n我们应返回Novaras汇报所见。"
+    new "德莫莱显然在密谋行动。我与马库斯目睹某位德莫莱领主在死亡谷东侧的废弃神庙中大肆擂动战鼓。\n我们应返回诺瓦拉斯汇报所见。"
 
     # game/data/world_quests/main/Act1/TwoEmperors/qst_TwoEmperors.rpy:61
     old "Ruins"

@@ -1,4 +1,4 @@
-init python:
+﻿init python:
     def Battle_DoAITurn(BattleChar):
         # counter-killed chars can be still present in activecharslist
         if not BattleChar.IsAlive:

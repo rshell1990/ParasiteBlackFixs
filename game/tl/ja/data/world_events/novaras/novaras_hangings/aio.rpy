@@ -112,8 +112,7 @@ translate ja ev_novaras_execution_var_2_d53b83ab:
 translate ja ev_novaras_execution_var_2_6c88d03a:
 
     # UNKNOWN "MAY THE OLD GODS PISS ON YOUR GRAVES AS THEY DEVOUR YOUR BASTARD CHILDREN IN THEIR SLEEP!"
-    UNKNOWN "古き神々があなたの墓に小便をひりかけ、
-忌まわしき子孫を眠りの中で喰らい尽くすように!"
+    UNKNOWN "古き神々があなたの墓に小便をひりかけ、忌まわしき子孫を眠りの中で喰らい尽くすように!"
 
 # game/data/world_events/novaras/novaras_hangings/aio.rpy:119
 translate ja ev_novaras_execution_var_2_21213b11:

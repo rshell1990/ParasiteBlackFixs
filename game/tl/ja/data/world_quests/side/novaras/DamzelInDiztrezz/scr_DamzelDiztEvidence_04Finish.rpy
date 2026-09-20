@@ -52,8 +52,7 @@ translate ja nijah_damzelDiztrezz_afterActionEvidence_13345a8d:
 translate ja nijah_damzelDiztrezz_afterActionEvidence_03bbdcea:
 
     # NIJAH "I need to think now what to do, I don't want to end up in the same situation again..."
-    NIJAH "今、どうすべきか考えなきゃ…
-また同じ状況には陥りたくない…"
+    NIJAH "今、どうすべきか考えなきゃ…また同じ状況には陥りたくない…"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDiztEvidence_04Finish.rpy:18
 translate ja nijah_damzelDiztrezz_afterActionEvidence_1e0914e9:

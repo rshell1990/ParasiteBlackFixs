@@ -9,59 +9,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit":200,
         "shop_category":"armor",
-
-        "sort_order":40,
-    }
-    static_item_defs["mythril_armor"] = {
-        "name":_("Mythril armor"),
-        "plural":_("Mythril armors"),
-        "desc":_("An armor set made from mythril, a rare and valuable metal."),
-        "Armor":12,
-        "icon":"images/items/armor/armor_mythril.webp",
-        "eqp_slots":EQP_SLOTS.CHEST,
-        "value_per_unit":200,
-        "shop_category":"armor",
-
-        "sort_order":40,
-    }
-    static_item_defs["golden_armor"] = {
-        "name":_("Golden armor"),
-        "plural":_("Golden armors"),
-        "desc":_("An armor set made from golden metal."),
-        "Armor":6,
-        "icon":"images/items/armor/armor_leather.webp",
-        "eqp_slots":EQP_SLOTS.CHEST,
-        "value_per_unit":200,
-        "shop_category":"armor",
-
-        "sort_order":40,
-    }
-    static_item_defs["adamantite_armor"] = {
-        "name":_("Adamantite armor"),
-        "plural":_("Adamantite armors"),
-        "desc":_("An armor set made from adamantite, a rare and valuable metal."),
-        "Armor":12,
-        "icon":"images/items/armor/armor_adamantite.webp",
-        "eqp_slots":EQP_SLOTS.CHEST,
-        "value_per_unit":200,
-        "shop_category":"armor",
-
-        "sort_order":40,
-    }
-    static_item_defs["Irridian_armor"] = {
-        "name":_("Irridian armor"),
-        "plural":_("Irridian armors"),
-        "desc":_("An armor set made by Irridian, Even looking at it makes you feel well defended."),
-        "Armor":99999,
-        "add_attr_dex":99999,
-        "add_attr_agi":99999,
-        "add_attr_hp":99999,
-        "add_attr_str":99999,
-        "icon":"images/items/armor/armor_irridian.webp",
-        "eqp_slots":EQP_SLOTS.CHEST,
-        "value_per_unit":200,
-        "shop_category":"armor",
-
         "sort_order":40,
     }
     static_item_defs["scout_armor"] = {
@@ -74,7 +21,6 @@ init python:
         "value_per_unit":220,
         "cannot_lose":True,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -87,7 +33,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit":1200,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -100,7 +45,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit":625,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -113,7 +57,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 825,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -126,7 +69,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 3200,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -139,7 +81,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 5564,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -152,7 +93,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 11232,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -165,7 +105,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 20579,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -179,7 +118,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit":725,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -193,7 +131,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit":250,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -208,7 +145,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit":300,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -223,7 +159,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 4200,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -237,7 +172,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 1250,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -253,7 +187,6 @@ init python:
         "eqp_slots":EQP_SLOTS.CHEST,
         "value_per_unit": 2850,
         "shop_category":"armor",
-
         "sort_order":40,
     }
 
@@ -284,3 +217,37 @@ init python:
         "shop_category":"armor",
         "sort_order":30,
     }
+#######################FUTURE ARMOR#####################
+    #static_item_defs["mythril_armor"] = {
+    #    "name":_("Mythril armor"),
+    #    "plural":_("Mythril armors"),
+    #    "desc":_("An armor set made from mythril, a rare and valuable metal."),
+    #    "Armor":12,
+    #    "icon":"images/items/armor/armor_mythril.webp",
+    #    "eqp_slots":EQP_SLOTS.CHEST,
+    #    "value_per_unit":200,
+    #    "shop_category":"armor",
+    #    "sort_order":40,
+    #}
+    #static_item_defs["golden_armor"] = {
+    #    "name":_("Golden armor"),
+    #    "plural":_("Golden armors"),
+    #    "desc":_("An armor set made from golden metal."),
+    #    "Armor":6,
+    #    "icon":"images/items/armor/armor_leather.webp",
+    #    "eqp_slots":EQP_SLOTS.CHEST,
+    #    "value_per_unit":200,
+    #    "shop_category":"armor",
+    #    "sort_order":40,
+    #}
+    #static_item_defs["adamantite_armor"] = {
+    #    "name":_("Adamantite armor"),
+    #    "plural":_("Adamantite armors"),
+    #    "desc":_("An armor set made from adamantite, a rare and valuable metal."),
+    #    "Armor":12,
+    #    "icon":"images/items/armor/armor_adamantite.webp",
+    #    "eqp_slots":EQP_SLOTS.CHEST,
+    #    "value_per_unit":200,
+    #    "shop_category":"armor",
+    #    "sort_order":40,
+    #}

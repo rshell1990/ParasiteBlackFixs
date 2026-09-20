@@ -8,11 +8,26 @@ init python:
                 Result.add(Item["shop_category"])
         return Result
 
+    def EnsureItemData(ItemID):
+        ItemRegistry = getattr(store, "all_items", {})
+        if ItemID not in ItemRegistry and ItemID in static_item_defs:
+            ItemRegistry[ItemID] = BuildItemDict(ItemID)
+        return ItemID in ItemRegistry
+
     def GetMaxToBuy(ItemID, ShopLM):
-        return min(ShopLM.Items[ItemID], int(GetItemQty(player_inv, "gold") / all_items[ItemID]["value_per_unit"]))
+        if not EnsureItemData(ItemID):
+            return 0
+        Stock = ShopLM.Items.get(ItemID, 0)
+        if Stock <= 0:
+            return 0
+        return min(Stock, int(GetItemQty(player_inv, "gold") / (all_items[ItemID].get("value_per_unit", 0) or 1)))
 
     def GetMaxToSell(ItemID, ShopLM):
-        return min(player_inv[ItemID], int(GetItemQty(ShopLM.Items, "gold") / all_items[ItemID]["value_per_unit"]))
+        if not EnsureItemData(ItemID):
+            return 0
+        if player_inv.get(ItemID, 0) <= 0:
+            return 0
+        return min(player_inv[ItemID], int(GetItemQty(ShopLM.Items, "gold") / (all_items[ItemID].get("value_per_unit", 0) or 1)))
 
     def UI_CanBuy(ItemID, ShopLM):
         if ItemID == "gold":

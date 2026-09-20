@@ -10,17 +10,17 @@ translate de markus_party_talk_d4605351:
 translate de markus_party_bye_1139a12b:
 
     # MARKUS "Let's go, [player_name!t]."
-    MARKUS "Let's go, [player_name!t]."
+    MARKUS "Auf geht's, [player_name!t]."
 
 # game/data/characters/markus/dialogue.rpy:23
 translate de markus_party_bye_833cdf86:
 
     # MARKUS "Of course, [player_name!t]."
-    MARKUS "Of course, [player_name!t]."
+    MARKUS "Natürlich, [player_name!t]."
 
 # game/data/characters/markus/dialogue.rpy:25
 translate de markus_party_bye_24f5aa47:
 
     # MARKUS "Alright, let's move out."
-    MARKUS "Alright, let's move out."
+    MARKUS "In Ordnung, auf geht's."
 

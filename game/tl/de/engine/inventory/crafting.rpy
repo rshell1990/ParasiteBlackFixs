@@ -4,5 +4,5 @@ translate de strings:
 
     # game/engine/inventory/crafting.rpy:45
     old "Select a recipe"
-    new "Select a recipe"
+    new "Rezept auswählen"
 

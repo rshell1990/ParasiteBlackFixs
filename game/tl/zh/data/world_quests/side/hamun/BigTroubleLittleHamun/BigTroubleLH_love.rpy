@@ -604,7 +604,7 @@ translate zh qst_BigTroubleLHamun_love_khazah_hideout_da25999e:
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_85d6f901:
 
     # MC @ smile "As long as you cover the fee, I'm sure the GTC would be interested in handling an arrangement with you as well..."
-    MC @ smile "只要你支付费用，我相信GTC也会有兴趣与你达成协议……"
+    MC @ smile "只要你支付费用，我相信大商会也会有兴趣与你达成协议……"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:200
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_8187e8ad:
@@ -622,7 +622,7 @@ translate zh qst_BigTroubleLHamun_love_khazah_hideout_64ac0872:
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_91c0e50e:
 
     # KHAZAH "{i}*Sigh*{/i} Of course they are with zer GTC..."
-    KHAZAH "{i}*叹气*{/i} 他们果然和GTC有关系……"
+    KHAZAH "{i}*叹气*{/i} 他们果然和大商会有关系……"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:205
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_3fd188d0:
@@ -682,13 +682,13 @@ translate zh qst_BigTroubleLHamun_love_khazah_hideout_efdbc40b:
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_17b21fa1:
 
     # KHAZAH "Remember, if you or the GTC try to play us, the Khazah will have their revenge!"
-    KHAZAH "记住，如果你或GTC想耍我们，卡扎人一定会复仇的！"
+    KHAZAH "记住，如果你或大商会想耍我们，卡扎人一定会复仇的！"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:224
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_da8a4f47:
 
     # MC "Of course..."
-    MC "当然..."
+    MC "当然……"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:225
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_fddff735:
@@ -706,7 +706,7 @@ translate zh qst_BigTroubleLHamun_love_khazah_hideout_2349eadc:
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_796b968d:
 
     # MC "(Time to return to Lord Zanzibat.)"
-    MC "(该回去向赞兹巴特大人复命了。)"
+    MC "（该回去向赞兹巴特大人复命了。）"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:240
 translate zh qst_BigTroubleLHamun_love_khazah_hideout_knivesout_0650c594:
@@ -826,7 +826,7 @@ translate zh qst_BigTroubleLHamun_love_return_to_zanzibat_after_khazah_bfe454b7:
 translate zh qst_BigTroubleLHamun_love_return_to_zanzibat_after_khazah_6bbbd8e7:
 
     # ZANZIBAT @ talk "From now on, they are under my protection... The GTC will threaten them no more."
-    ZANZIBAT @ talk "从现在起，他们受我庇护……GTC再也不会威胁他们了。"
+    ZANZIBAT @ talk "从现在起，他们受我庇护……大商会再也不会威胁他们了。"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:293
 translate zh qst_BigTroubleLHamun_love_return_to_zanzibat_after_khazah_4ee67eb4:
@@ -898,7 +898,7 @@ translate zh qst_BigTroubleLHamun_love_return_to_marbella_after_zanzibat_deal_06
 translate zh qst_BigTroubleLHamun_love_return_to_marbella_after_zanzibat_deal_6d299738:
 
     # MC @ think "But surely it's better than being in the pocket of the GTC?"
-    MC @ think "但总比被GTC掌控要好吧？"
+    MC @ think "但总比被大商会掌控要好吧？"
 
 # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:317
 translate zh qst_BigTroubleLHamun_love_return_to_marbella_after_zanzibat_deal_8c4509bf:
@@ -960,7 +960,6 @@ translate zh qst_BigTroubleLHamun_love_return_to_marbella_after_zanzibat_deal_de
     # MARBELLA @ talk "Gonna have me own knight in shining armour take me out! Haha!"
     MARBELLA @ talk "我要让我的闪亮盔甲骑士带我出门！哈哈！"
 
-# TODO: Translation updated at 2026-07-23 23:40
 
 translate zh strings:
 
@@ -978,7 +977,7 @@ translate zh strings:
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:164
     old "The Greater Trading Company."
-    new "大贸易公司。"
+    new "大商会。"
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:166
     old "Lord Valenthor (Lie)"
@@ -990,7 +989,7 @@ translate zh strings:
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:203
     old "GTC courier fees are normally six hundred."
-    new "GTC快递费通常是六百。"
+    new "大商会快递费通常是六百。"
 
     # game/data/world_quests/side/hamun/BigTroubleLittleHamun/BigTroubleLH_love.rpy:207
     old "Four hundred should suffice."

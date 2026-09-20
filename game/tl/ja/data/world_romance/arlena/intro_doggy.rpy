@@ -262,8 +262,7 @@ translate ja rom_ArlenaIntroDoggy_159bf8b3:
 translate ja rom_ArlenaIntroDoggy_5180d965:
 
     # "Arlena paused for a moment, choosing her words with care as she took a sip of her wine."
-    "アルレーナは一瞬、間を置いて、
-ワインに口をつけながら言葉を選んだ。"
+    "アルレーナは一瞬、間を置いて、ワインに口をつけながら言葉を選んだ。"
 
 # game/data/world_romance/arlena/intro_doggy.rpy:59
 translate ja rom_ArlenaIntroDoggy_6d1923e8:

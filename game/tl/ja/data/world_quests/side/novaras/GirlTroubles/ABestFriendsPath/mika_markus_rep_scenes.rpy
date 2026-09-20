@@ -808,8 +808,7 @@ translate ja event_markus_mika_rep_threesome_sexscene_91385059:
 translate ja event_markus_mika_rep_threesome_sexscene_d73cfb3e:
 
     # MC "H-Hrghh! She's - Mhmm! T-Tight!"
-    MC "ぐぐっ…!あの子が… んっ…!
-き、きつい…!"
+    MC "ぐぐっ…!あの子が… んっ…!き、きつい…!"
 
 # game/data/world_quests/side/novaras/GirlTroubles/ABestFriendsPath/mika_markus_rep_scenes.rpy:411
 translate ja event_markus_mika_rep_threesome_sexscene_ff094d0a:

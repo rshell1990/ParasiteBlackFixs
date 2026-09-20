@@ -178,8 +178,7 @@ translate ja rom_ElenaGetLingerieDeliver_e2244505:
 translate ja rom_ElenaGetLingerieDeliver_8cbc1ae8:
 
     # ELENA @ grumpy "I need more room for what I'm planning... And you're room isn't exactly the biggest."
-    ELENA @ grumpy "計画してるにはもっと場所が…  
-それに君の部屋は、別に広いとは言えないし。"
+    ELENA @ grumpy "計画してるにはもっと場所が…  それに君の部屋は、別に広いとは言えないし。"
 
 # game/data/world_romance/elena/scr_3_GetLing.rpy:65
 translate ja rom_ElenaGetLingerieDeliver_c70b66ea:

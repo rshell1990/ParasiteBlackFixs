@@ -7,17 +7,24 @@ default DEBUG_InstaBattle = False
 #         call screen main_menu()
 
 screen InstaBattleStater():
-    timer 0.000001 action Start("insta_battle")
+    timer 0.000001 action Jump("insta_battle")
 
 label insta_battle:
     $ PlayMusicRandom("mus_battle_generic")
-    if PlayerItemQty("potion_heal_minor") < 10:
-        $ DEBUG_PlayerAddAllItems(10)
-    $ QstStart(InfectionModule)
-    $ InfectionModule().isActive = True
-    $ InfectionModule().CurrentValue = 40
+    
+    python:
+        if store.PlayerItemQty("potion_heal_minor") < 10:
+            if hasattr(store, "DEBUG_PlayerAddAllItems"):
+                store.DEBUG_PlayerAddAllItems(10)
+        
+        if hasattr(store, "QstStart") and hasattr(store, "InfectionModule"):
+            store.QstStart(store.InfectionModule)
+            inf_mod = store.InfectionModule()
+            inf_mod.isActive = True
+            inf_mod.CurrentValue = 40
 
-    $ tmpvar = BattleSetup_GetAllCharsWithSkin()
+        tmpvar = store.BattleSetup_GetAllCharsWithSkin() if hasattr(store, "BattleSetup_GetAllCharsWithSkin") else {}
+        valid_keys = list(tmpvar.keys())
 
     $ DEBUG_INSTA_BATTLE_TYPE = "random_4"
 
@@ -29,42 +36,59 @@ label insta_battle:
                             CharIDList_Left = ["mc", "markus", "elena", "ves"],
                             CharIDList_Right = ["e_slimelark", "e_slimelark", "e_slimelark", "e_slimelark"]))
         $ TransformMarkus(False)
-    if DEBUG_INSTA_BATTLE_TYPE == "soundtest":
+
+    elif DEBUG_INSTA_BATTLE_TYPE == "soundtest":
         $ DEBUG_SetAllStatsTo(19)
         $ DEBUG_AddOneToAllClassSkills()
         $ TransformMarkus(True)
+        python:
+            count = store.RngInt(2, 4) if hasattr(store, "RngInt") else renpy.random.randint(2, 4)
+            right_list = [tmpvar[renpy.random.choice(valid_keys)]["char_id"] for _ in range(count)] if valid_keys else []
         $ StartBattle(BattleData(BackgroundImage = renpy.random.choice(battle_setup_battle_maps),
                             CharIDList_Left = ["mc", "markus", "e_bear", "myu"],
-                            CharIDList_Right = [tmpvar[renpy.random.choice(list(tmpvar.keys()))]["char_id"] for x in range(RngInt(2, 4))]))
+                            CharIDList_Right = right_list))
         $ TransformMarkus(False)
 
-    if DEBUG_INSTA_BATTLE_TYPE == "debug_ghouls":
+    elif DEBUG_INSTA_BATTLE_TYPE == "debug_ghouls":
         $ StartBattle(BattleData(BackgroundImage = renpy.random.choice(battle_setup_battle_maps),
                             CharIDList_Left = ["e_debug_neutral", "e_debug_neutral", "e_debug_neutral", "e_debug_neutral"],
                             CharIDList_Right = ["e_debug_neutral", "e_debug_neutral", "e_debug_neutral", "e_debug_neutral"]))
 
-    if DEBUG_INSTA_BATTLE_TYPE == "random_4":
-        $ DEBUG_AddOneToAllClassSkills()
-        if renpy.random.randint(1, 2) == 1:
+    elif DEBUG_INSTA_BATTLE_TYPE == "random_4":
+        if hasattr(store, "DEBUG_AddOneToAllClassSkills"):
+            $ DEBUG_AddOneToAllClassSkills()
+            
+        if renpy.random.randint(1, 2) == 1 and hasattr(store, "TransformMC"):
             $ TransformMC(True)
-        if renpy.random.randint(1, 2) == 1:
+        if renpy.random.randint(1, 2) == 1 and hasattr(store, "TransformMarkus"):
             $ TransformMarkus(True)
-        if renpy.random.randint(1, 2) == 1:
+        if renpy.random.randint(1, 2) == 1 and hasattr(store, "TransformElena"):
             $ TransformElena(True)
+
+        python:
+            left_list = [tmpvar[renpy.random.choice(valid_keys)]["char_id"] for _ in range(4)] if valid_keys else []
+            right_list = [tmpvar[renpy.random.choice(valid_keys)]["char_id"] for _ in range(4)] if valid_keys else []
 
         $ StartBattle(BattleData(
                         BackgroundImage = renpy.random.choice(battle_setup_battle_maps),
-                        CharIDList_Left = [tmpvar[renpy.random.choice(list(tmpvar.keys()))]["char_id"] for x in range(RngInt(4, 4))],
-                        CharIDList_Right = [tmpvar[renpy.random.choice(list(tmpvar.keys()))]["char_id"] for x in range(RngInt(4, 4))],
+                        CharIDList_Left = left_list,
+                        CharIDList_Right = right_list,
                         TurnLimit = 50,
                     )
                 )
-        $ TransformMC(False)
-        $ TransformMarkus(False)
-        $ TransformElena(False)
 
-    $ InfectionModule().isActive = False
-    $ tmpvar = {}
+        if hasattr(store, "TransformMC"):
+            $ TransformMC(False)
+        if hasattr(store, "TransformMarkus"):
+            $ TransformMarkus(False)
+        if hasattr(store, "TransformElena"):
+            $ TransformElena(False)
+
+    python:
+        if hasattr(store, "InfectionModule"):
+            inf_mod = store.InfectionModule()
+            inf_mod.isActive = False
+        tmpvar = {}
 
     # if LastBattleOutcome == "defeat":
     #     "(defeat)"

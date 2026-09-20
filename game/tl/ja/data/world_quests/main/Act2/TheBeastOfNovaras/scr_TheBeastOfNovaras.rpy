@@ -352,8 +352,7 @@ translate ja qst_TheBeastOfNovaras_BarSceneShared_28e9a95b:
 translate ja qst_TheBeastOfNovaras_BarSceneShared_480928c6:
 
     # SYPHA @ laugh "Amusing, really. HILARIOUS even!"
-    SYPHA @ laugh "愉快だな。
-いや、最高にユカイだ!"
+    SYPHA @ laugh "愉快だな。いや、最高にユカイだ!"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:102
 translate ja qst_TheBeastOfNovaras_BarSceneShared_6a8ca7ac:
@@ -1043,8 +1042,7 @@ translate ja qst_TheBeastOfNovaras_BarSceneShared_garenmenu_b87eb887:
 translate ja qst_TheBeastOfNovaras_BarSceneShared_garenmenu_c1beb196:
 
     # VES @ angry "Shove your papers up your arse, dog!"
-    VES @ angry "このクソ書類は  
-突っ込んでやがれ、この犬野郎!"
+    VES @ angry "このクソ書類は  突っ込んでやがれ、この犬野郎!"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:268
 translate ja qst_TheBeastOfNovaras_BarSceneShared_garenmenu_59849210:
@@ -1902,8 +1900,7 @@ translate ja qst_TheBeastOfNovaras_SpeakToYarrickSunForged_bf8f2e1e:
 translate ja qst_TheBeastOfNovaras_SpeakToYarrickSunForged_3dc70cce:
 
     # YARRICK @ talk "I'll begin the arrangements. We'll make Hamun hold its breath."
-    YARRICK @ talk "手配を始めよう。  
-ハムーンに息を呑ませてやる。"
+    YARRICK @ talk "手配を始めよう。  ハムーンに息を呑ませてやる。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:485
 translate ja qst_TheBeastOfNovaras_SpeakToYarrickSunForged_75a3aae0:
@@ -2167,8 +2164,7 @@ translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_180588cc:
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_d5457160:
 
     # SAVAGE_KAIN "On these sands. In front of every screaming throat out there."
-    SAVAGE_KAIN "この砂浜の上で。
-そこにあるすべての絶叫の声の前に。"
+    SAVAGE_KAIN "この砂浜の上で。そこにあるすべての絶叫の声の前に。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:573
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_fc489ba8:
@@ -2354,8 +2350,7 @@ translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_640459c4:
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_057c4e08:
 
     # "Would I always be the beast? Or was there still a man buried in here somewhere?"
-    "獣のままでいるのだろうか？
-それとも、この中にはまだ人間が埋もれているのだろうか？"
+    "獣のままでいるのだろうか？それとも、この中にはまだ人間が埋もれているのだろうか？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:621
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_b4927758:
@@ -2601,10 +2596,7 @@ translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_0e20e77c:
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_fc4ed75f:
 
     # "For a moment her eyes met mine. My breath caught. My chest tightened as though some unseen hand gripped it."
-    "一瞬、彼女の目が私を見た。
-
-息を呑んだ。
-胸が、見えない手に握り締められるように痛んだ。"
+    "一瞬、彼女の目が私を見た。息を呑んだ。胸が、見えない手に握り締められるように痛んだ。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:679
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_469e86e2:
@@ -2742,8 +2734,7 @@ translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_bc78bb04:
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_c85a5624:
 
     # "The sun beat down. Weapons raised."
-    "太陽が照りつける。
-武器が構えられる。"
+    "太陽が照りつける。武器が構えられる。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:718
 translate ja qst_TheBeastOfNovaras_SpecialFightBloodworks_5b00440c:
@@ -3253,8 +3244,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_22b50137:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_d8fc21fe:
 
     # SHYAHTAN "Alert the others. They follow me down."
-    SHYAHTAN "他の者たちに警戒せよ。
-奴らが俺を追ってくる。"
+    SHYAHTAN "他の者たちに警戒せよ。奴らが俺を追ってくる。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:848
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_a5fd93d9:
@@ -3488,8 +3478,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_095b78da:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_0e60cb8f:
 
     # "I plugged into the Zarpod's flesh, raising my flesheater as a few Merlanian warriors did their best to rush me."
-    "ザーポッドの肉に差し込むと、私はフレッシュイーターを構えた。
-数人のメルラニアン戦士たちが必死に突撃してくる中で。"
+    "ザーポッドの肉に差し込むと、私はフレッシュイーターを構えた。数人のメルラニアン戦士たちが必死に突撃してくる中で。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:919
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_dd43f9da:
@@ -3657,8 +3646,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_e82a6bb5:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_e6a21265:
 
     # "Their worlds ended peacefully, joyously, as they served the Hive in mating and in rest."
-    "その世界は、平和的に、喜びに満ちて終わった。  
-彼らは交尾と安息において、ハイヴに仕えながら。"
+    "その世界は、平和的に、喜びに満ちて終わった。  彼らは交尾と安息において、ハイヴに仕えながら。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:969
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_03795d2e:
@@ -3868,8 +3856,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_128ebffb:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_904c64ce:
 
     # MYSTERIOUS_WOMAN "I speak truth. Or does the great Shyahtan fear truth?"
-    MYSTERIOUS_WOMAN "私は真実を語る。
-それとも…偉大なるシャータンは真実を恐れるのか？"
+    MYSTERIOUS_WOMAN "私は真実を語る。それとも…偉大なるシャータンは真実を恐れるのか？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1013
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_1f9327cc:
@@ -3881,9 +3868,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_1f9327cc:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_10a6bde5:
 
     # "I looked closer into the water. The ripples stilled. The reflection cleared."
-    "水面を覗き込んだ。
-波紋は静まった。
-映り込みはくっきりと。"
+    "水面を覗き込んだ。波紋は静まった。映り込みはくっきりと。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1016
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_ab3063a6:
@@ -3913,8 +3898,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_c6bb91ca:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_8e47f22a:
 
     # "The figure was gone. Only her echoing laugh remained."
-    "影はもうそこにはなかった。
-残ったのは、彼女の笑い声がこだまするだけだった。"
+    "影はもうそこにはなかった。残ったのは、彼女の笑い声がこだまするだけだった。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1028
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_0f312c5f:
@@ -3968,8 +3952,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_6a433ffe:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_a008082e:
 
     # ZERO_ONE_FOUR_NINE "My lord... What happened here?"
-    ZERO_ONE_FOUR_NINE "主君様…
-ここはどうなされたのですか？"
+    ZERO_ONE_FOUR_NINE "主君様…ここはどうなされたのですか？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1040
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_d9acc812:
@@ -3987,8 +3970,7 @@ translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_8cade88a:
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_82fa99f6:
 
     # SHYAHTAN "Prepare my Zarpod. We return to the Primaris."
-    SHYAHTAN "我がザーポッドを準備せよ。
-プライマリスへ戻る。"
+    SHYAHTAN "我がザーポッドを準備せよ。プライマリスへ戻る。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1043
 translate ja qst_TheBeastOfNovaras_ParasiteShipFlashback_0dc316be:
@@ -4132,9 +4114,7 @@ translate ja qst_TheBeastOfNovaras_ReturnFromMerlanians_71b9b322:
 translate ja qst_TheBeastOfNovaras_ReturnFromMerlanians_4af985e0:
 
     # DRAMORA "Shall I wait in your quarters? Or send another to please you? Perhaps one of the captured females?"
-    DRAMORA "ご寝室でお待ちしましょうか？
-それとも他の者を、お楽しみに？
-あるいは捕虜の女を？"
+    DRAMORA "ご寝室でお待ちしましょうか？それとも他の者を、お楽しみに？あるいは捕虜の女を？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1080
 translate ja qst_TheBeastOfNovaras_ReturnFromMerlanians_d97d8e94:
@@ -4740,8 +4720,7 @@ translate ja qst_TheBeastOfNovaras_ReturnFromMerlanians_b9e35433:
 translate ja qst_TheBeastOfNovaras_ReturnFromMerlanians_9cb9c1a8:
 
     # SHYAHTAN "Then give me these traitors' names and I will see to it my Zarpod feasts upon them."
-    SHYAHTAN "ならば、裏切り者の名を挙げよ。
-我がザーポドに喰らわせてくれよう。"
+    SHYAHTAN "ならば、裏切り者の名を挙げよ。我がザーポドに喰らわせてくれよう。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1216
 translate ja qst_TheBeastOfNovaras_ReturnFromMerlanians_8ba529fe:
@@ -5107,8 +5086,7 @@ translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_ec319721:
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_846ff733:
 
     # "The crowd was silent at first. Stunned."
-    "群衆は最初、静かだった。
-呆然として。"
+    "群衆は最初、静かだった。呆然として。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1311
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_a362b8b6:
@@ -5138,8 +5116,7 @@ translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_66a6a854:
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_a959538b:
 
     # "Enthralled, leaning forward, her eyes wide as her hands clenched the fabric of her chair."
-    "夢中で、身を乗り出して、
-目を見開きながら椅子の布地を握りしめている。"
+    "夢中で、身を乗り出して、目を見開きながら椅子の布地を握りしめている。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1321
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_7c770864:
@@ -5499,10 +5476,7 @@ translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_f0de1293:
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_f8e6ed66:
 
     # REGINA "Lie down, sweetheart. Press yourself against me. Feel how much I want you— even if I can't give you all of me right now."
-    REGINA "横になりなさい、あなた。  
-私に寄り添って。  
-どれだけあなたを求めているか感じて——  
-たとえ今は全てを捧げられなくとも。"
+    REGINA "横になりなさい、あなた。  私に寄り添って。  どれだけあなたを求めているか感じて——  たとえ今は全てを捧げられなくとも。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1410
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_e4ab8fc2:
@@ -5970,8 +5944,7 @@ translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_93
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_d1ed5c7e:
 
     # MC @ think "What happened after he fell? Did he flee?"
-    MC @ think "彼が倒れた後、何が起きたの？
-彼は逃げたの？"
+    MC @ think "彼が倒れた後、何が起きたの？彼は逃げたの？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1539
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_3ca7f492:
@@ -6115,8 +6088,7 @@ translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_93
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_ecdc6f7e:
 
     # "The room shudders. The floor vibrates under my feet."
-    "部屋が激しく揺れる。
-床が足元で震えている。"
+    "部屋が激しく揺れる。床が足元で震えている。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1567
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_5af46dc6:
@@ -6140,8 +6112,7 @@ translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_70
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_5cd0d05a:
 
     # REGINA @ sad "Go now. Remember my words and GO!"
-    REGINA @ sad "さあ、行け。
-我が言葉を胸に刻み、行け!"
+    REGINA @ sad "さあ、行け。我が言葉を胸に刻み、行け!"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1576
 translate ja qst_TheBeastOfNovaras_FlashbackOverCaltrackFinish_reginatalkmenu_1ae4f801:
@@ -6561,8 +6532,7 @@ translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_b91e4d
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_056a9c06:
 
     # SHYAHTAN "How so? You are not Terran."
-    SHYAHTAN "どういうこと？
-あなたはテランじゃない。"
+    SHYAHTAN "どういうこと？あなたはテランじゃない。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1688
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_syphatalkmenu_fa59db88:
@@ -6760,10 +6730,7 @@ translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_eeb
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_e1dce769:
 
     # SHYAHTAN "I saw banners burning beneath twin suns. Screams. Concubines without faces. A child's hand reaching... then nothing."
-    SHYAHTAN "双つの太陽の下で旗幟が燃えているのを見た。
-悲鳴。
-顔のない側室たち。
-伸ばす幼い手…そして、無。"
+    SHYAHTAN "双つの太陽の下で旗幟が燃えているのを見た。悲鳴。顔のない側室たち。伸ばす幼い手…そして、無。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1734
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_02828b98:
@@ -6787,9 +6754,7 @@ translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_33a
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_5b5f717f:
 
     # SHYAHTAN "I do not like these feelings. They are heavy... illogical. Painful."
-    SHYAHTAN "この感情は嫌だ。
-重い…非論理的だ。
-痛い。"
+    SHYAHTAN "この感情は嫌だ。重い…非論理的だ。痛い。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1744
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_91d14552:
@@ -6801,9 +6766,7 @@ translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_91d
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_9d4fc3c1:
 
     # SHYAHTAN "There is more. Locked away. Waiting."
-    SHYAHTAN "まだある。
-閉ざされた。
-待っている。"
+    SHYAHTAN "まだある。閉ざされた。待っている。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1749
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_527b51a7:
@@ -6911,9 +6874,7 @@ translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_618
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_932fb4da:
 
     # SHYAHTAN "I do not know. My race serves no god. There is only the hive."
-    SHYAHTAN "分かりません。
-我々の種族は神を奉じません。
-あるのはただ、巣だけです。"
+    SHYAHTAN "分かりません。我々の種族は神を奉じません。あるのはただ、巣だけです。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1773
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_09817b3b:
@@ -6931,8 +6892,7 @@ translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_df7
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_76183b87:
 
     # SHYAHTAN "The Demorai still invade, with or without my memories intact."
-    SHYAHTAN "デモライは、まだ侵攻する。
-私の記憶があろうとなかろうと。"
+    SHYAHTAN "デモライは、まだ侵攻する。私の記憶があろうとなかろうと。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1776
 translate ja qst_TheBeastOfNovaras_WakeUpInTavernPostBattle_shyahtantalkmenu_226288d3:
@@ -7334,8 +7294,7 @@ translate ja qst_TheBeastOfNovaras_ZanzibatHouse_192088ef:
 translate ja qst_TheBeastOfNovaras_ZanzibatHouse_f00b249b:
 
     # ZANZIBAT @ smile "But that rage at the end... It was..."
-    ZANZIBAT @ smile "でも、最後のあの怒り…  
-あれは…"
+    ZANZIBAT @ smile "でも、最後のあの怒り…  あれは…"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1907
 translate ja qst_TheBeastOfNovaras_ZanzibatHouse_88c629bd:
@@ -7671,10 +7630,7 @@ translate ja qst_TheBeastOfNovaras_TalkToGarenBar_869b5883:
 translate ja qst_TheBeastOfNovaras_TalkToGarenBar_ff958f57:
 
     # GAREN @ talk "So we sold both sides weapons. We took both their coin. And when their coffers ran dry... we took collateral."
-    GAREN @ talk "我々は双方に武器を売りつけた。
-双方から金を奪った。
-そして彼らの財布が空っぽになると…
-担保を要求したのだ。"
+    GAREN @ talk "我々は双方に武器を売りつけた。双方から金を奪った。そして彼らの財布が空っぽになると…担保を要求したのだ。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:1988
 translate ja qst_TheBeastOfNovaras_TalkToGarenBar_f88c955e:
@@ -7824,8 +7780,7 @@ translate ja qst_TheBeastOfNovaras_TalkToGarenBar_7506c8bd:
 translate ja qst_TheBeastOfNovaras_TalkToGarenBar_ed3729c1:
 
     # SYPHA @ happy "You and I."
-    SYPHA @ happy "あなたと私
-。"
+    SYPHA @ happy "あなたと私。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2024
 translate ja qst_TheBeastOfNovaras_TalkToGarenBar_f33904df:
@@ -10195,9 +10150,7 @@ translate ja qst_TheBeastOfNovaras_PostDateAtTavern_fe440f43:
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_15f0b2f0:
 
     # "I resisted against the chains. Perhaps I should use my powers, break free and pin her to the-"
-    "鎖に抗った。  
-力を解放すべきか、縛りから逃れ  
-彼女を押さえつけて――"
+    "鎖に抗った。  力を解放すべきか、縛りから逃れ  彼女を押さえつけて――"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2672
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_7fd1e9cd:
@@ -10269,9 +10222,7 @@ translate ja qst_TheBeastOfNovaras_PostDateAtTavern_17708cc3:
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_97562c9f:
 
     # "The room had become like an inferno, unbearable as even the candles' warmth burned too hot. Too close."
-    "部屋は焦熱地獄のようだった。
-蝋燭の温もりさえもが灼熱のように疼く、耐えがたいほどに。
-近すぎる。"
+    "部屋は焦熱地獄のようだった。蝋燭の温もりさえもが灼熱のように疼く、耐えがたいほどに。近すぎる。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2686
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_67ea8710:
@@ -10307,8 +10258,7 @@ translate ja qst_TheBeastOfNovaras_PostDateAtTavern_f8c07999:
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_544a503e:
 
     # "Is she serious? Did she truly kill someone over me?"
-    "彼女、本気？
-私のために人を殺したのか？"
+    "彼女、本気？私のために人を殺したのか？"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2692
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_202d73c3:
@@ -10350,9 +10300,7 @@ translate ja qst_TheBeastOfNovaras_PostDateAtTavern_7ec87e1b:
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_49113b6f:
 
     # "As she yanked sharply on the chain once more, I grunted. The overwhelming sensation became unbearable, and Sypha let out a pleased gasp as she felt my whole body tense up before I came."
-    "鎖を再び強く引っ張られて、俺はくっと唸った。
-圧倒的な感覚が我慢の限界を超え、シファは満足げな息遣いを漏らす。
-俺の全身がヒクッと震え、イく直前の緊張を彼女は感じ取っていた。"
+    "鎖を再び強く引っ張られて、俺はくっと唸った。圧倒的な感覚が我慢の限界を超え、シファは満足げな息遣いを漏らす。俺の全身がヒクッと震え、イく直前の緊張を彼女は感じ取っていた。"
 
 # game/data/world_quests/main/Act2/TheBeastOfNovaras/scr_TheBeastOfNovaras.rpy:2705
 translate ja qst_TheBeastOfNovaras_PostDateAtTavern_b66f7d77:

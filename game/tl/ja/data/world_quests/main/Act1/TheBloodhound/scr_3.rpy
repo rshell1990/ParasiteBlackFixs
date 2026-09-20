@@ -520,8 +520,7 @@ translate ja qst_bloodhound_3_toBasement_9304bfda:
 translate ja qst_bloodhound_3_toBasement_18e5bb6b:
 
     # "Clambering back to its feet before they could finish it off, the man in black charged forward, dodging the third blast right through the Captain and her mages, scurrying its way up the stairs."
-    "立ち上がり直すと、黒衣の男はとどめを刺されまいと、前方へ突進。
-三発目の魔力の一撃を艦長と魔導師たちの間をかわしつつ、階段へと駆け上がっていった。"
+    "立ち上がり直すと、黒衣の男はとどめを刺されまいと、前方へ突進。三発目の魔力の一撃を艦長と魔導師たちの間をかわしつつ、階段へと駆け上がっていった。"
 
 # game/data/world_quests/main/Act1/TheBloodhound/scr_3.rpy:224
 translate ja qst_bloodhound_3_toBasement_53131c31:

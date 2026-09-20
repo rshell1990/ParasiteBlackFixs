@@ -76,9 +76,7 @@ translate ja qst_ADazzlingTail_02_night_31ca3adc:
 translate ja qst_ADazzlingTail_02_night_008a1273:
 
     # MC @ talk "I just heard a suspicious noise! The door to the smithy was open! I-I didn’t think!"
-    MC @ talk "何か不審な物音がしました!
-鍛冶屋の扉が開いてたんです!
-あ、慌てて…考えずに!"
+    MC @ talk "何か不審な物音がしました!鍛冶屋の扉が開いてたんです!あ、慌てて…考えずに!"
 
 # game/data/world_quests/side/novaras/ADazzlingTail/scr_02_night.rpy:29
 translate ja qst_ADazzlingTail_02_night_074f38cc:

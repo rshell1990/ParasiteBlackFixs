@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/vala/char.rpy:16
     old "A librarian who works within the capital's library. She seems clumsy, but she's cute and friendly enough."
-    new "A librarian who works within the capital's library. She seems clumsy, but she's cute and friendly enough."
+    new "Eine Bibliothekarin, die in der Bibliothek der Hauptstadt arbeitet. Sie wirkt tollpatschig, aber sie ist süß und freundlich genug."
 

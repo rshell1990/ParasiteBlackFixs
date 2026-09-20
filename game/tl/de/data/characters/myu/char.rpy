@@ -8,13 +8,13 @@ translate de strings:
 
     # game/data/characters/myu/char.rpy:43
     old "A slime whose attached herself to me and taken the form of a woman."
-    new "A slime whose attached herself to me and taken the form of a woman."
+    new "Ein Schleim, der sich an mich geheftet und die Gestalt einer Frau angenommen hat."
 
     # game/data/characters/myu/char.rpy:48
     old "Perhaps she could prove a useful ally?"
-    new "Perhaps she could prove a useful ally?"
+    new "Vielleicht könnte sie sich als nützliche Verbündete erweisen?"
 
     # game/data/characters/myu/char.rpy:53
     old "Her attachment to me has gone beyond platonic, she views me as her 'mate' now."
-    new "Her attachment to me has gone beyond platonic, she views me as her 'mate' now."
+    new "Ihre Zuneigung zu mir hat das Platonische überschritten, sie sieht mich nun als ihren 'Gefährten'."
 

@@ -550,7 +550,7 @@ translate zh gallery_myu_elena_threesome_anal_35eeaead:
 translate zh gallery_myu_elena_threesome_anal_4d2fe2a1:
 
     # ELENA "G-Godssss...!"
-    ELENA "天、天啊...！"
+    ELENA "天、天啊……！"
 
 # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:164
 translate zh gallery_myu_elena_threesome_anal_1c8f8794:
@@ -562,7 +562,7 @@ translate zh gallery_myu_elena_threesome_anal_1c8f8794:
 translate zh gallery_myu_elena_threesome_anal_befa1832:
 
     # MYU "米尤 likes playing with 俄蕾娜 a lot...❤️"
-    MYU "米尤好喜欢和俄蕾娜玩...❤️"
+    MYU "米尤好喜欢和俄蕾娜玩……❤️"
 
 # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:171
 translate zh gallery_myu_elena_threesome_anal_eddda539:
@@ -586,7 +586,7 @@ translate zh gallery_myu_elena_threesome_anal_4c97f8e5:
 translate zh gallery_myu_elena_threesome_anal_a28cecbb:
 
     # "Suffocating beneath 俄蕾娜的 furry ass, after twisting and thrashing my tongue in her pussy for a while, a mischievous thought crossed my mind..."
-    "被俄蕾娜毛茸茸的臀压得窒息，在舔弄她小穴片刻后，我起了顽皮的念头..."
+    "被俄蕾娜毛茸茸的臀压得窒息，在舔弄她小穴片刻后，我起了顽皮的念头……"
 
 # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:175
 translate zh gallery_myu_elena_threesome_anal_42b71587:
@@ -664,7 +664,7 @@ translate zh gallery_myu_elena_threesome_anal_fa75c093:
 translate zh gallery_myu_elena_threesome_anal_448fd3e8:
 
     # "Just before 俄蕾娜 let out another moan, 米尤 grabbed hold of 俄蕾娜, pulling her forward into another kiss as the two girls rode me."
-    "俄蕾娜将再呻吟时，米尤揽住她献上热吻，两人骑乘着我缠绵。"
+    "当俄蕾娜即将再次呻吟时，米尤揽住她献上热吻，两人骑乘着我缠绵。"
 
 # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:193
 translate zh gallery_myu_elena_threesome_anal_80af4130:
@@ -747,7 +747,6 @@ translate zh strings:
     # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:5
     old "Anal?"
     new "肛交？"# 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/sexy_scenes/myu/galleryLabels/elena_threesome.rpy:58
 translate zh gallery_myu_elena_threesome_vag_c2fc00ea:

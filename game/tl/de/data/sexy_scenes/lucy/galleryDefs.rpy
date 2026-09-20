@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/sexy_scenes/lucy/galleryDefs.rpy:13
     old "Sidefuck"
-    new "Sidefuck"
+    new "Seitenfick"
 

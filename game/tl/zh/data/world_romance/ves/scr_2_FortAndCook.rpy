@@ -310,7 +310,7 @@ translate zh rom_Ves_2_FortAndCook_7effd6c2:
 translate zh rom_Ves_2_FortAndCook_0aa278e1:
 
     # MC @ talk "... It’s good."
-    MC @ talk "... 很好吃。"
+    MC @ talk "……很好吃。"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:97
@@ -352,7 +352,7 @@ translate zh rom_Ves_2_FortAndCook_a58b53ef:
 translate zh rom_Ves_2_FortAndCook_486ed9ca:
 
     # VES @ talk "Hm? Oh well, I think there’s about a hundred altogether..."
-    VES @ talk "嗯？哦，我想总共大约有一百人吧..."
+    VES @ talk "嗯？哦，我想总共大约有一百人吧……"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:103
@@ -387,14 +387,14 @@ translate zh rom_Ves_2_FortAndCook_d3eed914:
 translate zh rom_Ves_2_FortAndCook_632b2da1:
 
     # VES @ talk "Mmm, just needs some more salt..."
-    VES @ talk "嗯，只是需要再加点盐..."
+    VES @ talk "嗯，只是需要再加点盐……"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:109
 translate zh rom_Ves_2_FortAndCook_9a799022:
 
     # VES @ talk "In Skarshire, there are so many different spices and flavours for food."
-    VES @ talk "在Skarshire，食物有各种各样的香料和风味。"
+    VES @ talk "在斯卡郡，食物有各种各样的香料和风味。"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:110
@@ -408,14 +408,14 @@ translate zh rom_Ves_2_FortAndCook_e7a60ff6:
 translate zh rom_Ves_2_FortAndCook_e3c60fc3:
 
     # VES @ talk "Skarshire is beautiful, many small islands are interconnected. Our own little archipelago."
-    VES @ talk "Skarshire很美，许多小岛相互连接。我们自己的小群岛。"
+    VES @ talk "斯卡郡很美，许多小岛相互连接。我们自己的小群岛。"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:112
 translate zh rom_Ves_2_FortAndCook_00c0a271:
 
     # VES @ talk "The water is so blue..."
-    VES @ talk "海水是那么蓝..."
+    VES @ talk "海水是那么蓝……"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:113
@@ -512,7 +512,7 @@ translate zh rom_Ves_2_FortAndCook_56cc6176:
 translate zh rom_Ves_2_FortAndCook_4d056001:
 
     # VES @ sad_talk "... Our people have been slaves for generations."
-    VES @ sad_talk "... 我们的人民世世代代都是奴隶。"
+    VES @ sad_talk "...我们的人民世世代代都是奴隶。"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:129
@@ -575,7 +575,7 @@ translate zh rom_Ves_2_FortAndCook_139e9c93:
 translate zh rom_Ves_2_FortAndCook_16b1882c:
 
     # VES @ angry_talk "Alderay, YOUR PEOPLE, have been sending our enemies weapons, have been sending them supplies!"
-    VES @ angry_talk "Alderay，你们的人民，一直在给我们的敌人送武器，送补给！"
+    VES @ angry_talk "阿尔德雷，你们的人民，一直在给我们的敌人送武器，送补给！"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:140
@@ -596,14 +596,14 @@ translate zh rom_Ves_2_FortAndCook_14ddb23b:
 translate zh rom_Ves_2_FortAndCook_08e95c86:
 
     # MC @ sad "That’s not true! Yes, Alderay sold to the Greater Trading Company at first..."
-    MC @ sad "那不是真的！是的，奥尔德雷最初是卖给了大贸易公司..."
+    MC @ sad "那不是真的！是的，阿尔德雷最初是卖给了大贸易公司..."
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:143
 translate zh rom_Ves_2_FortAndCook_cedef812:
 
     # MC @ sad "But Alderay officially cut ties with them after the {i}‘Battle of the Bay of Valar’{/i}, everyone knows that!"
-    MC @ sad "但奥尔德雷在{i}‘瓦拉尔湾之战’{/i}后就正式与他们断绝了关系，大家都知道！"
+    MC @ sad "但阿尔德雷在{i}‘瓦拉尔湾之战’{/i}后就正式与他们断绝了关系，大家都知道！"
     
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:144
@@ -770,7 +770,7 @@ translate zh rom_Ves_2_FortAndCook_a8b54219:
 translate zh rom_Ves_2_FortAndCook_4625fdc3:
 
     # MC "(... Well that could have gone better.)"
-    MC "(……好吧，本来可以更好的。)"
+    MC "（……好吧，本来可以更好的。）"
     
 
 translate zh strings:

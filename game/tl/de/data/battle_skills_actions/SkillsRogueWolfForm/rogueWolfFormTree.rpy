@@ -4,9 +4,9 @@ translate de strings:
 
     # game/data/battle_skills_actions/SkillsRogueWolfForm/rogueWolfFormTree.rpy:2
     old "Wolf form"
-    new "Wolf form"
+    new "Wolfsform"
 
     # game/data/battle_skills_actions/SkillsRogueWolfForm/rogueWolfFormTree.rpy:2
     old "Wolf form skills"
-    new "Wolf form skills"
+    new "Wolfsform-Fähigkeiten"
 

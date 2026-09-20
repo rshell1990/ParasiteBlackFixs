@@ -13,9 +13,3 @@ init python:
     for Coords in BattleChar_ScreenPositions[0]:
         BattleChar_ScreenPositions[1].append((1920 - Coords[0], Coords[1]))
 
-    # Keep the same side -> slot structure used by the battle loop. Slots 0 and
-    # 2 are in front of slots 1 and 3, matching the overlapping formation.
-    BattleChar_SpriteZorder = {
-        0: {0: (5, 6), 1: (1, 2), 2: (7, 8), 3: (3, 4)},
-        1: {0: (5, 6), 1: (1, 2), 2: (7, 8), 3: (3, 4)},
-        }

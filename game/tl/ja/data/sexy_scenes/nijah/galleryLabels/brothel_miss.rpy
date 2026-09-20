@@ -130,9 +130,7 @@ translate ja gallery_nijah_missionary_28ce3362:
 translate ja gallery_nijah_missionary_c4d219c6:
 
     # NIJAH "Fazter! Harder! Fuck me!"
-    NIJAH "もっと速く!
-もっと強く!
-突いて!"
+    NIJAH "もっと速く!もっと強く!突いて!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_miss.rpy:43
 translate ja gallery_nijah_missionary_5e25f60a:

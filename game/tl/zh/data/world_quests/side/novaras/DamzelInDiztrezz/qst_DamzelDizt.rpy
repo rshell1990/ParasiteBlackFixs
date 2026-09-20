@@ -34,7 +34,7 @@
 
     # game/data/world_quests/side/novaras/DamzelInDiztrezz/qst_DamzelDizt.rpy:25
     old "We have to scout the black diamond at night. It should be a shady building in pleasure district."
-    new "我们得在夜间侦察黑钻石。那应该是娱乐区里一栋 shady 的建筑。"
+    new "我们得在夜间侦察黑钻石。那应该是娱乐区里一栋可疑的建筑。"
 
     # game/data/world_quests/side/novaras/DamzelInDiztrezz/qst_DamzelDizt.rpy:25
     old "Storm the Black Diamond"

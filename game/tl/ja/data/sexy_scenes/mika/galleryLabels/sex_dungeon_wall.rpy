@@ -508,8 +508,7 @@ translate ja gallery_mika_sex_dungeon_wall_vag_a760fc71:
 translate ja gallery_mika_sex_dungeon_wall_vag_6aa496ae:
 
     # MIKA "Just use my pussy! That's why you b-brought me here!"
-    MIKA "私のアソコを使って…!
-だって…そういう目的で、わざわざ…私をここに連れてきたんでしょ？"
+    MIKA "私のアソコを使って…!だって…そういう目的で、わざわざ…私をここに連れてきたんでしょ？"
 
 # game/data/sexy_scenes/mika/galleryLabels/sex_dungeon_wall.rpy:144
 translate ja gallery_mika_sex_dungeon_wall_vag_a54c61a6:

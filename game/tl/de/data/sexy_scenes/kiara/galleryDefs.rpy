@@ -8,21 +8,21 @@ translate de strings:
 
     # game/data/sexy_scenes/kiara/galleryDefs.rpy:17
     old "Washing"
-    new "Washing"
+    new "Waschen"
 
     # game/data/sexy_scenes/kiara/galleryDefs.rpy:22
     old "Rooftop"
-    new "Rooftop"
+    new "Dachterrasse"
 
     # game/data/sexy_scenes/kiara/galleryDefs.rpy:28
     old "Hookah bar reunion"
-    new "Hookah bar reunion"
+    new "Wiedersehen in der Shisha-Bar"
 
     # game/data/sexy_scenes/kiara/galleryDefs.rpy:33
     old "Camp missionary"
-    new "Camp missionary"
+    new "Missionarsstellung im Camp"
 
     # game/data/sexy_scenes/kiara/galleryDefs.rpy:48
     old "Tarbeck's party, card game"
-    new "Tarbeck's party, card game"
+    new "Tarbecks Party, Kartenspiel"
 

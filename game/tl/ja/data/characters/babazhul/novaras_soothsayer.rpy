@@ -76,9 +76,7 @@ translate ja nov_soothsayer_firstmeet_127488ac:
 translate ja nov_soothsayer_firstmeet_086e21f9:
 
     # MC "Gods? A Dreaming king? Great warriors?"
-    MC "神々？
-夢見る王？
-偉大な戦士たち？"
+    MC "神々？夢見る王？偉大な戦士たち？"
 
 # game/data/characters/babazhul/novaras_soothsayer.rpy:70
 translate ja nov_soothsayer_firstmeet_8e3236f6:

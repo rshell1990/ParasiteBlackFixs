@@ -556,8 +556,7 @@ translate ja rom_Ves_2_FortAndCook_3663fd1e:
 translate ja rom_Ves_2_FortAndCook_f7c79499:
 
     # MC @ surprised "You can’t just assume that was us! Unmarked could be anyone!"
-    MC @ surprised "そんなこと、すぐに私たちだって決めつけないで!
-アンマークドは誰にでもなり得るんだ!"
+    MC @ surprised "そんなこと、すぐに私たちだって決めつけないで!アンマークドは誰にでもなり得るんだ!"
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:138
 translate ja rom_Ves_2_FortAndCook_f52e9141:
@@ -587,8 +586,7 @@ translate ja rom_Ves_2_FortAndCook_0d04ca08:
 translate ja rom_Ves_2_FortAndCook_089d6c28:
 
     # VES @ angry_talk "What did you expect us to do when you continue to aid our enemies?"
-    VES @ angry_talk "一体何を期待していた？
-我々の敵を援助し続けているのに。"
+    VES @ angry_talk "一体何を期待していた？我々の敵を援助し続けているのに。"
 
 # game/data/world_romance/ves/scr_2_FortAndCook.rpy:143
 translate ja rom_Ves_2_FortAndCook_2023b64a:

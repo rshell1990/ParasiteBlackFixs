@@ -14,7 +14,7 @@
 
     # game/data/world_quests/side/novaras/GirlTroubles/TheLoversPath/qst_TheLoversPath.rpy:7
     old "I'm supposed to meet Mika at the Palam Tower arena around morning to continue our training"
-    new "我应该在早上左右在帕拉姆塔竞技场与M美嘉会面，继续我们的训练"
+    new "我应该在早上左右在帕拉姆塔竞技场与美嘉会面，继续我们的训练"
 
     # game/data/world_quests/side/novaras/GirlTroubles/TheLoversPath/qst_TheLoversPath.rpy:7
     old "Meet Mika at the arena again"

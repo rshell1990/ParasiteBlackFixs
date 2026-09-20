@@ -148,8 +148,7 @@ translate ja rom_adara_asked_blowjob_3f8e3c2e:
 translate ja rom_adara_asked_blowjob_2e230d2a:
 
     # MC "Mfghh! Y-Yes, you're doing great!"
-    MC "んっ…!
-そ、そう…!すごく上手よ…!"
+    MC "んっ…!そ、そう…!すごく上手よ…!"
 
 # game/data/world_romance/adara/scr_repsexscenes.rpy:38
 translate ja rom_adara_asked_blowjob_d275ffd3:

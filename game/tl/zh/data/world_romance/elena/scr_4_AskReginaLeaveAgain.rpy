@@ -312,7 +312,6 @@ translate zh rom_AskReginaLeaveAgain_0f4de5c5:
     
 
 # 
-# TODO: Translation updated at 2026-06-13 10:16
 
 # game/data/world_romance/elena/scr_4_AskReginaLeaveAgain.rpy:10
 translate zh rom_AskReginaLeaveAgain_8fa4f313:
@@ -342,7 +341,7 @@ translate zh rom_AskReginaLeaveAgain_423397bb:
 translate zh rom_AskReginaLeaveAgain_bc4e39e6:
 
     # REGINA @ smile_talk "You may do as you wish, Elena... So long as you protect [player_name!t]."
-    REGINA @ smile_talk "你可以按自己意愿行事，Elena……只要你保护好[player_name!t]。"
+    REGINA @ smile_talk "你可以按自己意愿行事，俄蕾娜……只要你保护好[player_name!t]。"
 
 # game/data/world_romance/elena/scr_4_AskReginaLeaveAgain.rpy:41
 translate zh rom_AskReginaLeaveAgain_c696cb0e:

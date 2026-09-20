@@ -16,9 +16,9 @@ translate de strings:
 
     # game/data/world_romance/nijah/preg_Nijah.rpy:10
     old "Nijah has given birth."
-    new "Nijah has given birth."
+    new "Nijah hat entbunden."
 
     # game/data/world_romance/nijah/preg_Nijah.rpy:41
     old "How's your belly?"
-    new "How's your belly?"
+    new "Wie geht's deinem Bauch?"
 

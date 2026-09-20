@@ -4,15 +4,13 @@
 translate ja rom_nyx_dominant_1_8a057542:
 
     # MC "Nyx isn't here. I'll try tomorrow."
-    MC "ニクスはいない。
-明日また来る。"
+    MC "ニクスはいない。明日また来る。"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:9
 translate ja rom_nyx_dominant_1_a0086e88:
 
     # MC "Nyx isn't here. I'll come back in the morning."
-    MC "ニクスはここにいない。
-朝になってからまた来るわ。"
+    MC "ニクスはここにいない。朝になってからまた来るわ。"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:15
 translate ja rom_nyx_dominant_1_d86eeedf:
@@ -960,8 +958,7 @@ translate ja rom_nyx_dominant_1_17df923b:
 translate ja rom_nyx_dominant_1_f5cff98a:
 
     # GUARD "Now I must ask that you come with me. I cannot leave you unattended with the Captain without her expressed permission."
-    GUARD "では、お願いですが私と一緒に来ていただけますか。
-船長の明示的な許可なしに、あなたをおき放しにはできません。"
+    GUARD "では、お願いですが私と一緒に来ていただけますか。船長の明示的な許可なしに、あなたをおき放しにはできません。"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:228
 translate ja rom_nyx_dominant_1_a91dbf80_1:
@@ -1099,8 +1096,7 @@ translate ja rom_nyx_dominant_1_b739de25_2:
 translate ja rom_nyx_dominant_2_8a057542:
 
     # MC "Nyx isn't here. I'll try tomorrow."
-    MC "ニクスはここにいない。
-明日また来るよ。"
+    MC "ニクスはここにいない。明日また来るよ。"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:280
 translate ja rom_nyx_dominant_2_e5095c39:
@@ -1226,8 +1222,7 @@ translate ja rom_nyx_dominant_2_f04a34d5:
 translate ja rom_nyx_dominant_2_5f2034e8:
 
     # NYX @ sad "So, why me? What game are you playing?"
-    NYX @ sad "なぜ俺が？
-何のゲームをしてるんだ？"
+    NYX @ sad "なぜ俺が？何のゲームをしてるんだ？"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:306
 translate ja rom_nyx_dominant_2_4218d3bc:
@@ -1359,8 +1354,7 @@ translate ja rom_nyx_dominant_2_132c673c:
 translate ja rom_nyx_dominant_2_cad8da5b:
 
     # NYX @ angry "N-No matter what you do, I'll never be your-"
-    NYX @ angry "あ…ありえない…  
-あなたが何をしようと、私があなたのなんて…!"
+    NYX @ angry "あ…ありえない…  あなたが何をしようと、私があなたのなんて…!"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:334
 translate ja rom_nyx_dominant_2_a1f7de82:
@@ -2620,8 +2614,7 @@ translate ja rom_nyx_dominant_facefuck_rep_d740d9f1:
 translate ja rom_nyx_dominant_facefuck_rep_df7bda32:
 
     # MC "Now are you going to keep protesting? Or are you going to open those pretty lips and start sucking my cock like a good girl?"
-    MC "それでも抗い続ける？
-それとも、いい娘になるため、その愛しい唇を開き、僕のをしゃぶり始める？"
+    MC "それでも抗い続ける？それとも、いい娘になるため、その愛しい唇を開き、僕のをしゃぶり始める？"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:698
 translate ja rom_nyx_dominant_facefuck_rep_9d18a1f0:
@@ -2705,8 +2698,7 @@ translate ja rom_nyx_dominant_facefuck_rep_22f0a33b:
 translate ja rom_nyx_dominant_facefuck_rep_3617fb7f:
 
     # NYX "{i}*Shlick!*{/i} Mmfghh! You're gonna have to show me what you've-"
-    NYX "{i}*じゅるっ!*{/i}
-んんっ!見せてもらわないと…!"
+    NYX "{i}*じゅるっ!*{/i}んんっ!見せてもらわないと…!"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:732
 translate ja rom_nyx_dominant_facefuck_rep_4464d43a:
@@ -3138,8 +3130,7 @@ translate ja rom_nyx_dominant_facefuck_rep_dafe7ee7:
 translate ja rom_nyx_dominant_facefuck_rep_f7ad817d:
 
     # MC "Ahh! Did you say something?! {i}*Huff!*{/i}"
-    MC "あっ! 何か言いましたか？!  
-{i}*はっ!*{/i}"
+    MC "あっ! 何か言いましたか？!  {i}*はっ!*{/i}"
 
 # game/data/world_romance/nyx/rom_nyx_dom.rpy:825
 translate ja rom_nyx_dominant_facefuck_rep_d25ac3a9:

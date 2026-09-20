@@ -4,37 +4,37 @@
 translate de gallery_winward_doggy_wall_6c735c81:
 
     # "Was she wearing her cow outfit?"
-    "Was she wearing her cow outfit?"
+    "Trug sie ihr Kuh-Outfit?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:21
 translate de gallery_winward_doggy_wall_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie zu der Zeit schwanger?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:36
 translate de gallery_winward_doggy_wall_e187d2db:
 
     # "Was the encounter vaginal or anal?"
-    "Was the encounter vaginal or anal?"
+    "War die Begegnung vaginal oder anal?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:50
 translate de gallery_winward_doggy_wall_1346ac1b:
 
     # "Was Mr. Winward around?"
-    "Was Mr. Winward around?"
+    "War Mr. Winward in der Nähe?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:92
 translate de gallery_winward_doggy_wall_nocuck_vag_d2524537:
 
     # "As her wetness brushed up against me along with her pubic hair, I knew what Mrs Winward needed, and I wasn't going to waste anytime giving it to her!"
-    "As her wetness brushed up against me along with her pubic hair, I knew what Mrs Winward needed, and I wasn't going to waste anytime giving it to her!"
+    "Als ihre Feuchtigkeit samt ihrer Schamhaare an mir rieb, wusste ich, was Mrs Winward brauchte, und ich würde keine Zeit damit verschwenden, es ihr zu geben!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:93
 translate de gallery_winward_doggy_wall_nocuck_vag_35949f68:
 
     # "Grabbing her hair and pulling, she gasped as she felt my cock plunge deeply into her tight, wet hole."
-    "Grabbing her hair and pulling, she gasped as she felt my cock plunge deeply into her tight, wet hole."
+    "Ich packte sie an den Haaren und zog daran, und sie keuchte, als sie spürte, wie mein Schwanz tief in ihr enges, feuchtes Loch stieß."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:94
 translate de gallery_winward_doggy_wall_nocuck_vag_335b6690:
@@ -46,49 +46,49 @@ translate de gallery_winward_doggy_wall_nocuck_vag_335b6690:
 translate de gallery_winward_doggy_wall_nocuck_vag_95243008:
 
     # "Slowly, I began to thrust my cock in and out of Mrs Winward's pussy."
-    "Slowly, I began to thrust my cock in and out of Mrs Winward's pussy."
+    "Langsam begann ich, meinen Schwanz in Mrs Winwards Muschi hinein und wieder hinaus zu stoßen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:96
 translate de gallery_winward_doggy_wall_nocuck_vag_b7e7692d:
 
     # "Her ass rippled with every thrust as I squeezed my free hand on her round ass for better grip, feeling the fat slip between my fingers."
-    "Her ass rippled with every thrust as I squeezed my free hand on her round ass for better grip, feeling the fat slip between my fingers."
+    "Ihr Hintern bebte bei jedem Stoß, während ich mit meiner freien Hand ihren runden Hintern für besseren Halt drückte und spürte, wie das Fett zwischen meinen Fingern glitt."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:97
 translate de gallery_winward_doggy_wall_nocuck_vag_fb8824eb:
 
     # MRS_WINWARD "D-Dear! Ahh!"
-    MRS_WINWARD "D-Dear! Ahh!"
+    MRS_WINWARD "L-Liebling! Ahh!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:98
 translate de gallery_winward_doggy_wall_nocuck_vag_ccd2dfc6:
 
     # MRS_WINWARD "You feel so - Mhmm! Big!"
-    MRS_WINWARD "You feel so - Mhmm! Big!"
+    MRS_WINWARD "Du fühlst dich so... Mhmm! Groß!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:99
 translate de gallery_winward_doggy_wall_nocuck_vag_0b0404e3:
 
     # "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her tight clutching hole."
-    "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her tight clutching hole."
+    "Heiße Stöhnen entkamen Mrs Winwards Lippen, als ihre Beine zu zittern begannen, während mein Schwanz weiter in ihr enges, umklammerndes Loch stieß."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:100
 translate de gallery_winward_doggy_wall_nocuck_vag_a3ea429a:
 
     # "As her wet pussy grew more accustomed to my member, I began to move faster."
-    "As her wet pussy grew more accustomed to my member, I began to move faster."
+    "Als sich ihre nasse Muschi mehr an mein Glied gewöhnte, begann ich, mich schneller zu bewegen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:101
 translate de gallery_winward_doggy_wall_nocuck_vag_0061aff5:
 
     # "The sounds of sweet flesh colliding grew louder and more frequent as Mrs Winward's guttural moans filled the room."
-    "The sounds of sweet flesh colliding grew louder and more frequent as Mrs Winward's guttural moans filled the room."
+    "Die Geräusche von süßem Fleisch, das aufeinanderprallte, wurden lauter und häufiger, als Mrs Winwards gutturale Stöhnen den Raum erfüllten."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:102
 translate de gallery_winward_doggy_wall_nocuck_vag_f1e15298:
 
     # MRS_WINWARD "Ahh! Ahh! Mhmfghh! C-Careful! You're-"
-    MRS_WINWARD "Ahh! Ahh! Mhmfghh! C-Careful! You're-"
+    MRS_WINWARD "Ahh! Ahh! Mhmfghh! V-Vorsichtig! Du bist-"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:103
 translate de gallery_winward_doggy_wall_nocuck_vag_2b478eba:
@@ -100,19 +100,19 @@ translate de gallery_winward_doggy_wall_nocuck_vag_2b478eba:
 translate de gallery_winward_doggy_wall_nocuck_vag_19b802c9:
 
     # "Her sweet groans of pleasure became more frequent as I took Mrs Winward from behind."
-    "Her sweet groans of pleasure became more frequent as I took Mrs Winward from behind."
+    "Ihre süßen Luststöhnen wurden häufiger, als ich Mrs Winward von hinten nahm."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:119
 translate de gallery_winward_doggy_wall_nocuck_vag_35569ad3:
 
     # "I wondered what Mr Winward would think if he ever saw his wife's lewd expressions as she felt my cock fill her up properly?"
-    "I wondered what Mr Winward would think if he ever saw his wife's lewd expressions as she felt my cock fill her up properly?"
+    "Ich fragte mich, was Mr Winward wohl denken würde, wenn er jemals die lüsternen Mienen seiner Frau sähe, während sie spürte, wie mein Schwanz sie richtig ausfüllte?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:120
 translate de gallery_winward_doggy_wall_nocuck_vag_8d28b952:
 
     # MC "Have you ever been fucked this deeply, Mrs Winward?"
-    MC "Have you ever been fucked this deeply, Mrs Winward?"
+    MC "Wurden Sie schon einmal so tief gefickt, Mrs Winward?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:121
 translate de gallery_winward_doggy_wall_nocuck_vag_d9f44742:
@@ -364,7 +364,7 @@ translate de gallery_winward_doggy_wall_nocuck_anal_90799a6e:
 translate de gallery_winward_doggy_wall_nocuck_anal_51e355ce:
 
     # MC "Does Mr Winward get to fuck this hole?"
-    MC "Does Mr Winward get to fuck this hole?"
+    MC "Bekommt Mr Winward dieses Loch gefickt?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:197
 translate de gallery_winward_doggy_wall_nocuck_anal_d9f44742:
@@ -376,25 +376,25 @@ translate de gallery_winward_doggy_wall_nocuck_anal_d9f44742:
 translate de gallery_winward_doggy_wall_nocuck_anal_903ed146:
 
     # MRS_WINWARD "M-My assshhh! - Hrghhh! You're - Ahh! Re-shaping all my insides!"
-    MRS_WINWARD "M-My assshhh! - Hrghhh! You're - Ahh! Re-shaping all my insides!"
+    MRS_WINWARD "M-Mein Arschhhh! - Hrghhh! Du - Ahh! Formst mein Inneres komplett um!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:199
 translate de gallery_winward_doggy_wall_nocuck_anal_17571c34:
 
     # MC "That doesn't answer the question!"
-    MC "That doesn't answer the question!"
+    MC "Das beantwortet die Frage nicht!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:200
 translate de gallery_winward_doggy_wall_nocuck_anal_2dafedc0:
 
     # MRS_WINWARD "A-Ahhh! N-No! He doesn't get to put it my ass!!"
-    MRS_WINWARD "A-Ahhh! N-No! He doesn't get to put it my ass!!"
+    MRS_WINWARD "A-Ahhh! N-Nein! Er darf es nicht in meinen Arsch stecken!!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:201
 translate de gallery_winward_doggy_wall_nocuck_anal_f9614cf3:
 
     # "Satisfied with her answer, I slammed my cock to the hilt, determined to claim this hole just for myself..."
-    "Satisfied with her answer, I slammed my cock to the hilt, determined to claim this hole just for myself..."
+    "Zufrieden mit ihrer Antwort rammte ich meinen Schwanz bis zum Anschlag hinein, entschlossen, dieses Loch für mich allein zu beanspruchen..."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:202
 translate de gallery_winward_doggy_wall_nocuck_anal_eb4a3fbc:
@@ -406,55 +406,55 @@ translate de gallery_winward_doggy_wall_nocuck_anal_eb4a3fbc:
 translate de gallery_winward_doggy_wall_nocuck_anal_7170a2b0:
 
     # MRS_WINWARD "P-Please! {i}*Huff*{/i} Mhfghhh!"
-    MRS_WINWARD "P-Please! {i}*Huff*{/i} Mhfghhh!"
+    MRS_WINWARD "B-Bitte! {i}*Huff*{/i} Mhfghhh!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:204
 translate de gallery_winward_doggy_wall_nocuck_anal_0061403e:
 
     # MRS_WINWARD "C-Cum already!"
-    MRS_WINWARD "C-Cum already!"
+    MRS_WINWARD "K-Komm schon!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:205
 translate de gallery_winward_doggy_wall_nocuck_anal_597d0c02:
 
     # MRS_WINWARD "I don't know how much more my poor ass can - Ahh! Take!"
-    MRS_WINWARD "I don't know how much more my poor ass can - Ahh! Take!"
+    MRS_WINWARD "Ich weiß nicht, wie viel mehr mein armer Arsch noch - Ahh! Aushalten kann!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:206
 translate de gallery_winward_doggy_wall_nocuck_anal_2152ac7d:
 
     # "I continued to have my way with her for a little while longer, enjoying the feeling of her pussy squeezing my member with desperation to bring me to climax."
-    "I continued to have my way with her for a little while longer, enjoying the feeling of her pussy squeezing my member with desperation to bring me to climax."
+    "Ich nahm sie noch eine Weile weiter, genoss das Gefühl, wie ihre Muschi verzweifelt mein Glied umklammerte, um mich zum Höhepunkt zu bringen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:207
 translate de gallery_winward_doggy_wall_nocuck_anal_94cf037a:
 
     # "Eventually, she got her wish."
-    "Eventually, she got her wish."
+    "Schließlich bekam sie ihren Wunsch."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:208
 translate de gallery_winward_doggy_wall_nocuck_anal_89e67bfc:
 
     # "As my balls began to tighten and rise, my cock, still plunging mercilessly in and out of her now trembling body, began to feel increasingly ready for release."
-    "As my balls began to tighten and rise, my cock, still plunging mercilessly in and out of her now trembling body, began to feel increasingly ready for release."
+    "Als meine Eier sich zu spannen und zu heben begannen, fühlte sich mein Schwanz, der noch immer unerbittlich in ihren nun zitternden Körper hinein- und herausfuhr, zunehmend bereit für die Erlösung."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:209
 translate de gallery_winward_doggy_wall_nocuck_anal_c8d0e3a3:
 
     # MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
-    MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
+    MRS_WINWARD "{i}*Keuch*{/i} M-Mach's fertig, Liebling! {i}*Keuch*{/i} Ich flehe dich an! B-Bitte!!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:210
 translate de gallery_winward_doggy_wall_nocuck_anal_9abd2618:
 
     # "Giving her what she wanted, I dug my hand deep into the soft flesh of her large, round ass and slammed deeply into her."
-    "Giving her what she wanted, I dug my hand deep into the soft flesh of her large, round ass and slammed deeply into her."
+    "Ich gab ihr, was sie wollte, grub meine Hand tief in das weiche Fleisch ihres großen, runden Arsches und stieß tief in sie hinein."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:211
 translate de gallery_winward_doggy_wall_nocuck_anal_5bb7a485:
 
     # "Grunting loudly, I flooded Mrs Winward's ass with my hot, thick seed."
-    "Grunting loudly, I flooded Mrs Winward's ass with my hot, thick seed."
+    "Laut grunzend überflutete ich Mrs. Winwards Arsch mit meinem heißen, dicken Samen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:227
 translate de gallery_winward_doggy_wall_nocuck_anal_37832b20:
@@ -466,25 +466,25 @@ translate de gallery_winward_doggy_wall_nocuck_anal_37832b20:
 translate de gallery_winward_doggy_wall_nocuck_anal_44005b46:
 
     # "Mrs Winward gasped as she felt the rush of warm fluid pouring into her."
-    "Mrs Winward gasped as she felt the rush of warm fluid pouring into her."
+    "Mrs. Winward keuchte, als sie das Einströmen der warmen Flüssigkeit in sie spürte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:229
 translate de gallery_winward_doggy_wall_nocuck_anal_95e1f203:
 
     # "Her eyes rolled back as she trembled and nearly collapsed back into my arms."
-    "Her eyes rolled back as she trembled and nearly collapsed back into my arms."
+    "Ihre Augen verdrehten sich, während sie zitterte und fast in meine Arme zurückfiel."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:230
 translate de gallery_winward_doggy_wall_nocuck_anal_7a72f107:
 
     # "I held her up as I continued to pump my load into her now limp body."
-    "I held her up as I continued to pump my load into her now limp body."
+    "Ich hielt sie aufrecht, während ich weiter meine Ladung in ihren nun schlaffen Körper pumpte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:231
 translate de gallery_winward_doggy_wall_nocuck_anal_728d0141:
 
     # "Only a soft whimpered escaped her lips as I held her body upright in my arms."
-    "Only a soft whimpered escaped her lips as I held her body upright in my arms."
+    "Nur ein leises Wimmern entkam ihren Lippen, als ich ihren Körper aufrecht in meinen Armen hielt."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:232
 translate de gallery_winward_doggy_wall_nocuck_anal_759837a0:
@@ -496,25 +496,25 @@ translate de gallery_winward_doggy_wall_nocuck_anal_759837a0:
 translate de gallery_winward_doggy_wall_nocuck_anal_dc96539d:
 
     # MRS_WINWARD "Oh gods...That was..."
-    MRS_WINWARD "Oh gods...That was..."
+    MRS_WINWARD "Oh Götter...Das war..."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:234
 translate de gallery_winward_doggy_wall_nocuck_anal_68ba530f:
 
     # MRS_WINWARD "...{i}Oh my...{/i}"
-    MRS_WINWARD "...{i}Oh my...{/i}"
+    MRS_WINWARD "...{i}Oh mein...{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:254
 translate de gallery_winward_doggy_wall_cuck_vag_6b3fe17b:
 
     # "As her wetness brushed up against me along with her pubic hair, I knew what Mrs Winward needed, and I wasn't going to waste any time giving it to her!"
-    "As her wetness brushed up against me along with her pubic hair, I knew what Mrs Winward needed, and I wasn't going to waste any time giving it to her!"
+    "Als ihre Nässe zusammen mit ihrem Schamhaar gegen mich rieb, wusste ich, was Mrs Winward brauchte, und ich würde keine Zeit verlieren, es ihr zu geben!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:255
 translate de gallery_winward_doggy_wall_cuck_vag_35949f68:
 
     # "Grabbing her hair and pulling, she gasped as she felt my cock plunge deeply into her tight, wet hole."
-    "Grabbing her hair and pulling, she gasped as she felt my cock plunge deeply into her tight, wet hole."
+    "Als ich ihr Haar packte und zog, keuchte sie, als sie spürte, wie mein Schwanz tief in ihr enges, nasses Loch stieß."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:256
 translate de gallery_winward_doggy_wall_cuck_vag_335b6690:
@@ -526,55 +526,55 @@ translate de gallery_winward_doggy_wall_cuck_vag_335b6690:
 translate de gallery_winward_doggy_wall_cuck_vag_95243008:
 
     # "Slowly, I began to thrust my cock in and out of Mrs Winward's pussy."
-    "Slowly, I began to thrust my cock in and out of Mrs Winward's pussy."
+    "Langsam begann ich, meinen Schwanz in Mrs Winwards Muschi hinein und heraus zu stoßen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:258
 translate de gallery_winward_doggy_wall_cuck_vag_ea28548d:
 
     # "Her ass rippled with every thrust as I squeezed both hands on her round ass for better grip, feeling the fat slip between my fingers."
-    "Her ass rippled with every thrust as I squeezed both hands on her round ass for better grip, feeling the fat slip between my fingers."
+    "Ihr Hintern wogte bei jedem Stoß, während ich beide Hände auf ihren runden Hintern drückte, um besseren Halt zu haben, und spürte, wie das Fett zwischen meinen Fingern glitt."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:259
 translate de gallery_winward_doggy_wall_cuck_vag_fb8824eb:
 
     # MRS_WINWARD "D-Dear! Ahh!"
-    MRS_WINWARD "D-Dear! Ahh!"
+    MRS_WINWARD "L-Liebling! Ahh!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:260
 translate de gallery_winward_doggy_wall_cuck_vag_ccd2dfc6:
 
     # MRS_WINWARD "You feel so - Mhmm! Big!"
-    MRS_WINWARD "You feel so - Mhmm! Big!"
+    MRS_WINWARD "Du fühlst dich so – Mhmm! Groß!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:261
 translate de gallery_winward_doggy_wall_cuck_vag_10b1b4d4:
 
     # "Mr Winward watched in pure shock as his wife's womanhood spread and clung around my cock, ramming in and out of her."
-    "Mr Winward watched in pure shock as his wife's womanhood spread and clung around my cock, ramming in and out of her."
+    "Mr Winward sah in purem Schock zu, wie sich die Weiblichkeit seiner Frau um meinen Schwanz legte und schmiegte, während er in sie hinein- und hinausrammte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:262
 translate de gallery_winward_doggy_wall_cuck_vag_0b0404e3:
 
     # "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her tight clutching hole."
-    "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her tight clutching hole."
+    "Heiße Stöhner entkamen Mrs Winwards Lippen, als ihre Beine zu zittern begannen, während mein Schwanz weiter in ihr enges, umklammerndes Loch stieß."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:263
 translate de gallery_winward_doggy_wall_cuck_vag_a3ea429a:
 
     # "As her wet pussy grew more accustomed to my member, I began to move faster."
-    "As her wet pussy grew more accustomed to my member, I began to move faster."
+    "Als sich ihre nasse Muschi mehr an mein Glied gewöhnte, begann ich, mich schneller zu bewegen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:264
 translate de gallery_winward_doggy_wall_cuck_vag_0061aff5:
 
     # "The sounds of sweet flesh colliding grew louder and more frequent as Mrs Winward's guttural moans filled the room."
-    "The sounds of sweet flesh colliding grew louder and more frequent as Mrs Winward's guttural moans filled the room."
+    "Die Geräusche von süßem Fleisch, das aufeinanderprallte, wurden lauter und häufiger, während Mrs Winwards kehlige Stöhner den Raum erfüllten."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:265
 translate de gallery_winward_doggy_wall_cuck_vag_f1e15298:
 
     # MRS_WINWARD "Ahh! Ahh! Mhmfghh! C-Careful! You're-"
-    MRS_WINWARD "Ahh! Ahh! Mhmfghh! C-Careful! You're-"
+    MRS_WINWARD "Ahh! Ahh! Mhmfghh! V-Vorsichtig! Du bist-"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:266
 translate de gallery_winward_doggy_wall_cuck_vag_2b478eba:
@@ -586,25 +586,25 @@ translate de gallery_winward_doggy_wall_cuck_vag_2b478eba:
 translate de gallery_winward_doggy_wall_cuck_vag_092b37ab:
 
     # MR_WINWARD "Ahh! Yes! That's it! Give it to her, lad!"
-    MR_WINWARD "Ahh! Yes! That's it! Give it to her, lad!"
+    MR_WINWARD "Ahh! Ja! Genau so! Gib's ihr, Junge!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:282
 translate de gallery_winward_doggy_wall_cuck_vag_e6e5e1ed:
 
     # MR_WINWARD "Give it to her good!"
-    MR_WINWARD "Give it to her good!"
+    MR_WINWARD "Gib's ihr richtig!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:283
 translate de gallery_winward_doggy_wall_cuck_vag_19b802c9:
 
     # "Her sweet groans of pleasure became more frequent as I took Mrs Winward from behind."
-    "Her sweet groans of pleasure became more frequent as I took Mrs Winward from behind."
+    "Ihre süßen Luststöhner wurden häufiger, als ich Mrs Winward von hinten nahm."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:284
 translate de gallery_winward_doggy_wall_cuck_vag_8d28b952:
 
     # MC "Have you ever been fucked this deeply, Mrs Winward?"
-    MC "Have you ever been fucked this deeply, Mrs Winward?"
+    MC "Wurden Sie jemals so tief gefickt, Mrs Winward?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:285
 translate de gallery_winward_doggy_wall_cuck_vag_d9f44742:
@@ -616,25 +616,25 @@ translate de gallery_winward_doggy_wall_cuck_vag_d9f44742:
 translate de gallery_winward_doggy_wall_cuck_vag_f780b1cc:
 
     # MRS_WINWARD "I-It's like you're - Hrghhh! Re-shaping all my insides!"
-    MRS_WINWARD "I-It's like you're - Hrghhh! Re-shaping all my insides!"
+    MRS_WINWARD "E-Es ist, als ob du - Hrghhh! Meine gesamten Innereien umformst!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:287
 translate de gallery_winward_doggy_wall_cuck_vag_17571c34:
 
     # MC "That doesn't answer the question!"
-    MC "That doesn't answer the question!"
+    MC "Das beantwortet nicht die Frage!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:288
 translate de gallery_winward_doggy_wall_cuck_vag_c50db437:
 
     # MRS_WINWARD "A-Ahhh! N-No! I've never even SEEN anyone bigger than you!"
-    MRS_WINWARD "A-Ahhh! N-No! I've never even SEEN anyone bigger than you!"
+    MRS_WINWARD "A-Ahhh! N-Nein! Ich habe noch nie jemanden gesehen, der größer ist als du!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:289
 translate de gallery_winward_doggy_wall_cuck_vag_ad141db4:
 
     # "Satisfied with her answer, I slammed my cock to the hilt, determined to fuck her senseless so she'd know for sure {i}who{/i} her body belonged to from now on..."
-    "Satisfied with her answer, I slammed my cock to the hilt, determined to fuck her senseless so she'd know for sure {i}who{/i} her body belonged to from now on..."
+    "Zufrieden mit ihrer Antwort rammte ich meinen Schwanz bis zum Anschlag, entschlossen, sie bewusstlos zu ficken, damit sie von nun an genau wüsste, {i}wem{/i} ihr Körper gehörte..."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:290
 translate de gallery_winward_doggy_wall_cuck_vag_eb4a3fbc:
@@ -646,55 +646,55 @@ translate de gallery_winward_doggy_wall_cuck_vag_eb4a3fbc:
 translate de gallery_winward_doggy_wall_cuck_vag_7170a2b0:
 
     # MRS_WINWARD "P-Please! {i}*Huff*{/i} Mhfghhh!"
-    MRS_WINWARD "P-Please! {i}*Huff*{/i} Mhfghhh!"
+    MRS_WINWARD "B-Bitte! {i}*Huff*{/i} Mhfghhh!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:292
 translate de gallery_winward_doggy_wall_cuck_vag_a9295df1:
 
     # MRS_WINWARD "F-Fill me up!"
-    MRS_WINWARD "F-Fill me up!"
+    MRS_WINWARD "F-Füll mich aus!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:293
 translate de gallery_winward_doggy_wall_cuck_vag_ffdbd2ca:
 
     # MRS_WINWARD "I don't know how much more I can - Mhhhfhh! Take!"
-    MRS_WINWARD "I don't know how much more I can - Mhhhfhh! Take!"
+    MRS_WINWARD "Ich weiß nicht, wie viel mehr ich noch - Mhhhfhh! ertragen kann!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:294
 translate de gallery_winward_doggy_wall_cuck_vag_2152ac7d:
 
     # "I continued to have my way with her for a little while longer, enjoying the feeling of her pussy squeezing my member with desperation to bring me to climax."
-    "I continued to have my way with her for a little while longer, enjoying the feeling of her pussy squeezing my member with desperation to bring me to climax."
+    "Ich hatte noch eine kleine Weile meinen Spaß mit ihr und genoss das Gefühl, wie ihre Muschi verzweifelt mein Glied umklammerte, um mich zum Höhepunkt zu bringen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:295
 translate de gallery_winward_doggy_wall_cuck_vag_94cf037a:
 
     # "Eventually, she got her wish."
-    "Eventually, she got her wish."
+    "Schließlich bekam sie ihren Wunsch erfüllt."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:296
 translate de gallery_winward_doggy_wall_cuck_vag_89e67bfc:
 
     # "As my balls began to tighten and rise, my cock, still plunging mercilessly in and out of her now trembling body, began to feel increasingly ready for release."
-    "As my balls began to tighten and rise, my cock, still plunging mercilessly in and out of her now trembling body, began to feel increasingly ready for release."
+    "Als meine Hoden sich zu spannen und zu steigen begannen, fühlte sich mein Schwanz, der noch immer unerbittlich in ihren nun zitternden Körper ein- und ausstieß, zunehmend bereit für den Samenerguss an."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:297
 translate de gallery_winward_doggy_wall_cuck_vag_c8d0e3a3:
 
     # MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
-    MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
+    MRS_WINWARD "{i}*Huff*{/i} K-Komm, mein Lieber! {i}*Huff*{/i} Ich flehe dich an! B-Bitte!!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:298
 translate de gallery_winward_doggy_wall_cuck_vag_f89fbc09:
 
     # "Giving her what she wanted, I dug my hands deep into the soft flesh of her large, round ass and slammed deeply into her."
-    "Giving her what she wanted, I dug my hands deep into the soft flesh of her large, round ass and slammed deeply into her."
+    "Ich gab ihr, was sie wollte, grub meine Hände tief in das weiche Fleisch ihres großen, runden Hinterns und stieß tief in sie hinein."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:299
 translate de gallery_winward_doggy_wall_cuck_vag_d4da1f07:
 
     # "Grunting loudly, I flooded Mrs Winward's womb with my hot, thick seed."
-    "Grunting loudly, I flooded Mrs Winward's womb with my hot, thick seed."
+    "Laut grunzend überflutete ich Mrs Winwards Gebärmutter mit meinem heißen, dicken Samen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:316
 translate de gallery_winward_doggy_wall_cuck_vag_37832b20:
@@ -706,25 +706,25 @@ translate de gallery_winward_doggy_wall_cuck_vag_37832b20:
 translate de gallery_winward_doggy_wall_cuck_vag_44005b46:
 
     # "Mrs Winward gasped as she felt the rush of warm fluid pouring into her."
-    "Mrs Winward gasped as she felt the rush of warm fluid pouring into her."
+    "Mrs Winward keuchte, als sie das Rauschen der warmen Flüssigkeit spürte, die in sie strömte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:318
 translate de gallery_winward_doggy_wall_cuck_vag_95e1f203:
 
     # "Her eyes rolled back as she trembled and nearly collapsed back into my arms."
-    "Her eyes rolled back as she trembled and nearly collapsed back into my arms."
+    "Ihre Augen verdrehten sich, als sie zitterte und fast zurück in meine Arme fiel."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:319
 translate de gallery_winward_doggy_wall_cuck_vag_0a9209ff:
 
     # "I held her up as I continued to pump my load into her body."
-    "I held her up as I continued to pump my load into her body."
+    "Ich hielt sie aufrecht, während ich weiter meine Ladung in ihren Körper pumpte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:320
 translate de gallery_winward_doggy_wall_cuck_vag_6ff6887e:
 
     # "Only a soft whimper escaped her lips as I held her body upright in my arms."
-    "Only a soft whimper escaped her lips as I held her body upright in my arms."
+    "Nur ein leises Wimmern entkam ihren Lippen, als ich ihren Körper aufrecht in meinen Armen hielt."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:321
 translate de gallery_winward_doggy_wall_cuck_vag_759837a0:
@@ -736,61 +736,61 @@ translate de gallery_winward_doggy_wall_cuck_vag_759837a0:
 translate de gallery_winward_doggy_wall_cuck_vag_dc96539d:
 
     # MRS_WINWARD "Oh gods...That was..."
-    MRS_WINWARD "Oh gods...That was..."
+    MRS_WINWARD "Oh Götter...Das war..."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:323
 translate de gallery_winward_doggy_wall_cuck_vag_68ba530f:
 
     # MRS_WINWARD "...{i}Oh my...{/i}"
-    MRS_WINWARD "...{i}Oh my...{/i}"
+    MRS_WINWARD "...{i}Oh mein...{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:343
 translate de gallery_winward_doggy_wall_cuck_anal_fb4b696a:
 
     # "Moving my cock slightly higher, I lightly prodded against her forbidden back door."
-    "Moving my cock slightly higher, I lightly prodded against her forbidden back door."
+    "Ich bewegte meinen Schwanz etwas höher und stieß leicht gegen ihre verbotene Hintertür."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:344
 translate de gallery_winward_doggy_wall_cuck_anal_d52e2c4b:
 
     # MRS_WINWARD "{i}*Gasp!*{/i}"
-    MRS_WINWARD "{i}*Gasp!*{/i}"
+    MRS_WINWARD "{i}*Keuch!*{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:345
 translate de gallery_winward_doggy_wall_cuck_anal_de44d030:
 
     # MRS_WINWARD "If... If you're going to try put it {i}there,{/i} p-please."
-    MRS_WINWARD "If... If you're going to try put it {i}there,{/i} p-please."
+    MRS_WINWARD "Wenn... Wenn du versuchst, es {i}dort,{/i} b-bitte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:346
 translate de gallery_winward_doggy_wall_cuck_anal_86e864eb:
 
     # MRS_WINWARD "Start slowly?"
-    MRS_WINWARD "Start slowly?"
+    MRS_WINWARD "Langsam anfangen?"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:347
 translate de gallery_winward_doggy_wall_cuck_anal_6ee17c7f:
 
     # "Grabbing a fist full of her hair, she let out another short gasp as she felt the head of my cock sink into her tight, clutching asshole."
-    "Grabbing a fist full of her hair, she let out another short gasp as she felt the head of my cock sink into her tight, clutching asshole."
+    "Ich griff eine volle Handvoll ihrer Haare, und sie stieß ein weiteres kurzes Keuchen aus, als sie fühlte, wie die Spitze meines Schwanzes in ihr enges, klammerndes Arschloch eindrang."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:348
 translate de gallery_winward_doggy_wall_cuck_anal_618af968:
 
     # MRS_WINWARD "A-AHHHH!!"
-    MRS_WINWARD "A-AHHHH!!"
+    MRS_WINWARD "A-AAHHH!!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:349
 translate de gallery_winward_doggy_wall_cuck_anal_de38468b:
 
     # "Slowly, I began to thrust my cock in and out of Mrs Winward's ass."
-    "Slowly, I began to thrust my cock in and out of Mrs Winward's ass."
+    "Langsam begann ich, meinen Schwanz in Mrs Winwards Arsch hinein- und herauszustoßen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:350
 translate de gallery_winward_doggy_wall_cuck_anal_ea28548d:
 
     # "Her ass rippled with every thrust as I squeezed both hands on her round ass for better grip, feeling the fat slip between my fingers."
-    "Her ass rippled with every thrust as I squeezed both hands on her round ass for better grip, feeling the fat slip between my fingers."
+    "Ihr Arsch bebte bei jedem Stoß, während ich beide Hände um ihren runden Hintern presste, um besseren Halt zu bekommen, und fühlte, wie das Fleisch zwischen meinen Fingern hervorquoll."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:351
 translate de gallery_winward_doggy_wall_cuck_anal_10fd4d40:
@@ -802,43 +802,43 @@ translate de gallery_winward_doggy_wall_cuck_anal_10fd4d40:
 translate de gallery_winward_doggy_wall_cuck_anal_a2dc988c:
 
     # MRS_WINWARD "C-Careful! My - A-Ass! - Mhmm! You're so - Big!"
-    MRS_WINWARD "C-Careful! My - A-Ass! - Mhmm! You're so - Big!"
+    MRS_WINWARD "V-Vorsichtig! Mein – A-Arsch! – Mhmm! Du bist so – Groß!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:353
 translate de gallery_winward_doggy_wall_cuck_anal_c82fcd29:
 
     # MRS_WINWARD "I-It's burning from how much you're - ahhh! Stretching!"
-    MRS_WINWARD "I-It's burning from how much you're - ahhh! Stretching!"
+    MRS_WINWARD "E-Es brennt, weil du mich so – ahhh! – dehnst!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:354
 translate de gallery_winward_doggy_wall_cuck_anal_7ca9c2ae:
 
     # "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her forbidden back door."
-    "Hot moans escaped Mrs Winward's lips as her legs began to tremble whilst my cock continued to plunge in and out of her forbidden back door."
+    "Heiße Stöhner entkamen Mrs Winwards Lippen, während ihre Beine zu zittern begannen, während mein Schwanz weiter in ihre verbotene Hintertür stieß."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:355
 translate de gallery_winward_doggy_wall_cuck_anal_981bca45:
 
     # MR_WINWARD "D-Dear!"
-    MR_WINWARD "D-Dear!"
+    MR_WINWARD "L-Liebling!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:356
 translate de gallery_winward_doggy_wall_cuck_anal_5fee6273:
 
     # "Mr Winward watched in pure shock as his wife's asshole spread and clung around my cock ramming in and out of her."
-    "Mr Winward watched in pure shock as his wife's asshole spread and clung around my cock ramming in and out of her."
+    "Mr Winward sah in reinstem Schock zu, wie sich das Arschloch seiner Frau weitete und um meinen Schwanz schmiegte, der in sie hinein- und herausstieß."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:357
 translate de gallery_winward_doggy_wall_cuck_anal_3cf19f41:
 
     # MR_WINWARD "He's... He's in your-"
-    MR_WINWARD "He's... He's in your-"
+    MR_WINWARD "Er ist... Er ist in deinem-"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:358
 translate de gallery_winward_doggy_wall_cuck_anal_a9af9fd2:
 
     # MRS_WINWARD "H-Hrghh! Watch carefully you pathetic excuse for a husband!"
-    MRS_WINWARD "H-Hrghh! Watch carefully you pathetic excuse for a husband!"
+    MRS_WINWARD "H-Hrghh! Sieh genau zu, du erbärmliche Ausrede von einem Ehemann!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:359
 translate de gallery_winward_doggy_wall_cuck_anal_095ff8c3:
@@ -910,19 +910,19 @@ translate de gallery_winward_doggy_wall_cuck_anal_d9f44742:
 translate de gallery_winward_doggy_wall_cuck_anal_903ed146:
 
     # MRS_WINWARD "M-My assshhh! - Hrghhh! You're - Ahh! Re-shaping all my insides!"
-    MRS_WINWARD "M-My assshhh! - Hrghhh! You're - Ahh! Re-shaping all my insides!"
+    MRS_WINWARD "M-Mein Arschhh! - Hrghhh! Du - Ahh! Verformst mein ganzes Inneres!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:371
 translate de gallery_winward_doggy_wall_cuck_anal_4967fc45:
 
     # MRS_WINWARD "A-Ahhh! H-He feels so good dear! He feels so good in my ass!!"
-    MRS_WINWARD "A-Ahhh! H-He feels so good dear! He feels so good in my ass!!"
+    MRS_WINWARD "A-Ahhh! E-Er fühlt sich so gut an, Liebling! Er fühlt sich so gut in meinem Arsch an!!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:372
 translate de gallery_winward_doggy_wall_cuck_anal_17e728d4:
 
     # "I slammed my cock to the hilt, determined to leave her exhausted and breathless when I was done."
-    "I slammed my cock to the hilt, determined to leave her exhausted and breathless when I was done."
+    "Ich rammte meinen Schwanz bis zum Anschlag, fest entschlossen, sie erschöpft und atemlos zurückzulassen, wenn ich fertig war."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:373
 translate de gallery_winward_doggy_wall_cuck_anal_eb4a3fbc:
@@ -934,55 +934,55 @@ translate de gallery_winward_doggy_wall_cuck_anal_eb4a3fbc:
 translate de gallery_winward_doggy_wall_cuck_anal_7170a2b0:
 
     # MRS_WINWARD "P-Please! {i}*Huff*{/i} Mhfghhh!"
-    MRS_WINWARD "P-Please! {i}*Huff*{/i} Mhfghhh!"
+    MRS_WINWARD "B-Bitte! {i}*Huff*{/i} Mhfghhh!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:375
 translate de gallery_winward_doggy_wall_cuck_anal_0061403e:
 
     # MRS_WINWARD "C-Cum already!"
-    MRS_WINWARD "C-Cum already!"
+    MRS_WINWARD "K-Komm schon!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:376
 translate de gallery_winward_doggy_wall_cuck_anal_597d0c02:
 
     # MRS_WINWARD "I don't know how much more my poor ass can - Ahh! Take!"
-    MRS_WINWARD "I don't know how much more my poor ass can - Ahh! Take!"
+    MRS_WINWARD "Ich weiß nicht, wie viel mehr mein armer Arsch noch - Ahh! Aushalten kann!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:377
 translate de gallery_winward_doggy_wall_cuck_anal_9beedfb1:
 
     # "I continued to have my way with her for a little while longer, enjoying the feeling of her ass squeezing my member with desperation to bring me to climax."
-    "I continued to have my way with her for a little while longer, enjoying the feeling of her ass squeezing my member with desperation to bring me to climax."
+    "Ich nahm sie mir noch eine kleine Weile länger und genoss das Gefühl, wie ihr Arsch vor Verzweiflung mein Glied umklammerte, um mich zum Höhepunkt zu bringen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:378
 translate de gallery_winward_doggy_wall_cuck_anal_94cf037a:
 
     # "Eventually, she got her wish."
-    "Eventually, she got her wish."
+    "Schließlich bekam sie ihren Wunsch."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:379
 translate de gallery_winward_doggy_wall_cuck_anal_89e67bfc:
 
     # "As my balls began to tighten and rise, my cock, still plunging mercilessly in and out of her now trembling body, began to feel increasingly ready for release."
-    "As my balls began to tighten and rise, my cock, still plunging mercilessly in and out of her now trembling body, began to feel increasingly ready for release."
+    "Als meine Hoden begannen, sich zusammenzuziehen und zu heben, fühlte sich mein Schwanz, der immer noch unbarmherzig in ihren jetzt zitternden Körper hinein- und wieder hinausstieß, zunehmend bereit für den Erguss an."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:380
 translate de gallery_winward_doggy_wall_cuck_anal_c8d0e3a3:
 
     # MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
-    MRS_WINWARD "{i}*Huff*{/i} F-Finish dear! {i}*Huff*{/i} I beg you! P-Please!!"
+    MRS_WINWARD "{i}*Huff*{/i} K-Komm, Liebling! {i}*Huff*{/i} Ich flehe dich an! B-Bitte!!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:381
 translate de gallery_winward_doggy_wall_cuck_anal_f89fbc09:
 
     # "Giving her what she wanted, I dug my hands deep into the soft flesh of her large, round ass and slammed deeply into her."
-    "Giving her what she wanted, I dug my hands deep into the soft flesh of her large, round ass and slammed deeply into her."
+    "Ich gab ihr, was sie wollte, grub meine Hände tief in das weiche Fleisch ihres großen, runden Arsches und stieß tief in sie hinein."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:382
 translate de gallery_winward_doggy_wall_cuck_anal_5bb7a485:
 
     # "Grunting loudly, I flooded Mrs Winward's ass with my hot, thick seed."
-    "Grunting loudly, I flooded Mrs Winward's ass with my hot, thick seed."
+    "Laut grunzend überflutete ich Mrs Winwards Arsch mit meinem heißen, dicken Samen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:398
 translate de gallery_winward_doggy_wall_cuck_anal_37832b20:
@@ -994,25 +994,25 @@ translate de gallery_winward_doggy_wall_cuck_anal_37832b20:
 translate de gallery_winward_doggy_wall_cuck_anal_44005b46:
 
     # "Mrs Winward gasped as she felt the rush of warm fluid pouring into her."
-    "Mrs Winward gasped as she felt the rush of warm fluid pouring into her."
+    "Mrs Winward keuchte, als sie spürte, wie der Schwall warmer Flüssigkeit in sie strömte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:400
 translate de gallery_winward_doggy_wall_cuck_anal_95e1f203:
 
     # "Her eyes rolled back as she trembled and nearly collapsed back into my arms."
-    "Her eyes rolled back as she trembled and nearly collapsed back into my arms."
+    "Ihre Augen verdrehten sich, als sie zitterte und beinahe zurück in meine Arme zusammenbrach."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:401
 translate de gallery_winward_doggy_wall_cuck_anal_7a72f107:
 
     # "I held her up as I continued to pump my load into her now limp body."
-    "I held her up as I continued to pump my load into her now limp body."
+    "Ich hielt sie aufrecht, während ich weiter meine Ladung in ihren jetzt schlaffen Körper pumpte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:402
 translate de gallery_winward_doggy_wall_cuck_anal_6ff6887e:
 
     # "Only a soft whimper escaped her lips as I held her body upright in my arms."
-    "Only a soft whimper escaped her lips as I held her body upright in my arms."
+    "Nur ein leises Wimmern entkam ihren Lippen, während ich ihren Körper in meinen Armen aufrecht hielt."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:403
 translate de gallery_winward_doggy_wall_cuck_anal_759837a0:
@@ -1024,47 +1024,47 @@ translate de gallery_winward_doggy_wall_cuck_anal_759837a0:
 translate de gallery_winward_doggy_wall_cuck_anal_dc96539d:
 
     # MRS_WINWARD "Oh gods...That was..."
-    MRS_WINWARD "Oh gods...That was..."
+    MRS_WINWARD "Oh Götter...Das war..."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:405
 translate de gallery_winward_doggy_wall_cuck_anal_68ba530f:
 
     # MRS_WINWARD "...{i}Oh my...{/i}"
-    MRS_WINWARD "...{i}Oh my...{/i}"
+    MRS_WINWARD "...{i}Oh mein...{/i}"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:406
 translate de gallery_winward_doggy_wall_cuck_anal_113d54a3:
 
     # "Pitifully, Mr Winward also finished behind us, emitting a low grunt as a couple of drops from his inferior side trickled onto the floor.."
-    "Pitifully, Mr Winward also finished behind us, emitting a low grunt as a couple of drops from his inferior side trickled onto the floor.."
+    "Erbärmlich, Mr Winward kam auch hinter uns zum Abschluss, stieß ein leises Grunzen aus, als ein paar Tropfen von seiner minderwertigen Seite auf den Boden tropften.."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:407
 translate de gallery_winward_doggy_wall_cuck_anal_17c45d66:
 
     # MR_WINWARD "Ahhh! That was incredible!"
-    MR_WINWARD "Ahhh! That was incredible!"
+    MR_WINWARD "Ahhh! Das war unglaublich!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:408
 translate de gallery_winward_doggy_wall_cuck_anal_7e494134:
 
     # MR_WINWARD "I sure am glad I never took that hole for myself now and gave it to you! It makes it all feel extra special!"
-    MR_WINWARD "I sure am glad I never took that hole for myself now and gave it to you! It makes it all feel extra special!"
+    MR_WINWARD "Ich bin jetzt wirklich froh, dass ich dieses Loch nie für mich genommen und dir gegeben habe! Es macht alles extra besonders!"
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:409
 translate de gallery_winward_doggy_wall_cuck_anal_53c5c938:
 
     # "The two of us ignored the old man, Mrs Winward was far too dazed out from the fuck to care about any silly words tumbling out of the cuckolds mouth."
-    "The two of us ignored the old man, Mrs Winward was far too dazed out from the fuck to care about any silly words tumbling out of the cuckolds mouth."
+    "Wir beide ignorierten den alten Mann, Mrs Winward war viel zu benommen vom Fick, um sich um die albernen Worte zu kümmern, die aus dem Mund des Cuckolds kamen."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:410
 translate de gallery_winward_doggy_wall_cuck_anal_da7d3fe3:
 
     # "Slowly, As I unsheathed my cock from Mrs Winward's now loosened asshole, she shuddered as my seed spilled out of her onto the floor."
-    "Slowly, As I unsheathed my cock from Mrs Winward's now loosened asshole, she shuddered as my seed spilled out of her onto the floor."
+    "Langsam, als ich meinen Schwanz aus Mrs Winwards nun gelockertem Arschloch zog, erschauerte sie, als mein Samen aus ihr auf den Boden tropfte."
 
 # game/data/sexy_scenes/mrs_winward/galleryLabels/doggy_wall.rpy:411
 translate de gallery_winward_doggy_wall_cuck_anal_918226bc:
 
     # "Letting go of her hair, her legs shook and buckled as she slid down onto the floor in a puddle of our cum."
-    "Letting go of her hair, her legs shook and buckled as she slid down onto the floor in a puddle of our cum."
+    "Ich ließ ihre Haare los, ihre Beine zitterten und knickten ein, als sie in einer Pfütze aus unserem Sperma auf den Boden rutschte."
 

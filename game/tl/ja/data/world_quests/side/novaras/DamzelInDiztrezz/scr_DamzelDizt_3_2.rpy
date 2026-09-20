@@ -34,8 +34,7 @@ translate ja qst_DamzelDizzt_3_headToOffice_9a11f6ca:
 translate ja qst_DamzelDizzt_3_headToOffice_ebbe29d7:
 
     # THUG @ talk "You know what? Just... Just go away, and when you come back, try again, okay?"
-    THUG @ talk "そうだな…　ちょっと…　ちょっとどっかに行って、  
-戻ってきたら、もう一度やり直してね？"
+    THUG @ talk "そうだな…　ちょっと…　ちょっとどっかに行って、  戻ってきたら、もう一度やり直してね？"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_3_2.rpy:15
 translate ja qst_DamzelDizzt_3_headToOffice_f84bcf96:

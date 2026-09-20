@@ -190,7 +190,7 @@ translate zh gallery_kiara_tarbeck_maid_cards_dafec09e:
 translate zh gallery_kiara_tarbeck_maid_cards_e3751400:
 
     # KIARA "MMMMFGHHHH! {i}*Slurp!*{/i}"
-    KIARA "MMMMFGHHHH！{i}*吸溜！*{/i}"
+    KIARA "唔唔唔唔唔唔！{i}*吸溜！*{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_cards.rpy:46
 translate zh gallery_kiara_tarbeck_maid_cards_10b4f4a1:
@@ -202,7 +202,7 @@ translate zh gallery_kiara_tarbeck_maid_cards_10b4f4a1:
 translate zh gallery_kiara_tarbeck_maid_cards_8cbb526c:
 
     # GUESTS_PET "Mmfghh! {i}*Slurp!*{/i}"
-    GUESTS_PET "Mmfghh！{i}*吸溜！*{/i}"
+    GUESTS_PET "唔唔唔！{i}*吸溜！*{/i}"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_cards.rpy:48
 translate zh gallery_kiara_tarbeck_maid_cards_07a792be:
@@ -226,13 +226,13 @@ translate zh gallery_kiara_tarbeck_maid_cards_bb39a80f:
 translate zh gallery_kiara_tarbeck_maid_cards_4682b04b:
 
     # MC "{i}*Huff*{/i} K-琪亚拉..."
-    MC "{i}*喘气*{/i} K-琪亚拉..."
+    MC "{i}*喘气*{/i} 琪-琪亚拉..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_cards.rpy:55
 translate zh gallery_kiara_tarbeck_maid_cards_62f2e78a:
 
     # KIARA "{i}*Slurp!*{/i} Mhasthahh! ❤️"
-    KIARA "{i}*吸溜！*{/i} Mhasthahh！❤️"
+    KIARA "{i}*吸溜！*{/i} 唔嗯嗯嗯！❤️"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_maid_cards.rpy:56
 translate zh gallery_kiara_tarbeck_maid_cards_556cba38:

@@ -82,8 +82,7 @@ translate ja jurgen_2_get_raza_fawha_97f8d0b3:
 translate ja jurgen_2_get_raza_fawha_d6f8c973:
 
     # FAWHA @ talk "They've been testing with this... It should dissolve quickly in whatever drink you put it into."
-    FAWHA @ talk "彼らはこれでテストを…  
-どんな飲み物に入れても素早く溶けるはずだ。"
+    FAWHA @ talk "彼らはこれでテストを…  どんな飲み物に入れても素早く溶けるはずだ。"
 
 # game/data/world_quests/side/novaras/AGracefulRebirth/scr_Jurgen_poison.rpy:24
 translate ja jurgen_2_get_raza_fawha_cf18f36a:
@@ -245,8 +244,7 @@ translate ja jurgen_1_tavern_poison_amira_cef35203:
 translate ja jurgen_1_tavern_poison_amira_1af7c3cb:
 
     # "Something about my dark passenger's comment I found unsettling, I justified in my head I did what I had to but..."
-    "暗黒の相棒の言葉に、何か嫌な予感がした。  
-やるべきことをやっただけだ、と自分に言い聞かせたが…"
+    "暗黒の相棒の言葉に、何か嫌な予感がした。  やるべきことをやっただけだ、と自分に言い聞かせたが…"
 
 # game/data/world_quests/side/novaras/AGracefulRebirth/scr_Jurgen_poison.rpy:78
 translate ja jurgen_1_tavern_poison_amira_d7e798a9:

@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/world_romance/divine/preg_divine.rpy:9
     old "Sister Divine has given birth."
-    new "Sister Divine has given birth."
+    new "Schwester Divine hat entbunden."
 

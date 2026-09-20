@@ -268,8 +268,7 @@ translate ja qst_DamzelDizzt_5_evidence_5e998718:
 translate ja qst_DamzelDizzt_5_evidence_4be23034:
 
     # TAREK "...{i}*Sigh*{/i} I cannot believe I am agreeing to this, but very well."
-    TAREK "…{i}*はあ*{/i}  
-こんなことに同意するなんて信じられないが、仕方ない、承知しよう。"
+    TAREK "…{i}*はあ*{/i}  こんなことに同意するなんて信じられないが、仕方ない、承知しよう。"
 
 # game/data/world_quests/side/novaras/DamzelInDiztrezz/scr_DamzelDizt_5.rpy:52
 translate ja qst_DamzelDizzt_5_evidence_5e89564a:

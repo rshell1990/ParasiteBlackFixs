@@ -31,31 +31,39 @@ screen satyr_main_menu():
         pos (0.94, 0.915)
         xysize (160, 160)
         background Null()
-        add "images/gui/satyr/bg.webp": 
-            xsize 150 
-            fit "contain" 
-            align (0.5, 0.5)
-            if Hovered:
+        if Hovered:
+            add "images/gui/satyr/bg.webp":
+                xsize 150
+                fit "contain"
+                align (0.5, 0.5)
                 at TFSatyrLogo_AlphaAt(0.8)
-            else:
-                at TFSatyrLogo_AlphaAt(0.2)
-        add "images/gui/satyr/glow.webp": 
-            xsize 150 
-            fit "contain" 
-            align (0.5, 0.5)
-            if Hovered:
+            add "images/gui/satyr/glow.webp":
+                xsize 150
+                fit "contain"
+                align (0.5, 0.5)
                 matrixcolor BrightnessMatrix(0.1)
                 at TFSatyrLogo_GlowInOut
-            else:
-                at TFSatyrLogo_AlphaAt(0.2)
-        add "images/gui/satyr/persona.webp": 
-            xsize 150 
-            fit "contain" 
-            align (0.5, 0.5)
-            if Hovered:
+            add "images/gui/satyr/persona.webp":
+                xsize 150
+                fit "contain"
+                align (0.5, 0.5)
                 matrixcolor BrightnessMatrix(0.1)
                 at TFSatyrLogo_AlphaAt(1.0)
-            else:
+        else:
+            add "images/gui/satyr/bg.webp":
+                xsize 150
+                fit "contain"
+                align (0.5, 0.5)
+                at TFSatyrLogo_AlphaAt(0.2)
+            add "images/gui/satyr/glow.webp":
+                xsize 150
+                fit "contain"
+                align (0.5, 0.5)
+                at TFSatyrLogo_AlphaAt(0.2)
+            add "images/gui/satyr/persona.webp":
+                xsize 150
+                fit "contain"
+                align (0.5, 0.5)
                 at TFSatyrLogo_AlphaAt(0.2)
         #add "images/gui/satyr/arrow.webp": 
         #    xsize 90 

@@ -12,17 +12,17 @@ translate de strings:
 
     # game/data/world_quests/SampleQuestLM.rpy:8
     old "(dev) sample quest goal title"
-    new "(dev) sample quest goal title"
+    new "(dev) Beispiel-Questziel-Titel"
 
     # game/data/world_quests/SampleQuestLM.rpy:8
     old "sample description"
-    new "sample description"
+    new "Beispielbeschreibung"
 
     # game/data/world_quests/SampleQuestLM.rpy:8
     old "(dev) sample quest goal 2 title"
-    new "(dev) sample quest goal 2 title"
+    new "(dev) Beispiel-Questziel-2-Titel"
 
     # game/data/world_quests/SampleQuestLM.rpy:8
     old "sample description 2"
-    new "sample description 2"
+    new "Beispielbeschreibung 2"
 

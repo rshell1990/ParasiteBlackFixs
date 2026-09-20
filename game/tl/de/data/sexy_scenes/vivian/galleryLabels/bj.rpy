@@ -4,5 +4,5 @@
 translate de gallery_vivian_bj_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie zu der Zeit schwanger?"
 

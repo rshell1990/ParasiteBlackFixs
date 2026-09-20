@@ -16,11 +16,11 @@ translate de nijah_talk_64493071:
 translate de nijah_bye_b284184b:
 
     # NIJAH "I will be here, [player_name!t]."
-    NIJAH "I will be here, [player_name!t]."
+    NIJAH "Ich werde hier sein, [player_name!t]."
 
 translate de strings:
 
     # game/data/characters/nijah/dialogue.rpy:12
     old "Talk to Nijah"
-    new "Talk to Nijah"
+    new "Sprich mit Nijah"
 

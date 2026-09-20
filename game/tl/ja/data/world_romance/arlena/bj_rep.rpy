@@ -82,8 +82,7 @@ translate ja rom_ArlenaRepBj_02_ff443ffc:
 translate ja rom_ArlenaRepBj_02_47e2c199:
 
     # ARLENA "{i}*Slurp!*{/i} Mmfgh..."
-    ARLENA "{i}*ずるっ!*{/i}
-んむ…"
+    ARLENA "{i}*ずるっ!*{/i}んむ…"
 
 # game/data/world_romance/arlena/bj_rep.rpy:38
 translate ja rom_ArlenaRepBj_02_c55082d9:
@@ -209,8 +208,7 @@ translate ja rom_ArlenaRepBj_02_eb88753a:
 translate ja rom_ArlenaRepBj_02_8ecca98f:
 
     # ARLENA "Almost, but I think I can handle you... I’d like to carry on if you would."
-    ARLENA "もう少しだ、でもなんとか…  
-あなたがそう望むなら、続けたい"
+    ARLENA "もう少しだ、でもなんとか…  あなたがそう望むなら、続けたい"
 
 # game/data/world_romance/arlena/bj_rep.rpy:73
 translate ja rom_ArlenaRepBj_02_2386936a:

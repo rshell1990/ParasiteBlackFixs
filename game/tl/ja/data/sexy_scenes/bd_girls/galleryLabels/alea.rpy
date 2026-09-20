@@ -256,8 +256,7 @@ translate ja gallery_alea_tj_nomask_2bc8a8f8:
 translate ja gallery_alea_tj_nomask_4afc5509:
 
     # ALEA "{i}*Giggles*{/i} Well... That was a lot."
-    ALEA "{i}*クスクス*{/i}
-さて…大変だったね。"
+    ALEA "{i}*クスクス*{/i}さて…大変だったね。"
 
 # TODO: Translation updated at 2026-06-13 16:23
 

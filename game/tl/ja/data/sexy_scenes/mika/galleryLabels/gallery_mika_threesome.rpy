@@ -336,8 +336,7 @@ translate ja gallery_mika_threesome_ff760b61:
 translate ja gallery_mika_threesome_5a9a7397:
 
     # MIKA "Y-You want me to t-take you and [player_name!t]?!"
-    MIKA "Y-You want me to t-take you and [player_name!t]?!  
-えっ…私が あの人と あなたを 連れて行ってほしいの？!"
+    MIKA "Y-You want me to t-take you and [player_name!t]?!  えっ…私が あの人と あなたを 連れて行ってほしいの？!"
 
 # game/data/sexy_scenes/mika/galleryLabels/gallery_mika_threesome.rpy:50
 translate ja gallery_mika_threesome_8a19ebb8:

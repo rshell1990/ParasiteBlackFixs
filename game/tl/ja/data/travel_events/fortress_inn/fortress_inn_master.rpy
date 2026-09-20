@@ -30,13 +30,6 @@ translate ja fortress_inn_sleep_c9614dee:
     # MC "(Let's move on.)"
     MC "（先に進もう。）"
 
-# game/data/travel_events/fortress_inn/fortress_inn_master.rpy:81
-translate ja fortress_inn_sleep_5a6e96eb:
-
-    # "DEBUG: jump to hamun docks?"
-    "DEBUG: jump to hamun docks?"
-
-# game/data/travel_events/fortress_inn/fortress_inn_master.rpy:92
 translate ja travel_fortress_inn_leave_6f7e2f5f:
 
     # MC "(Should we leave this place and move on?)"
@@ -67,4 +60,3 @@ translate ja strings:
     # game/data/travel_events/fortress_inn/fortress_inn_master.rpy:99
     old "DEBUG: jump to hamun docks"
     new "DEBUG: jump to hamun docks"
-

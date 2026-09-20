@@ -4,17 +4,17 @@
 translate de gallery_lady_tarbeck_quarters_missionary_a4573dac:
 
     # "Was it our first time?"
-    "Was it our first time?"
+    "War es unser erstes Mal?"
 
 # game/data/sexy_scenes/lady_tarbeck/galleryLabels/quarters_missionary.rpy:13
 translate de gallery_lady_tarbeck_quarters_missionary_08192513:
 
     # "Was she pregnant at the time?"
-    "Was she pregnant at the time?"
+    "War sie zu der Zeit schwanger?"
 
 # game/data/sexy_scenes/lady_tarbeck/galleryLabels/quarters_missionary.rpy:19
 translate de gallery_lady_tarbeck_quarters_missionary_c52240e0:
 
     # "Was it vaginal or anal?"
-    "Was it vaginal or anal?"
+    "War es vaginal oder anal?"
 

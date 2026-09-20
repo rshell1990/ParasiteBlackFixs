@@ -124,8 +124,7 @@ translate ja gallery_nyx_prison_fuck_ccf50218:
 translate ja gallery_nyx_prison_fuck_fcebf781:
 
     # NYX "That's an order! Mhhfh!"
-    NYX "命令よ!
-むっ!"
+    NYX "命令よ!むっ!"
 
 # game/data/sexy_scenes/nyx/galleryLabels/prison_fuck.rpy:39
 translate ja gallery_nyx_prison_fuck_74a8c2bf:
@@ -161,8 +160,7 @@ translate ja gallery_nyx_prison_fuck_d6384173:
 translate ja gallery_nyx_prison_fuck_5a35246d:
 
     # "Her hot breath brushed against my face again. She chuckled."
-    "再び、彼女の熱い吐息が私の顔に触れた。
-彼女はくすくす笑った。"
+    "再び、彼女の熱い吐息が私の顔に触れた。彼女はくすくす笑った。"
 
 # game/data/sexy_scenes/nyx/galleryLabels/prison_fuck.rpy:45
 translate ja gallery_nyx_prison_fuck_48fbc9ec:
@@ -240,8 +238,7 @@ translate ja gallery_nyx_prison_fuck_d9a4e251:
 translate ja gallery_nyx_prison_fuck_017a31eb:
 
     # "Sweat dripped from our bodies. For one fleeting moment, we found refuge in each other within this cold, cruel place."
-    "汗が滴った。
-冷たく残酷なこの場所で、一瞬だけ、私たちは互いに寄り添った。"
+    "汗が滴った。冷たく残酷なこの場所で、一瞬だけ、私たちは互いに寄り添った。"
 
 # game/data/sexy_scenes/nyx/galleryLabels/prison_fuck.rpy:71
 translate ja gallery_nyx_prison_fuck_6a6524d6:

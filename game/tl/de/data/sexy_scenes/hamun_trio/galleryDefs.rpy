@@ -4,13 +4,13 @@ translate de strings:
 
     # game/data/sexy_scenes/hamun_trio/galleryDefs.rpy:4
     old "Hamun trio"
-    new "Hamun trio"
+    new "Hamun Trio"
 
     # game/data/sexy_scenes/hamun_trio/galleryDefs.rpy:6
     old "Foursome"
-    new "Foursome"
+    new "Vierer"
 
     # game/data/sexy_scenes/hamun_trio/galleryDefs.rpy:14
     old "Table"
-    new "Table"
+    new "Tisch"
 

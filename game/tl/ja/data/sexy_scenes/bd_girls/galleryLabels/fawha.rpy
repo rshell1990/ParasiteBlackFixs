@@ -64,8 +64,7 @@ translate ja gallery_fawha_tj_mask_226be131:
 translate ja gallery_fawha_tj_mask_0fab10da:
 
     # FAWHA "Do you like that my lord? My master?"
-    FAWHA "お気に召されましたか、我が君？
-我がご主人様？"
+    FAWHA "お気に召されましたか、我が君？我がご主人様？"
 
 # game/data/sexy_scenes/bd_girls/galleryLabels/fawha.rpy:29
 translate ja gallery_fawha_tj_mask_8dd64503:

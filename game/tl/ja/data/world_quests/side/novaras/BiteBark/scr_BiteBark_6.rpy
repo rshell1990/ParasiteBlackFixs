@@ -154,9 +154,7 @@ translate ja qst_BiteBark_6_McRoomResolution_menu_3060f99f:
 translate ja qst_BiteBark_6_McRoomResolution_menu_38d27225:
 
     # ELENA @ grumpy "The girl I was meant to protect... The one that wretched Beastmaster told you had vanished."
-    ELENA @ grumpy "私が守るべきだった少女…
-あの忌まわしき獣使いが
-消え失せたと告げたその子が"
+    ELENA @ grumpy "私が守るべきだった少女…あの忌まわしき獣使いが消え失せたと告げたその子が"
 
 # game/data/world_quests/side/novaras/BiteBark/scr_BiteBark_6.rpy:67
 translate ja qst_BiteBark_6_McRoomResolution_menu_f3845347:
@@ -414,8 +412,7 @@ translate ja qst_BiteBark_6_McRoomResolution_menu2_367cbda8:
 translate ja qst_BiteBark_6_McRoomResolution_menu2_41405de6:
 
     # REGINA @ shock_talk "What happened? The wolf-"
-    REGINA @ shock_talk "どうしたんだ？
-オオカミは――"
+    REGINA @ shock_talk "どうしたんだ？オオカミは――"
 
 # game/data/world_quests/side/novaras/BiteBark/scr_BiteBark_6.rpy:142
 translate ja qst_BiteBark_6_McRoomResolution_menu2_fea45294:

@@ -38,13 +38,13 @@ label qst_guild_behemoth:
     if GetPartySize() > 1:
         MC "To arms!"
     scene black with dissolve
-    play sound "audio/cfx/transform.ogg"
+    play sound2 "audio/cfx/transform.ogg"
 
     $ TransformMC(True)
     $ TransformMarkus(True)
      
-    $ _battle_lbl = StartBattle(BattleData(BackgroundImage = "pbat_sewer", CharIDList_Right = ["e_crazy_rat", "e_crazy_rat", "e_crazy_rat"]))
-    call expression _battle_lbl
+    $ StartBattle(BattleData(BackgroundImage = "pbat_sewer", CharIDList_Right = ["e_crazy_rat", "e_crazy_rat", "e_crazy_rat"]))
+
     scene pbat_sewer
     show mc_transformed at cleft
     with dissolve
@@ -76,8 +76,7 @@ label qst_guild_behemoth:
     else:
         MC "Let's end this now!"
     "As I charged at the great rat, it hissed and leapt down to face me!"
-    $ _battle_lbl = StartBattle(BattleData(BackgroundImage = "pbat_sewer", CharIDList_Right = ["e_crazy_rat", "e_crazy_rat_mother", "e_crazy_rat"]))
-    call expression _battle_lbl
+    $ StartBattle(BattleData(BackgroundImage = "pbat_sewer", CharIDList_Right = ["e_crazy_rat", "e_crazy_rat_mother", "e_crazy_rat"]))
     "The great behemoth committed itself to one last desperate charge towards me."
     "With one great swipe of my tail, I dropped the thing sliding lifelessly across the floor."
     "Its head rolled off to the side somewhere with a thud."

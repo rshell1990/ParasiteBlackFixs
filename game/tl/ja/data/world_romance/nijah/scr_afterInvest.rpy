@@ -394,9 +394,7 @@ translate ja nijah_v_or_a_12833afa:
 translate ja nijah_v_or_a_476535d5:
 
     # NIJAH "Yes! Fuck me master! Make me your little Ramonian whore! Ah!"
-    NIJAH "はい! 私を犯してください、ご主人様! 
-あなたの小さなラモニアン牝豚にして!
-ああ!"
+    NIJAH "はい! 私を犯してください、ご主人様! あなたの小さなラモニアン牝豚にして!ああ!"
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:127
 translate ja nijah_v_or_a_db11d820:
@@ -1165,8 +1163,7 @@ translate ja nijah_v_or_a_5908ede2:
 translate ja nijah_v_or_a_4f210503:
 
     # NIJAH "Yes! Mmmfgh!"
-    NIJAH "うん!
-んんっ!"
+    NIJAH "うん!んんっ!"
 
 # game/data/world_romance/nijah/scr_afterInvest.rpy:349
 translate ja nijah_v_or_a_ec8e01a4:

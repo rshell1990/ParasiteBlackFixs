@@ -180,13 +180,6 @@ translate ja qst_TheTarbecks2_enter_manor_847e9558:
     # LADY_TARBECK @ talk "And hopefully this foolishness of his can end and we can all go back to being just miserable again."
     LADY_TARBECK @ talk "そして願わくば、彼のこの愚かさが終わり、みんなでまたただ惨めなだけの生活に戻れますように。"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:45
-translate ja qst_TheTarbecks2_enter_manor_f56d99fb:
-
-    # MC @ talk "... Did you have anywhere you wished to go today, xmy lady?"
-    MC @ talk "…今日どこか行きたい場所はありましたか、ご婦人？"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:46
 translate ja qst_TheTarbecks2_enter_manor_a407e266:
 
     # LADY_TARBECK @ talk "Hmph."
@@ -258,13 +251,6 @@ translate ja qst_TheTarbecks2_enter_manor_cc37fb0d:
     # MC @ talk "But here-"
     MC @ talk "でもここでは―"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:71
-translate ja qst_TheTarbecks2_enter_manor_fb73c786:
-
-    # LADY_TARBECK @ talk "Your job isn't to speak."
-    LADY_TARBECK @ talk "あなたの仕事は話すことじゃない。"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:73
 translate ja qst_TheTarbecks2_enter_manor_599d8a10:
 
     # LADY_TARBECK @ talk "It's to follow and protect me... silently."
@@ -6564,13 +6550,6 @@ translate ja qst_TheTarbecks2_meetlord_a319ce3a:
     # LORD_BELAMORE @ smile "Well... Missing... Kidnapped... He's not here, is he?"
     LORD_BELAMORE @ smile "まあ…失踪…誘拐…ここにいないのは確かでしょう？"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1618
-translate ja qst_TheTarbecks2_meetlord_03f8f416:
-
-    # LORD_BELAMORE @ smile "Perhaps Lady Belamore herself simply had enough of him."
-    LORD_BELAMORE @ smile "もしかするとベラモア夫人自身があの男に愛想を尽かしたのかもしれませんな。"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1619
 translate ja qst_TheTarbecks2_meetlord_f22181d5:
 
     # MC @ smile "Well, as I'm sure you know, my lord."
@@ -8010,13 +7989,6 @@ translate ja qst_TheTarbecks2_return_to_manor_once_more_once_more_f636a71d:
     # LADY_TARBECK @ angry "Many have tried... bitch."
     LADY_TARBECK @ angry "何人もが試したさ…クソアマ。"
 
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1981
-translate ja qst_TheTarbecks2_return_to_manor_once_more_once_more_820b7258:
-
-    # MC "(She said near the castle.)"
-    MC "（城の近くにあると言っていた。）"
-
-# game/data/world_quests/main/Act2/TheTarbecksPt2/scr_TheTarbecks2.rpy:1982
 translate ja qst_TheTarbecks2_return_to_manor_once_more_once_more_d259fa86:
 
     # MC "(There must be an entrance to the sewer works around there somewhere.)"
@@ -9763,4 +9735,3 @@ translate ja qst_TheTarbecks2_enter_manor_e2122402:
 
     # LADY_TARBECK @ angry "Your job isn't to speak."
     LADY_TARBECK @ angry "お前の仕事は話すことじゃない。"
-

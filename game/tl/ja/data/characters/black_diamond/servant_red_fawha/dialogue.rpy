@@ -340,15 +340,13 @@ translate ja fawhaRevisitBoobJob_226be131_1:
 translate ja fawhaRevisitBoobJob_0fab10da_1:
 
     # FAWHA "Do you like that my lord? My master?"
-    FAWHA "お気に召しましたか、御主人様？
-旦那様？"
+    FAWHA "お気に召しましたか、御主人様？旦那様？"
 
 # game/data/characters/black_diamond/servant_red_fawha/dialogue.rpy:125
 translate ja fawhaRevisitBoobJob_8dd64503_1:
 
     # FAWHA "Do you like feeling these fat tits stroking your wonderful, thick cock dry?"
-    FAWHA "デカ乳があなたの立派な太チンコを擦るのを
-感じるのは好きか？"
+    FAWHA "デカ乳があなたの立派な太チンコを擦るのを感じるのは好きか？"
 
 # game/data/characters/black_diamond/servant_red_fawha/dialogue.rpy:126
 translate ja fawhaRevisitBoobJob_5569c8bc_1:

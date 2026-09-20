@@ -28,19 +28,19 @@ translate zh gallery_nijah_doggy_40b8d1cf:
 translate zh gallery_nijah_doggy_0d3afa99:
 
     # MC "Could... Could we do doggystyle?"
-    MC "能...我们能试试后入吗？"
+    MC "能……我们能试试后入吗？"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:14
 translate zh gallery_nijah_doggy_beb197cf:
 
     # NIJAH "You want do like ze dog?"
-    NIJAH "你想像则狗一样？"
+    NIJAH "你想像条狗一样？"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:15
 translate zh gallery_nijah_doggy_6aae0d4c:
 
     # MC "Uh... Y-Yes..."
-    MC "呃...是-是的..."
+    MC "呃……是——是的……"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:16
 translate zh gallery_nijah_doggy_e128bb89:
@@ -52,7 +52,7 @@ translate zh gallery_nijah_doggy_e128bb89:
 translate zh gallery_nijah_doggy_8a3b679d:
 
     # NIJAH "Come... {i}Take me like animal.{/i}"
-    NIJAH "来吧... {i}像野兽一样占有我。{/i}"
+    NIJAH "来吧…… {i}像野兽一样占有我。{/i}"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:19
 translate zh gallery_nijah_doggy_72f584c4:
@@ -76,7 +76,7 @@ translate zh gallery_nijah_doggy_818b33b4:
 translate zh gallery_nijah_doggy_c318a916:
 
     # NIJAH "Mmm... Y-Yis, continue for me, please."
-    NIJAH "嗯... 四（是）... 四（是）的，请继续。"
+    NIJAH "嗯... 是... 是的，请继续。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/brothel_doggy.rpy:26
 translate zh gallery_nijah_doggy_07d9eae2:

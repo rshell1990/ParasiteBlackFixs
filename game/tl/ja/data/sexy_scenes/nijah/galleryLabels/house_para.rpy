@@ -394,8 +394,7 @@ translate ja gallery_nijah_house_para_preg_vag_da8e7b51:
 translate ja gallery_nijah_house_para_preg_vag_4f52b45e:
 
     # NIJAH "I... I iz fine, j-just..."
-    NIJAH "あ、あたし… 大丈夫だっ…  
-ちょ、ちょっと…"
+    NIJAH "あ、あたし… 大丈夫だっ…  ちょ、ちょっと…"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_para.rpy:121
 translate ja gallery_nijah_house_para_preg_vag_b97c72d7:
@@ -647,9 +646,7 @@ translate ja gallery_nijah_house_para_preg_anal_71174e3d:
 translate ja gallery_nijah_house_para_preg_anal_980e9ee5:
 
     # "As I felt Nijah begin to go limp, I placed her gently down onto the bed, an exhausted look etched onto her face as she tried to catch her breath, my seed pouring out of her backdoor the whole time."
-    "ニージャが脱力し始めるのを感じると、彼女を優しくベッドに寝かせた。
-彼女の顔には疲労の色が刻まれ、息を整えようとしていた。
-その間ずっと、私の種が彼女のバックドアから流れ出ていた。"
+    "ニージャが脱力し始めるのを感じると、彼女を優しくベッドに寝かせた。彼女の顔には疲労の色が刻まれ、息を整えようとしていた。その間ずっと、私の種が彼女のバックドアから流れ出ていた。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/house_para.rpy:175
 translate ja gallery_nijah_house_para_preg_anal_8316cb97:

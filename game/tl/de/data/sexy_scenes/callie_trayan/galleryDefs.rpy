@@ -4,5 +4,5 @@ translate de strings:
 
     # game/data/sexy_scenes/callie_trayan/galleryDefs.rpy:4
     old "Merchant's Children"
-    new "Merchant's Children"
+    new "Kinder des Kaufmanns"
 

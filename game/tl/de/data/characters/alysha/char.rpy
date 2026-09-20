@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/alysha/char.rpy:12
     old "A former slave turned knight... Did Captain Nyx have something to do with that?"
-    new "A former slave turned knight... Did Captain Nyx have something to do with that?"
+    new "Eine ehemalige Sklavin, die zur Ritterin wurde ... Hatte Captain Nyx etwas damit zu tun?"
 

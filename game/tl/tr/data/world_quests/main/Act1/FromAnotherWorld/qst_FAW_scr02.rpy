@@ -96,13 +96,6 @@ translate tr qst_FromAnotherWorld_ReturnHome_de6a39b0:
     # REGINA @ smile_talk "It’s a miracle you’re both alive."
     REGINA @ smile_talk "İkinizin de hayatta olması bir mucize."
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:29
-translate tr qst_FromAnotherWorld_ReturnHome_ReginaTalk_15f57a0d:
-
-    # REGINA @ talk "I think they were suspicious that you and Markus had managed to survive through some sort of black magic."
-    REGINA @ talk "Senin ve Markus'un bir tür kara büyüyle hayatta kalmayı başardığınızdan şüphelendiklerini düşünüyorum."
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:30
 translate tr qst_FromAnotherWorld_ReturnHome_ReginaTalk_498911e8:
 
     # REGINA @ talk "They searched your room but found nothing."
@@ -114,13 +107,6 @@ translate tr qst_FromAnotherWorld_ReturnHome_ReginaTalk_9c998003:
     # MC @ talk "What did you tell them?"
     MC @ talk "Onlara ne söyledin?"
 
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:32
-translate tr qst_FromAnotherWorld_ReturnHome_ReginaTalk_b5729cf7:
-
-    # REGINA @ talk "Just that you weren’t blessed with any kind of magic, let alone black."
-    REGINA @ talk "Sadece herhangi bir tür büyüyle kutsanmadığını, bırak kara olanı."
-
-# game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr02.rpy:33
 translate tr qst_FromAnotherWorld_ReturnHome_ReginaTalk_7112280f:
 
     # REGINA @ talk "It’s on your school record either way, don’t know why they made such a fuss."
@@ -953,4 +939,3 @@ translate tr qst_FromAnotherWorld_ReturnHome_ReginaTalk_e169a1c3:
 
     # REGINA @ talk "Just that you weren’t blessed with any kind of magecraft, let alone black."
     REGINA @ talk "Sadece hiçbir tür büyüyle kutsanmamıştın, bırak kara büyüyü."
-

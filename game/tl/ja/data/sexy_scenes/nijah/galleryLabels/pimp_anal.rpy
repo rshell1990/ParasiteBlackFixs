@@ -118,8 +118,7 @@ translate ja gallery_nijah_pimp_anal_b6dbb488:
 translate ja gallery_nijah_pimp_anal_f5fba9bf:
 
     # "Now limp, Nijah leaned back into him, her body overwhelmed from the sensation as his cock began to deflate in her."
-    "ぐったりと、ニージャは彼にもたれかかった。
-感覚に打ちのめされた体で、彼の男根が彼女の膣内で萎み始めるのを感じながら。"
+    "ぐったりと、ニージャは彼にもたれかかった。感覚に打ちのめされた体で、彼の男根が彼女の膣内で萎み始めるのを感じながら。"
 
 # game/data/sexy_scenes/nijah/galleryLabels/pimp_anal.rpy:29
 translate ja gallery_nijah_pimp_anal_32fa012d:
@@ -191,8 +190,7 @@ translate ja gallery_nijah_pimp_anal_6e9379b2:
 translate ja gallery_nijah_pimp_anal_3dea8150:
 
     # NIJAH "Y-Yes... I just may not zit down for a while..."
-    NIJAH "は、はい…ちょっと…
-座れないかも…"
+    NIJAH "は、はい…ちょっと…座れないかも…"
 
 # game/data/sexy_scenes/nijah/galleryLabels/pimp_anal.rpy:41
 translate ja gallery_nijah_pimp_anal_08fd0464:

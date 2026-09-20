@@ -5148,13 +5148,6 @@ translate tr qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "Bir saldırı isabet ettiğinde bile, sanki hiçbir şey değilmiş gibi omuz silkerek geçiştirdi."
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1909
-translate tr qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "Bitkin ve zar zor dayanan yoldaşlarıma baktığımda, korkunç gerçeği fark ettim…"
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1910
 translate tr qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."
@@ -13213,4 +13206,3 @@ translate tr strings:
     # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3801
     old "Do all of the gods look so... {i}different?{/i}"
     new "Tüm tanrılar bu kadar... {i}farklı{/i} mı görünüyor?"
-

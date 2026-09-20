@@ -216,13 +216,6 @@ translate kr fortress_inn_betty_talk_menu_287ae85c:
     # BETTY @ talk "I guessed adventuring parties were a lot more open now than when I lived in the capital!"
     BETTY @ talk "모험가 파티들이 내가 수도에 살 때보다 훨씬 개방적이구나 싶었어!"
 
-# game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:72
-translate kr fortress_inn_betty_talk_menu_8c6c1bf2:
-
-    # BETTY @ talk "Loved his milk and playing with my tits."
-    BETTY @ talk "그의 우유를 좋아하고 내 가슴을 만지작거리는 걸 좋아해."
-
-# game/data/travel_events/fortress_inn/fortress_inn_1_betty_wench.rpy:73
 translate kr fortress_inn_betty_talk_menu_47750900:
 
     # "Betty's eyes fluttered as she looked at me alluringly."
@@ -1765,4 +1758,3 @@ translate kr fortress_inn_betty_talk_menu_4c4d78bc:
 
     # BETTY @ talk "Loves their milk and sucking on my tits."
     BETTY @ talk "그들의 젖을 좋아하고 내 가슴을 빠는 걸 좋아해."
-

@@ -4,85 +4,85 @@
 translate de gallery_kiara_tarbeck_orgy_0dee48ec:
 
     # "In the wall of writhing bodies, a group beckoned me closer."
-    "In the wall of writhing bodies, a group beckoned me closer."
+    "In der Wand aus sich windenden Körpern winkte mich eine Gruppe näher zu sich."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:7
 translate de gallery_kiara_tarbeck_orgy_3b453bed:
 
     # "Before I could even greet them, a dark-skinned woman moaned around her partner's cock, pushing her plump ass back against me."
-    "Before I could even greet them, a dark-skinned woman moaned around her partner's cock, pushing her plump ass back against me."
+    "Bevor ich sie überhaupt begrüßen konnte, stöhnte eine dunkelhäutige Frau um den Schwanz ihres Partners und drückte ihren prallen Hintern zurück gegen mich."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:8
 translate de gallery_kiara_tarbeck_orgy_97a420ee:
 
     # "My cock sprang to life immediately, sliding into her wet, eager hole as she groaned happily, slamming her hips back to meet me."
-    "My cock sprang to life immediately, sliding into her wet, eager hole as she groaned happily, slamming her hips back to meet me."
+    "Mein Schwanz erwachte sofort zum Leben, glitt in ihr feuchtes, williges Loch, während sie glücklich stöhnte und ihre Hüften zurückschlug, um mich zu empfangen."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:11
 translate de gallery_kiara_tarbeck_orgy_508bfc19:
 
     # "Warm breasts pressed into my back from behind, soft lips trailing kisses up my neck before that body lowered between my legs…"
-    "Warm breasts pressed into my back from behind, soft lips trailing kisses up my neck before that body lowered between my legs…"
+    "Warme Brüste drückten sich von hinten in meinen Rücken, sanfte Lippen hinterließen Küsse an meinem Hals, bevor dieser Körper sich zwischen meine Beine senkte …"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:12
 translate de gallery_kiara_tarbeck_orgy_e6dc2b24:
 
     # "Time melted away. Minutes? An hour? More? Only heat… bodies… moans…"
-    "Time melted away. Minutes? An hour? More? Only heat… bodies… moans…"
+    "Die Zeit verging wie im Flug. Minuten? Eine Stunde? Mehr? Nur Hitze … Körper … Stöhnen …"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:13
 translate de gallery_kiara_tarbeck_orgy_9df73278:
 
     # "My balls ached. My cock throbbed. Every part of me gripped, stroked, squeezed… worshipped… consumed."
-    "My balls ached. My cock throbbed. Every part of me gripped, stroked, squeezed… worshipped… consumed."
+    "Meine Eier schmerzten. Mein Schwanz pochte. Jeder Teil von mir wurde gepackt, gestreichelt, gedrückt … angebetet … verzehrt."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:17
 translate de gallery_kiara_tarbeck_orgy_6bedd674:
 
     # "At last, gripping the ass wrapped tight around me, I thrust deep and held, growling like an animal as I spilled my load inside her."
-    "At last, gripping the ass wrapped tight around me, I thrust deep and held, growling like an animal as I spilled my load inside her."
+    "Endlich packte ich den Arsch, der sich fest um mich schloss, stieß tief hinein und hielt inne, knurrte wie ein Tier, als ich meine Ladung in ihr entleerte."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:18
 translate de gallery_kiara_tarbeck_orgy_bec5b28e:
 
     # "...and then I moved on to the next."
-    "...and then I moved on to the next."
+    "… und dann machte ich mit der Nächsten weiter."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:19
 translate de gallery_kiara_tarbeck_orgy_4dc28bbe:
 
     # "Kiara smiled alluringly, running a hand slowly down the chest of the closest man, and before long, she was surrounded."
-    "Kiara smiled alluringly, running a hand slowly down the chest of the closest man, and before long, she was surrounded."
+    "Kiara lächelte verführerisch und fuhr mit einer Hand langsam die Brust des nächsten Mannes hinab, und schon bald war sie umringt."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:23
 translate de gallery_kiara_tarbeck_orgy_07b2623c:
 
     # "In what felt like mere moments as I glanced back and forth, Kiara was already riding one of them, moaning happily as another pressed in behind her, pushing his cock into her ass."
-    "In what felt like mere moments as I glanced back and forth, Kiara was already riding one of them, moaning happily as another pressed in behind her, pushing his cock into her ass."
+    "In dem, was sich wie bloße Augenblicke anfühlte, als ich hin und her blickte, ritt Kiara bereits auf einem von ihnen, stöhnte glücklich, während ein anderer sich von hinten in sie drückte und seinen Schwanz in ihren Arsch schob."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:24
 translate de gallery_kiara_tarbeck_orgy_ef84c7dd:
 
     # KIARA "F-Fucking hells, boys!"
-    KIARA "F-Fucking hells, boys!"
+    KIARA "V-Verdammte Hölle, Jungs!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:25
 translate de gallery_kiara_tarbeck_orgy_ccecd37f:
 
     # KIARA "Take it easy—are you trying to break my holes or what!?"
-    KIARA "Take it easy—are you trying to break my holes or what!?"
+    KIARA "Mach langsam—willst du meine Löcher kaputt machen oder was!?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:26
 translate de gallery_kiara_tarbeck_orgy_ea4e8b91:
 
     # PARTY_GUEST "I thought Northern girls were used to handling two swords at once?"
-    PARTY_GUEST "I thought Northern girls were used to handling two swords at once?"
+    PARTY_GUEST "Ich dachte, Nordmädchen sind es gewohnt, zwei Schwerter auf einmal zu handhaben?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:27
 translate de gallery_kiara_tarbeck_orgy_2a4b4b6e:
 
     # KIARA "We—ahhh—ARE!"
-    KIARA "We—ahhh—ARE!"
+    KIARA "Wir—ahhh—SIND!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:28
 translate de gallery_kiara_tarbeck_orgy_728eeb2a:
@@ -94,19 +94,19 @@ translate de gallery_kiara_tarbeck_orgy_728eeb2a:
 translate de gallery_kiara_tarbeck_orgy_da8f10bd:
 
     # "Kiara continued to moan as the men stuffed her greedy holes, her eyes occasionally flicking toward me, seeking approval."
-    "Kiara continued to moan as the men stuffed her greedy holes, her eyes occasionally flicking toward me, seeking approval."
+    "Kiara stöhnte weiter, während die Männer ihre gierigen Löcher stopften, ihre Augen wanderten gelegentlich zu mir und suchten nach Bestätigung."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:30
 translate de gallery_kiara_tarbeck_orgy_474d7ff5:
 
     # "*SLAP!*"
-    "*SLAP!*"
+    "*KLATSCH!*"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:31
 translate de gallery_kiara_tarbeck_orgy_183e66d6:
 
     # "Kiara gasped as her ass jiggled, a bright pink handprint blooming across her cheek."
-    "Kiara gasped as her ass jiggled, a bright pink handprint blooming across her cheek."
+    "Kiara keuchte, als ihr Arsch wackelte, ein leuchtend rosa Handabdruck blühte auf ihrer Backe."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:32
 translate de gallery_kiara_tarbeck_orgy_18ff236f:
@@ -118,49 +118,49 @@ translate de gallery_kiara_tarbeck_orgy_18ff236f:
 translate de gallery_kiara_tarbeck_orgy_47e489cb:
 
     # PARTY_GUEST_PERVY "Couldn't resist, girl!"
-    PARTY_GUEST_PERVY "Couldn't resist, girl!"
+    PARTY_GUEST_PERVY "Konnte nicht widerstehen, Mädchen!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:34
 translate de gallery_kiara_tarbeck_orgy_b606c769:
 
     # PARTY_GUEST_PERVY "F-Fuck… your ass is tight!"
-    PARTY_GUEST_PERVY "F-Fuck… your ass is tight!"
+    PARTY_GUEST_PERVY "F-Fuck… dein Arsch ist eng!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:35
 translate de gallery_kiara_tarbeck_orgy_dbfb06a3:
 
     # KIARA "Ahh! Th—mmmfghh—thank you!"
-    KIARA "Ahh! Th—mmmfghh—thank you!"
+    KIARA "Ahh! D—mmmfghh—danke!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:39
 translate de gallery_kiara_tarbeck_orgy_44de960b:
 
     # "As the men continued pounding into her, Kiara threw her ass back into them, her moans deep and feral, her tits bouncing wildly..."
-    "As the men continued pounding into her, Kiara threw her ass back into them, her moans deep and feral, her tits bouncing wildly..."
+    "Während die Männer weiter in sie eindrangen, warf Kiara ihnen ihren Arsch entgegen, ihr Stöhnen tief und animalisch, ihre Titten wild wippend..."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:40
 translate de gallery_kiara_tarbeck_orgy_7a02c4c2:
 
     # KIARA "S-SHIT!"
-    KIARA "S-SHIT!"
+    KIARA "S-SCHEISSE!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:41
 translate de gallery_kiara_tarbeck_orgy_a29081c3:
 
     # KIARA "Gods… *huff* this is… mmfghh!"
-    KIARA "Gods… *huff* this is… mmfghh!"
+    KIARA "Götter… *huff* das ist… mmfghh!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:42
 translate de gallery_kiara_tarbeck_orgy_7287f723:
 
     # KIARA "I feel so f-full!"
-    KIARA "I feel so f-full!"
+    KIARA "Ich fühle mich so v-voll!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:43
 translate de gallery_kiara_tarbeck_orgy_8daf149a:
 
     # PARTY_GUEST "Are all Northern girls as good a fuck as you!?"
-    PARTY_GUEST "Are all Northern girls as good a fuck as you!?"
+    PARTY_GUEST "Sind alle Nordmädchen so gut im Bett wie du!?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:44
 translate de gallery_kiara_tarbeck_orgy_dc23b768:
@@ -178,67 +178,67 @@ translate de gallery_kiara_tarbeck_orgy_e6b9f6bc:
 translate de gallery_kiara_tarbeck_orgy_25305e09:
 
     # KIARA "Us Northerners know—mhffghh!"
-    KIARA "Us Northerners know—mhffghh!"
+    KIARA "Wir Nordländer wissen—mhffghh!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:47
 translate de gallery_kiara_tarbeck_orgy_d06eb2df:
 
     # KIARA "HOW TO FUCK!"
-    KIARA "HOW TO FUCK!"
+    KIARA "WIE MAN FICKT!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:48
 translate de gallery_kiara_tarbeck_orgy_1b58e263:
 
     # "Sweat glistened across her chest as Kiara moaned breathlessly."
-    "Sweat glistened across her chest as Kiara moaned breathlessly."
+    "Schweiß glänzte auf ihrer Brust, während Kiara atemlos stöhnte."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:49
 translate de gallery_kiara_tarbeck_orgy_fa666fab:
 
     # KIARA "T-Tschh… you're stretching me—mmfghh—good boys!"
-    KIARA "T-Tschh… you're stretching me—mmfghh—good boys!"
+    KIARA "T-Tschh … ihr dehnt mich—mmfghh—brave Jungs!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:50
 translate de gallery_kiara_tarbeck_orgy_89b2b634:
 
     # PARTY_GUEST_PERVY "Is that your husband over there?"
-    PARTY_GUEST_PERVY "Is that your husband over there?"
+    PARTY_GUEST_PERVY "Ist das dein Mann da drüben?"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:51
 translate de gallery_kiara_tarbeck_orgy_7eb52b8e:
 
     # KIARA "H-He's not my—*Huff!*"
-    KIARA "H-He's not my—*Huff!*"
+    KIARA "E-Er ist nicht mein—*Keuch!*"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:52
 translate de gallery_kiara_tarbeck_orgy_f79e3e95:
 
     # KIARA "Oh fuck it!"
-    KIARA "Oh fuck it!"
+    KIARA "Oh, scheiß drauf!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:53
 translate de gallery_kiara_tarbeck_orgy_7bc68f53:
 
     # KIARA "Y-YES! Mmmfghh!"
-    KIARA "Y-YES! Mmmfghh!"
+    KIARA "J-JA! Mmmfghh!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:54
 translate de gallery_kiara_tarbeck_orgy_0dbd04e8:
 
     # KIARA "HE'S MINE!"
-    KIARA "HE'S MINE!"
+    KIARA "ER GEHÖRT MIR!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:55
 translate de gallery_kiara_tarbeck_orgy_5373d860:
 
     # KIARA "NOW STOP WASTING TIME AND FUCK ME HARDER!"
-    KIARA "NOW STOP WASTING TIME AND FUCK ME HARDER!"
+    KIARA "JETZT HÖRT AUF ZEIT ZU VERSCHWENDEN UND FICKT MICH HÄRTER!"
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:59
 translate de gallery_kiara_tarbeck_orgy_6f02972f:
 
     # "As the two men obliged, a third, stroking his cock just inches from her face, grinned and pressed himself against her lips."
-    "As the two men obliged, a third, stroking his cock just inches from her face, grinned and pressed himself against her lips."
+    "Als die beiden Männer ihr nachkamen, grinste ein Dritter, der seinen Schwanz nur Zentimeter von ihrem Gesicht entfernt rieb, und drückte ihn gegen ihre Lippen."
 
 # game/data/sexy_scenes/kiara/galleryLabels/tarbeck_orgy.rpy:60
 translate de gallery_kiara_tarbeck_orgy_af64ab0c:

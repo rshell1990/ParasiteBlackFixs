@@ -538,8 +538,7 @@ translate ja gallery_arwen_cosp_cap_vag_9f2aa61a:
 translate ja gallery_arwen_cosp_cap_vag_b6894c16:
 
     # ARWEN "I don't need adventures anymore! I JUST WANT YOUR COCK!"
-    ARWEN "もう冒険なんていらない!
-ただお前のチンポが欲しいんだ!"
+    ARWEN "もう冒険なんていらない!ただお前のチンポが欲しいんだ!"
 
 # game/data/sexy_scenes/arwen/galleryLabels/cosp_cap.rpy:119
 translate ja gallery_arwen_cosp_cap_vag_17a34583:

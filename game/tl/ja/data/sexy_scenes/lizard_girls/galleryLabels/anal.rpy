@@ -46,8 +46,7 @@ translate ja gallery_lizard_anal_61afdc92:
 translate ja gallery_lizard_anal_0b423517:
 
     # "Still, though, she didn't lash out, and as I felt her relax slightly, slowly, I sunk the rest of my cock into her ass."
-    "それでも、彼女は抵抗はしない。
-そして、わずかに力が抜けるのを感じると、ゆっくりと残りの肉棒をその尻穴へと沈めていった。"
+    "それでも、彼女は抵抗はしない。そして、わずかに力が抜けるのを感じると、ゆっくりと残りの肉棒をその尻穴へと沈めていった。"
 
 # game/data/sexy_scenes/lizard_girls/galleryLabels/anal.rpy:37
 translate ja gallery_lizard_anal_571bcd02:

@@ -920,13 +920,6 @@ translate kr replay_tarbeck_romance_library_hj_c2d4166f:
     # LADY_TARBECK "{i}Lady Calicross found herself in an unusual position, or perhaps, a familiar one.{/i}"
     LADY_TARBECK "{i}캘리크로스 부인은 특이한 자세, 아니 어쩌면 익숙한 자세를 취하고 있었다.{/i}"
 
-# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck.rpy:285
-translate kr replay_tarbeck_romance_library_hj_e5355918:
-
-    # LADY_TARBECK "{i}Legs bent towards her head as her lower, Imana, thrust his member into her tightness.{/i}"
-    LADY_TARBECK "{i}다리를 머리 쪽으로 구부린 채, 그녀의 하인 이마나가 그녀의 좁은 곳에 자신의 물건을 밀어 넣었다.{/i}"
-
-# game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck.rpy:286
 translate kr replay_tarbeck_romance_library_hj_a7d382af:
 
     # LADY_TARBECK "{i}It was a good thing Lord Calicross was so very, very far away.{/i}"
@@ -3545,4 +3538,3 @@ translate kr strings:
     # game/data/world_romance/lady_tarbeck/scr_rom_lady_tarbeck.rpy:101
     old "{image=[ICON.HEART_CROSS]} My lady, perhaps it is in everyone's interest that we just stay friends."
     new "{image=[ICON.HEART_CROSS]} 부인, 어쩌면 우린 그냥 친구로 지내는 게 모두에게 좋을지도 몰라요."
-

@@ -508,8 +508,7 @@ translate ja gallery_arlena_anal_63e399aa:
 translate ja gallery_arlena_anal_f6948f8a:
 
     # ARLENA "{i}*Phew!*{/i} Right, well then..."
-    ARLENA "{i}*ふう!*{/i}
-よし、それじゃあ…"
+    ARLENA "{i}*ふう!*{/i}よし、それじゃあ…"
 
 # game/data/sexy_scenes/arlena/galleryLabels/anal.rpy:107
 translate ja gallery_arlena_anal_6b0e2484:

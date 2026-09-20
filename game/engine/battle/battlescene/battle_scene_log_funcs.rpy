@@ -21,37 +21,43 @@ init python:
             ABSORB_AMOUNT =         None,
             HEALTH_RECOVERED =      None,
             ENERGY_RECOVERED =      None,
+            MANA_STOLEN =           None,
+            HEALTH_STOLEN =         None,
             
             SUM_OF_ALLIED_HP =      None,
             ):
-        Assert(len(String) > 0, "Log entry must have string passed in")
+        assert len(String) > 0, "Log entry must have string passed in"
         ResultString = String
+        
         if USER is not None:
-            Assert("USER_NAME" in ResultString, "USER is not none for a log string but USER_NAME isnt in the string")
+            assert "USER_NAME" in ResultString, "USER is not none for a log string but USER_NAME isnt in the string"
+            user_name = USER.CharRef.get("name", "") if getattr(USER, "CharRef", None) else ""
             if USER.BattleSide == 0:
-                ResultString = ResultString.replace("USER_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + tra(USER.CharRef["name"]) + "{/color}")
+                ResultString = ResultString.replace("USER_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + str(user_name) + "{/color}")
             else:
-                ResultString = ResultString.replace("USER_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + tra(USER.CharRef["name"]) + "{/color}")
+                ResultString = ResultString.replace("USER_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + str(user_name) + "{/color}")
 
         if TARGET is not None:
-            Assert("TARGET_NAME" in ResultString, "TARGET is not none for a log string but TARGET_NAME is not in the string")
+            assert "TARGET_NAME" in ResultString, "TARGET is not none for a log string but TARGET_NAME is not in the string"
+            target_name = TARGET.CharRef.get("name", "") if getattr(TARGET, "CharRef", None) else ""
             if TARGET.BattleSide == 0:
-                ResultString = ResultString.replace("TARGET_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + tra(TARGET.CharRef["name"]) + "{/color}")
+                ResultString = ResultString.replace("TARGET_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + str(target_name) + "{/color}")
             else:
-                ResultString = ResultString.replace("TARGET_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + tra(TARGET.CharRef["name"]) + "{/color}")
+                ResultString = ResultString.replace("TARGET_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + str(target_name) + "{/color}")
         
         if PROTECTOR is not None:
-            Assert("PROTECTOR_NAME" in ResultString, "PROTECTOR is not none for a log string but PROTECTOR_NAME is not in the string")
+            assert "PROTECTOR_NAME" in ResultString, "PROTECTOR is not none for a log string but PROTECTOR_NAME is not in the string"
+            protector_name = PROTECTOR.CharRef.get("name", "") if getattr(PROTECTOR, "CharRef", None) else ""
             if PROTECTOR.BattleSide == 0:
-                ResultString = ResultString.replace("PROTECTOR", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + tra(PROTECTOR.CharRef["name"]) + "{/color}")
+                ResultString = ResultString.replace("PROTECTOR_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ALLY]}" + str(protector_name) + "{/color}")
             else:
-                ResultString = ResultString.replace("PROTECTOR", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + tra(PROTECTOR.CharRef["name"]) + "{/color}")
+                ResultString = ResultString.replace("PROTECTOR_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ENEMY]}" + str(protector_name) + "{/color}")
 
         if SKILL_NAME is not None:
-            ResultString = ResultString.replace("SKILL_NAME", "{color=[BATTLE_COLORS_LOG.NAME_SKILL]}" + tra(SKILL_NAME) + "{/color}")
+            ResultString = ResultString.replace("SKILL_NAME", "{color=[BATTLE_COLORS_LOG.NAME_SKILL]}" + str(SKILL_NAME) + "{/color}")
 
         if ITEM_NAME is not None:
-            ResultString = ResultString.replace("ITEM_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ITEM]}" + tra(ITEM_NAME) + "{/color}")
+            ResultString = ResultString.replace("ITEM_NAME", "{color=[BATTLE_COLORS_LOG.NAME_ITEM]}" + str(ITEM_NAME) + "{/color}")
 
         if DAMAGE_AMOUNT is not None:
             ResultString = ResultString.replace("DAMAGE_AMOUNT", "{color=[BATTLE_COLORS_LOG.DAMAGE]}" + str(DAMAGE_AMOUNT) + "{/color}")
@@ -69,9 +75,12 @@ init python:
             ResultString = ResultString.replace("HEALTH_RECOVERED", "{color=[BATTLE_COLORS_LOG.RESTORE_HEALTH]}" + str(HEALTH_RECOVERED) + "{/color}")
         if ENERGY_RECOVERED is not None:
             ResultString = ResultString.replace("ENERGY_RECOVERED", "{color=[BATTLE_COLORS_LOG.RESTORE_ENERGY]}" + str(ENERGY_RECOVERED) + "{/color}")
+        if MANA_STOLEN is not None:
+            ResultString = ResultString.replace("MANA_STOLEN", "{color=[BATTLE_COLORS_LOG.RESTORE_ENERGY]}" + str(MANA_STOLEN) + "{/color}")
+        if HEALTH_STOLEN is not None:
+            ResultString = ResultString.replace("HEALTH_STOLEN", "{color=[BATTLE_COLORS_LOG.RESTORE_HEALTH]}" + str(HEALTH_STOLEN) + "{/color}")
         if SUM_OF_ALLIED_HP is not None:
             ResultString = ResultString.replace("SUM_OF_ALLIED_HP", "{color=[BATTLE_COLORS_LOG.RESTORE_HEALTH]}" + str(SUM_OF_ALLIED_HP) + "{/color}")
 
         BattleScene.LogEntries.append(ResultString)
         return
-

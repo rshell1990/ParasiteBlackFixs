@@ -58,8 +58,7 @@ translate ja gallery_nijah_pimp_bukk_646bcf41:
 translate ja gallery_nijah_pimp_bukk_c9e4f207:
 
     # CLIENT_ROUGH "Why couldn’t we get one for us each? If we’re gonna fuck her, I don’t want her sloppy cunt after one of you pricks are done with her!"
-    CLIENT_ROUGH "なんで一人一個にしなかったんだよ？  
-あの女をやるなら、お前らの誰かが済ませた後のぐちゃぐちゃのマンコなんて勘弁だぜ!"
+    CLIENT_ROUGH "なんで一人一個にしなかったんだよ？  あの女をやるなら、お前らの誰かが済ませた後のぐちゃぐちゃのマンコなんて勘弁だぜ!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/pimp_bukk.rpy:16
 translate ja gallery_nijah_pimp_bukk_b75634e0:
@@ -71,8 +70,7 @@ translate ja gallery_nijah_pimp_bukk_b75634e0:
 translate ja gallery_nijah_pimp_bukk_15a058bf:
 
     # CLIENT_ROUGH "Gah! When we get more coin we’ll get two next time! For now, we’re gonna fuck this one into next week!"
-    CLIENT_ROUGH "ぐえっ!　資金が貯まったら次は二つ買うぞ!
-今はこいつを来週までぶっ飛ばしてやるぜ!"
+    CLIENT_ROUGH "ぐえっ!　資金が貯まったら次は二つ買うぞ!今はこいつを来週までぶっ飛ばしてやるぜ!"
 
 # game/data/sexy_scenes/nijah/galleryLabels/pimp_bukk.rpy:18
 translate ja gallery_nijah_pimp_bukk_7b0a68af:

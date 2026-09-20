@@ -154,8 +154,7 @@ translate ja rom_mika_after_celebration_event_bf25b318:
 translate ja rom_mika_after_celebration_event_493de44c:
 
     # "Mika cooed happily as my hands gently slid off the red panties down to her ankles; I couldn't tell what was the more impressive view..."
-    "みかは嬉しそうにクークー鳴いた、私の手が優しく赤いパンツを足首まで滑り落とすにつれて…  
-どちらが見事な光景なのか...私にはわからなかった"
+    "みかは嬉しそうにクークー鳴いた、私の手が優しく赤いパンツを足首まで滑り落とすにつれて…  どちらが見事な光景なのか...私にはわからなかった"
 
 # game/data/world_romance/mika/scr_afterCelebration.rpy:43
 translate ja rom_mika_after_celebration_event_9a264dae:
@@ -269,8 +268,7 @@ translate ja rom_mika_after_celebration_event_4414dcd9:
 translate ja rom_mika_after_celebration_event_3d530f51:
 
     # MC "{i}*Huff*{/i} Mika... Ahh...!"
-    MC "{i}はあ…{/i}
-ミカ…あっ…!"
+    MC "{i}はあ…{/i}ミカ…あっ…!"
 
 # game/data/world_romance/mika/scr_afterCelebration.rpy:69
 translate ja rom_mika_after_celebration_event_80e817ea:

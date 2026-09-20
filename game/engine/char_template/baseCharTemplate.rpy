@@ -120,6 +120,7 @@ init -1 python:
 
         "BattleClass":                  None,       # It's a string, example : 'warrior'
         "CharSkills":                   dict(),     # SkillID:SkillLevel
+        "GrantedItemSkills":            set(),       # skills currently granted by equipped items
 
         "base_xp_value":                0,
 

@@ -76,9 +76,7 @@ translate ja qst_FromAnotherWorld_Start_ce2a6219:
 translate ja qst_FromAnotherWorld_Start_850573be:
 
     # "I tried to call out to the thing that I dreaded to find lurking deep inside of me, desperate to know if I’d fabricated the events of last night... or not, but no answer came."
-    "私の奥底に潜む恐ろしい存在に呼びかけてみた。
-昨夜の出来事が作り上げた幻なのか、
-それとも現実なのか、必死で確かめようとしたが、何の答えも返っては来なかった。"
+    "私の奥底に潜む恐ろしい存在に呼びかけてみた。昨夜の出来事が作り上げた幻なのか、それとも現実なのか、必死で確かめようとしたが、何の答えも返っては来なかった。"
 
 # game/data/world_quests/main/Act1/FromAnotherWorld/qst_FAW_scr01.rpy:37
 translate ja qst_FromAnotherWorld_Start_39880ee1:

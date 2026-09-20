@@ -10,17 +10,17 @@ translate de HouseLock_SebastianGuard_37fdb915:
 translate de HouseLock_SebastianGuard_965dc745:
 
     # GUARD "What business have you at the fort, citizen?"
-    GUARD "What business have you at the fort, citizen?"
+    GUARD "Was habt Ihr auf der Festung zu suchen, Bürger?"
 
 # game/data/world_locations/novaras/district_army/fort_sebastian.rpy:57
 translate de HouseLock_SebastianGuard_bye_87b8b3b9:
 
     # GUARD "That's right."
-    GUARD "That's right."
+    GUARD "Richtig."
 
 # game/data/world_locations/novaras/district_army/fort_sebastian.rpy:58
 translate de HouseLock_SebastianGuard_bye_753ee0b5:
 
     # GUARD "Move it, citizen."
-    GUARD "Move it, citizen."
+    GUARD "Bewegt Euch, Bürger."
 

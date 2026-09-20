@@ -76,8 +76,7 @@ translate ja gallery_dramora_missionary_7a94596e:
 translate ja gallery_dramora_missionary_ed9a7bae:
 
     # DRAMORA "My lord protests too much when he should be focusing on fucking my-"
-    DRAMORA "御主人様はお口だけ
-この私を犯すことに専念すべき時に"
+    DRAMORA "御主人様はお口だけこの私を犯すことに専念すべき時に"
 
 # game/data/sexy_scenes/dramora/galleryLabels/missionary.rpy:23
 translate ja gallery_dramora_missionary_76667e9f:
@@ -137,8 +136,7 @@ translate ja gallery_dramora_missionary_4a6c6983:
 translate ja gallery_dramora_missionary_fd67cab5:
 
     # "Her tight, soaking cunt squeezed me as I slammed deeper into her welcoming heat."
-    "濡れそぼつ彼女の密所が、私を受け入れながらも締め付ける。
-熱を帯びたその奥へ、激しく突き入れた。"
+    "濡れそぼつ彼女の密所が、私を受け入れながらも締め付ける。熱を帯びたその奥へ、激しく突き入れた。"
 
 # game/data/sexy_scenes/dramora/galleryLabels/missionary.rpy:36
 translate ja gallery_dramora_missionary_2f78eb52:

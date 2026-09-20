@@ -4,67 +4,67 @@
 translate de gallery_markus_fem_tarbeck_tentacle_4a4e34cd:
 
     # MARKUS_FEM @ angry "Not much bloody choice, is there?"
-    MARKUS_FEM @ angry "Not much bloody choice, is there?"
+    MARKUS_FEM @ angry "Nicht viel verdammte Wahl, oder?"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:16
 translate de gallery_markus_fem_tarbeck_tentacle_a600d7cd:
 
     # "Marcia looked back toward the tentacles, her anger draining into nervous dread as she sheepishly stepped closer, turning pale."
-    "Marcia looked back toward the tentacles, her anger draining into nervous dread as she sheepishly stepped closer, turning pale."
+    "Marcia blickte zurück zu den Tentakeln, ihre Wut wich nervöser Angst, als sie schüchtern näher trat und blass wurde."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:17
 translate de gallery_markus_fem_tarbeck_tentacle_b6c53097:
 
     # MARKUS_FEM "N-Nice tentacles."
-    MARKUS_FEM "N-Nice tentacles."
+    MARKUS_FEM "N-Nette Tentakel."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:18
 translate de gallery_markus_fem_tarbeck_tentacle_04721487:
 
     # MARKUS_FEM "Good little abomination…"
-    MARKUS_FEM "Good little abomination…"
+    MARKUS_FEM "Braver kleiner Gräuel…"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:19
 translate de gallery_markus_fem_tarbeck_tentacle_55c70654:
 
     # "The tendrils slowly slithered toward her, carefully wrapping around Marcia as they tugged her closer."
-    "The tendrils slowly slithered toward her, carefully wrapping around Marcia as they tugged her closer."
+    "Die Tentakel glitten langsam auf sie zu, wickelten sich vorsichtig um Marcia und zogen sie näher."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:20
 translate de gallery_markus_fem_tarbeck_tentacle_553d5860:
 
     # MARKUS_FEM "E-Easy now! Haha!"
-    MARKUS_FEM "E-Easy now! Haha!"
+    MARKUS_FEM "L-Langsam jetzt! Haha!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:21
 translate de gallery_markus_fem_tarbeck_tentacle_b011730d:
 
     # MARKUS_FEM "Uh… n-nice and gentle,"
-    MARKUS_FEM "Uh… n-nice and gentle,"
+    MARKUS_FEM "Äh… n-nett und sanft,"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:22
 translate de gallery_markus_fem_tarbeck_tentacle_61b8ea7e:
 
     # "One tentacle brushed across Marcia's cheek."
-    "One tentacle brushed across Marcia's cheek."
+    "Ein Tentakel strich über Marcias Wange."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:23
 translate de gallery_markus_fem_tarbeck_tentacle_5480cf46:
 
     # MARKUS_FEM "Ha! That tickles!"
-    MARKUS_FEM "Ha! That tickles!"
+    MARKUS_FEM "Ha! Das kitzelt!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:24
 translate de gallery_markus_fem_tarbeck_tentacle_e69c26cb:
 
     # MARKUS_FEM "See? You're not so—"
-    MARKUS_FEM "See? You're not so—"
+    MARKUS_FEM "Siehst du? Du bist gar nicht so—"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:28
 translate de gallery_markus_fem_tarbeck_tentacle_2178b32d:
 
     # "Suddenly, she was yanked into the air, squealing as the creature hoisted her up and restrained her."
-    "Suddenly, she was yanked into the air, squealing as the creature hoisted her up and restrained her."
+    "Plötzlich wurde sie in die Luft gerissen und quiekte, als die Kreatur sie hochhob und festhielt."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:29
 translate de gallery_markus_fem_tarbeck_tentacle_2a65bd85:
@@ -76,13 +76,13 @@ translate de gallery_markus_fem_tarbeck_tentacle_2a65bd85:
 translate de gallery_markus_fem_tarbeck_tentacle_0ab5d479:
 
     # MARKUS_FEM "W-What are you doing?! Put me down at once!"
-    MARKUS_FEM "W-What are you doing?! Put me down at once!"
+    MARKUS_FEM "W-Was tust du da?! Setz mich sofort ab!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:31
 translate de gallery_markus_fem_tarbeck_tentacle_b19e8b23:
 
     # "The first tendril slithered forward, rubbing itself teasingly against Marcia's womanhood."
-    "The first tendril slithered forward, rubbing itself teasingly against Marcia's womanhood."
+    "Der erste Tentakel glitt vorwärts und rieb sich neckisch an Marcias Weiblichkeit."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:32
 translate de gallery_markus_fem_tarbeck_tentacle_805301e3:
@@ -94,25 +94,25 @@ translate de gallery_markus_fem_tarbeck_tentacle_805301e3:
 translate de gallery_markus_fem_tarbeck_tentacle_5f7a18c6:
 
     # MARKUS_FEM "W-What do you think you're doing?!"
-    MARKUS_FEM "W-What do you think you're doing?!"
+    MARKUS_FEM "W-Was glaubst du, was du da tust?!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:34
 translate de gallery_markus_fem_tarbeck_tentacle_72c49018:
 
     # MARKUS_FEM "Mmm… e-easy now! Uhh…!"
-    MARKUS_FEM "Mmm… e-easy now! Uhh…!"
+    MARKUS_FEM "Mmm… s-sachte, sachte! Uhh…!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:35
 translate de gallery_markus_fem_tarbeck_tentacle_929c3e12:
 
     # MARKUS_FEM "L-Let's not get the wrong idea! I need things a little slower before I—"
-    MARKUS_FEM "L-Let's not get the wrong idea! I need things a little slower before I—"
+    MARKUS_FEM "K-Komm nicht auf falsche Gedanken! Ich brauche es etwas langsamer, bevor ich—"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:39
 translate de gallery_markus_fem_tarbeck_tentacle_4cb525dc:
 
     # "Her words broke into a gasp as the tendril pushed inside, sliding into her tight pussy."
-    "Her words broke into a gasp as the tendril pushed inside, sliding into her tight pussy."
+    "Ihre Worte gingen in ein Keuchen über, als der Tentakel eindrang und in ihre enge Muschi glitt."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:40
 translate de gallery_markus_fem_tarbeck_tentacle_e120ebf2:
@@ -124,31 +124,31 @@ translate de gallery_markus_fem_tarbeck_tentacle_e120ebf2:
 translate de gallery_markus_fem_tarbeck_tentacle_db5c367d:
 
     # "Slowly at first, the creature began thrusting in and out of her."
-    "Slowly at first, the creature began thrusting in and out of her."
+    "Zunächst langsam begann die Kreatur, in sie hinein- und wieder herauszustoßen."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:42
 translate de gallery_markus_fem_tarbeck_tentacle_62119187:
 
     # MARKUS_FEM "{i}*Huff*{/i} [player_name!t]!"
-    MARKUS_FEM "{i}*Huff*{/i} [player_name!t]!"
+    MARKUS_FEM "{i}*Keuch*{/i} [player_name!t]!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:43
 translate de gallery_markus_fem_tarbeck_tentacle_1c7c756f:
 
     # MARKUS_FEM "It—It's inside me!"
-    MARKUS_FEM "It—It's inside me!"
+    MARKUS_FEM "Es—Es ist in mir!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:44
 translate de gallery_markus_fem_tarbeck_tentacle_06fc7c31:
 
     # MARKUS_FEM "F-Fuck! IT'S INSIDE ME!"
-    MARKUS_FEM "F-Fuck! IT'S INSIDE ME!"
+    MARKUS_FEM "F-Fick! ES IST IN MIR!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:45
 translate de gallery_markus_fem_tarbeck_tentacle_b7d38bae:
 
     # MARKUS_FEM "What do I—"
-    MARKUS_FEM "What do I—"
+    MARKUS_FEM "Was soll ich—"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:46
 translate de gallery_markus_fem_tarbeck_tentacle_dae43a23:
@@ -166,25 +166,25 @@ translate de gallery_markus_fem_tarbeck_tentacle_5d0eaa0e:
 translate de gallery_markus_fem_tarbeck_tentacle_37bbb9d5:
 
     # MC "Enjoy yourself and think of Novaras?"
-    MC "Enjoy yourself and think of Novaras?"
+    MC "Vergnüg dich und denk an Novaras?"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:49
 translate de gallery_markus_fem_tarbeck_tentacle_69a7b1e2:
 
     # MARKUS_FEM "THINK OF—?!"
-    MARKUS_FEM "THINK OF—?!"
+    MARKUS_FEM "DENK AN—?!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:52
 translate de gallery_markus_fem_tarbeck_tentacle_86da01b1:
 
     # "The tendril began moving faster."
-    "The tendril began moving faster."
+    "Der Tentakel begann, sich schneller zu bewegen."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:53
 translate de gallery_markus_fem_tarbeck_tentacle_c59437e8:
 
     # "Marcia's moans grew louder as her eyes rolled back."
-    "Marcia's moans grew louder as her eyes rolled back."
+    "Marcias Stöhnen wurde lauter, als ihre Augen zurückrollten."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:54
 translate de gallery_markus_fem_tarbeck_tentacle_eb60641b:
@@ -196,73 +196,73 @@ translate de gallery_markus_fem_tarbeck_tentacle_eb60641b:
 translate de gallery_markus_fem_tarbeck_tentacle_48ddb02a:
 
     # MARKUS_FEM "It's—{i}*Huff!*{/i} so different as a woman!"
-    MARKUS_FEM "It's—{i}*Huff!*{/i} so different as a woman!"
+    MARKUS_FEM "Es ist—{i}*Huff!*{/i} so anders als Frau!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:56
 translate de gallery_markus_fem_tarbeck_tentacle_4a68e710:
 
     # MARKUS_FEM "It's—mmfghh!"
-    MARKUS_FEM "It's—mmfghh!"
+    MARKUS_FEM "Es ist—mmfghh!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:57
 translate de gallery_markus_fem_tarbeck_tentacle_d3346fbf:
 
     # MARKUS_FEM "{i}F-Filling!{/i}"
-    MARKUS_FEM "{i}F-Filling!{/i}"
+    MARKUS_FEM "{i}F-Füllen!{/i}"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:58
 translate de gallery_markus_fem_tarbeck_tentacle_8d6cfb78:
 
     # "She trembled, not even noticing the second tendril slithering up her leg until it prodded against her asshole."
-    "She trembled, not even noticing the second tendril slithering up her leg until it prodded against her asshole."
+    "Sie zitterte und bemerkte nicht einmal die zweite Ranke, die ihr Bein hinaufglitt, bis sie gegen ihr Arschloch stieß."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:59
 translate de gallery_markus_fem_tarbeck_tentacle_4b2043ea:
 
     # "Her eyes snapped wide open."
-    "Her eyes snapped wide open."
+    "Ihre Augen rissen weit auf."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:60
 translate de gallery_markus_fem_tarbeck_tentacle_3b88ddae:
 
     # MARKUS_FEM "H-HOLD ON!"
-    MARKUS_FEM "H-HOLD ON!"
+    MARKUS_FEM "W-WARTE!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:61
 translate de gallery_markus_fem_tarbeck_tentacle_52360b9f:
 
     # MARKUS_FEM "WAIT A MINUTE, YOU WEIRD FUCK! THAT'S MY ASS YOU—!"
-    MARKUS_FEM "WAIT A MINUTE, YOU WEIRD FUCK! THAT'S MY ASS YOU—!"
+    MARKUS_FEM "WARTE EINE MINUTE, DU SELTSAMER FICKER! DAS IST MEIN ARSCH, DEN DU—!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:64
 translate de gallery_markus_fem_tarbeck_tentacle_96d44a25:
 
     # "The tendril forced its way inside, stretching her backdoor open as she gritted her teeth."
-    "The tendril forced its way inside, stretching her backdoor open as she gritted her teeth."
+    "Die Ranke drang gewaltsam ein und dehnte ihre Hintertür, während sie die Zähne zusammenbiss."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:65
 translate de gallery_markus_fem_tarbeck_tentacle_d28a05ba:
 
     # MARKUS_FEM "{i}*Huff!*{/i} Oh gods…!"
-    MARKUS_FEM "{i}*Huff!*{/i} Oh gods…!"
+    MARKUS_FEM "{i}*Huff!*{/i} Oh Götter…!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:66
 translate de gallery_markus_fem_tarbeck_tentacle_39adbec5:
 
     # MARKUS_FEM "M-My ass!"
-    MARKUS_FEM "M-My ass!"
+    MARKUS_FEM "M-Mein Arsch!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:67
 translate de gallery_markus_fem_tarbeck_tentacle_3e07c9d1:
 
     # MARKUS_FEM "What's it doing to my ass?!"
-    MARKUS_FEM "What's it doing to my ass?!"
+    MARKUS_FEM "Was macht es mit meinem Arsch?!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:68
 translate de gallery_markus_fem_tarbeck_tentacle_558e969e:
 
     # "Both tendrils began fucking her in unison, her helpless moans filling the chamber."
-    "Both tendrils began fucking her in unison, her helpless moans filling the chamber."
+    "Beide Tentakel begannen, sie gleichzeitig zu ficken, während ihre hilflosen Stöhnen die Kammer erfüllten."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:69
 translate de gallery_markus_fem_tarbeck_tentacle_e8abf110:
@@ -274,31 +274,31 @@ translate de gallery_markus_fem_tarbeck_tentacle_e8abf110:
 translate de gallery_markus_fem_tarbeck_tentacle_8542bc9a:
 
     # MARKUS_FEM "F-Fuck! FUCK! FUCK!"
-    MARKUS_FEM "F-Fuck! FUCK! FUCK!"
+    MARKUS_FEM "F-Fick! FICK! FICK!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:71
 translate de gallery_markus_fem_tarbeck_tentacle_06cb8035:
 
     # MARKUS_FEM "I can f-feel them wriggling around inside me!"
-    MARKUS_FEM "I can f-feel them wriggling around inside me!"
+    MARKUS_FEM "Ich kann f-fühlen, wie sie sich in mir winden!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:72
 translate de gallery_markus_fem_tarbeck_tentacle_bd5be5a8:
 
     # MARKUS_FEM "{i}Oh gods!{/i}"
-    MARKUS_FEM "{i}Oh gods!{/i}"
+    MARKUS_FEM "{i}Oh Götter!{/i}"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:73
 translate de gallery_markus_fem_tarbeck_tentacle_ed8d72c8:
 
     # "Her whole body quivered, reduced to the creature's plaything."
-    "Her whole body quivered, reduced to the creature's plaything."
+    "Ihr ganzer Körper zitterte, zum Spielzeug der Kreatur reduziert."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:74
 translate de gallery_markus_fem_tarbeck_tentacle_dc8d6247:
 
     # MARKUS_FEM "{i}*Huff!*{/i} P-Please! Mmfghh! I don't—"
-    MARKUS_FEM "{i}*Huff!*{/i} P-Please! Mmfghh! I don't—"
+    MARKUS_FEM "{i}*Huff!*{/i} B-Bitte! Mmfghh! Ich will nicht—"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:75
 translate de gallery_markus_fem_tarbeck_tentacle_9b35f966:
@@ -310,19 +310,19 @@ translate de gallery_markus_fem_tarbeck_tentacle_9b35f966:
 translate de gallery_markus_fem_tarbeck_tentacle_9718b406:
 
     # MARKUS_FEM "I-I don't know how much more I can—!"
-    MARKUS_FEM "I-I don't know how much more I can—!"
+    MARKUS_FEM "I-Ich weiß nicht, wie viel mehr ich noch aushalten kann—!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:80
 translate de gallery_markus_fem_tarbeck_tentacle_d52f57bc:
 
     # "Perhaps amused by her panic, a third tendril slid toward her panting mouth."
-    "Perhaps amused by her panic, a third tendril slid toward her panting mouth."
+    "Vielleicht amüsiert von ihrer Panik, glitt eine dritte Ranke zu ihrem keuchenden Mund."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:81
 translate de gallery_markus_fem_tarbeck_tentacle_41403001:
 
     # "Before she could protest, it pushed past her lips and down her throat."
-    "Before she could protest, it pushed past her lips and down her throat."
+    "Bevor sie protestieren konnte, schob sie sich an ihren Lippen vorbei und in ihren Hals hinunter."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:82
 translate de gallery_markus_fem_tarbeck_tentacle_660786b5:
@@ -334,59 +334,59 @@ translate de gallery_markus_fem_tarbeck_tentacle_660786b5:
 translate de gallery_markus_fem_tarbeck_tentacle_304833a4:
 
     # MARKUS_FEM "Whatharehhh you dhoinggg! Mhffgh!"
-    MARKUS_FEM "Whatharehhh you dhoinggg! Mhffgh!"
+    MARKUS_FEM "W-was machst du da! Mhffgh!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:84
 translate de gallery_markus_fem_tarbeck_tentacle_a4048147:
 
     # MARKUS_FEM "{i}*Slurp!* *Slurp!*{/i}"
-    MARKUS_FEM "{i}*Slurp!* *Slurp!*{/i}"
+    MARKUS_FEM "{i}*Schlürf!* *Schlürf!*{/i}"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:85
 translate de gallery_markus_fem_tarbeck_tentacle_6334ee22:
 
     # "The tentacles moved faster, pounding her in perfect rhythm."
-    "The tentacles moved faster, pounding her in perfect rhythm."
+    "Die Tentakel bewegten sich schneller und hämmerten in perfektem Rhythmus in sie."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:86
 translate de gallery_markus_fem_tarbeck_tentacle_0c0db7e5:
 
     # "Her stretched holes swallowed them greedily as she choked and moaned."
-    "Her stretched holes swallowed them greedily as she choked and moaned."
+    "Ihre gedehnten Löcher schluckten sie gierig, während sie würgte und stöhnte."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:87
 translate de gallery_markus_fem_tarbeck_tentacle_e551fb45:
 
     # "Only wet, obscene squelching and throat-deep gags filled the room as she was fucked senseless."
-    "Only wet, obscene squelching and throat-deep gags filled the room as she was fucked senseless."
+    "Nur feuchtes, obszönes Quatschen und tiefkehliges Würgen erfüllten den Raum, als sie besinnungslos gefickt wurde."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:88
 translate de gallery_markus_fem_tarbeck_tentacle_55cce438:
 
     # "After some time, Marcia's eyes rolled completely back as her body trembled violently."
-    "After some time, Marcia's eyes rolled completely back as her body trembled violently."
+    "Nach einiger Zeit verdrehten sich Marcias Augen völlig und ihr Körper zitterte heftig."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:92
 translate de gallery_markus_fem_tarbeck_tentacle_a13778b3:
 
     # MARKUS_FEM "C-CUMMINHGHHHHHHH!"
-    MARKUS_FEM "C-CUMMINHGHHHHHHH!"
+    MARKUS_FEM "K-KOMMEN! AHHHHHH!"
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:93
 translate de gallery_markus_fem_tarbeck_tentacle_9776506e:
 
     # "With a shuddering cry, she climaxed."
-    "With a shuddering cry, she climaxed."
+    "Mit einem zitternden Schrei kam sie zum Höhepunkt."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:94
 translate de gallery_markus_fem_tarbeck_tentacle_1e9bfd11:
 
     # "The tendrils buried themselves deep before slowly sliding free of her."
-    "The tendrils buried themselves deep before slowly sliding free of her."
+    "Die Tentakel vergruben sich tief, bevor sie langsam aus ihr herausglitten."
 
 # game/data/sexy_scenes/markus/galleryLabels/tarbeck_tentacle.rpy:95
 translate de gallery_markus_fem_tarbeck_tentacle_94d7a954:
 
     # "Satisfied, they lowered her limp body toward the ground."
-    "Satisfied, they lowered her limp body toward the ground."
+    "Befriedigt senkten sie ihren schlaffen Körper zu Boden."
 

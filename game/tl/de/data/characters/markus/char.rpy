@@ -8,9 +8,9 @@ translate de strings:
 
     # game/data/characters/markus/char.rpy:52
     old "My oldest friend."
-    new "My oldest friend."
+    new "Mein ältester Freund."
 
     # game/data/characters/markus/char.rpy:57
     old "The two of us planned to land ourselves some safe, well paying administrative jobs and avoid the war... Guess that's not on the cards anymore."
-    new "The two of us planned to land ourselves some safe, well paying administrative jobs and avoid the war... Guess that's not on the cards anymore."
+    new "Wir beide hatten vor, uns sichere, gut bezahlte Verwaltungsjobs zu besorgen und den Krieg zu vermeiden... Das ist wohl nicht mehr vorgesehen."
 

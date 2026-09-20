@@ -74,16 +74,6 @@ init python:
             if self.StatusEffect.StatusEffectID == "protect":
                 NewStatEff.ProtectedBy = self.StatusEffect.ProtectedBy
             Battle_ApplyStatusEffect(Target, NewStatEff)
-#############################
-#Madness for good or bad        
-        def Execute(self, Target):
-            Caster = self.Owner_BattleChar
-            Duration = self.DurationByLevel[self.Level]
-            ErraticChance = self.ErraticChanceByLevel[self.Level]
-
-            # Replace with your engine's status application function
-            Battle_ApplyStatusEffect(Target, "madness", Duration, ErraticChance)
-            return
 
 ########################
     # this is more like a wrapper for sanity, to have "grant another turn" as cast/attack effect
@@ -218,7 +208,7 @@ init python:
 
     class BattleEffect_RestoreHealth:
         def __init__(self, RestoreValue = 0.0, RatioFromMax = False):
-            self.RestoreValue = RestoreValue if RestoreValue is not None else 0.0
+            self.RestoreValue = RestoreValue
             self.RatioFromMax = RatioFromMax
         
         def ApplyEffect(self, Target):
@@ -320,7 +310,7 @@ init python:
             DrainAmt = 0
             if DrainMana:
                 if self.DrainFromCurrent:
-                    DrainAmt = round(Target.Mana * self.DrainPercentage)
+                    DrainAmt = round(Target.Mana * self.DrainPercentage), 
                 else:
                     DrainAmt = min(round(Target.ManaMax * self.DrainPercentage), Target.Mana)
                 Battle_BurnMana(Target, DrainAmt)

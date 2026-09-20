@@ -8,5 +8,5 @@ translate de strings:
 
     # game/data/characters/arwen/char.rpy:11
     old "A rising-star courtesan, very popular and renowned for her passion."
-    new "A rising-star courtesan, very popular and renowned for her passion."
+    new "Eine aufstrebende Kurtisane, sehr beliebt und bekannt für ihre Leidenschaft."
 

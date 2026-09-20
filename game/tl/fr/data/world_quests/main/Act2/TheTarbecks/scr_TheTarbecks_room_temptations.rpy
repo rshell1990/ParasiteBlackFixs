@@ -1842,13 +1842,6 @@ translate fr qst_TheTarbecks_Room_Temptations_markus_6380b886:
     # "The watchers smirked, amused by the scene, as Marcia's legs squirmed pitifully beneath me."
     "Les spectateurs ricanèrent, amusés par la scène, tandis que les jambes de Marcia se tortillaient pitoyablement sous moi."
 
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:473
-translate fr qst_TheTarbecks_Room_Temptations_markus_4f4bc62d:
-
-    # "Zapped of her strength, all she could do was helplessly watch as my cock slammed between her tits."
-    "Privée de ses forces, elle ne pouvait que regarder, impuissante, ma bite claquer entre ses seins."
-
-# game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:474
 translate fr qst_TheTarbecks_Room_Temptations_markus_33ede3c9:
 
     # MC "F-Fuckkkk!"
@@ -2477,4 +2470,3 @@ translate fr strings:
     # game/data/world_quests/main/Act2/TheTarbecks/scr_TheTarbecks_room_temptations.rpy:527
     old "Well, interested in trying a little wine with a little extra kick?"
     new "Eh bien, ça te dirait de goûter un petit vin avec un petit quelque chose en plus ?"
-

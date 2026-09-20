@@ -5146,13 +5146,6 @@ translate ru qst_JudgementDay_GotToTheWall_d8ea2162:
     # "Even when an attack did land, he merely shrugged it off as if it were nothing."
     "Даже когда атака всё же достигала цели, он лишь отряхивался, словно это было пустяком."
 
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1909
-translate ru qst_JudgementDay_GotToTheWall_2e2557b1:
-
-    # "As I glanced at my companions, exhausted and barely holding on, I realized the horrifying truth…"
-    "Когда я взглянул на своих спутников, измождённых и едва держащихся на ногах, я осознал ужасающую правду…"
-
-# game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:1910
 translate ru qst_JudgementDay_GotToTheWall_47ec6fe6:
 
     # "He wasn't struggling."
@@ -13211,4 +13204,3 @@ translate ru strings:
     # game/data/world_quests/main/Act1/JudgementDay/scr_JudgementDay_aio.rpy:3801
     old "Do all of the gods look so... {i}different?{/i}"
     new "Все боги выглядят так... {i}необычно?{/i}"
-

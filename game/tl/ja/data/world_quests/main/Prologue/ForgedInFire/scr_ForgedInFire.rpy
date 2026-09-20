@@ -136,8 +136,7 @@ translate ja qst_ForgedInFire_EnterBarracksToGetGear_454e72d0:
 translate ja qst_ForgedInFire_EnterBarracksToGetGear_5cb164df:
 
     # GUARD "Get strapped and head out into the yard now! This is not a fashion contest!"
-    GUARD "しっかりと装備して庭へと繰り出せ!  
-これはファッションコンテストじゃないんだぞ!"
+    GUARD "しっかりと装備して庭へと繰り出せ!  これはファッションコンテストじゃないんだぞ!"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:47
 translate ja qst_ForgedInFire_EnterBarracksToGetGear_eda86dd2:
@@ -893,8 +892,7 @@ translate ja qst_ForgedInFire_AtTrainingYard_b6aec33c:
 translate ja qst_ForgedInFire_AtTrainingYard_b8ee3afa:
 
     # KIARA @ scared "I don’t understand though... That kind of magic..."
-    KIARA @ scared "でも……わからない
-あの魔法……"
+    KIARA @ scared "でも……わからないあの魔法……"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:269
 translate ja qst_ForgedInFire_AtTrainingYard_c1f1362c:
@@ -1074,8 +1072,7 @@ translate ja qst_ForgedInFire_Training0FirstFight_repBattle_732df93f:
 translate ja qst_ForgedInFire_Training0FirstFight_repBattle_6c053eec:
 
     # MARKUS "Let's go again, shall we?"
-    MARKUS "もう一度、
-いきましょうか。"
+    MARKUS "もう一度、いきましょうか。"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:342
 translate ja qst_ForgedInFire_Training0FirstFight_repBattle_c9b50785:
@@ -1423,8 +1420,7 @@ translate ja qst_ForgedInFire_Training0FirstFight_repBattle_7ed4601a:
 translate ja qst_ForgedInFire_Training0FirstFight_repBattle_8827207f:
 
     # GUARD "How long are you going to be girl? HURRY UP!"
-    GUARD "何時まで女の子でいるつもり？
-早くしろ!"
+    GUARD "何時まで女の子でいるつもり？早くしろ!"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:440
 translate ja qst_ForgedInFire_Training0FirstFight_repBattle_cee82c93:
@@ -2840,8 +2836,7 @@ translate ja qst_ForgedInFire_Training2NightEvent_f2428e23:
 translate ja qst_ForgedInFire_Training2NightEvent_a899d6c2:
 
     # NYX_BLONDE @ angry "The city guard is barely holding on as it is, what exactly do you expect me to do?"
-    NYX_BLONDE @ angry "都市の衛兵は今やっと持ちこたえている状態だ。
-一体どうしろというんだ？"
+    NYX_BLONDE @ angry "都市の衛兵は今やっと持ちこたえている状態だ。一体どうしろというんだ？"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:949
 translate ja qst_ForgedInFire_Training2NightEvent_b10a0545:
@@ -2949,8 +2944,7 @@ translate ja qst_ForgedInFire_Training2NightEvent_2d5676a4:
 translate ja qst_ForgedInFire_Training2NightEvent_3bff260d:
 
     # "The woman turned to leave and join the broad man, leaving Captain Duprey to stand beside Officer Borras alone."
-    "女性は屈強な男に合流しようと、背を向けた。
-残されたデュプレー船長は、ボラス警官と並んで立つのみであった。"
+    "女性は屈強な男に合流しようと、背を向けた。残されたデュプレー船長は、ボラス警官と並んで立つのみであった。"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:970
 translate ja qst_ForgedInFire_Training2NightEvent_9b060e61:
@@ -3214,8 +3208,7 @@ translate ja qst_ForgedInFire_FinalSparring_Complete_783e0863:
 translate ja qst_ForgedInFire_FinalSparring_Complete_edb3c6df:
 
     # "I couldn’t hear what was being said, but I managed to figure out the words escaping his lips, {i}‘They’re not ready yet!’{/i}"
-    "何を言っているのか聞こえはしなかったが、彼の唇から零れる言葉を読み取ることができた。
-{i}「奴らはまだ準備ができていない!」{/i}"
+    "何を言っているのか聞こえはしなかったが、彼の唇から零れる言葉を読み取ることができた。{i}「奴らはまだ準備ができていない!」{/i}"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:1095
 translate ja qst_ForgedInFire_FinalSparring_Complete_7e66af39:
@@ -3389,8 +3382,7 @@ translate ja qst_ForgedInFire_FinalSparring_Complete_3e0ef9c5:
 translate ja qst_ForgedInFire_FinalSparring_Complete_52b2a82f:
 
     # MARKUS "Hm... I’ll make sure to pack some extra bread for you, okay?"
-    MARKUS "ふむ…  
-パンを多めに入れておくね。"
+    MARKUS "ふむ…  パンを多めに入れておくね。"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:1137
 translate ja qst_ForgedInFire_FinalSparring_Complete_f6d7e7b6:
@@ -3896,8 +3888,7 @@ translate ja qst_ForgedInFire_Training3Final_d92306b7:
 translate ja qst_ForgedInFire_FinalSparring_Complete_282b2d00:
 
     # MARKUS "Hey! Don’t hold out on me! I know your dear sweet [regina_ref!t] brought you some!"
-    MARKUS "おい!私に隠し立てするなよ!
-あなたの大事な[regina_ref!t]が持ってきてるって知ってるんだ!"
+    MARKUS "おい!私に隠し立てするなよ!あなたの大事な[regina_ref!t]が持ってきてるって知ってるんだ!"
 
 # game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy:1179
 translate ja qst_ForgedInFire_FinalSparring_Complete_2c7fdf17:

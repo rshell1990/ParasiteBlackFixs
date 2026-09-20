@@ -328,8 +328,7 @@ translate ja ev_KrishanaDay_regina_dialogue_menu_bd2af33f:
 translate ja ev_KrishanaDay_regina_dialogue_menu_acd0853e:
 
     # REGINA @ talk "I'll head out and umm, leave you two to it."
-    REGINA @ talk "では、二人の邪魔をしないように…
-ええと、そっと失礼するね。"
+    REGINA @ talk "では、二人の邪魔をしないように…ええと、そっと失礼するね。"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:119
 translate ja ev_KrishanaDay_regina_dialogue_menu_763dcf1e:
@@ -611,9 +610,7 @@ translate ja ev_KrishanaDay_regina_dialogue_menu_e98b016a:
 translate ja ev_KrishanaDay_regina_dialogue_menu_b6989b01:
 
     # MAD_PROPHET "{i}'I know!'{/i} Thought the mighty dragon, {i}'I shall see what the humans down south are up to!'{/i}"
-    MAD_PROPHET "{i}「わかった!」{/i}
-偉大なる竜は思った、
-{i}「南にいる人間たちが、何をしているのか見てやろう!」{/i}"
+    MAD_PROPHET "{i}「わかった!」{/i}偉大なる竜は思った、{i}「南にいる人間たちが、何をしているのか見てやろう!」{/i}"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:202
 translate ja ev_KrishanaDay_regina_dialogue_menu_e6c8eed8:
@@ -703,8 +700,7 @@ translate ja ev_KrishanaDay_regina_dialogue_menu_9e7dd2b0:
 translate ja ev_KrishanaDay_regina_dialogue_menu_0229275b:
 
     # MAD_PROPHET "The dragoness, so touched by the gift, said with a cool blow of air, {i}I've never had a home before.{/i}"
-    MAD_PROPHET "ドラゴンの娘は、その贈り物に深く感動し、涼やかな息遣いと共に言った。
-{i}今まで家なんて、なかったから…{/i}"
+    MAD_PROPHET "ドラゴンの娘は、その贈り物に深く感動し、涼やかな息遣いと共に言った。{i}今まで家なんて、なかったから…{/i}"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:217
 translate ja ev_KrishanaDay_regina_dialogue_menu_2bb02a72:
@@ -818,8 +814,7 @@ translate ja ev_KrishanaDay_regina_dialogue_menu_2a09e3c5:
 translate ja ev_KrishanaDay_regina_dialogue_menu_b951f8e6:
 
     # ADARA @ talk "He's probably resting right now ... He gets tired quite easily these days."
-    ADARA @ talk "たぶん今は休んでるよ…  
-最近はすぐ疲れちゃうんだ。"
+    ADARA @ talk "たぶん今は休んでるよ…  最近はすぐ疲れちゃうんだ。"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:254
 translate ja ev_KrishanaDay_regina_dialogue_menu_755359e9:
@@ -2107,8 +2102,7 @@ translate ja ev_KrishanaDay_adaraSexScene_ac1fc9bb:
 translate ja ev_KrishanaDay_adaraSexScene_3f8e3c2e:
 
     # ADARA "Is this okay? Am I doing good?"
-    ADARA "これでいいの？
-ちゃんとできてる？"
+    ADARA "これでいいの？ちゃんとできてる？"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:608
 translate ja ev_KrishanaDay_adaraSexScene_2e230d2a:
@@ -2264,8 +2258,7 @@ translate ja ev_KrishanaDay_adaraSexScene_afb78d7f:
 translate ja ev_KrishanaDay_adaraSexScene_2dece62c:
 
     # MC "I don't know how much longer I can - Mfghh!"
-    MC "このまま、あとどれだけ…
-むぐっ!"
+    MC "このまま、あとどれだけ…むぐっ!"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:637
 translate ja ev_KrishanaDay_adaraSexScene_8ef49e88:
@@ -2409,9 +2402,7 @@ translate ja ev_KrishanaDay_adaraSexScene_03ae8855:
 translate ja ev_KrishanaDay_adaraSexScene_d85743ad:
 
     # MC "(Damn ... I better do as she says and get out of here.I am already going to face her wrath, Me and Markus both.)"
-    MC "(ちっ…言うことを聞いて、さっさとここから出た方が良さそうだ。
-彼女の怒りを買うのは、もう確定みたいだ。
-俺も、マルクスも。)"
+    MC "(ちっ…言うことを聞いて、さっさとここから出た方が良さそうだ。彼女の怒りを買うのは、もう確定みたいだ。俺も、マルクスも。)"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:687
 translate ja ev_KrishanaDay_adaraNoSexScene_59b3277e:
@@ -2663,8 +2654,7 @@ translate ja ev_KrishanaDay_gifts_7a9dc1b0:
 translate ja ev_KrishanaDay_gifts_352d9598:
 
     # ERIKA @ smile "I jest ... though do try to do some thinking upstairs and not just downstairs."
-    ERIKA @ smile "冗談だよ…  
-ただし、上だけで考えて、下だけで考えないようにしてね。"
+    ERIKA @ smile "冗談だよ…  ただし、上だけで考えて、下だけで考えないようにしてね。"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:761
 translate ja ev_KrishanaDay_gifts_83a98f10:
@@ -2922,10 +2912,7 @@ translate ja ev_KrishanaDay_dinner_e6ac4c58:
 translate ja ev_KrishanaDay_dinner_54157c65:
 
     # "I think I know that these days can't last forever, some terrible darkness I can feel draws ever closer, and the endless battles and wars still rage on outside."
-    "いつかはこの日々も終わる、
-永遠に続くわけがないのだと分かっている。
-どこからともなく近づいてくる恐ろしい闇を感じ、
-外では終わりなき戦いや争いが今も続いている。"
+    "いつかはこの日々も終わる、永遠に続くわけがないのだと分かっている。どこからともなく近づいてくる恐ろしい闇を感じ、外では終わりなき戦いや争いが今も続いている。"
 
 # game/data/world_events/novaras/KrishanaEvent/ev_krishana_day.rpy:843
 translate ja ev_KrishanaDay_dinner_e9195ccb:
