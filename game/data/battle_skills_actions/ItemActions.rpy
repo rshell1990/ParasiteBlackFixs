@@ -40,7 +40,113 @@ init python:
                 Result.append(Item_BonusColor + tra(_("Restores health on use: %s (Base %s)")) % (AmountThatWillPotentiallyBeRecovered, self.RestoreBaseAmount) + "{/color}")
 
             return "".join(Result)
+######################################################################
+    @RegisterBattleItemAction("PotionEther")
+    class BattleItemAction_PotionEther(BattleSkill):
+        ValidTargets = BATTLE_TARGETS.SELF
+        SpendTurn = False
 
+        def __init__(self, Owner_BattleChar = None, ItemID = None):
+            super().__init__(Owner_BattleChar = Owner_BattleChar)            
+            self.ItemID = ItemID
+            self.ItemName = all_items[self.ItemID]["name"]
+            self.RestoreBaseAmount = all_items[self.ItemID]["on_use_battle_arg1"]
+
+        def Execute(self, Target):
+            Battle_ScheduledItemUse(
+                SourceAction = self,
+                UseTarget = self.Owner_BattleChar,
+                SoundUse_CustomList = soundLib["usePotion"],
+                GenericLogLine = False,
+                Effects_OnTarget = [BattleEffect_RestoreEnergyOrMana(RestoreValue = self.RestoreBaseAmount)])
+            Battle_AddLogEntry_Autoformat(
+                USER = self.Owner_BattleChar,
+                ITEM_NAME = all_items[self.ItemID]["name"],
+                RESTORED_AMOUNT = self.RestoreBaseAmount,
+                String = tra(_("USER_NAME drinks ITEM_NAME, restoring RESTORED_AMOUNT Magic/Stamina!")))
+            return
+
+        def CanExecute(self):
+            resource = "Mana" if self.Owner_BattleChar.CharRef.get("is_mage", False) else "Energy"
+            return getattr(self.Owner_BattleChar, resource) < getattr(self.Owner_BattleChar, resource + "Max")
+
+        def GetDesc(self):
+            Result = []
+            return Item_BonusColor + tra(_("Restores Magic/Stamina on use: %s")) % self.RestoreBaseAmount + "{/color}"
+######################################################################
+    @RegisterBattleItemAction("PotionElixer")
+    class BattleItemAction_PotionElixer(BattleSkill):
+        ValidTargets = BATTLE_TARGETS.SELF
+        SpendTurn = False
+
+        def __init__(self, Owner_BattleChar = None, ItemID = None):
+            super().__init__(Owner_BattleChar = Owner_BattleChar)            
+            self.ItemID = ItemID
+            self.ItemName = all_items[self.ItemID]["name"]
+            self.RestoreBaseAmount = all_items[self.ItemID]["on_use_battle_arg1"]
+
+        def Execute(self, Target):
+            Battle_ScheduledItemUse(
+                SourceAction = self,
+                UseTarget = self.Owner_BattleChar,
+                SoundUse_CustomList = soundLib["usePotion"],
+                GenericLogLine = False,
+                Effects_OnTarget = [
+                    BattleEffect_RestoreHealth(RestoreValue = self.RestoreBaseAmount),
+                    BattleEffect_RestoreEnergyOrMana(RestoreValue = self.RestoreBaseAmount),
+                ])
+            Battle_AddLogEntry_Autoformat(
+                USER = self.Owner_BattleChar,
+                ITEM_NAME = all_items[self.ItemID]["name"],
+                RESTORED_AMOUNT = self.RestoreBaseAmount,
+                String = tra(_("USER_NAME drinks ITEM_NAME, restoring RESTORED_AMOUNT HP and Magic/Stamina!")))
+            return
+
+        def CanExecute(self):
+            resource = "Mana" if self.Owner_BattleChar.CharRef.get("is_mage", False) else "Energy"
+            return (
+                self.Owner_BattleChar.Health < self.Owner_BattleChar.HealthMax
+                or getattr(self.Owner_BattleChar, resource) < getattr(self.Owner_BattleChar, resource + "Max")
+            )
+
+        def GetDesc(self):
+            Result = []
+            return Item_BonusColor + tra(_("Restores HP and Magic/Stamina on use: %s")) % self.RestoreBaseAmount + "{/color}"
+        ######################################################################
+    @RegisterBattleItemAction("PotionRevive")
+    class BattleItemAction_PotionRevive(BattleSkill):
+        ValidTargets = BATTLE_TARGETS.ALLY_NOT_SELF
+        AllowDeadTargets = True
+        SpendTurn = False
+
+        def __init__(self, Owner_BattleChar = None, ItemID = None):
+            super().__init__(Owner_BattleChar = Owner_BattleChar)            
+            self.ItemID = ItemID
+            self.ItemName = all_items[self.ItemID]["name"]
+            self.RestoreBaseAmount = all_items[self.ItemID]["on_use_battle_arg1"]
+
+        def Execute(self, Target):
+            Target.IsAlive = True
+            Battle_RunCharAnim(Target, "idle")
+            Battle_ScheduledItemUse(
+                SourceAction = self,
+                UseTarget = Target,
+                SoundUse_CustomList = soundLib["usePotion"],
+                GenericLogLine = False,
+                Effects_OnTarget = [BattleEffect_RestoreHealth(RestoreValue = self.RestoreBaseAmount)])
+            Battle_AddLogEntry_Autoformat(
+                USER = self.Owner_BattleChar,
+                TARGET = Target,
+                ITEM_NAME = all_items[self.ItemID]["name"],
+                HEALTH_RECOVERED = Battle_GetHealthRecoveredModifiedAndClamped(Target, self.RestoreBaseAmount),
+                String = tra(_("USER_NAME uses ITEM_NAME on TARGET_NAME, restoring HEALTH_RECOVERED health!")))
+            return
+
+        def CanExecute(self):
+            return any(not BattleChar.IsAlive for BattleChar in BattleScene.BattleChars[self.Owner_BattleChar.BattleSide] if BattleChar != self.Owner_BattleChar)
+
+        def GetDesc(self):
+            return Item_BonusColor + tra(_("Revives a fallen ally with %s health.")) % self.RestoreBaseAmount + "{/color}"
 ######################################################################
     @RegisterBattleItemAction("GoblinBomb")
     class BattleItemAction_GoblinBomb(BattleSkill):

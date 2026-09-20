@@ -1,38 +1,36 @@
-2026-09-19 22:30:54 UTC
+2026-09-20 14:10:19 UTC
 Windows-11-10.0.26200-SP0
 Ren'Py 8.5.3.26051504
 
-Early init took 480 ms
-Loading error handling took 2221 ms
+Early init took 507 ms
+Loading error handling took 2311 ms
 10851 script files skipped.
-Loading script took 16280 ms
-Loading save slot metadata took 114 ms
-Loading persistent took 0 ms
+Loading script took 1982 ms
+Loading save slot metadata took 65 ms
+Loading persistent took 1 ms
 Failed to initialize steam: Exception('steamapi.InitFlat returned 1 (No appID found.  Either launch the game from Steam, or put the file steam_appid.txt containing the correct appID in your game folder.)')
- - Init at renpy/common/00steam.rpy:879 took 254 ms.
- - Init at game/engine/publisher_launcher/satyrlauncher.rpy:3 took 451 ms.
-Running init code took 1130 ms
-Loading analysis data took 16 ms
-Analyze and compile ATL took 32 ms
-Reloading save slot metadata took 16 ms
-Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\ParasiteBlack':
-Dump and make backups took 32 ms
+Running init code took 454 ms
+Loading analysis data took 17 ms
+Analyze and compile ATL took 29 ms
+Reloading save slot metadata took 3 ms
+Backing up script files to 'C:\\Users\\Fitz\\AppData\\Roaming/RenPy/backups\\IrridianParasiteBlack':
+Dump and make backups took 48 ms
 Cleaning cache took 0 ms
-Making clean stores took 0 ms
-Initial gc took 95 ms
+Making clean stores took 1 ms
+Initial gc took 107 ms
 DPI scale factor: 1.000000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: b"Couldn't load nvlib." (can be ignored)
-Creating interface object took 32 ms
-Init translation took 0 ms
-Cleaning stores took 0 ms
-Load screen analysis took 16 ms
-Analyze screens took 16 ms
-Save screen analysis took 32 ms
-Save pyanalysis took 0 ms
-Save bytecode took 126 ms
-Running _start took 0 ms
-Interface start took 684 ms
+Creating interface object took 2 ms
+Init translation took 9 ms
+Cleaning stores took 1 ms
+Load screen analysis took 0 ms
+Analyze screens took 31 ms
+Save screen analysis took 38 ms
+Save pyanalysis took 20 ms
+Save bytecode took 124 ms
+Running _start took 1 ms
+Interface start took 696 ms
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1600, 900)
@@ -45,95 +43,3 @@ Display Info: <Info({'bitsize': 32, 'bytesize': 4, 'masks': (16711680, 65280, 25
 Screen sizes: virtual=(1920, 1080) physical=(1419, 798) drawable=(1419, 798)
 Maximum texture size: 4096x4096
 INFO:renpy_warp_service:service thread started. periodically scanning ports for warp server
-save update: unequipped missing item '5' from markus
-save update: unequipped missing item '5' from markus
-save update: unequipped missing item '4' from markus
-save update: unequipped missing item '20' from mc
-save update: unequipped missing item '21' from mc
-save update: unequipped missing item '4' from mc
-save update: purged missing item '17' from container 'player_inv'
-save update: purged missing item '18' from container 'player_inv'
-save update: purged missing item '8' from container 'player_inv'
-save update: purged missing item '0' from container 'player_inv'
-save update: purged missing item '9' from container 'player_inv'
-save update: purged missing item '19' from container 'player_inv'
-save update: purged missing item '20' from container 'player_inv'
-save update: purged missing item '21' from container 'player_inv'
-save update: purged missing item '27' from container 'player_inv'
-save update: purged missing item '28' from container 'player_inv'
-save update: purged missing item '4' from container 'player_inv'
-save update: purged missing item '5' from container 'player_inv'
-save update: purged missing item '26' from container 'player_inv'
-save update: purged missing item '31' from container 'player_inv'
-save update: purged missing item '7' from container 'player_inv'
-save update: purged missing item '42' from container 'player_inv'
-save update: purged missing item '6' from container 'player_inv'
-save update: purged missing item '44' from container 'player_inv'
-save update: purged missing item '45' from container 'player_inv'
-save update: purged missing item '46' from container 'player_inv'
-save update: purged missing item '48' from container 'player_inv'
-save update: purged missing item '49' from container 'player_inv'
-save update: purged missing item '22' from container 'bookshelf_library_novaras'
-save update: purged missing item '23' from container 'bookshelf_library_novaras'
-save update: purged missing item '24' from container 'bookshelf_library_novaras'
-save update: purged missing item '2' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '0' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '32' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '33' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '34' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '35' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '3' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '36' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '37' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '5' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '38' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '39' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '4' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '40' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '41' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: unequipped missing item '5' from markus
-save update: unequipped missing item '5' from markus
-save update: unequipped missing item '4' from markus
-save update: unequipped missing item '20' from mc
-save update: unequipped missing item '21' from mc
-save update: unequipped missing item '1' from mc
-save update: purged missing item '17' from container 'player_inv'
-save update: purged missing item '18' from container 'player_inv'
-save update: purged missing item '8' from container 'player_inv'
-save update: purged missing item '0' from container 'player_inv'
-save update: purged missing item '9' from container 'player_inv'
-save update: purged missing item '19' from container 'player_inv'
-save update: purged missing item '20' from container 'player_inv'
-save update: purged missing item '21' from container 'player_inv'
-save update: purged missing item '27' from container 'player_inv'
-save update: purged missing item '28' from container 'player_inv'
-save update: purged missing item '4' from container 'player_inv'
-save update: purged missing item '5' from container 'player_inv'
-save update: purged missing item '26' from container 'player_inv'
-save update: purged missing item '31' from container 'player_inv'
-save update: purged missing item '7' from container 'player_inv'
-save update: purged missing item '42' from container 'player_inv'
-save update: purged missing item '6' from container 'player_inv'
-save update: purged missing item '44' from container 'player_inv'
-save update: purged missing item '45' from container 'player_inv'
-save update: purged missing item '49' from container 'player_inv'
-save update: purged missing item '1' from container 'player_inv'
-save update: purged missing item '11' from container 'player_inv'
-save update: purged missing item '22' from container 'bookshelf_library_novaras'
-save update: purged missing item '23' from container 'bookshelf_library_novaras'
-save update: purged missing item '24' from container 'bookshelf_library_novaras'
-save update: purged missing item '2' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '0' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '32' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '33' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '34' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '35' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '3' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '36' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '37' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '5' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '38' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '39' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '4' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '40' from container 'DraxCraftRecipesAndIngredientsContainer'
-save update: purged missing item '41' from container 'DraxCraftRecipesAndIngredientsContainer'

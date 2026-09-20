@@ -128,37 +128,40 @@ init python:
         "shop_category":"book",
         "sort_order":70,
     }
-##################### FUTURE SKILL BOOKS ###########################
-    #static_item_defs["skill_book_summoner"] = {
-    #    "name":     _("Summoner Skill Book"),
-    #    "plural":   _("Summoner Skill Books"),
-    #    "desc":     _("A dusty tome containing secrets on how to manifest spectral guardians."),
-    #    "teaches_skill": "Summon",
-    #    "icon":     "images/items/books/book.webp",
-    #    "value_per_unit": 150,
-    #    "on_use_story": None,
-    #    "shop_category": "book",
-    #    "sort_order": 70,
-    #}
-    #static_item_defs["skill_book_priest"] = {
-    #    "name":     _("Priest Skill Book"),
-    #    "plural":   _("Priest Skill Books"),
-    #    "desc":     _("A dusty tome containing secrets on how to harness divine powers."),
-    #    "teaches_skill": "HealingHands",
-    #    "icon":     "images/items/books/book.webp",
-    #    "value_per_unit": 150,
-    #    "on_use_story": None,
-    #    "shop_category": "book",
-    #    "sort_order": 70,
-    #}
-    #static_item_defs["skill_book_Saint"] = {
-    #    "name":     _("Saint Skill Book"),
-    #    "plural":   _("Saint Skill Books"),
-    #    "desc":     _("A dusty tome containing secrets on how to harness divine powers as a Saint."),
-    #    "teaches_skill": "Revive",
-    #    "icon":     "images/items/books/book.webp",
-    #    "value_per_unit": 150,
-    #    "on_use_story": None,
-    #    "shop_category": "book",
-    #    "sort_order": 70,
-    #}
+##################### SKILL BOOKS ###########################
+    static_item_defs["skill_book_summoner"] = {
+        "name":     _("Summoner Skill Book"),
+        "plural":   _("Summoner Skill Books"),
+        "desc":     _("A dusty tome containing secrets on how to manifest spectral guardians."),
+        "teaches_skill": "Summon",
+        "requires_mage": True,
+        "icon":     "images/items/books/book.webp",
+        "value_per_unit": 150,
+        "on_use_story": None,
+        "shop_category": "book",
+        "sort_order": 70,
+    }
+    static_item_defs["skill_book_priest"] = {
+        "name":     _("Priest Skill Book"),
+        "plural":   _("Priest Skill Books"),
+        "desc":     _("A dusty tome containing secrets on how to harness divine powers."),
+        "teaches_skill": "HealingHands",
+        "requires_mage": True,
+        "icon":     "images/items/books/book.webp",
+        "value_per_unit": 150,
+        "on_use_story": None,
+        "shop_category": "book",
+        "sort_order": 70,
+    }
+    static_item_defs["skill_book_Saint"] = {
+        "name":     _("Saint Skill Book"),
+        "plural":   _("Saint Skill Books"),
+        "desc":     _("A dusty tome containing secrets on how to harness divine powers as a Saint."),
+        "teaches_skill": "Revive",
+        "requires_mage": True,
+        "icon":     "images/items/books/book.webp",
+        "value_per_unit": 150,
+        "on_use_story": None,
+        "shop_category": "book",
+        "sort_order": 70,
+    }

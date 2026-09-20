@@ -42,7 +42,7 @@ init python:
 
         Alive_Allies = Battle_GetAliveCharsOnSide(Side = OwnSide)
         Alive_Enemies = Battle_GetAliveCharsOnSide(Side = OpposingSide)
-        Alive_Other_Allies = [c for c in Alive_Allies if c != ActionInstance.Owner_BattleChar]
+        Alive_Other_Allies = [c for c in (BattleScene.BattleChars[OwnSide] if getattr(ActionInstance, "AllowDeadTargets", False) else Alive_Allies) if c != ActionInstance.Owner_BattleChar]
 
         if ActionInstance.ValidTargets == BATTLE_TARGETS.SELF:
             ActionTarget = ActionInstance.Owner_BattleChar
@@ -95,9 +95,9 @@ init python:
         if SkillInstance.ValidTargets == BATTLE_TARGETS.SELF:
             return [SkillInstance.Owner_BattleChar]
         elif SkillInstance.ValidTargets == BATTLE_TARGETS.ANY_ALLY:
-            return Battle_GetAliveCharsOnSide(OwnSide)
+            return BattleScene.BattleChars[OwnSide] if getattr(SkillInstance, "AllowDeadTargets", False) else Battle_GetAliveCharsOnSide(OwnSide)
         elif SkillInstance.ValidTargets == BATTLE_TARGETS.ALLY_NOT_SELF:
-            return [BattleChar for BattleChar in BattleScene.BattleChars[OwnSide] if BattleChar != SkillInstance.Owner_BattleChar and getattr(BattleChar, "IsAlive", True)]
+            return [BattleChar for BattleChar in BattleScene.BattleChars[OwnSide] if BattleChar != SkillInstance.Owner_BattleChar and (getattr(BattleChar, "IsAlive", True) or getattr(SkillInstance, "AllowDeadTargets", False))]
         elif SkillInstance.ValidTargets in (BATTLE_TARGETS.ANY_ENEMY, BATTLE_TARGETS.ALL_ENEMIES):
             return Battle_GetAliveCharsOnSide(OpposingSide)
         elif SkillInstance.ValidTargets == BATTLE_TARGETS.ALL_ALLIES:

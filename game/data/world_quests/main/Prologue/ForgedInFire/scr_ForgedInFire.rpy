@@ -19,11 +19,14 @@ label qst_ForgedInFire_EnterBarracksToGetGear:
     scene black with dissolve
     $ PlayerAddItem("scout_sword")
     $ PlayerAddItem("scout_armor")
+    $ PlayerAddItem("scout_shield")
 
     if CanEquip(0, "scout_sword", EQP_SLOTS.HANDS[0]):
         $ EquipItem(0, "scout_sword", EQP_SLOTS.HANDS[0])
     if CanEquip(0, "scout_armor", EQP_SLOTS.CHEST[0]):
         $ EquipItem(0, "scout_armor", EQP_SLOTS.CHEST[0])
+    if CanEquip(0, "scout_shield", EQP_SLOTS.HANDS[1]):
+        $ EquipItem(0, "scout_shield", EQP_SLOTS.HANDS[1])
     $ TooltipClear()
 
     "A short while later..."

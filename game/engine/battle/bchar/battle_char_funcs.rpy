@@ -14,6 +14,8 @@ init python:
         if IsMob:
             StoryChar = PBCharacter(CharID)
         else:
+            if CharID in ("mc", "markus") and QstIsOver(QstFromAnotherWorld):
+                worldChars[CharID]["AltForm_Unlocked"] = True
             StoryChar = copy.deepcopy(world_chars[CharID])
 
         all_lvls = getattr(store, "allLvls", {})
@@ -49,7 +51,17 @@ init python:
         BattleChar.Skill_Attack = BattleSkill_Attack(Owner_BattleChar = BattleChar)
         BattleChar.Skill_Defend = BattleSkill_Defend(Owner_BattleChar = BattleChar)
 
-        SkinID = StoryChar.get("AltForm_BattleSkin" if is_transformed else "BattleSkin")
+        SkillLib = getattr(store, "SkillLib", {})
+        TransformSkillID = BattleChar.CharRef.get("AltForm_TransformSkill")
+        UnTransformSkillID = BattleChar.CharRef.get("AltForm_UnTransformSkill")
+        if TransformSkillID in SkillLib:
+            BattleChar.Skill_ExtraTransform = SkillLib[TransformSkillID](Owner_BattleChar = BattleChar)
+        if UnTransformSkillID in SkillLib:
+            BattleChar.Skill_ExtraUnTransform = SkillLib[UnTransformSkillID](Owner_BattleChar = BattleChar)
+
+        BattleChar.SkinID_Normal = StoryChar.get("BattleSkin")
+        BattleChar.SkinID_AltForm = StoryChar.get("AltForm_BattleSkin")
+        SkinID = BattleChar.SkinID_AltForm if is_transformed else BattleChar.SkinID_Normal
         if SkinID is not None and SkinID in getattr(store, "skinLib", {}):
             Battle_SetBattleCharSkin(BattleChar, SkinID)
 

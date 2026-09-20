@@ -8,16 +8,24 @@ init python:
         "syaxian_armor", 
         "steel_sword", 
         "iron_sword", 
-        "bronze_sword"
+        "bronze_sword",
+        "bronze_shield",
+        "iron_shield",
+        "steel_shield",
+        "syaxian_shield"
     }
     HamunSmithyCraftRecipes = {
         "chainmail", 
         "bronze_armor", 
         "iron_armor", 
         "iron_sword", 
+        "bronze_shield",
+        "iron_shield",
+        "steel_shield",
         "bronze_sword", 
         "bronlite_armor", 
-        "bronlite_dagger", 
+        "bronlite_dagger",
+        "bronlite_shield", 
         "bronlite_sword", 
         "reinf_desert_robes", 
         "ring_of_wealth"
@@ -63,6 +71,30 @@ init python:
                 "leather":15
             }
         },
+        "steel_shield":{
+            "ItemID":"steel_shield",
+            "Ingredients":{
+                "gold":8640,
+                "iron_ore":125,
+                "leather":15
+            }
+        },
+        "iron_shield":{
+            "ItemID":"iron_shield",
+            "Ingredients":{
+                "gold":4280,
+                "iron_ore":50,
+                "leather":10
+            }
+        },
+        "bronze_shield":{
+            "ItemID":"bronze_shield",
+            "Ingredients":{
+                "gold":1300,
+                "copper_ore":30,
+                "leather":5
+            }
+        },
         "syaxian_armor":{
             "ItemID":"syaxian_armor",
             "Ingredients":{
@@ -80,11 +112,27 @@ init python:
                 "royal_decree":1
             }
         },
+        "syaxian_shield":{
+            "ItemID":"syaxian_shield",
+            "Ingredients":{
+                "gold":13432,
+                "syax_ore":100,
+                "royal_decree":1
+            }
+        },
         "steel_sword":{
             "ItemID":"steel_sword",
             "Ingredients":{
                 "gold":7800,
                 "iron_ore":75
+            }
+        },
+        "steel_shield":{
+            "ItemID":"steel_shield",
+            "Ingredients":{
+                "gold":8640,
+                "iron_ore":125,
+                "leather":15
             }
         },
         "iron_sword":{
@@ -118,6 +166,14 @@ init python:
                 "rune_of_quickness":1,
             }
         },
+        "bronlite_shield":{
+            "ItemID":"bronlite_shield",
+            "Ingredients":{
+                "gold":1000,
+                "copper_ore":5,
+                "rune_of_quickness":1,
+            }
+        },
         "bronlite_sword":{
             "ItemID":"bronlite_sword",
             "Ingredients":{
@@ -143,7 +199,4 @@ init python:
                 "gems":10,
             }
         }
-        ####################################MORE CRAFT RECIPES############################
-        
-        #######################################SHIELDS##################################
     }

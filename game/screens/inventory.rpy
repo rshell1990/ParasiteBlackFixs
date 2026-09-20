@@ -50,7 +50,7 @@ screen inventory(charID = "mc"):
                                     idle  Transform(all_items[ItemID]["icon"], size = gui.inventory_stored_item_size, matrixcolor = IdentityMatrix())
                                     hover Transform(all_items[ItemID]["icon"], size = gui.inventory_stored_item_size, matrixcolor = BrightnessMatrix(0.2))
                                     if SelItemID != ItemID:
-                                        if ItemCanBeUsed(ItemID) or ItemCanBeDropped(ItemID) or GetCharEquippableQty(char_index, ItemID):
+                                        if ItemCanBeUsed(ItemID, Char_ID) or ItemCanBeDropped(ItemID) or GetCharEquippableQty(char_index, ItemID):
                                             action SetLocalVariable("SelItemID", ItemID)
                                         else:
                                             action NullAction()
@@ -91,7 +91,7 @@ screen inventory(charID = "mc"):
                                     action [SetLocalVariable("SelItemID", None), Show("drop_item", ItemID = SelItemID)]
                             keysym "K_d"
                         textbutton _("Use"):
-                            if SelItemID is not None:
+                            if SelItemID is not None and ItemCanBeUsed(SelItemID, Char_ID):
                                 if all_items[SelItemID].get("teaches_skill") is not None:
                                     action [
                                         Function(UseSkillBook, Char_ID, SelItemID),

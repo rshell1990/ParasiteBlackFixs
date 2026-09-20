@@ -11,6 +11,7 @@ init python:
 
     LocDef.withBtn("btn_leave", BtnJumpLabel(STR_NAV.LEAVE, "travel_node_mine_leave"))
     LocDef.withBtn("btn_mine", BtnDisabled())
+    LocDef.withBtn("btn_mine_all", BtnDisabled())
 
     @AppendToAllQuests
     class TravelMine(LogicModule):
@@ -37,8 +38,10 @@ init python:
             if GetLocID() == "travel_node_mine":
                 if self.HasBeenMined:   
                     btnMods["btn_mine"] = BtnJumpLabel(_("Get mining"), "travel_event_mine_dig_empty")
+                    btnMods["btn_mine_all"] = BtnJumpLabel(_("Mine all"), "travel_event_mine_dig_empty")
                 else:
                     btnMods["btn_mine"] = BtnJumpLabel(_("Get mining"), "travel_event_mine_dig")
+                    btnMods["btn_mine_all"] = BtnJumpLabel(_("Mine all"), "travel_event_mine_dig_all")
             return LocButtonMod(directMods = btnMods)
 
 screen loc_travel_node_mine():
@@ -47,6 +50,10 @@ screen loc_travel_node_mine():
     use locBtn_basic(locTag, "btn_mine",
         "images/gui/buttons_loc/question.webp",
         Transform(pos = (0.15, 0.55)))
+
+    use locBtn_basic(locTag, "btn_mine_all",
+        "images/gui/buttons_loc/question.webp",
+        Transform(pos = (0.3, 0.55)))
 
     use locBtn_basic(locTag, "btn_leave",
         "images/gui/buttons_loc/door.webp",
@@ -123,6 +130,21 @@ label travel_event_mine_dig:
     if TravelMine().MineKind == "copper":
         $ PlayerAddItem("copper_ore")
     $ LocEnterQ()
+
+label travel_event_mine_dig_all:
+    while not TravelMine().HasBeenMined:
+        "Slamming my pickaxe against the rocks for some time, I managed to gather and chip away at the material I wanted."
+        if TravelMine().MineKind == "iron":
+            $ PlayerAddItem("iron_ore")
+        if TravelMine().MineKind == "syax":
+            $ PlayerAddItem("syax_ore")
+        if TravelMine().MineKind == "gems":
+            $ PlayerAddItem("raw_gems")
+        if TravelMine().MineKind == "copper":
+            $ PlayerAddItem("copper_ore")
+        if renpy.random.randint(0, 2) == 0:
+            $ TravelMine().HasBeenMined = True
+    $ GetOutToWorldMap()
 
 label travel_event_mine_dig_empty:
     MC "(I can't see any more exposed material.)"

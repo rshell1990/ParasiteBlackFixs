@@ -56,8 +56,12 @@ init -1 python:
         else:
             return True
 
-    def ItemCanBeUsed(ItemID):
-        if all_items[ItemID]["on_use_story"] is None:
+    def ItemCanBeUsed(ItemID, CharID = None):
+        ItemData = all_items[ItemID]
+        if ItemData.get("requires_mage", False):
+            if CharID is None or not worldChars[CharID].get("is_mage", False):
+                return False
+        if ItemData["on_use_story"] is None and ItemData.get("teaches_skill") is None:
             return False
         else:
             return True

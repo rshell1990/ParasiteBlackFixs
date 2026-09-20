@@ -18,16 +18,22 @@ init python:
                 RestockItemsPool = {
                     "potion_heal_minor":{
                         "restock_if_below":8,
-                        "daily_amt":6.0},
+                        "daily_amt":6},
                     "potion_antidote":{
                         "restock_if_below":4, 
-                        "daily_amt":0.5},
+                        "daily_amt":1},
                     "potion_heal_regular":{
                         "restock_if_below":6, 
-                        "daily_amt":3.0},
+                        "daily_amt":3},
                     "potion_heal_large":{
                         "restock_if_below":4, 
-                        "daily_amt":2.0},
+                        "daily_amt":2},
+                    "potion_lowrevive":{
+                        "restock_if_below":2, 
+                        "daily_amt":1},
+                    "potion_lowether":{
+                        "restock_if_below":4,
+                        "daily_amt":2},
                 },
             )
             return

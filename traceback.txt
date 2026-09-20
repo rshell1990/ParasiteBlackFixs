@@ -1,212 +1,52 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/engine/world_map/world_map_aio.rpy", line 100, in script
-    $ Travel_AdvanceTimeToNextNode()
-  File "game/engine/world_map/world_map_aio.rpy", line 100, in <module>
-    $ Travel_AdvanceTimeToNextNode()
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "game/engine/world_map/world_map_aio.rpy", line 207, in Travel_AdvanceTimeToNextNode
-    renpy.pause(0.1)
-    ~~~~~~~~~~~^^^^^
-  File "game/screens/characters.rpy", line 1, in execute
-    screen characters():
-  File "game/screens/characters.rpy", line 1, in execute
-    screen characters():
-  File "game/screens/characters.rpy", line 20, in execute
-    use outer_frame:
-  File "game/screens/shared_screens.rpy", line 2, in execute
-    screen outer_frame(x_size = 1600, y_size = 930, padd_top = 60, padd_left = 0, padd_right = 0, padd_bot = 0, align_point = (0.5, 0.4), XStretch = False):
-  File "game/screens/shared_screens.rpy", line 2, in execute
-    screen outer_frame(x_size = 1600, y_size = 930, padd_top = 60, padd_left = 0, padd_right = 0, padd_bot = 0, align_point = (0.5, 0.4), XStretch = False):
-  File "game/screens/shared_screens.rpy", line 4, in execute
-    frame:
-  File "game/screens/shared_screens.rpy", line 11, in execute
-    transclude
-  File "game/screens/characters.rpy", line 20, in execute
-    use outer_frame:
-  File "game/screens/characters.rpy", line 21, in execute
-    vbox:
-  File "game/screens/characters.rpy", line 300, in execute
-    if tab_page == "skills":
-  File "game/screens/characters.rpy", line 301, in execute
-    vbox:
-  File "game/screens/characters.rpy", line 303, in execute
-    hbox:
-  File "game/screens/characters.rpy", line 306, in execute
-    for SkillTabLabel, SkillTabID in zip([_("Offense"), _("Defense"), _("Support")], ["offense", "defense", "support"]):
-  File "game/screens/characters.rpy", line 307, in execute
-    vbox:
-  File "game/screens/characters.rpy", line 309, in execute
-    frame:
-  File "game/screens/characters.rpy", line 312, in execute
-    use SkillTab(Char_ID, SkillTabID, CharClassID = worldChars[Char_ID]["BattleClass"])
-  File "game/screens/characters_skilltab.rpy", line 1, in execute
-    screen SkillTab(CharID, TabID, CharClassID = None):
-  File "game/screens/characters_skilltab.rpy", line 1, in execute
-    screen SkillTab(CharID, TabID, CharClassID = None):
-  File "game/screens/characters_skilltab.rpy", line 3, in execute
-    if CharClassID == "warrior":
-  File "game/screens/characters_skilltab.rpy", line 4, in execute
-    if TabID == "offense":
-  File "game/screens/characters_skilltab.rpy", line 5, in execute
-    vbox:
-  File "game/screens/characters_skilltab.rpy", line 9, in execute
-    hbox:
-  File "game/screens/characters_skilltab.rpy", line 11, in execute
-    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorHeavySlash")
-  File "game/screens/characters_skilltab.rpy", line 810, in execute
-    screen CharacterScreenSkillIcon(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill = False):
-  File "game/screens/characters_skilltab.rpy", line 810, in execute
-    screen CharacterScreenSkillIcon(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill = False):
-  File "game/screens/characters_skilltab.rpy", line 812, in execute
-    frame:
-  File "game/screens/characters_skilltab.rpy", line 812, in keywords
-    frame:
-  File "game/screens/characters_skilltab.rpy", line 815, in keywords
-    if CharCanLevelUpSkill(CharID, CharClassID, SkillTabID, SkillID, SkillInstance, AltFormSkill):
-  File "game/screens/characters_skilltab.rpy", line 815, in <module>
-    if CharCanLevelUpSkill(CharID, CharClassID, SkillTabID, SkillID, SkillInstance, AltFormSkill):
-       ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/screens/characters_skilltab.rpy", line 939, in CharCanLevelUpSkill
-    if not CharMeetsSkillReq(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill):
-           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/screens/characters_skilltab.rpy", line 891, in CharMeetsSkillReq
-    Req_Skills = Lib_BattleSkillTrees[CharClassID][SkillTabID][SkillID].get("Reqs_SkillIDs", {})
-                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^                                  
-KeyError: 'offense'
+  File "game/engine/world_map/world_map_aio.rpy", line 116, in script call
+    $ Travel_CallEventLabel(TravelState.RouteID, TravelState.NodeIndex_Current)
+  File "game/engine/world_map/world_map_aio.rpy", line 116, in script call
+    $ Travel_CallEventLabel(TravelState.RouteID, TravelState.NodeIndex_Current)
+  File "game/data/travel_node_logic/aio.rpy", line 63, in script call
+    call travel_event_lizard_red from _call_travel_event_lizard_red
+  File "game/data/travel_events/rgb_lizards/lizards_encounter.rpy", line 258, in script call
+    $ StartBattle(BattleData(BackgroundImage = "pbat_desert", CharIDList_Right = tmpvar))
+  File "game/engine/battle/MainLoop.rpy", line 521, in script
+    $ BattleScene.SelectedActionToProcess.ActionInstance.Execute(BattleScene.SelectedActionToProcess.Target)
+  File "game/engine/battle/MainLoop.rpy", line 521, in <module>
+    $ BattleScene.SelectedActionToProcess.ActionInstance.Execute(BattleScene.SelectedActionToProcess.Target)
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/data/battle_skills_actions/McTransformSkills.rpy", line 27, in Execute
+    Battle_SetBattleCharSkin(self.Owner_BattleChar, self.Owner_BattleChar.SkinID_AltForm)
+                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+AttributeError: 'BattleChar' object has no attribute 'SkinID_AltForm'
 
 -- Full Traceback ------------------------------------------------------------
 
 Traceback (most recent call last):
-  File "game/engine/world_map/world_map_aio.rpy", line 100, in script
-    $ Travel_AdvanceTimeToNextNode()
+  File "game/engine/world_map/world_map_aio.rpy", line 116, in script call
+    $ Travel_CallEventLabel(TravelState.RouteID, TravelState.NodeIndex_Current)
+  File "game/engine/world_map/world_map_aio.rpy", line 116, in script call
+    $ Travel_CallEventLabel(TravelState.RouteID, TravelState.NodeIndex_Current)
+  File "game/data/travel_node_logic/aio.rpy", line 63, in script call
+    call travel_event_lizard_red from _call_travel_event_lizard_red
+  File "game/data/travel_events/rgb_lizards/lizards_encounter.rpy", line 258, in script call
+    $ StartBattle(BattleData(BackgroundImage = "pbat_desert", CharIDList_Right = tmpvar))
+  File "game/engine/battle/MainLoop.rpy", line 521, in script
+    $ BattleScene.SelectedActionToProcess.ActionInstance.Execute(BattleScene.SelectedActionToProcess.Target)
   File "renpy/ast.py", line 1193, in execute
     renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "renpy/python.py", line 1276, in py_exec_bytecode
     exec(bytecode, globals, locals)
     ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/engine/world_map/world_map_aio.rpy", line 100, in <module>
-    $ Travel_AdvanceTimeToNextNode()
-      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
-  File "game/engine/world_map/world_map_aio.rpy", line 207, in Travel_AdvanceTimeToNextNode
-    renpy.pause(0.1)
-    ~~~~~~~~~~~^^^^^
-  File "renpy/exports/statementexports.py", line 191, in pause
-    rv = renpy.ui.interact(mouse="pause", type="pause", roll_forward=roll_forward, pause=delay, pause_modal=modal)
-         ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/ui.py", line 306, in interact
-    rv = renpy.game.interface.interact(roll_forward=roll_forward, **kwargs)
-         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/core.py", line 2163, in interact
-    repeat, rv = self.interact_core(
-                 ~~~~~~~~~~~~~~~~~~^
-        preloads=preloads,
-        ^^^^^^^^^^^^^^^^^^
-    ...<4 lines>...
-        **kwargs,
-        ^^^^^^^^^
-    )
-    ^
-  File "renpy/display/core.py", line 2709, in interact_core
-    root_widget.visit_all(lambda d: d.per_interact())
-    ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/displayable.py", line 460, in visit_all
-    d.visit_all(callback, seen)
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
-  File "renpy/display/screen.py", line 503, in visit_all
-    callback(self)
-    ~~~~~~~~^^^^^^
-  File "renpy/display/core.py", line 2709, in <lambda>
-    root_widget.visit_all(lambda d: d.per_interact())
-                                    ~~~~~~~~~~~~~~^^ 
-  File "renpy/display/screen.py", line 514, in per_interact
-    self.update()
-    ~~~~~~~~~~~^^
-  File "renpy/display/screen.py", line 715, in update
-    self.screen.function(**self.scope)
-    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
-  File "game/screens/characters.rpy", line 1, in execute
-    screen characters():
-  File "game/screens/characters.rpy", line 1, in execute
-    screen characters():
-  File "game/screens/characters.rpy", line 20, in execute
-    use outer_frame:
-  File "game/screens/shared_screens.rpy", line 2, in execute
-    screen outer_frame(x_size = 1600, y_size = 930, padd_top = 60, padd_left = 0, padd_right = 0, padd_bot = 0, align_point = (0.5, 0.4), XStretch = False):
-  File "game/screens/shared_screens.rpy", line 2, in execute
-    screen outer_frame(x_size = 1600, y_size = 930, padd_top = 60, padd_left = 0, padd_right = 0, padd_bot = 0, align_point = (0.5, 0.4), XStretch = False):
-  File "game/screens/shared_screens.rpy", line 4, in execute
-    frame:
-  File "game/screens/shared_screens.rpy", line 11, in execute
-    transclude
-  File "game/screens/characters.rpy", line 20, in execute
-    use outer_frame:
-  File "game/screens/characters.rpy", line 21, in execute
-    vbox:
-  File "game/screens/characters.rpy", line 300, in execute
-    if tab_page == "skills":
-  File "game/screens/characters.rpy", line 301, in execute
-    vbox:
-  File "game/screens/characters.rpy", line 303, in execute
-    hbox:
-  File "game/screens/characters.rpy", line 306, in execute
-    for SkillTabLabel, SkillTabID in zip([_("Offense"), _("Defense"), _("Support")], ["offense", "defense", "support"]):
-  File "game/screens/characters.rpy", line 307, in execute
-    vbox:
-  File "game/screens/characters.rpy", line 309, in execute
-    frame:
-  File "game/screens/characters.rpy", line 312, in execute
-    use SkillTab(Char_ID, SkillTabID, CharClassID = worldChars[Char_ID]["BattleClass"])
-  File "game/screens/characters_skilltab.rpy", line 1, in execute
-    screen SkillTab(CharID, TabID, CharClassID = None):
-  File "game/screens/characters_skilltab.rpy", line 1, in execute
-    screen SkillTab(CharID, TabID, CharClassID = None):
-  File "game/screens/characters_skilltab.rpy", line 3, in execute
-    if CharClassID == "warrior":
-  File "game/screens/characters_skilltab.rpy", line 4, in execute
-    if TabID == "offense":
-  File "game/screens/characters_skilltab.rpy", line 5, in execute
-    vbox:
-  File "game/screens/characters_skilltab.rpy", line 9, in execute
-    hbox:
-  File "game/screens/characters_skilltab.rpy", line 11, in execute
-    use CharacterScreenSkillIcon(CharID, CharClassID, "offense", "WarriorHeavySlash")
-  File "game/screens/characters_skilltab.rpy", line 810, in execute
-    screen CharacterScreenSkillIcon(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill = False):
-  File "game/screens/characters_skilltab.rpy", line 810, in execute
-    screen CharacterScreenSkillIcon(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill = False):
-  File "game/screens/characters_skilltab.rpy", line 812, in execute
-    frame:
-  File "game/screens/characters_skilltab.rpy", line 812, in keywords
-    frame:
-  File "game/screens/characters_skilltab.rpy", line 815, in keywords
-    if CharCanLevelUpSkill(CharID, CharClassID, SkillTabID, SkillID, SkillInstance, AltFormSkill):
-  File "renpy/python.py", line 1308, in py_eval
-    return py_eval_bytecode(code, globals, locals)
-           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
-  File "renpy/python.py", line 1301, in py_eval_bytecode
-    return eval(bytecode, globals, locals)
-           ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "game/screens/characters_skilltab.rpy", line 815, in <module>
-    if CharCanLevelUpSkill(CharID, CharClassID, SkillTabID, SkillID, SkillInstance, AltFormSkill):
-       ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/screens/characters_skilltab.rpy", line 939, in CharCanLevelUpSkill
-    if not CharMeetsSkillReq(CharID, CharClassID, SkillTabID, SkillID, AltFormSkill):
-           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
-  File "game/screens/characters_skilltab.rpy", line 891, in CharMeetsSkillReq
-    Req_Skills = Lib_BattleSkillTrees[CharClassID][SkillTabID][SkillID].get("Reqs_SkillIDs", {})
-                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^                                  
-KeyError: 'offense'
+  File "game/engine/battle/MainLoop.rpy", line 521, in <module>
+    $ BattleScene.SelectedActionToProcess.ActionInstance.Execute(BattleScene.SelectedActionToProcess.Target)
+      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "game/data/battle_skills_actions/McTransformSkills.rpy", line 27, in Execute
+    Battle_SetBattleCharSkin(self.Owner_BattleChar, self.Owner_BattleChar.SkinID_AltForm)
+                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+AttributeError: 'BattleChar' object has no attribute 'SkinID_AltForm'
 
 Windows-11-10.0.26200-SP0 AMD64
 Ren'Py 8.5.3.26051504
 Parasite Black 0.200
-Sat Sep 19 12:39:46 2026
+Sat Sep 19 23:24:37 2026

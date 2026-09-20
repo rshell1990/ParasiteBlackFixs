@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/screens/satyr_main_menu.rpy", line 38: The add statement is not a valid child of the add statement.
-    add "images/gui/satyr/glow.webp":
-       ^
+File "game/data/world_quests/main/Prologue/ForgedInFire/scr_ForgedInFire.rpy", line 28: reached end of line when expecting ':'.
+    if CanEquip(0, "scourt_shield", EQP_SLOTS.HANDS[0])
+                                                       ^
 
 Ren'Py Version: Ren'Py 8.5.3.26051504
-Fri Sep 18 11:44:04 2026
+Sat Sep 19 21:10:54 2026

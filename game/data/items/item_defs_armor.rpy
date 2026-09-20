@@ -204,19 +204,6 @@ init python:
         "shop_category":"armor",
         "sort_order":40,
     }
-    static_item_defs["summoner_armor"] = {
-        "name":_("Summoner Armor"),
-        "plural":_("Summoner Armors"),
-        "desc":_("Strange armor etched with sigils of binding. Wearing it, one feels the presence of unseen allies waiting just beyond the veil."),
-        "Armor":8,
-        "grants_skill":"Summon", # must match the SkillLib key registered via RegisterBattleSkill
-        "icon":"images/items/armor/armor_steel.webp", # TODO: replace with dedicated icon when art is available
-        "eqp_slots":EQP_SLOTS.CHEST,
-        "value_per_unit": 9500,
-        "cannot_lose":True,
-        "shop_category":"armor",
-        "sort_order":30,
-    }
 #######################FUTURE ARMOR#####################
     #static_item_defs["mythril_armor"] = {
     #    "name":_("Mythril armor"),
